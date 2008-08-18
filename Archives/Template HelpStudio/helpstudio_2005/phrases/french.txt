@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhraseTable Version="6.0">
+    <Phrase Name="CLICK TO ENLARGE">Cliquez sur pour agrandir</Phrase>
+    <Phrase Name="CLICK TO SHRINK">Clic à rétrécir</Phrase>
+    <Phrase Name="COMMUNITY_ADDCOMMENT">Ajouter un nouveau Commentaire de la Communauté</Phrase>
+    <Phrase Name="COMMUNITY_ADDNOTE">Ajouter une nouvelle note privée</Phrase>
+    <Phrase Name="COMMUNITY_CONFIRMDELETE">Etes-vous sur de vouloir effacer cet article? Cette action ne pourra pas etre annulée.</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_ALL">Fonctionnalités de la Communauté: Toutes</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NONE">Fonctionnalités de la Communauté: Aucune</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NOTES">Fonctionnalités de la Communauté: Notes Privées</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_PUBLIC">Fonctionnalités de la Communauté: Contenu Public de la Communauté</Phrase>
+    <Phrase Name="COMMUNITY_LOADING">(chargement en cours)</Phrase>
+    <Phrase Name="COMMUNITY_NOCOMMENTS">(aucun commentaire de la communauté défini)</Phrase>
+    <Phrase Name="COMMUNITY_NONOTES">(aucune note définie)</Phrase>
+    <Phrase Name="COMMUNITY_SHOWNOTES">Montrer les Notes Privées</Phrase>
+    <Phrase Name="COMMUNITY_SHOWPUBLIC">Montrer le Contenu Public de la Communauté</Phrase>
+    <Phrase Name="COMMUNITY_SIGNINTOVIEW"><![CDATA[(<a alt='Accès à la Communauté' href='#' onclick='ic_communitySignIn()'>Accédez</a> pour voir vos notes)]]></Phrase>
+    <Phrase Name="Copy Code">Copie Code</Phrase>
+    <Phrase Name="FAVORITES">Favoris</Phrase>
+    <Phrase Name="GLOSSARY">Glossaire</Phrase>
+    <Phrase Name="GOTO">Aller à:</Phrase>
+    <Phrase Name="Hide All">Effondrement total</Phrase>
+    <Phrase Name="INDEX">Index</Phrase>
+    <Phrase Name="SEARCH">Recherche</Phrase>
+    <Phrase Name="SEEALSO">Voir Aussi</Phrase>
+    <Phrase Name="Show All">Effondrement total</Phrase>
+    <Phrase Name="TABLEOFCONTENTS">Table des Matières</Phrase>
+    <Phrase Name="WEBTOOLBAR_ADDTOFAVORITES">Ajouter aux Favoris</Phrase>
+    <Phrase Name="WEBTOOLBAR_BACK">Précedent</Phrase>
+    <Phrase Name="WEBTOOLBAR_CLEARSEARCH">Effacer la recherche</Phrase>
+    <Phrase Name="WEBTOOLBAR_COLLAPSEALL">Tout Réduire</Phrase>
+    <Phrase Name="WEBTOOLBAR_EXPANDALL">Tout Développer</Phrase>
+    <Phrase Name="WEBTOOLBAR_FORWARD">Suivant</Phrase>
+    <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">Cacher la Navigation</Phrase>
+    <Phrase Name="WEBTOOLBAR_HOME"><![CDATA[Page d'Accueil]]></Phrase>
+    <Phrase Name="WEBTOOLBAR_PRINTTOPIC"><![CDATA[Imprimer l'argument]]></Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Recherche rapide</Phrase>
+    <Phrase Name="WEBTOOLBAR_REFRESH">Mettre à jour</Phrase>
+    <Phrase Name="WEBTOOLBAR_STOP">Stop</Phrase>
+</PhraseTable>

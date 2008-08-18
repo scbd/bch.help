@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<navigationcommands>
+  <navigationcommand name="toc" type="toc" label="<!--DXMETADATA start type="phrase" name="tableofcontents"--><!--DXMETADATA end-->" icon="images/toolbar/tabtoc.gif" page="webtoc.html" default="1" />
+  <navigationcommand name="index" type="index" label="<!--DXMETADATA start type="phrase" name="index"--><!--DXMETADATA end-->" icon="images/toolbar/tabindex.gif" page="webindex.html" default="0" />
+  <navigationcommand name="search" type="search" label="<!--DXMETADATA start type="phrase" name="search"--><!--DXMETADATA end-->" icon="images/toolbar/tabsearch.gif" page="websearch.html" default="0" />
+  <navigationcommand name="favorites" type="favorites" label="<!--DXMETADATA start type="phrase" name="favorites"--><!--DXMETADATA end-->" icon="images/toolbar/tabfavorites.gif" page="webfavorites.html" default="0" />
+</navigationcommands>

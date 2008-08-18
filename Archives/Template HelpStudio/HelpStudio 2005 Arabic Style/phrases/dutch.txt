@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhraseTable Version="6.0">
+    <Phrase Name="CLICK TO ENLARGE">Klik om te vergroten</Phrase>
+    <Phrase Name="CLICK TO SHRINK">Klik om te krimpen</Phrase>
+    <Phrase Name="COMMUNITY_ADDCOMMENT">Voeg een nieuw gemeenschap commentaar toe</Phrase>
+    <Phrase Name="COMMUNITY_ADDNOTE">Voeg een nieuwe Prive notitie toe</Phrase>
+    <Phrase Name="COMMUNITY_CONFIRMDELETE">Weet je zeker dat je dit ondererp wilt verwijderen? Deze actie kan niet ongedaan gemaakt worden.</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_ALL">Gemeenschap kenmerken: Allemaal</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NONE">Gemeenschap kenmerken: Geen</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NOTES">Gemeenschap kenmerken: Prive notitie</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_PUBLIC">Gemeenschap kenmerken: Publieke Gemeenschap Inhoud</Phrase>
+    <Phrase Name="COMMUNITY_LOADING">(loading)</Phrase>
+    <Phrase Name="COMMUNITY_NOCOMMENTS">(geen gemeenschap commentaar gedefinieerd)</Phrase>
+    <Phrase Name="COMMUNITY_NONOTES">(geen notes gedefinieerd)</Phrase>
+    <Phrase Name="COMMUNITY_SHOWNOTES">Laat prive notitie zien</Phrase>
+    <Phrase Name="COMMUNITY_SHOWPUBLIC">Laat publieke gemeenschap inhoud zien</Phrase>
+    <Phrase Name="COMMUNITY_SIGNINTOVIEW"><![CDATA[(<a alt='Gemeenschap Login' href='#' onclick='ic_communitySignIn()'>Log In</a> om je notities te bekijken)]]></Phrase>
+    <Phrase Name="Copy Code">Kopieer Code</Phrase>
+    <Phrase Name="FAVORITES">Favorieten</Phrase>
+    <Phrase Name="GLOSSARY">Verklarende woordenlijst</Phrase>
+    <Phrase Name="GOTO">Ga Naar:</Phrase>
+    <Phrase Name="Hide All">Volledig Inklappen</Phrase>
+    <Phrase Name="INDEX">Index</Phrase>
+    <Phrase Name="SEARCH">Zoeken</Phrase>
+    <Phrase Name="SEEALSO">Zie Ook</Phrase>
+    <Phrase Name="Show All">Volledig Uitklappen</Phrase>
+    <Phrase Name="TABLEOFCONTENTS">Inhoudsopgave</Phrase>
+    <Phrase Name="WEBTOOLBAR_ADDTOFAVORITES">Voeg toe aan Favorieten</Phrase>
+    <Phrase Name="WEBTOOLBAR_BACK">Terug</Phrase>
+    <Phrase Name="WEBTOOLBAR_CLEARSEARCH">Vrijmaken Zoekopdracht</Phrase>
+    <Phrase Name="WEBTOOLBAR_COLLAPSEALL">Opvouwen Allemaal</Phrase>
+    <Phrase Name="WEBTOOLBAR_EXPANDALL">Uitbreiden  Allemaal</Phrase>
+    <Phrase Name="WEBTOOLBAR_FORWARD">Vooruit</Phrase>
+    <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">Verberg Navigeren</Phrase>
+    <Phrase Name="WEBTOOLBAR_HOME">Home</Phrase>
+    <Phrase Name="WEBTOOLBAR_PRINTTOPIC">Print Onderwerp</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Snel Zoeken</Phrase>
+    <Phrase Name="WEBTOOLBAR_REFRESH">Verversen</Phrase>
+    <Phrase Name="WEBTOOLBAR_STOP">Stop</Phrase>
+</PhraseTable>

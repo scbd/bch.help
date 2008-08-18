@@ -1,0 +1,86 @@
+<html>
+<head>
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
+    <!--DXMETADATA start type="ProjectTitle" format="<title>%%ProjectTitle%%</title>" --><!--DXMETADATA end-->
+    <!--DXMETADATA start type="DefaultTopic" format="<script lang=""javascript"">var defaultTopic=""%%DefaultTopic%%"";</script>"--><!--DXMETADATA end-->
+    <script lang="javascript">
+
+		var defaultContentPageSet = false;
+
+		// Code inserted by OnLine Help Team
+		var webNavBarLoaded = false;
+		var webContentLoaded = false;
+		function onNavBarLoaded(){
+			webNavBarLoaded = true;
+			setDefaultContentPage();
+		}
+		function onWebContentLoaded(){
+			webContentLoaded = true;
+			setDefaultContentPage();
+		}
+		function FileExists(strURL)
+		{
+		    oHttp = (window.ActiveXObject) ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest();    
+		    oHttp.open("HEAD", strURL, false);
+			oHttp.send(null);
+			return (oHttp.status==404) ? false : true;
+		}
+		// End of code inserted by OnLine Help Team
+		
+        function documentElement(id){
+            return document.getElementById(id);
+        }
+
+        function getDefaultTopic()
+        {
+			var qs=window.location.search;
+
+			if (qs.length>0)
+				return qs.substring(1);
+			else
+				return defaultTopic;
+        }
+
+		function setDefaultContentPage()
+		{
+			if((!defaultContentPageSet) && webContentLoaded && webNavBarLoaded)
+			{
+				var exists = true;
+				try{
+					exists = FileExists(getDefaultTopic());					
+				}catch(e){
+					exists = true;	// If there is a Javascript error with the FileExists function, then just ignore the file existence check
+				}
+				if (exists)
+					window.frames['webcontent'].location = getDefaultTopic();
+				else
+					window.frames['webcontent'].location = "TopicNotFound.html";
+				defaultContentPageSet = true;
+			}
+		}
+
+    </script>
+    <style>
+        frame
+        {
+            padding: 0;
+            margin: 0;
+        }
+    </style>
+    <!--DXMETADATA start type="Variable" name="BrowserHelpBackgroundColor" format="<style type=text/css>frame#webcontent {border-right: 3px solid %%Variable%%;}</style>" blankformat="<style type=text/css>frame#webcontent {border-right: 3px solid buttonface;}</style>" --><!--DXMETADATA end -->
+</head>
+
+<frameset frameborder="-2" bordercolor="#f0f0f0" border="-2" rows="64,*">
+    <frame name="webtoolbar" scrolling="no" noresize="noresize" target="webcontent" src="webtoolbar<!--DXMETADATA start type="outputfileextension" --><!--DXMETADATA end-->" style="border-bottom: 1px solid buttonface;">
+    <frameset frameborder="6" bordercolor="#f0f0f0" border="6" cols="*,250" id="nav" style="cursor: col-resize;">
+        <frame id="webcontent" name="webcontent" src="webblank.html" style="border-left: none;" onload="onWebContentLoaded()">
+		<frame name="webnavbar" target="webcontent" src="webnav<!--DXMETADATA start type="outputfileextension" --><!--DXMETADATA end-->" onresizeend="ResizeContentElements" onload="onNavBarLoaded()">
+    </frameset>
+    <noframes>
+        <body>
+            <p>This page uses frames, but your browser doesn't support them.</p>
+        </body>
+    </noframes>
+</frameset>
+
+</html>

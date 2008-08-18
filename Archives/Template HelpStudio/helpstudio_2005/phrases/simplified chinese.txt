@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhraseTable Version="6.0">
+    <Phrase Name="CLICK TO ENLARGE">点击扩大</Phrase>
+    <Phrase Name="CLICK TO SHRINK">收缩的点击</Phrase>
+    <Phrase Name="COMMUNITY_ADDCOMMENT">添加新评论</Phrase>
+    <Phrase Name="COMMUNITY_ADDNOTE">添加新记录</Phrase>
+    <Phrase Name="COMMUNITY_CONFIRMDELETE">确实要删除此项吗？此步无法撤销</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_ALL">社区功能:全部</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NONE">社区功能:关闭</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NOTES">社区标志:个人记录</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_PUBLIC">社区标志:公开内容</Phrase>
+    <Phrase Name="COMMUNITY_LOADING">加载中</Phrase>
+    <Phrase Name="COMMUNITY_NOCOMMENTS">没有评论</Phrase>
+    <Phrase Name="COMMUNITY_NONOTES">(no notes defined)</Phrase>
+    <Phrase Name="COMMUNITY_SHOWNOTES">显示私有记录</Phrase>
+    <Phrase Name="COMMUNITY_SHOWPUBLIC">显示公开</Phrase>
+    <Phrase Name="COMMUNITY_SIGNINTOVIEW"><![CDATA[(<a alt='登陆社区' href='#' onclick='ic_communitySignIn()'>登陆</a> 来查看记录)]]></Phrase>
+    <Phrase Name="Copy Code">拷贝代码</Phrase>
+    <Phrase Name="FAVORITES">收藏夹</Phrase>
+    <Phrase Name="GLOSSARY">分类</Phrase>
+    <Phrase Name="GOTO">进入:</Phrase>
+    <Phrase Name="Hide All">全部折叠</Phrase>
+    <Phrase Name="INDEX">索引</Phrase>
+    <Phrase Name="SEARCH">检索</Phrase>
+    <Phrase Name="SEEALSO">查看其它</Phrase>
+    <Phrase Name="Show All">全部展开</Phrase>
+    <Phrase Name="TABLEOFCONTENTS">内容目录</Phrase>
+    <Phrase Name="WEBTOOLBAR_ADDTOFAVORITES">加到收藏夹</Phrase>
+    <Phrase Name="WEBTOOLBAR_BACK">后退</Phrase>
+    <Phrase Name="WEBTOOLBAR_CLEARSEARCH">清除检索</Phrase>
+    <Phrase Name="WEBTOOLBAR_COLLAPSEALL">全部关闭</Phrase>
+    <Phrase Name="WEBTOOLBAR_EXPANDALL">全部展开</Phrase>
+    <Phrase Name="WEBTOOLBAR_FORWARD">前进</Phrase>
+    <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">关闭导航</Phrase>
+    <Phrase Name="WEBTOOLBAR_HOME">首页</Phrase>
+    <Phrase Name="WEBTOOLBAR_PRINTTOPIC">打印内容</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">快速检索 </Phrase>
+    <Phrase Name="WEBTOOLBAR_REFRESH">刷新</Phrase>
+    <Phrase Name="WEBTOOLBAR_STOP">停止</Phrase>
+</PhraseTable>

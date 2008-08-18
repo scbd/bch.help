@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhraseTable Version="6.0">
+    <Phrase Name="CLICK TO ENLARGE">Click to Enlarge</Phrase>
+    <Phrase Name="CLICK TO SHRINK">Click to Shrink</Phrase>
+    <Phrase Name="COMMUNITY_ADDCOMMENT">Add a new Community Comment</Phrase>
+    <Phrase Name="COMMUNITY_ADDNOTE">Add a new Private Note</Phrase>
+    <Phrase Name="COMMUNITY_CONFIRMDELETE">Are you sure you want to delete this item? This action cannot be undone.</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_ALL">Community Features: All</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NONE">Community Features: None</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NOTES">Community Features: Private Notes</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_PUBLIC">Community Features: Public Community Content</Phrase>
+    <Phrase Name="COMMUNITY_LOADING">(loading)</Phrase>
+    <Phrase Name="COMMUNITY_NOCOMMENTS">(no community comments defined)</Phrase>
+    <Phrase Name="COMMUNITY_NONOTES">(no notes defined)</Phrase>
+    <Phrase Name="COMMUNITY_SHOWNOTES">Show Private Notes</Phrase>
+    <Phrase Name="COMMUNITY_SHOWPUBLIC">Show Public Community Content</Phrase>
+    <Phrase Name="COMMUNITY_SIGNINTOVIEW"><![CDATA[(<a alt='Community Sign In' href='#' onclick='ic_communitySignIn()'>Sign In</a> to view your notes)]]></Phrase>
+    <Phrase Name="Copy Code">Copy Code</Phrase>
+    <Phrase Name="FAVORITES">Favorites</Phrase>
+    <Phrase Name="GLOSSARY">Glossary</Phrase>
+    <Phrase Name="GOTO">Go To:</Phrase>
+    <Phrase Name="Hide All">Hide All</Phrase>
+    <Phrase Name="INDEX">Index</Phrase>
+    <Phrase Name="SEARCH">Search</Phrase>
+    <Phrase Name="SEEALSO">See Also</Phrase>
+    <Phrase Name="Show All">Show All</Phrase>
+    <Phrase Name="TABLEOFCONTENTS">Table of Contents</Phrase>
+    <Phrase Name="WEBTOOLBAR_ADDTOFAVORITES">Add to Favorites</Phrase>
+    <Phrase Name="WEBTOOLBAR_BACK">Back</Phrase>
+    <Phrase Name="WEBTOOLBAR_CLEARSEARCH">Clear Search</Phrase>
+    <Phrase Name="WEBTOOLBAR_COLLAPSEALL">Collapse All</Phrase>
+    <Phrase Name="WEBTOOLBAR_EXPANDALL">Expand All</Phrase>
+    <Phrase Name="WEBTOOLBAR_FORWARD">Forward</Phrase>
+    <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">Hide Navigation</Phrase>
+    <Phrase Name="WEBTOOLBAR_HOME">Home</Phrase>
+    <Phrase Name="WEBTOOLBAR_PRINTTOPIC">Print Topic</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Quick Search</Phrase>
+    <Phrase Name="WEBTOOLBAR_REFRESH">Refresh</Phrase>
+    <Phrase Name="WEBTOOLBAR_STOP">Stop</Phrase>
+</PhraseTable>
