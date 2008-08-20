@@ -1,0 +1,44 @@
+<html>
+<head>
+	<script type="text/javascript" src="langChange.js"></script>
+	<script language="javascript">
+		
+		function changeLanguageClick(){
+			langDirsString = document.getElementById("languageDirs").value;
+			languagesParsed = false;
+			document.getElementById("Result").value = changeLanguage(document.getElementById("CurBrowserURL").value, 
+				document.getElementById("CurTopicURL").value, 
+				document.getElementById("NewLanguage").value);			
+		}
+		
+	</script>
+
+</head>
+<body>
+	<form>
+		<p>
+			Language dirs:<br>
+			<input type="text" id="languageDirs" size="100" />
+		</p>
+		<p>
+			Curent Browser URL: <br>
+			<input type="text" id="CurBrowserURL" size="100" />
+		</p>		
+		<p>
+			Curent Topic URL: <br>
+			<input type="text" id="CurTopicURL" size="100" />
+		</p>
+		<p>
+			New language: <br>
+			<input type="text" id="NewLanguage" size="100" />
+		</p>
+		<input type="button" value="Change Language" onclick="changeLanguageClick()"/>
+		<p>
+			Result: <br>
+			<input type="text" id="Result" size="100" />
+		</p>
+	</form>
+</body>
+</html>
+
+
