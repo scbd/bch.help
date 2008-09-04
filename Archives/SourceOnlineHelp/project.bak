@@ -1,15 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProject ProjectType="0" Version="3.0.218" SaveDateTime="26/08/2008 11:25:54" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
+<HSProject ProjectType="0" Version="3.0.218" SaveDateTime="04/09/2008 11:40:33" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
     <SpellIgnoreAllWordList/>
     <BuildFlags>
-        <BuildFlag ID="{591539A6-BB97-488B-9DC6-00760831658A}" Name="1.0.0" HighlightColor="10616831" Selected="False"/>
-        <BuildFlag ID="{4032E1FE-A9BB-4DE5-82EC-B6257A74B66B}" Name="No en 1.0.0" HighlightColor="13696929" Selected="False"/>
-        <BuildFlag ID="{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}" Name="1.1.0" HighlightColor="10592767" Selected="True"/>
-        <BuildFlag ID="{04084348-23F3-4C54-A0CE-5A5BDA80120C}" Name="No en 1.1.0" HighlightColor="13107199" Selected="False"/>
-        <BuildFlag ID="{CCD0BD5D-C87D-47B6-BB2E-5D8B98A3C1F5}" Name="1.1.0 es fr" HighlightColor="6539207" Selected="False"/>
-        <BuildFlag ID="{EBF6E772-3954-4FD6-9104-BA353009A9D9}" Name="No en 1.2.0 fr es" HighlightColor="16762823" Selected="False"/>
-        <BuildFlag ID="{8025BD2F-3DC6-43CF-8AF3-7A28ECEEB1F1}" Name="1.2.0En" HighlightColor="10616784" Selected="False"/>
         <BuildFlag ID="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" Name="web" HighlightColor="16753151" Selected="False"/>
+        <BuildFlag ID="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}" Name="no web" HighlightColor="10616831" Selected="False"/>
     </BuildFlags>
     <cat Name="Getting Started" Namem="19-10-2007 12:25:10" Key="C1" AutoIndex="True"/>
     <cat Name="Tutorials" Namem="19-10-2007 12:25:10" Key="C2" AutoIndex="True"/>
@@ -1752,7 +1746,7 @@ URL: <span id="urlSpan"></span></p>
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal>&nbsp;</P></DIV>]]></s>
     </Topic>
-    <Topic Key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}" Name="Training_Materials" Title="Training Materials" Titlem="11-02-2008 09:20:10" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:44" Status="Complete" CreatedOn="31-01-2008 12:42:28" ModifiedOn="19-08-2008 13:22:17" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}" Name="Training_Materials" Title="Training Materials" Titlem="11-02-2008 09:20:10" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:44" Status="Complete" CreatedOn="31-01-2008 12:42:28" ModifiedOn="29-08-2008 10:06:05" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -4425,12 +4419,12 @@ If the Notification Reference number is known, it can be entered into the
     <p></p>
 </div>]]></s>
     </Topic>
-    <Topic Key="{59E03F5C-983D-45B1-B628-D4EF1BDAE46F}" Name="An_Introduction_to_the_Biosafety_Clearing_House" Title="An Introduction to the Biosafety Clearing House" Titlem="29-02-2008 09:23:12" ContentsTitle="" ContentsTitlem="29-02-2008 09:23:16" Status="In Progress" CreatedOn="29-02-2008 09:22:53" ModifiedOn="05-06-2008 20:20:26" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{D6182699-C124-44D8-9248-2E04AEBD5E8E}">
+    <Topic Key="{59E03F5C-983D-45B1-B628-D4EF1BDAE46F}" Name="An_Introduction_to_the_Biosafety_Clearing_House" Title="An Introduction to the Biosafety Clearing House" Titlem="29-02-2008 09:23:12" ContentsTitle="" ContentsTitlem="29-02-2008 09:23:16" Status="In Progress" CreatedOn="29-02-2008 09:22:53" ModifiedOn="04-09-2008 11:38:47" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{D6182699-C124-44D8-9248-2E04AEBD5E8E}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="11-03-2008 14:17:07"><![CDATA[<P><IMG src="Images/module2.jpg" align=left border=0>This module briefly addresses the requirements in the Protocol for a Party to make specific kinds of information available to the BCH. It seeks to explain:</P>
+        <s k="BodyText" m="04-09-2008 11:35:41"><![CDATA[<P>This module briefly addresses the requirements in the Protocol for a Party to make specific kinds of information available to the BCH. It seeks to explain:</P>
 <UL class=cmsListBullet>
 <UL>
 <UL>
@@ -4586,12 +4580,12 @@ If the Notification Reference number is known, it can be entered into the
 <P class=MsoNormal style="TEXT-ALIGN: center" align=center>&nbsp;</P>
 <P class=MsoFootnoteText><SPAN lang=ES><STRONG>[End of Support Tool 3]</STRONG></SPAN></P></DIV></DIV>]]></s>
     </Topic>
-    <Topic Key="{BC4352CA-9F4F-460F-9014-13FF0E4F2775}" Name="The_Cartagena_Protocol_on_Biosafety" Title="The Cartagena Protocol on Biosafety" Titlem="29-02-2008 09:17:14" ContentsTitle="" ContentsTitlem="29-02-2008 09:17:24" Status="In Progress" CreatedOn="29-02-2008 09:16:47" ModifiedOn="05-06-2008 20:19:33" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{47F83A99-A03C-410E-9C2D-47AE1253911D}">
+    <Topic Key="{BC4352CA-9F4F-460F-9014-13FF0E4F2775}" Name="The_Cartagena_Protocol_on_Biosafety" Title="The Cartagena Protocol on Biosafety" Titlem="29-02-2008 09:17:14" ContentsTitle="" ContentsTitlem="29-02-2008 09:17:24" Status="In Progress" CreatedOn="29-02-2008 09:16:47" ModifiedOn="04-09-2008 11:38:39" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{47F83A99-A03C-410E-9C2D-47AE1253911D}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="11-03-2008 10:47:50"><![CDATA[<P><IMG src="images/module1.jpg" align=left border=0>This module briefly outlines some of the key elements of the Cartagena Protocol that are of importance for the Biosafety Clearing House. It includes:</P>
+        <s k="BodyText" m="04-09-2008 11:35:35"><![CDATA[<P>This module briefly outlines some of the key elements of the Cartagena Protocol that are of importance for the Biosafety Clearing House. It includes:</P>
 <UL>
 <UL>
 <UL>
@@ -5163,12 +5157,12 @@ If the Notification Reference number is known, it can be entered into the
 <P class=Para1 style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-GB style="FONT-SIZE: 12pt; FONT-FAMILY: Arial"></SPAN>&nbsp;</P>
 <P class=MsoNormal>Both of these solutions are aimed toward improving the ease of accessing information in the BCH in response to identified needs of users. They were created to assist countries developing their BCH national nodes to be interlinked and interoperable with the Central Portal.</P></DIV>]]></s>
     </Topic>
-    <Topic Key="{CB77D972-5397-48A5-9B5F-7EA9BBA386A9}" Name="Surfing_the_BCH_Central_Portal" Title="Surfing the BCH Central Portal" Titlem="11-02-2008 09:33:33" ContentsTitle="" ContentsTitlem="11-02-2008 12:43:03" Status="In Progress" CreatedOn="11-02-2008 09:33:20" ModifiedOn="25-06-2008 11:11:27" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{61216015-783B-4479-98BB-AFE3FACF4625}">
+    <Topic Key="{CB77D972-5397-48A5-9B5F-7EA9BBA386A9}" Name="Surfing_the_BCH_Central_Portal" Title="Surfing the BCH Central Portal" Titlem="11-02-2008 09:33:33" ContentsTitle="" ContentsTitlem="11-02-2008 12:43:03" Status="In Progress" CreatedOn="11-02-2008 09:33:20" ModifiedOn="04-09-2008 11:40:07" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{61216015-783B-4479-98BB-AFE3FACF4625}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="11-03-2008 10:48:45"><![CDATA[<P><IMG src="images/module3.jpg" align=left border=0>This module describes the main functionalities and information that can be found on the BCH Central Portal. <BR>The user will learn :</P>
+        <s k="BodyText" m="04-09-2008 11:35:45"><![CDATA[<P>This module describes the main functionalities and information that can be found on the BCH Central Portal. <BR>The user will learn :</P>
 <UL>
 <UL>
 <UL>
@@ -5510,7 +5504,7 @@ systems.</p>
 <DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=396&amp;username=guest&amp;password=guest" target=_blank>Case 26 NFP registers laws</A> </DIV>
 <DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=431&amp;username=guest&amp;password=guest" target=_blank>Case 27 Central Portal Information Route</A> </DIV>]]></s>
     </Topic>
-    <Topic Key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}" Name="Ready_Reference_Guide" Title="Ready Reference Guide" Titlem="04-07-2008 11:03:18" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:02:59" ModifiedOn="20-08-2008 10:31:24" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}" Name="Ready_Reference_Guide" Title="Ready Reference Guide" Titlem="04-07-2008 11:03:18" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:02:59" ModifiedOn="26-08-2008 11:28:09" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5863,12 +5857,12 @@ systems.</p>
 <P class=MsoNormal>Each of the sections will guide the user into the different procedures to retrieve the maximum relevant information available through the BCH Central Portal.</P>
 <P></P>]]></s>
     </Topic>
-    <Topic Key="{1123F523-A7FB-4213-A946-5C860AD01824}" Name="Finding_information_from_the_BCH_Central_Portal" Title="Finding information from the BCH Central Portal" Titlem="02-02-2008 21:11:09" ContentsTitle="" ContentsTitlem="03-02-2008 12:17:58" Status="In Progress" CreatedOn="02-02-2008 21:10:52" ModifiedOn="25-06-2008 11:11:59" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{6C841108-5AD8-45B6-980C-71E9CF215698}">
+    <Topic Key="{1123F523-A7FB-4213-A946-5C860AD01824}" Name="Finding_information_from_the_BCH_Central_Portal" Title="Finding information from the BCH Central Portal" Titlem="02-02-2008 21:11:09" ContentsTitle="" ContentsTitlem="03-02-2008 12:17:58" Status="In Progress" CreatedOn="02-02-2008 21:10:52" ModifiedOn="04-09-2008 11:40:04" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{6C841108-5AD8-45B6-980C-71E9CF215698}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="11-03-2008 10:49:04"><![CDATA[<P><IMG src="images/module4.jpg" align=left border=0>This module will introduce the user to the components of the BCH Central Portal and provide guidance on how to search for information in the BCH databases&nbsp;</P>]]></s>
+        <s k="BodyText" m="04-09-2008 11:35:51"><![CDATA[<P>This module will introduce the user to the components of the BCH Central Portal and provide guidance on how to search for information in the BCH databases&nbsp;</P>]]></s>
     </Topic>
     <Topic Key="{1ED49B83-5C56-49B9-BD43-7259FA07E68A}" Name="Cover_Finding" Title="Cover" Titlem="01-07-2008 13:03:05" ContentsTitle="" ContentsTitlem="01-07-2008 13:10:43" Status="In Progress" CreatedOn="01-07-2008 13:03:00" ModifiedOn="15-08-2008 09:24:44" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="False" HelpContextIDs="" Category="{6C841108-5AD8-45B6-980C-71E9CF215698}">
         <Notes/>
@@ -7595,78 +7589,91 @@ systems.</p>
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{3DE0E568-1211-4B7A-9F38-89F9C28C5B35}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{F20DF2B9-2309-429A-9B39-197F854B4999}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{DC3923E5-92A9-474D-91FF-D4DC4EB3B3A3}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{7175BBD5-5EFE-471F-AA74-B976131B0181}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{E7C4DF40-3E35-41AF-8961-9D307DB8DF63}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{33985FA1-5EE1-4618-B209-9CAB053AE672}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{51EE43E9-94D6-40E5-98FF-FD1ECE9EAF01}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{A1783282-C59F-4112-A609-A3CC8D0CF476}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{71BE74C4-18B5-49B4-B18E-23660601AB26}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{5A941902-BE85-43E2-999C-25FE49F844B8}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{CD05326A-B670-4F86-B67C-32F37CF08868}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{BB8DCB2C-1619-4F69-A92A-A9F3C85128F6}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{3991F005-AEC1-4018-97B5-56480ECA3639}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{B3E82D6E-F9CF-4CB7-BF87-8DA884EC6CF7}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{35DB51EF-64A0-460D-A525-0B8C15297301}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{495D3DA8-A7F9-42B0-9CF6-786F1689DBB8}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{31106789-AEA0-44EC-B4B8-96BE30820603}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{2DEA0624-C738-485D-ABFE-D40F810EDEE4}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{ED962433-8820-40A3-A69F-BC9930DD9CF5}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{1E5B39A8-28A4-416D-BA48-9A750BDCB51E}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{63C89700-5584-4D48-AED7-1FF484E37313}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
                 <n key="{78567234-04E6-4784-8EA8-84F773E9F105}" nt="1" ct="1" c="" cm="" i="-1" cfn="" tid="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}" url="" tb="">
                     <bf>
                         <ex>{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}</ex>
                         <ex>{591539A6-BB97-488B-9DC6-00760831658A}</ex>
+                        <ex>{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}</ex>
                     </bf>
                 </n>
             </n>
@@ -7686,27 +7693,27 @@ systems.</p>
         <Task Key="{88EF0084-B3B3-4A0E-9A9F-05BFF3F6117E}" Priority="2" Title="" AssignedTo="" TopicID="" Status="Not Started" CreatedOn="20-05-2008 12:43:05" CreatedBy="Import" ModifiedOn="20-05-2008 12:43:05" ModifiedBy="Usuario1"><![CDATA[The import detected 1 broken images. It is recommended that you run the 'Project Verify Links...' command before attempting to build your project.]]></Task>
     </Tasks>
     <BuildProfiles>
-        <BuildProfile ID="{D64C1FEB-3288-43F0-A04A-56FAC382DF3C}" Name="fr" OutputDirectory="Build\2.0.0fr\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0fr.chm" UseBuildFlags="True" ProjectTitle="Aide en ligne du CEPRB" ProjectTitlem="29-05-2008 14:09:16" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:41:43" OutputTargetSCCProject="" PhraseLanguage="French">
+        <BuildProfile ID="{D64C1FEB-3288-43F0-A04A-56FAC382DF3C}" Name="fr" OutputDirectory="Buildfr\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0fr.chm" UseBuildFlags="True" ProjectTitle="Aide en ligne du CEPRB" ProjectTitlem="29-05-2008 14:09:16" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:41:43" OutputTargetSCCProject="" PhraseLanguage="French">
             <loc lcid="1036"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{EA6C7FFD-DF2A-47B8-A8E5-90EE7E13933D}" Name="sp" OutputDirectory="Build\2.0.0sp\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0sp.chm" UseBuildFlags="True" ProjectTitle="Ayuda en linea del CIISB" ProjectTitlem="29-05-2008 14:10:48" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{8025BD2F-3DC6-43CF-8AF3-7A28ECEEB1F1},{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:43:18" OutputTargetSCCProject="" PhraseLanguage="Spanish">
+        <BuildProfile ID="{EA6C7FFD-DF2A-47B8-A8E5-90EE7E13933D}" Name="sp" OutputDirectory="Build\sp\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0sp.chm" UseBuildFlags="True" ProjectTitle="Ayuda en linea del CIISB" ProjectTitlem="29-05-2008 14:10:48" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:43:18" OutputTargetSCCProject="" PhraseLanguage="Spanish">
             <loc lcid="3082"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{90095B30-3CF1-408B-88EB-B9773E53CBCF}" Name="zh" OutputDirectory="Build\zh\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0.chm" UseBuildFlags="True" ProjectTitle="" ProjectTitlem="29-04-2008 10:34:30" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="28-04-2008 10:08:41" OutputTargetSCCProject="" PhraseLanguage="Simplified chinese">
+        <BuildProfile ID="{90095B30-3CF1-408B-88EB-B9773E53CBCF}" Name="zh" OutputDirectory="Build\zh\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0.chm" UseBuildFlags="True" ProjectTitle="" ProjectTitlem="29-04-2008 10:34:30" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="28-04-2008 10:08:41" OutputTargetSCCProject="" PhraseLanguage="Simplified chinese">
             <loc lcid="2052"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{FC97895D-DF5E-4E5A-9C1E-95EBA9EF3755}" Name="en" OutputDirectory="Build\2.0.0EN\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0EN.chm" UseBuildFlags="True" ProjectTitle="BCH Central Portal Online Help" ProjectTitlem="28-04-2008 10:55:20" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{8025BD2F-3DC6-43CF-8AF3-7A28ECEEB1F1},{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="23-06-2008 10:54:48" OutputTargetSCCProject="" PhraseLanguage="English">
+        <BuildProfile ID="{FC97895D-DF5E-4E5A-9C1E-95EBA9EF3755}" Name="en" OutputDirectory="Build\en\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0EN.chm" UseBuildFlags="True" ProjectTitle="BCH Central Portal Online Help" ProjectTitlem="28-04-2008 10:55:20" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="23-06-2008 10:54:48" OutputTargetSCCProject="" PhraseLanguage="English">
             <loc lcid="0"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{3013E9E3-FAD6-4A73-8442-36C2E871EBB2}" Name="ru" OutputDirectory="Build\2.3.0Ru\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.3.0Ru.chm" UseBuildFlags="True" ProjectTitle="" ProjectTitlem="06-06-2008 13:29:40" CommunityProjectKey="" CommunityProjectKeym="06-06-2008 13:29:40" RemoveOutputFiles="False" BuildFlags="{5044D2BD-76B4-40A6-AE51-C2D4825EDF55}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="05-06-2008 16:22:17" OutputTargetSCCProject="" PhraseLanguage="Russian">
+        <BuildProfile ID="{3013E9E3-FAD6-4A73-8442-36C2E871EBB2}" Name="ru" OutputDirectory="Build\Ru\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.3.0Ru.chm" UseBuildFlags="True" ProjectTitle="" ProjectTitlem="06-06-2008 13:29:40" CommunityProjectKey="" CommunityProjectKeym="06-06-2008 13:29:40" RemoveOutputFiles="False" BuildFlags="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="05-06-2008 16:22:17" OutputTargetSCCProject="" PhraseLanguage="Russian">
             <loc lcid="1049"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>

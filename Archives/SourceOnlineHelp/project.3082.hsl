@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="3082" Version="3.0.218" SaveDateTime="26/08/2008 11:30:38" ProjectFileName="E:\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Spanish">
+<HSProjectLocalization LocaleId="3082" Version="3.0.218" SaveDateTime="04/09/2008 11:44:00" ProjectFileName="E:\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Spanish">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -5582,21 +5582,14 @@ Identificación exclusiva de OVM]</span></b></p>
         <t key="{CB77D972-5397-48A5-9B5F-7EA9BBA386A9}">
             <title m="29/05/2008 13:20:35">Navegación en el Portal Central del CIISB</title>
             <s key="BodyText">
-                <data m="29/05/2008 13:20:03"><![CDATA[<p><img src="images/module3.jpg" align="left" border="0">Este módulo describe
-las principales funcionalidades y la información que puede encontrarse en el
-Portal Central del CIISB.&nbsp;<br>
-El usuario aprenderá:</p>
-<p>&nbsp;</p>
-<div style="margin-left: 18em">
-    <ul>
-        <li>Cómo navegar en el Portal Central del CIISB.</li>
-        <li>Para qué sirven las principales funcionalidades del CIISB.</li>
-        <li>Qué información se puede encontrar en el Portal Central del
-        CIISB.</li>
-        <li>Cómo realizar búsquedas en las bases de datos disponibles en el
-        Portal Central del CIISB.</li>
-    </ul>
-</div>]]></data>
+                <data m="04/09/2008 11:40:07"><![CDATA[<P>Este módulo describe las principales funcionalidades y la información que puede encontrarse en el Portal Central del CIISB.&nbsp;<BR>El usuario aprenderá:</P>
+<P>&nbsp;</P>
+<DIV style="MARGIN-LEFT: 18em">
+<UL>
+<LI>Cómo navegar en el Portal Central del CIISB.</LI>
+<LI>Para qué sirven las principales funcionalidades del CIISB.</LI>
+<LI>Qué información se puede encontrar en el Portal Central del CIISB.</LI>
+<LI>Cómo realizar búsquedas en las bases de datos disponibles en el Portal Central del CIISB.</LI></UL></DIV>]]></data>
             </s>
         </t>
         <t key="{D6CB4057-85B3-4A63-B722-041DDE65225D}">
@@ -6164,7 +6157,7 @@ El usuario aprenderá:</p>
         <t key="{1123F523-A7FB-4213-A946-5C860AD01824}">
             <title m="30/05/2008 09:48:39">Búsqueda de información en el Portal Central del CIISB</title>
             <s key="BodyText">
-                <data m="30/05/2008 09:48:48"><![CDATA[<P><IMG src="images/module4.jpg" align=left border=0><SPAN lang=ES style="mso-ansi-language: ES">Este módulo presenta al usuario los componentes del Portal Central del CIISB y provee orientación en cómo buscar información en las bases de datos del mismo.&nbsp;</SPAN></P>]]></data>
+                <data m="04/09/2008 11:40:04"><![CDATA[<P><SPAN lang=ES style="mso-ansi-language: ES">Este módulo presenta al usuario los componentes del Portal Central del CIISB y provee orientación en cómo buscar información en las bases de datos del mismo.&nbsp;</SPAN></P>]]></data>
             </s>
         </t>
         <t key="{1ED49B83-5C56-49B9-BD43-7259FA07E68A}">

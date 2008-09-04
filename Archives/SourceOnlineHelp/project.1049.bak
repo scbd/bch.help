@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1049" Version="3.0.218" SaveDateTime="26/08/2008 11:25:52" ProjectFileName="E:\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
+<HSProjectLocalization LocaleId="1049" Version="3.0.218" SaveDateTime="04/09/2008 11:40:31" ProjectFileName="E:\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -3465,39 +3465,15 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{59E03F5C-983D-45B1-B628-D4EF1BDAE46F}">
             <title m="04/06/2008 11:24:05">Введение в Механизм посредничества по биобезопасности</title>
             <s key="BodyText">
-                <data m="04/06/2008 11:23:35"><![CDATA[<p><img src="Images/module2.jpg" align="left" border="0"></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-<span lang="RU" style="mso-ansi-language: RU">Этот Модуль вкратце
-рассматривает, что требует от Стороны Картахенский Протокол в отношении
-предоставления МПБ определенной информации. Он разъясняет:</span></p>
-<div style="margin-left: 20em">
-    <ul>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU" style="mso-ansi-language: RU">цели и
-                функционирование МПБ</span>
-            </div>
-        </li>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU" style="mso-ansi-language: RU">различные
-                категории информации , размещенные на МПБ, в особенности
-                информацию, которую Стороне необходимо предоставлять
-                МПБ.</span>
-            </div>
-        </li>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU">какая информация требуется и когда ее
-                необходимо предоставлять МПБ в целях соблюдения основных
-                положений</span>
-            </div>
-        </li>
-    </ul>
-</div>]]></data>
+                <data m="04/09/2008 11:36:45"><![CDATA[<P><SPAN lang=RU style="mso-ansi-language: RU">Этот Модуль вкратце рассматривает, что требует от Стороны Картахенский Протокол в отношении предоставления МПБ определенной информации. Он разъясняет:</SPAN></P>
+<DIV style="MARGIN-LEFT: 20em">
+<UL>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU style="mso-ansi-language: RU">цели и функционирование МПБ</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU style="mso-ansi-language: RU">различные категории информации , размещенные на МПБ, в особенности информацию, которую Стороне необходимо предоставлять МПБ.</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU>какая информация требуется и когда ее необходимо предоставлять МПБ в целях соблюдения основных положений</SPAN> </DIV></LI></UL></DIV>]]></data>
             </s>
         </t>
         <t key="{7240C79C-A5CC-4192-AF7A-2EDDFD9C9E27}">
@@ -3701,39 +3677,15 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{BC4352CA-9F4F-460F-9014-13FF0E4F2775}">
             <title m="04/06/2008 11:24:58">Введение в Картахенский протокол  по биобезопасности</title>
             <s key="BodyText">
-                <data m="04/06/2008 11:24:31"><![CDATA[<p><img src="Images/module2.jpg" align="left" border="0"></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-<span lang="RU" style="mso-ansi-language: RU">Этот Модуль вкратце
-рассматривает, что требует от Стороны Картахенский Протокол в отношении
-предоставления МПБ определенной информации. Он разъясняет:</span></p>
-<div style="margin-left: 20em">
-    <ul>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU" style="mso-ansi-language: RU">цели и
-                функционирование МПБ</span>
-            </div>
-        </li>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU" style="mso-ansi-language: RU">различные
-                категории информации , размещенные на МПБ, в особенности
-                информацию, которую Стороне необходимо предоставлять
-                МПБ.</span>
-            </div>
-        </li>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU">какая информация требуется и когда ее
-                необходимо предоставлять МПБ в целях соблюдения основных
-                положений</span>
-            </div>
-        </li>
-    </ul>
-</div>]]></data>
+                <data m="04/09/2008 11:36:40"><![CDATA[<P><SPAN lang=RU style="mso-ansi-language: RU">Этот Модуль вкратце рассматривает, что требует от Стороны Картахенский Протокол в отношении предоставления МПБ определенной информации. Он разъясняет:</SPAN></P>
+<DIV style="MARGIN-LEFT: 20em">
+<UL>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU style="mso-ansi-language: RU">цели и функционирование МПБ</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU style="mso-ansi-language: RU">различные категории информации , размещенные на МПБ, в особенности информацию, которую Стороне необходимо предоставлять МПБ.</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU>какая информация требуется и когда ее необходимо предоставлять МПБ в целях соблюдения основных положений</SPAN> </DIV></LI></UL></DIV>]]></data>
             </s>
         </t>
         <t key="{DE5E99C0-CE22-4AD0-9C5B-F61B6DD835F1}">
@@ -4293,47 +4245,17 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{CB77D972-5397-48A5-9B5F-7EA9BBA386A9}">
             <title m="04/06/2008 11:22:40">Навигация по Центральному порталу МПБ</title>
             <s key="BodyText">
-                <data m="04/06/2008 11:22:25"><![CDATA[<p><img src="images/module3.jpg" align="left" border="0"></p>
-<p class="MsoNormal" style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-<span lang="RU" style="mso-ansi-language: RU">Этот модуль описывает основные
-возможности центрального портала МПБ и информацию, которую он содержит. Он
-поможет пользователю узнать:</span></p>
-<div style="margin-left: 20em">
-    <ul>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU" style="mso-ansi-language: RU">как
-                ориентироваться на центральном портале МПБ,</span>
-            </div>
-        </li>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU" style="mso-ansi-language: RU">функции,
-                выполняемые центральным порталом,</span>
-            </div>
-        </li>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU" style="mso-ansi-language: RU">какую информацию
-                можно найти на центральном портале,</span>
-            </div>
-        </li>
-        <li>
-            <div class="MsoNormal" style=
-            "MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal">
-                <span lang="RU">как</span> <span lang="RU">осуществлять</span>
-                <span lang="RU">поиск</span> <span lang="RU">в</span>
-                <span lang="RU">базах</span> <span lang="RU">данных</span>
-                <span lang="RU">центрального</span> <span lang=
-                "RU">портала</span><span style=
-                "FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: Calibri; mso-ansi-language: EN-US; mso-fareast-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">.</span>
-            </div>
-        </li>
-    </ul>
-</div>]]></data>
+                <data m="04/09/2008 11:36:53"><![CDATA[<P><SPAN lang=RU style="mso-ansi-language: RU">Этот модуль описывает основные возможности центрального портала МПБ и информацию, которую он содержит. Он поможет пользователю узнать:</SPAN></P>
+<DIV style="MARGIN-LEFT: 20em">
+<UL>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU style="mso-ansi-language: RU">как ориентироваться на центральном портале МПБ,</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU style="mso-ansi-language: RU">функции, выполняемые центральным порталом,</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU style="mso-ansi-language: RU">какую информацию можно найти на центральном портале,</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: normal"><SPAN lang=RU>как</SPAN> <SPAN lang=RU>осуществлять</SPAN> <SPAN lang=RU>поиск</SPAN> <SPAN lang=RU>в</SPAN> <SPAN lang=RU>базах</SPAN> <SPAN lang=RU>данных</SPAN> <SPAN lang=RU>центрального</SPAN> <SPAN lang=RU>портала</SPAN><SPAN style="FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: Calibri; mso-ansi-language: EN-US; mso-fareast-font-family: Calibri; mso-bidi-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">.</SPAN> </DIV></LI></UL></DIV>]]></data>
             </s>
         </t>
         <t key="{D6CB4057-85B3-4A63-B722-041DDE65225D}">
@@ -5119,9 +5041,7 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{1123F523-A7FB-4213-A946-5C860AD01824}">
             <title m="04/06/2008 11:21:54">Поиск информации в Центральном портале МПБ</title>
             <s key="BodyText">
-                <data m="04/06/2008 11:21:35"><![CDATA[<p><img src="images/module4.jpg" align="left" border="0"><span lang="RU">Этот
-модуль ознакомит вас с компонентами центрального портала МПБ и поможет освоить
-поиск информации в различных базах данных МПБ.</span></p>]]></data>
+                <data m="04/09/2008 11:36:58"><![CDATA[<P><SPAN lang=RU>Этот модуль ознакомит вас с компонентами центрального портала МПБ и поможет освоить поиск информации в различных базах данных МПБ.</SPAN></P>]]></data>
             </s>
         </t>
         <t key="{1ED49B83-5C56-49B9-BD43-7259FA07E68A}">

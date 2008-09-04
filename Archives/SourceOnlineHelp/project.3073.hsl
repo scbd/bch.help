@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="3073" Version="3.0.218" SaveDateTime="26/08/2008 11:30:37" ProjectFileName="E:\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="English">
+<HSProjectLocalization LocaleId="3073" Version="3.0.218" SaveDateTime="04/09/2008 11:44:00" ProjectFileName="E:\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="English">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -944,10 +944,17 @@
         <t key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}">
             <title m="11/06/2008 13:23:02">مواد التدريب</title>
             <s key="BodyText">
-                <data m="12/06/2008 15:55:37"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=EN-US style="FONT-SIZE: 10pt; COLOR: black; mso-ansi-language: EN-US"><FONT face=Arial><SPAN lang=AR-LB dir=rtl style="FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: AR-LB"><SPAN lang=AR-LB dir=rtl style="FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: AR-LB">تم مراجعة مواد التدريب في اللغة العربية</SPAN></SPAN></FONT></SPAN></P>
-<P class=MsoNormal><SPAN lang=AR-SA dir=rtl style="FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN lang=AR-SA dir=rtl style="FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><SPAN lang=AR-SA dir=rtl style="FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US; mso-ascii-font-family: Calibri; mso-fareast-font-family: Calibri; mso-hansi-font-family: Calibri; mso-fareast-language: EN-US; mso-bidi-language: AR-SA">للغة الانجليزية، اضغط على</SPAN></SPAN></SPAN></P><SPAN lang=EN-US style="FONT-SIZE: 10pt; COLOR: black; mso-ansi-language: EN-US"></SPAN>
-<P class=MsoNormal><SPAN lang=EN-US style="FONT-SIZE: 10pt; COLOR: black; mso-ansi-language: EN-US"><A href="http://bch.cbd.int/help/topics/en/webframe.html?Training_Materials.html" target=_blank>http://bch.cbd.int/help/topics/en/webframe.html?Training_Materials.html</A></SPAN></P></DIV>]]></data>
+                <data m="29/08/2008 10:06:05"><![CDATA[<p dir="rtl"><font size="3">تتركب الوحدات النموذجية للتدريب حول غرفة تبادل
+معلومات السلامة الإحيائية من مجموعة متماسكة من أقسام تدريبية. هذه الأقسام لها
+محتوى ذاتي، يعني ذلك أنه بالإمكان وضع مكونات مختلفة بعضها مع بعض في صيغ مختلفة
+تناسب الجماهير المستهدفة.</font></p>
+<p dir="rtl"><font size="3">انقر هنا لإنزال صورة قرص الذاكرة المدمج CD-ROM مع
+عدة التدريب حول غرفة تبادل معلومات السلامة الإحيائية</font></p>
+<p dir="rtl"><font size="3">ملاحظة:</font></p>
+<p dir="rtl"><font size="3">يجب فتح الملف ثم نسخ الصورة ISO على قرص ذاكرة مدمج
+CD-ROM . للتعليمات حول كيف تفعل ذلك انظر الدليل الموفر مع برنامج كتابة قرص
+الذاكرة المدمج CD ROM .</font></p>
+<p dir="rtl"><font size="3">ن الصور ISO لا تحفظ على أقراص الذاكرة المدمجة CD-ROM  بنفس الطريقة التي تحفظ بها ملفات البيانات العادية</font></p>]]></data>
             </s>
         </t>
         <t key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}">
@@ -3027,8 +3034,7 @@ style="mso-special-character: footnote"><span class=
         <t key="{59E03F5C-983D-45B1-B628-D4EF1BDAE46F}">
             <title m="05/06/2008 20:20:26">مقدمة عن غرفة تبادل معلومات السلامة الأحيائية</title>
             <s key="BodyText">
-                <data m="10/06/2008 15:46:45"><![CDATA[<P><IMG src="Images/module2.jpg" align=left border=0></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">تشير هذه الوحدة بايجاز الى شروط البروتوكول المعنية بفئات المعلومات والتي يجب على الطرف اتاحتها لغرفة تبادل معلومات السلامة الأحيائية .</SPAN></P>
+                <data m="04/09/2008 11:38:47"><![CDATA[<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">تشير هذه الوحدة بايجاز الى شروط البروتوكول المعنية بفئات المعلومات والتي يجب على الطرف اتاحتها لغرفة تبادل معلومات السلامة الأحيائية .</SPAN></P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">وتنوي شرح التالي:</SPAN></P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%">&nbsp;</P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 35.15pt 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: -18pt; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo1; tab-stops: list 35.15pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-bidi-font-size: 8.0pt"><SPAN style="mso-list: Ignore">·<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <SPAN dir=rtl><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">هدف وكيفية عمل غرفة تبادل معلومات السلامة الأحيائية؛</SPAN></SPAN></P>
@@ -3949,8 +3955,7 @@ align="center">&nbsp;</p>]]></data>
         <t key="{BC4352CA-9F4F-460F-9014-13FF0E4F2775}">
             <title m="05/06/2008 20:18:47">مقدمة حول بروتوكول قرطاجنة للسلامة الأحيائية</title>
             <s key="BodyText">
-                <data m="10/06/2008 15:47:04"><![CDATA[<P><IMG src="Images/module2.jpg" align=left border=0></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">تشير هذه الوحدة بايجاز الى شروط البروتوكول المعنية بفئات المعلومات والتي يجب على الطرف اتاحتها لغرفة تبادل معلومات السلامة الأحيائية .</SPAN></P>
+                <data m="04/09/2008 11:38:39"><![CDATA[<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">تشير هذه الوحدة بايجاز الى شروط البروتوكول المعنية بفئات المعلومات والتي يجب على الطرف اتاحتها لغرفة تبادل معلومات السلامة الأحيائية .</SPAN></P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">وتنوي شرح التالي:</SPAN></P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%">&nbsp;</P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 35.15pt 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: -18pt; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo1; tab-stops: list 35.15pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-bidi-font-size: 8.0pt"><SPAN style="mso-list: Ignore">·<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <SPAN dir=rtl><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">هدف وكيفية عمل غرفة تبادل معلومات السلامة الأحيائية؛</SPAN></SPAN></P>
@@ -4760,8 +4765,7 @@ align="center">&nbsp;</p>]]></data>
         <t key="{CB77D972-5397-48A5-9B5F-7EA9BBA386A9}">
             <title m="09/06/2008 13:11:47">”البحث في البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية“</title>
             <s key="BodyText">
-                <data m="10/06/2008 15:47:03"><![CDATA[<P><IMG src="images/module3.jpg" align=left border=0></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">يشرح هذا القسم آليات العمل الاساسية والمعلومات الممكن ايجادها في البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية.</SPAN></P>
+                <data m="04/09/2008 11:38:55"><![CDATA[<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">يشرح هذا القسم آليات العمل الاساسية والمعلومات الممكن ايجادها في البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية.</SPAN></P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">سيتعلم المستعمل التالي:</SPAN></P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 17.15pt 0pt 0cm; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%">&nbsp;</P>
 <P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 35.15pt 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: -18pt; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-KASHIDA: 0%; mso-list: l0 level1 lfo2; tab-stops: list 35.15pt"><SPAN style="FONT-SIZE: 12pt; FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-bidi-font-size: 8.0pt"><SPAN style="mso-list: Ignore">·<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <SPAN dir=rtl><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">تصفّح محتويات البوابة المركزية</SPAN></SPAN></P>
@@ -6041,23 +6045,9 @@ style=
         <t key="{1123F523-A7FB-4213-A946-5C860AD01824}">
             <title m="11/06/2008 13:22:09">إيجاد المعلومات من البوابة المركزية لغرفةتبادل معلومات السلامة الأحيائية</title>
             <s key="BodyText">
-                <data m="11/06/2008 13:21:59"><![CDATA[<p><img src="images/module4.jpg" align="left" border="0"></p>
-<p class="MsoNormal" dir="rtl" style=
-"TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%">
-<span lang="AR-SA" style=
-"FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">سيتعرف المستعمل في هذه الوحدة
-على مكونات البوابة المركزبة لغرفة تبادل معلومات السلامة الأحيائية وعرض توجهات
-لارشاده بشأن كيفية البحث عن المعلومات في قواعد بيانات غرفة <span style=
-"mso-spacerun: yes">&nbsp;</span>تبادل معلومات السلامة الأحيائية.</span>
-<span lang="ES-TRAD" dir="ltr" style=
-"FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: ES-TRAD">
-<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" />
-</span></p>
-<p class="MsoNormal" dir="rtl" style=
-"TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%">
-<span lang="ES-TRAD" dir="ltr" style=
-"FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: ES-TRAD">&nbsp;</span></p>
-<p>&nbsp;</p>]]></data>
+                <data m="04/09/2008 11:38:24"><![CDATA[<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%"><SPAN lang=AR-SA style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'">سيتعرف المستعمل في هذه الوحدة على مكونات البوابة المركزبة لغرفة تبادل معلومات السلامة الأحيائية وعرض توجهات لارشاده بشأن كيفية البحث عن المعلومات في قواعد بيانات غرفة <SPAN style="mso-spacerun: yes">&nbsp;</SPAN>تبادل معلومات السلامة الأحيائية.</SPAN> <SPAN lang=ES-TRAD dir=ltr style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: ES-TRAD"></SPAN></P>
+<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; LINE-HEIGHT: normal; unicode-bidi: embed; TEXT-ALIGN: justify; TEXT-KASHIDA: 0%"><SPAN lang=ES-TRAD dir=ltr style="FONT-SIZE: 12pt; FONT-FAMILY: 'Times New Roman'; mso-ansi-language: ES-TRAD">&nbsp;</SPAN></P>
+<P>&nbsp;</P>]]></data>
             </s>
         </t>
         <t key="{1ED49B83-5C56-49B9-BD43-7259FA07E68A}">
