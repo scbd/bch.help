@@ -1,0 +1,22 @@
+_LINK_BODY~%%ReplaceInQuotes:Value=True%%<a href="%%linktarget%%">%%linktitle%%</a>
+_LINK_SEPARATOR~&nbsp;|&nbsp;
+_CATEGORISED_LINKS_BODY~<p id=dxseealsocontent><b>%%ItemName%%:</b>&nbsp;%%filtereditemlist:scrap=LINK,Namespace=Link%%</p>
+_LINKS_BODY~<p id=dxseealsocontent style="position:relative;left:-18px">%%filtereditemlist:scrap=LINK,Namespace=Link%%</p>
+_BOOKLET_TOPIC_BODY~%%bookletentrypagebreakbefore%%%%topiccontent:d=%%%%filtereditemlist:namespace=manifest entry,scrap=BOOKLET_TOPIC%%
+_GLOSSARYREFERENCE~<i>%%GlossaryItemReference%%</i>
+_HYPERLINK_TO_DOCUMENTX_CONTENT~<b>%%LinkCaption%%</b>
+_HYPERLINK_TO_URL_WITH_CAPTION~<b>%%LinkCaption%% (%%LinkURL%%)</b>
+_HYPERLINK_TO_URL_NO_CAPTION~<b>%%LinkCaption%%</b>
+_HYPERLINK_TO_TOPIC_IN_BOOKLET~<b>%%LinkCaption%%%%LinkEntryNumber:format=" (Section %%LinkEntryNumber%%)"%%</b>
+_HYPERLINK_TO_TOPIC_NOT_IN_BOOKLET~<b>%%LinkCaption%% (%%LinkCaption:OnlyIfNotTopicTitle=True,format="'%%LinkCaption%%' in the "%%on-line documentation)</b>
+_HYPERLINK_TO_JAVASCRIPT~<b>%%LinkCaption%%</b>
+_HYPERLINK_TO_BOOKMARK~<b>%%LinkCaption%%</b>
+_INDEXCONTENT_BODY~<p><strong>%%keyword%%%%ReplaceInQuotes:Value=False%%%%filtereditemlist:namespace=keyword jump,scrap=_INDEXCONTENT_ENTRYPAGE,NoFooter=True%%</strong></p>%%filtereditemlist:namespace=keyword,scrap=_INDEXCONTENT_CHILDENTRY,NoHeader=True,NoFooter=True,Format="<blockquote>%%filtereditemlist%%</blockquote>"%%
+_INDEXCONTENT_CHILDENTRY_BODY~<p>%%keyword%%%%ReplaceInQuotes:Value=False%%%%filtereditemlist:namespace=keyword jump,scrap=_INDEXCONTENT_ENTRYPAGE,NoFooter=True%%</p>%%filtereditemlist:namespace=keyword,scrap=_INDEXCONTENT_CHILDENTRY,NoHeader=True,NoFooter=True,Format="<blockquote>%%filtereditemlist%%</blockquote>"%%
+_INDEXCONTENT_ENTRYPAGE_HEADER~,&nbsp;
+_INDEXCONTENT_ENTRYPAGE_BODY~<span class=PageNumber style="font-size: 1px">%%keywordtarget%%</span>
+_INDEXCONTENT_ENTRYPAGE_SEPARATOR~,&nbsp;
+_INDEX_HEADER~<p style="page-break-after: always">&nbsp;</p><h1><table border=0 cellspacing=0 cellpadding=0 class=TitleTable><tr><td>%%IndexCaption%%</td></tr></table></h1>
+_GLOSSARYLETTERSLIST_BODY~%%ReplaceInQuotes:Value=True%%<h1><a name="%%GlossaryLetter%%"></a>%%GlossaryLetter%%</h1><BLOCKQUOTE>%%FilteredItemList:Scrap=GLOSSARYITEMSLIST,Namespace=Glossary Item%%</BLOCKQUOTE>
+_GLOSSARYLETTERSLIST_FOOTER~<p>&nbsp;</p>
+_GLOSSARYITEMSLIST_BODY~%%ReplaceInQuotes:Value=True%%<p><a name="%%GlossaryItemTerm%%"></a><STRONG>%%GlossaryItemTerm%%</STRONG><BR>%%crlf%%%%glossaryitemrawdefinition%%</p>
