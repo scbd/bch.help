@@ -1,0 +1,493 @@
+[OPTIONS]
+Auto Index=Yes
+Compatibility=1.1
+Compiled file=E:\v2.0.0Source\BCH_OnlineHelpSourceV3\Build\1036_fr_FR\1.2.0fr.chm
+Contents file=hp.hhc
+Default Window=Default
+Default Font=,8,1
+Default topic=BCH_Central_Portal_Online_Help.html
+Display compile progress=Yes
+Full-text search=Yes
+Index file=hp.hhk
+Language=0xC0A Spanish (International Sort)
+Title=Aide en ligne du CEPRB
+
+[WINDOWS]
+Default="Aide en ligne du CEPRB","hp.hhc","hp.hhk","BCH_Central_Portal_Online_Help.html","BCH_Central_Portal_Online_Help.html",,,,,0x63520,200,0x380e,[0,0,600,400],,,,,,,0
+
+[FILES]
+images\collapse.gif
+images\copycode.gif
+images\copycodeHighlight.gif
+images\drpdown.gif
+images\drpdown_orange.gif
+images\expand.gif
+images\toolbar\addtofavorites.gif
+images\toolbar\addtofavoriteshot.gif
+images\toolbar\deletesm.gif
+images\toolbar\favorites.gif
+images\toolbar\favoriteshot.gif
+images\toolbar\index.gif
+images\toolbar\indexhot.gif
+images\toolbar\navback.gif
+images\toolbar\navbackhot.gif
+images\toolbar\navforward.gif
+images\toolbar\navforwardhot.gif
+images\toolbar\navhome.gif
+images\toolbar\navhomehot.gif
+images\toolbar\navrefresh.gif
+images\toolbar\navrefreshhot.gif
+images\toolbar\print.gif
+images\toolbar\printhot.gif
+images\toolbar\resetsearch.gif
+images\toolbar\resetsearchhot.gif
+images\toolbar\search.gif
+images\toolbar\searchhot.gif
+images\toolbar\seperator.gif
+images\toolbar\tabfavorites.gif
+images\toolbar\tabindex.gif
+images\toolbar\tabsearch.gif
+images\toolbar\tabtoc.gif
+images\toolbar\toc.gif
+images\toolbar\tochot.gif
+images\toolbar\togglenav.gif
+images\toolbar\togglenavhot.gif
+script\fts.js
+script\helpstudio.js
+script\langChange.js
+script\languagefilter.js
+script\TOCHighlight.js
+script\webfavorites.js
+script\webhighlight.js
+script\webindex.js
+script\webnav.js
+script\webutility.js
+stylesheets\help2.css
+stylesheets\helpstudio.css
+stylesheets\languagefilter.css
+stylesheets\webnav.css
+_index_entry_not_found.html
+_topic_not_found.html
+Acceptance and Approval.html
+Active clearance for publishing information (-validation-).html
+Additional_Resources.html
+Administrative_body_of_the_Cartagena_Protocol2.html
+An_Introduction_to_the_Biosafety_Clearing_House.html
+Assessing capacity needs.html
+Available resources.html
+BCH_Annual_Reports.html
+BCH_Central_Portal_Online_Help.html
+BCH_News.html
+BCH-IAC.html
+Becoming_a_Party.html
+Becoming_a_Party_to_the_Protocol.html
+Benefits_of_becoming_a_Party_to_the_Protocol.html
+Birc.html
+Building and maintaining capacity to use the BCH.html
+Capacity-Building.html
+Case studies.html
+Common_formats.html
+Compiled_Information.html
+COP-MOP_Decisions.html
+Country_Decisions_and_other_Communication.html
+Country_Profiles.html
+Course_Outline.html
+Decisions_and_Declarations_on_LMOs.html
+Decisions_on_the_BCH.html
+Designation of National Focal Points.html
+Designation_of_Competent_National_Authorities.html
+Development_of_the_BCH.html
+Disclaimer3.html
+Discussion Points with Answer Keys.html
+Documents.html
+Downloadable_files.html
+Exporting_results_to_XML.html
+Facilitating a network of partners.html
+FAQ.html
+Finding_Information.html
+Finding_Information_.html
+Finding_information_from_the_BCH_Central_Portal.html
+Function of the BCH focal Points.html
+Gene_Registry.html
+Glossary2.html
+Governing_body_of_the_Cartagena_Protocol2.html
+Guide to workshop planning and delivery.html
+Guide_to_the_BCH.html
+Handling_packaging_and_identification_requirements_for_LMOs.html
+Help.html
+Highlights2.html
+Home.html
+How_a_Party_benefit_from_the_BCH.html
+How_does_the_BCH_work.html
+How_does_the_Cartagena_Protocol_work.html
+Identification_of_a_contact_point.html
+Information required for the Advance Informed Agreement procedur.html
+Information to be Shared Following Entry Into Force.html
+Information-sharing for non-Parties.html
+Information-sharing under Article 20.html
+Information-sharing_Obligations_On_Becoming_a_Party_to_the_Protocol.html
+Interactive Modules.html
+Interoperatibility_Services.html
+Introduction.html
+Introduction to the module.html
+Introduction to training.html
+Introduction_to_the_Module_BCH.html
+Introduction_to_the_Module_Becoming_a_Party.html
+Introduction_to_the_Module_Protocol.html
+Introduction_to_the_module_Surfing.html
+Language_requirements_of_the_BCH.html
+Latest_Additions.html
+Latest_additions2.html
+Latest_News.html
+Laws_and_Regulations.html
+Laws_and_Regulations2.html
+Liaison with the Secretariat regarding the BCH.html
+Linking_External_Websites_Policy.html
+LMOs intended for direct use as food or feed, or for processing .html
+LMOs_for_direct_use_as_food_or_feed_or_for_processing.html
+LMOs_Genes_and_Organisms_Registries.html
+LMOs_Genes_Organisms.html
+Mailing_List.html
+Managing_Search_Results.html
+Meetings_and_Documents.html
+Meetings_and_Documents2.html
+Methodology_Assessment_Evaluation.html
+Modalities_of_operation.html
+Multi-year_Program_of_Work.html
+National_Contacts.html
+National_Contacts_.html
+National_Contacts2.html
+National_institutional_arrangements3.html
+National_Reports.html
+Notificacions.html
+Notifications2.html
+Obligations on becoming a Party to the Protocol.html
+On Entry Into Force of the Protocol.html
+On_line_confences.html
+Operational Handbook.html
+Organizations.html
+Other requirements.html
+Other_Information_Available_on_the_BCH.html
+Parent_or__Donor_Organism_Registry.html
+Parties_to_the_Protocol.html
+Policies.html
+PowerPoint_Presentations.html
+Prefix (2).html
+Preparing_for_meetings_of_the_COP-MOP.html
+Privacy_Policy.html
+Promoting_public_awareness_and_participation.html
+Promotional Materials.html
+Protecting commercial information (Article 21).html
+Quiz Questions with Answer Keys.html
+Ratification and Accession.html
+Ready Reference Guides.html
+Registering_Information.html
+Registry_searches.html
+Reporting.html
+Resources.html
+Responsibilities of information partners.html
+Risk_Assessment.html
+Role of the BCH Focal Points.html
+Roster_of_Experts.html
+Roster_of_Experts_Annual_Reports.html
+Scientific_Bibliographic_Database.html
+Search_using_Record_ID.html
+Site_Map.html
+Solutions_for_National_Participation.html
+Sorting_results.html
+Stakeholder curricula.html
+Succession.html
+Support_Tools.html
+Surfing_the_BCH_Central_Portal.html
+Text_of_the_Protocol.html
+The_Advance_Informed_Agreement_procedure.html
+The_BCH.html
+The_BCH_.html
+The_Biosafety_Clearing_House.html
+The_Biosafety_Clearing_House2.html
+The_Cartagena_Protocol_on_Biosafety.html
+The_Management_Center.html
+The_Navigation_Bar.html
+The_Protocol.html
+The_Welcome_to_the_BCH_Central_Portal.html
+Thesaurus.html
+TopicNotFound.html
+Training modules.html
+Training_Materials.html
+Training_Modules2.html
+Training_Site_of_the_BCH.html
+Transboundary movements of LMOs between Parties and non-Parties .html
+Unintentional_transboundary_movements_of_LMOs.html
+Unique_Identification_Registry.html
+Users_Guide_to_the_BCH_Central_Portal.html
+Using BCH training modules to meet stakeholder needs.html
+What are the institutional arrangements established by the Proto.html
+What_are_the_obligations_of_a_Party.html
+What_are_the_types_of_information_that_a_Part__needs_to_put_available.html
+What_information_can_be_found_in_the_BCH.html
+What_is_a_Clearing_House_Mechanism.html
+What_is_the_Cartagena_Protocol_on_Biosafety.html
+What_is_the_Purpose_of_the_BCH.html
+What_is_the_purpose_of_the_Cartagena_Protocol_on_Biosafety.html
+What_is_the_role_of_the_BCH.html
+Who_can_access_the_BCH.html
+Who_can_register_information_on_the_BCH2.html
+glossary.html
+stopwordlist.txt
+stylesheets\customstyles.css
+images\2.JPG
+images\3.jpg
+images\4.jpg
+images\5.jpg
+images\6.jpg
+images\Banner.jpg
+images\hs-note.gif
+images\MO03_0003.jpg
+images\MO03_0004.jpg
+images\MO03_0005.jpg
+images\MO03_0006.jpg
+images\MO03_0007.jpg
+images\MO03_0008.jpg
+images\MO03_0009.jpg
+images\MO03_0010.jpg
+images\MO03_0011.jpg
+images\MO03_0012.jpg
+images\MO03_0013.jpg
+images\MO03_0014.jpg
+images\MO03_0015.jpg
+images\MO03_0016.jpg
+images\MO03_0017.jpg
+images\MO03_0018.jpg
+images\MO03_0019.jpg
+images\MO03_0020.jpg
+images\MO03_0021.jpg
+images\MO03_0022.jpg
+images\MO03_0023.jpg
+images\MO03_0024.jpg
+images\MO03_0025.jpg
+images\MO03_0026.jpg
+images\MO03_0027.jpg
+images\MO03_0028.jpg
+images\MO03_0029.jpg
+images\MO03_0030.jpg
+images\MO03_0031.jpg
+images\MO03_0032.jpg
+images\MO03_0033.jpg
+images\MO03_0034.jpg
+images\MO03_0035.jpg
+images\MO03_0036.jpg
+images\MO03_0037.jpg
+images\MO03_0038.jpg
+images\MO03_0039.jpg
+images\MO03_0040.jpg
+images\MO03_0041.jpg
+images\MO03_0042.jpg
+images\MO03_0043.jpg
+images\MO03_0044.jpg
+images\MO03_0045.jpg
+images\MO03_0046.jpg
+images\MO03_0047.jpg
+images\MO03_0048.jpg
+images\MO03_0049.jpg
+images\MO03_0050.jpg
+images\MO03_0051.jpg
+images\MO03_0052.jpg
+images\MO03_0053.jpg
+images\MO03_0054.jpg
+images\MO03_0055.jpg
+images\MO03_0056.jpg
+images\MO03_0057.jpg
+images\MO03_0058.jpg
+images\MO03_0060.jpg
+images\MO03_0061.jpg
+images\MO03_0062.jpg
+images\MO03_0063.jpg
+images\MO03_0064.jpg
+images\MO03_0065.jpg
+images\MO03_0066.jpg
+images\MO04_0001.jpg
+images\MO04_0002.jpg
+images\MO04_0003.jpg
+images\MO04_0004.jpg
+images\MO04_0005.jpg
+images\MO04_0006.jpg
+images\MO04_0007.jpg
+images\MO04_0008.jpg
+images\MO04_0009.jpg
+images\MO04_0010.jpg
+images\MO04_0011.jpg
+images\MO04_0012.jpg
+images\MO04_0013.jpg
+images\MO04_0014.jpg
+images\MO04_0015.jpg
+images\MO04_0016.jpg
+images\MO04_0017.jpg
+images\MO04_0018.jpg
+images\MO04_0021.jpg
+images\MO04_0022.jpg
+images\MO04_0023.jpg
+images\MO04_0024.jpg
+images\MO04_0025.jpg
+images\MO04_0026.jpg
+images\MO04_0027.jpg
+images\MO04_0028.jpg
+images\MO04_0029.jpg
+images\MO04_0030.jpg
+images\MO04_0031.jpg
+images\MO04_0032.jpg
+images\MO04_0033.jpg
+images\MO04_0034.jpg
+images\MO04_0035.jpg
+images\MO04_0036.jpg
+images\MO04_0037.jpg
+images\MO04_0038.jpg
+images\MO04_0039.jpg
+images\MO04_0040.jpg
+images\MO04_0041.jpg
+images\MO04_0042.jpg
+images\MO04_0043.jpg
+images\MO04_0044.jpg
+images\MO04_0045.jpg
+images\MO04_0046.jpg
+images\MO04_0047.jpg
+images\MO04_0048.jpg
+images\MO04_0049.jpg
+images\MO04_0050.jpg
+images\MO04_0051.jpg
+images\MO04_0053.jpg
+images\MO04_0054.jpg
+images\MO04_0055.jpg
+images\MO04_0056.jpg
+images\MO04_0057.jpg
+images\MO04_0058.jpg
+images\MO04_0059.jpg
+images\MO04_0060.jpg
+images\MO04_0061.jpg
+images\MO04_0062.jpg
+images\MO04_0063.jpg
+images\MO04_0064.jpg
+images\MO04_0065.jpg
+images\MO04_0066.jpg
+images\MO04_0067.jpg
+images\MO04_0068.jpg
+images\MO04_0069.jpg
+images\MO04_0070.jpg
+images\MO04_0071.jpg
+images\MO04_0072.jpg
+images\MO04_0073.jpg
+images\MO04_0074.jpg
+images\MO04_0075.jpg
+images\MO04_0076.jpg
+images\MO04_0077.jpg
+images\MO04_0078.jpg
+images\MO04_0079.jpg
+images\MO04_0080.jpg
+images\MO04_0081.jpg
+images\MO04_0082.jpg
+images\MO04_0083.jpg
+images\MO04_0084.jpg
+images\MO04_0085.jpg
+images\MO04_0086.jpg
+images\MO04_0087.jpg
+images\MO04_0088.jpg
+images\MO04_0089.jpg
+images\MO04_0090.jpg
+images\MO04_0091.jpg
+images\MO04_0092.jpg
+images\MO04_0093.jpg
+images\MO04_0094.jpg
+images\MO04_0095.jpg
+images\MO04_0096.jpg
+images\MO04_0097.jpg
+images\MO04_0098.jpg
+images\MO04_0099.jpg
+images\MO04_0100.jpg
+images\MO04_0101.jpg
+images\MO04_0102.jpg
+images\MO04_0103.jpg
+images\MO04_0104.jpg
+images\MO04_0105.jpg
+images\MO04_0106.jpg
+images\MO04_0107.jpg
+images\MO04_0108.jpg
+images\MO04_0109.jpg
+images\MO04_0110.jpg
+images\MO04_0111.jpg
+images\MO04_0112.jpg
+images\MO04_0113.jpg
+images\MO04_0114.jpg
+images\MO04_0115.jpg
+images\MO04_0116.jpg
+images\MO04_0117.jpg
+images\MO04_0118.jpg
+images\MO04_0119.jpg
+images\MO04_0120.jpg
+images\MO04_0121.jpg
+images\MO04_0122.jpg
+images\MO04_0123.jpg
+images\MO04_0124.jpg
+images\MO04_0125.jpg
+images\MO04_0126.jpg
+images\MO04_0127.jpg
+script\hs-expandcollapse.js
+stylesheets\hs-boxes.css
+Stylesheets\hs-expandcollapse.css
+images\Image001.gif
+images\Image001.jpg
+images\ICOMO03-0001.JPG
+images\ICOMO03-0002.JPG
+images\ICOMO03-0003.JPG
+images\folder.gif
+images\word.gif
+images\icon.gif
+images\MO03_0002.jpg
+images\pdf.gif
+images\Image006.gif
+images\MO10_0001.gif
+images\MO10_0002.gif
+images\MO2frExtra.gif
+images\MO2enExtra.gif
+images\MO04_0019.jpg
+images\MO04_0020.jpg
+images\MO04_0052.jpg
+images\module1.jpg
+images\module2.jpg
+images\module3.jpg
+images\module4.jpg
+images\Image001.png
+images\unepen.png
+images\gefen.png
+images\scbden.png
+images\bchen.jpg
+images\MO03_0001.jpg
+images\MO03_0059.jpg
+images\supporttoolch.JPG
+images\under-construction.JPG
+images\geferror.png
+images\scbderror.png
+images\uneperror.png
+images\Image002,png
+images\Image003,png
+images\Image004,png
+images\Image005,png
+
+
+
+[MAP]
+
+
+
+
+[ALIAS]
+
+
+
+
+[MERGE FILES]
+
+
+
+
+[TEXT POPUPS]
+
+

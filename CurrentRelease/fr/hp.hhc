@@ -1,0 +1,941 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Aide en ligne du Portail du CEPRB">
+        <param name="Local" value="BCH_Central_Portal_Online_Help.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Portail Central du CEPRB">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Page d’accueil">
+        <param name="Local" value="Home.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Bienvenue au Portail Central du CEPRB">
+        <param name="Local" value="The_Welcome_to_the_BCH_Central_Portal.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Le Centre de Gestion">
+        <param name="Local" value="The_Management_Center.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Dernières Nouvelles">
+        <param name="Local" value="Latest_News.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Additions les plus récentes">
+        <param name="Local" value="Latest_Additions.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="La Barre de Navigation">
+        <param name="Local" value="The_Navigation_Bar.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Trouver l’information">
+        <param name="Local" value="Finding_Information.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Gestion des Résultats de la Recherche">
+        <param name="Local" value="Managing_Search_Results.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Classer les résultats">
+        <param name="Local" value="Sorting_results.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Exporter des résultats vers XML">
+        <param name="Local" value="Exporting_results_to_XML.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="À propos du CEPRB">
+        <param name="Local" value="The_BCH_.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="À propos du CEPRB">
+        <param name="Local" value="The_BCH.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Modalités de fonctionnement">
+        <param name="Local" value="Modalities_of_operation.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Programme de travail pluriannuel">
+        <param name="Local" value="Multi-year_Program_of_Work.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Décisions sur le CEPRB">
+        <param name="Local" value="Decisions_on_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Développement du CEPRB">
+        <param name="Local" value="Development_of_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CCI-CEPRB">
+        <param name="Local" value="BCH-IAC.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Faits saillants">
+        <param name="Local" value="Highlights2.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Nouvelles du CEPRB">
+        <param name="Local" value="BCH_News.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Additions les plus récentes">
+        <param name="Local" value="Latest_additions2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Avis">
+        <param name="Local" value="Notifications2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Réunions et Documents">
+        <param name="Local" value="Meetings_and_Documents.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Politiques">
+        <param name="Local" value="Policies.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Politique de liaison de sites Web externes">
+        <param name="Local" value="Linking_External_Websites_Policy.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Politique de Confidentialité">
+        <param name="Local" value="Privacy_Policy.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Limitation de responsabilité">
+        <param name="Local" value="Disclaimer3.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value=" Le Protocole">
+        <param name="Local" value="The_Protocol.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Texte du Protocole">
+        <param name="Local" value="Text_of_the_Protocol.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Parties au Protocole">
+        <param name="Local" value="Parties_to_the_Protocol.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Décisions de la CP-RP ">
+        <param name="Local" value="COP-MOP_Decisions.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Communication de rapports">
+        <param name="Local" value="Reporting.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Rapports Nationaux">
+        <param name="Local" value="National_Reports.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Rapports Annuels du CEPRB">
+        <param name="Local" value="BCH_Annual_Reports.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Rapports Annuels de la Liste des Experts">
+        <param name="Local" value="Roster_of_Experts_Annual_Reports.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Réunions et Documents">
+        <param name="Local" value="Meetings_and_Documents2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Avis">
+        <param name="Local" value="Notificacions.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Trouver l'information">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Trouver l’information">
+        <param name="Local" value="Finding_Information_.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Interlocuteurs Nationaux">
+        <param name="Local" value="National_Contacts_.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Lois et Réglementations">
+        <param name="Local" value="Laws_and_Regulations.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Décision et d’autres communications du pays">
+        <param name="Local" value="Country_Decisions_and_other_Communication.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="OVM, Gènes et Organismes">
+        <param name="Local" value="LMOs_Genes_Organisms.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value=" Registre d’identification unique">
+        <param name="Local" value="Unique_Identification_Registry.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Registre des gènes">
+        <param name="Local" value="Gene_Registry.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Registre des Organismes parents ou donneurs">
+        <param name="Local" value="Parent_or__Donor_Organism_Registry.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Recherches des registres">
+        <param name="Local" value="Registry_searches.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Liste des Experts">
+        <param name="Local" value="Roster_of_Experts.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Création de capacités">
+        <param name="Local" value="Capacity-Building.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Centre de Ressources d’Information sur Biosécurité  (CRIB)">
+        <param name="Local" value="Birc.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Base de données bibliographiques scientifique">
+        <param name="Local" value="Scientific_Bibliographic_Database.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Organisations">
+        <param name="Local" value="Organizations.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Information compilée">
+        <param name="Local" value="Compiled_Information.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Interlocuteurs Nationaux">
+        <param name="Local" value="National_Contacts2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Registres des OVM, des Gènes et des Organismes">
+        <param name="Local" value="LMOs_Genes_and_Organisms_Registries.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Recherche utilisant l’identification de l’enregistrement">
+        <param name="Local" value="Search_using_Record_ID.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Enregistrement d’Information">
+        <param name="Local" value="Registering_Information.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Ressources">
+        <param name="Local" value="Resources.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Formats Communs">
+        <param name="Local" value="Common_formats.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Glossaire">
+        <param name="Local" value="Glossary2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Thésaurus">
+        <param name="Local" value="Thesaurus.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Liste de diffusion">
+        <param name="Local" value="Mailing_List.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fichiers téléchargeables">
+        <param name="Local" value="Downloadable_files.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Conférences en ligne">
+        <param name="Local" value="On_line_confences.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Carte du site">
+        <param name="Local" value="Site_Map.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Aide">
+        <param name="Local" value="Help.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="FAQ">
+        <param name="Local" value="FAQ.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Modules de formation">
+        <param name="Local" value="Training_Modules2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Guide du CEPRB">
+        <param name="Local" value="Guide_to_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Site de formation du CEPRB">
+        <param name="Local" value="Training_Site_of_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Services d’interopérabilité">
+        <param name="Local" value="Interoperatibility_Services.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Les « Profils des Pays »">
+        <param name="Local" value="Country_Profiles.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Initiation au Protocole de Cartagena sur la Biosécurité">
+        <param name="Local" value="The_Cartagena_Protocol_on_Biosafety.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Qu’est-ce que le Protocole de Cartagena sur la Biosécurité ?">
+        <param name="Local" value="What_is_the_Cartagena_Protocol_on_Biosafety.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="A quoi sert le Protocole de Cartagena sur la Biosécurité ?">
+        <param name="Local" value="What_is_the_purpose_of_the_Cartagena_Protocol_on_Biosafety.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Comment fonctionne le Protocole de Cartagena ?">
+        <param name="Local" value="How_does_the_Cartagena_Protocol_work.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Procédure d’Accord Préalable en Connaissance de Cause (APCC) Introduction intentionnelle d’OVM dans l’environnement">
+        <param name="Local" value="The_Advance_Informed_Agreement_procedure.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Organismes vivants modifiés destinés à être utilisés directement pour l’alimentation humaine ou animale, ou à être transformés (OVM-FFP) [1]">
+        <param name="Local" value="LMOs_for_direct_use_as_food_or_feed_or_for_processing.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Mouvements transfrontières non intentionnels d’OVM">
+        <param name="Local" value="Unintentional_transboundary_movements_of_LMOs.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Exigences en matière de manipulation, d’emballage et d’identification pour les organismes vivants modifiés [1]">
+        <param name="Local" value="Handling_packaging_and_identification_requirements_for_LMOs.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Le Centre d’Echange pour la prévention des risques biotechnologiques (CEPRB)">
+        <param name="Local" value="The_Biosafety_Clearing_House.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Quels sont les arrangements institutionnels établis au titre du Protocole ?">
+        <param name="Local" value="What are the institutional arrangements established by the Proto.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Arrangements institutionnels nationaux">
+        <param name="Local" value="National_institutional_arrangements3.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Organe directeur du Protocole de Cartagena">
+        <param name="Local" value="Governing_body_of_the_Cartagena_Protocol2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Organe administratif du Protocole de Cartagena">
+        <param name="Local" value="Administrative_body_of_the_Cartagena_Protocol2.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Initiation au Centre d’Echange pour la prévention des risques biotechnologiques">
+        <param name="Local" value="An_Introduction_to_the_Biosafety_Clearing_House.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Le Centre d’Echange pour la Prévention des Risques Biotechnologiques – Définition et contexte">
+        <param name="Local" value="The_Biosafety_Clearing_House2.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Comment fonctionne un Centre d’Echange ?">
+        <param name="Local" value="What_is_a_Clearing_House_Mechanism.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Quel est le rôle du CEPRB ?">
+        <param name="Local" value="What_is_the_role_of_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Quel est l’objectif du CEPRB et en quoi est-il important ?">
+        <param name="Local" value="What_is_the_Purpose_of_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Comment une Partie bénéficie-t-elle du CEPRB ?">
+        <param name="Local" value="How_a_Party_benefit_from_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Quelles sont les obligations des Parties concernant l’enregistrement d’informations au CEPRB et leur mise à jour ?">
+        <param name="Local" value="What_are_the_obligations_of_a_Party.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Quels types d’information les Parties doivent-elles fournir ?">
+        <param name="Local" value="What_are_the_types_of_information_that_a_Part__needs_to_put_available.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Comment fonctionne le CEPRB ?">
+        <param name="Local" value="How_does_the_BCH_work.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Qui peut accéder au BCH ?">
+        <param name="Local" value="Who_can_access_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Qui peut enregistrer des informations sur le CEPRB ?">
+        <param name="Local" value="Who_can_register_information_on_the_BCH2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Exigences linguistiques pour le CEPRB.">
+        <param name="Local" value="Language_requirements_of_the_BCH.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Quelles informations peut-on trouver sur le CEPRB ?">
+        <param name="Local" value="What_information_can_be_found_in_the_BCH.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Législations et Réglementations">
+        <param name="Local" value="Laws_and_Regulations2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Contacts Nationaux">
+        <param name="Local" value="National_Contacts.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Décisions et Déclarations sur les OVM">
+        <param name="Local" value="Decisions_and_Declarations_on_LMOs.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Evaluation des Risques">
+        <param name="Local" value="Risk_Assessment.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Autres informations disponibles sur le CEPRB">
+        <param name="Local" value="Other_Information_Available_on_the_BCH.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Outils d’aide 1, 2 et 3">
+        <param name="Local" value="Support_Tools.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Surfer sur le Portail Central du CEPRB">
+        <param name="Local" value="Surfing_the_BCH_Central_Portal.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Page d’accueil">
+        <param name="Local" value="Home.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Bienvenue au Portail Central du CEPRB">
+        <param name="Local" value="The_Welcome_to_the_BCH_Central_Portal.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Le Centre de Gestion">
+        <param name="Local" value="The_Management_Center.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Dernières Nouvelles">
+        <param name="Local" value="Latest_News.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Additions les plus récentes">
+        <param name="Local" value="Latest_Additions.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="La Barre de Navigation">
+        <param name="Local" value="The_Navigation_Bar.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Les « Profils des Pays »">
+        <param name="Local" value="Country_Profiles.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="À propos du CEPRB">
+        <param name="Local" value="The_BCH_.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="À propos du CEPRB">
+        <param name="Local" value="The_BCH.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Modalités de fonctionnement">
+        <param name="Local" value="Modalities_of_operation.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Programme de travail pluriannuel">
+        <param name="Local" value="Multi-year_Program_of_Work.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Décisions sur le CEPRB">
+        <param name="Local" value="Decisions_on_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Développement du CEPRB">
+        <param name="Local" value="Development_of_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="CCI-CEPRB">
+        <param name="Local" value="BCH-IAC.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Faits saillants">
+        <param name="Local" value="Highlights2.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Nouvelles du CEPRB">
+        <param name="Local" value="BCH_News.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Additions les plus récentes">
+        <param name="Local" value="Latest_additions2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Avis">
+        <param name="Local" value="Notifications2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Réunions et Documents">
+        <param name="Local" value="Meetings_and_Documents.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Politiques">
+        <param name="Local" value="Policies.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Politique de liaison de sites Web externes">
+        <param name="Local" value="Linking_External_Websites_Policy.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Politique de Confidentialité">
+        <param name="Local" value="Privacy_Policy.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Limitation de responsabilité">
+        <param name="Local" value="Disclaimer3.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value=" Le Protocole">
+        <param name="Local" value="The_Protocol.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Texte du Protocole">
+        <param name="Local" value="Text_of_the_Protocol.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Parties au Protocole">
+        <param name="Local" value="Parties_to_the_Protocol.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Décisions de la CP-RP ">
+        <param name="Local" value="COP-MOP_Decisions.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Communication de rapports">
+        <param name="Local" value="Reporting.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Rapports Nationaux">
+        <param name="Local" value="National_Reports.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Rapports Annuels du CEPRB">
+        <param name="Local" value="BCH_Annual_Reports.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Rapports Annuels de la Liste des Experts">
+        <param name="Local" value="Roster_of_Experts_Annual_Reports.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Réunions et Documents">
+        <param name="Local" value="Meetings_and_Documents2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Avis">
+        <param name="Local" value="Notificacions.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Trouver l’information">
+        <param name="Local" value="Finding_Information.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Enregistrement d’Information">
+        <param name="Local" value="Registering_Information.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Ressources">
+        <param name="Local" value="Resources.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Formats Communs">
+        <param name="Local" value="Common_formats.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Glossaire">
+        <param name="Local" value="Glossary2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Thésaurus">
+        <param name="Local" value="Thesaurus.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Solutions pour la Participation Nationale (Hermes et Plug-in Ajax du CEPRB)">
+        <param name="Local" value="Solutions_for_National_Participation.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Liste de diffusion">
+        <param name="Local" value="Mailing_List.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fichiers téléchargeables">
+        <param name="Local" value="Downloadable_files.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Conférences en ligne">
+        <param name="Local" value="On_line_confences.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Carte du site">
+        <param name="Local" value="Site_Map.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Aide">
+        <param name="Local" value="Help.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="FAQ">
+        <param name="Local" value="FAQ.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Modules de formation">
+        <param name="Local" value="Training_Modules2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Guide du CEPRB">
+        <param name="Local" value="Guide_to_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Site de formation du CEPRB">
+        <param name="Local" value="Training_Site_of_the_BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Services d’interopérabilité">
+        <param name="Local" value="Interoperatibility_Services.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Gestion des Résultats de la Recherche">
+        <param name="Local" value="Managing_Search_Results.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Classer les résultats">
+        <param name="Local" value="Sorting_results.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Exporter des résultats vers XML">
+        <param name="Local" value="Exporting_results_to_XML.html">
+     </OBJECT>
+</UL>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Trouver l’information depuis le Portail Central du CEPRB">
+        <param name="Local" value="Finding_information_from_the_BCH_Central_Portal.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Trouver l’information">
+        <param name="Local" value="Finding_Information_.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Interlocuteurs Nationaux">
+        <param name="Local" value="National_Contacts_.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Lois et Réglementations">
+        <param name="Local" value="Laws_and_Regulations.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Décision et d’autres communications du pays">
+        <param name="Local" value="Country_Decisions_and_other_Communication.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="OVM, Gènes et Organismes">
+        <param name="Local" value="LMOs_Genes_Organisms.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value=" Registre d’identification unique">
+        <param name="Local" value="Unique_Identification_Registry.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Registre des gènes">
+        <param name="Local" value="Gene_Registry.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Registre des Organismes parents ou donneurs">
+        <param name="Local" value="Parent_or__Donor_Organism_Registry.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Recherches des registres">
+        <param name="Local" value="Registry_searches.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Liste des Experts">
+        <param name="Local" value="Roster_of_Experts.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Création de capacités">
+        <param name="Local" value="Capacity-Building.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Centre de Ressources d’Information sur Biosécurité  (CRIB)">
+        <param name="Local" value="Birc.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Base de données bibliographiques scientifique">
+        <param name="Local" value="Scientific_Bibliographic_Database.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Organisations">
+        <param name="Local" value="Organizations.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Information compilée">
+        <param name="Local" value="Compiled_Information.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Interlocuteurs Nationaux">
+        <param name="Local" value="National_Contacts2.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Registres des OVM, des Gènes et des Organismes">
+        <param name="Local" value="LMOs_Genes_and_Organisms_Registries.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Recherche utilisant l’identification de l’enregistrement">
+        <param name="Local" value="Search_using_Record_ID.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Obligations d’échange d’informations lorsque l’on dévient Partie au Protocole">
+        <param name="Local" value="Information-sharing_Obligations_On_Becoming_a_Party_to_the_Protocol.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Devenir Partie au Protocole">
+        <param name="Local" value="Becoming_a_Party_to_the_Protocol.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Devenir Partie">
+        <param name="Local" value="Becoming_a_Party.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Ratification et adhésion">
+        <param name="Local" value="Ratification and Accession.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Acceptation et approbation">
+        <param name="Local" value="Acceptance and Approval.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value=" Succession">
+        <param name="Local" value="Succession.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Avantages de devenir Partie au Protocole">
+        <param name="Local" value="Benefits_of_becoming_a_Party_to_the_Protocol.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Obligations en devenant Partie au Protocole">
+        <param name="Local" value="Obligations on becoming a Party to the Protocol.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value=" Rôle des Correspondants du CEPRB">
+        <param name="Local" value="Role of the BCH Focal Points.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Fonction des Correspondants du CEPRB">
+        <param name="Local" value="Function of the BCH focal Points.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="L’autorisation active pour la publication d‘informations (« validation »)">
+        <param name="Local" value="Active clearance for publishing information (-validation-).html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Liaison avec le Secrétariat en ce qui concerne le CEPRB">
+        <param name="Local" value="Liaison with the Secretariat regarding the BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Facilitation d’un réseau de partenaires">
+        <param name="Local" value="Facilitating a network of partners.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Responsabilités des partenaires de l’information">
+        <param name="Local" value="Responsibilities of information partners.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="A l’Entrée en vigueur du Protocole">
+        <param name="Local" value="On Entry Into Force of the Protocol.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Désignation de Correspondants Nationaux">
+        <param name="Local" value="Designation of National Focal Points.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Désignation des Autorités Nationales Compétentes">
+        <param name="Local" value="Designation_of_Competent_National_Authorities.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Identification du point de contact pour les mouvements transfrontières non intentionnels et les mesures d’urgence">
+        <param name="Local" value="Identification_of_a_contact_point.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Informations à échanger dès l’entrée en vigueur du Protocole">
+        <param name="Local" value="Information to be Shared Following Entry Into Force.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Échange d’information en vertu de l’Article 20">
+        <param name="Local" value="Information-sharing under Article 20.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Informations requises pour la procédure d’accord Préalable en Connaissance de Cause (APCC)">
+        <param name="Local" value="Information required for the Advance Informed Agreement procedur.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="OVM destinés à être utilisés directement pour l’alimentation humaine ou animale, ou à être transformés (Article 11)">
+        <param name="Local" value="LMOs intended for direct use as food or feed, or for processing .html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Protection des informations commerciales (Article 21)">
+        <param name="Local" value="Protecting commercial information (Article 21).html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Promotion de la sensibilisation et de la participation du public (Article 23)">
+        <param name="Local" value="Promoting_public_awareness_and_participation.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Mouvements transfrontières des OVM entre Parties et non-Parties (Article 24)">
+        <param name="Local" value="Transboundary movements of LMOs between Parties and non-Parties .html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Autres exigences">
+        <param name="Local" value="Other requirements.html">
+     </OBJECT>
+<UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Évaluation des besoins de capacité">
+        <param name="Local" value="Assessing capacity needs.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Créer et maintenir les capacités pour utiliser le CEPRB">
+        <param name="Local" value="Building and maintaining capacity to use the BCH.html">
+     </OBJECT>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Préparation pour les réunions de la CP-RP">
+        <param name="Local" value="Preparing_for_meetings_of_the_COP-MOP.html">
+     </OBJECT>
+</UL>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Échange d’information pour non-Parties">
+        <param name="Local" value="Information-sharing for non-Parties.html">
+     </OBJECT>
+</UL>
+<LI> <OBJECT type="text/sitemap">
+        <param name="Name" value="Matériaux de Formation">
+        <param name="Local" value="Training_Materials.html">
+     </OBJECT>
+</UL>
+
+
+</UL>
+</BODY></HTML>
