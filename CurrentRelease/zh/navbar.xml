@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<navigationcommands>
+  <navigationcommand name="toc" type="toc" label="内容目录" icon="images/toolbar/tabtoc.gif" page="webtoc.html" default="1" />
+  <navigationcommand name="index" type="index" label="索引" icon="images/toolbar/tabindex.gif" page="webindex.html" default="0" />
+  <navigationcommand name="search" type="search" label="检索" icon="images/toolbar/tabsearch.gif" page="websearch.html" default="0" />
+  <navigationcommand name="favorites" type="favorites" label="收藏夹" icon="images/toolbar/tabfavorites.gif" page="webfavorites.html" default="0" />
+</navigationcommands>
