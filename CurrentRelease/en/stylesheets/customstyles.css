@@ -1,0 +1,46 @@
+/* This file was created by HelpStudio 
+   Custom style information is contained in this file */
+.WhatYouWillLearn
+{
+    font-weight: bold;
+    color: #000000;
+    font-family: verdana
+}
+
+
+
+SPAN.BCHCentralPortal
+{
+    font-weight: bold;
+    font-size: larger;
+    color: #008080
+}
+
+.IllustrationInstruction
+{
+    color: #0000ff;
+    font-style: italic
+}
+
+SPAN.Button
+{
+    border-right: #000000 1px solid;
+    border-top: #000000 1px solid;
+    font-weight: bold;
+    border-left: #000000 1px solid;
+    border-bottom: #000000 1px solid;
+    background-color: #e0e0e0
+}
+
+SPAN.WordSearch
+{
+    font-family: courier new
+}
+
+SPAN.subject_section
+{
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+    font-family: garamond
+}
