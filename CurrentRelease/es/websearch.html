@@ -1,0 +1,73 @@
+﻿<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <style type="text/css">
+        blockquote {
+            margin-top:     0px;
+            margin-bottom:  0px;
+            margin-left:    16px;
+        }
+        body, td {
+            margin:         0;
+            font-family:    Verdana, Arial, Helvetica, sans-serif;
+            font-size:      70%
+        }
+        .searchtitle {
+            font-size:      10pt;
+            font-weight:    bold;
+            margin-top:     0px;
+            margin-bottom:  5px;
+        }
+        .searchresults
+        {
+            margin-top:     0px;
+        }
+        .searchresults td
+        {
+            padding:        2 0 2 0;
+        }
+        .searchresults td.innerrow
+        {
+            border-top:     1px dotted darkgrey;
+        }
+        .searchresults a
+        {
+            text-decoration: none;
+        }
+    </style>
+    <script src="ftsindex.js" language="javascript" type="text/javascript">
+    </script>
+    <script src="script/fts.js" language="javascript" type="text/javascript">
+    </script>
+    <script src="script/webhighlight.js" language="javascript" type="text/javascript">
+    </script>
+    <script src="script/webutility.js" language="javascript" type="text/javascript">
+    </script>
+    <base target="webcontent">
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
+</head>
+
+<body style="margin-top:5;margin-left:5" topmargin="5" leftmargin="5">
+    <div id="divSearch">
+        <table border="0" id="tblSearch">
+            <tr>
+                <td>Buscar:<br>
+                <form style="padding: 0; margin: 0" onsubmit="btnSearch_onclick(); return false;"><input id="txtSearch" type="text" name="txtSearch" value="">&nbsp;<input id="btnSearch" type="button" value="Buscar" name="btnSearch"
+                       language="javascript" onclick="return btnSearch_onclick();"></form></td>
+            </tr>
+
+            <tr>
+                <td>(Las palabras pueden combinarse usando OR y AND)</td>
+            </tr>
+        </table>
+    </div><br>
+    <div id="divSearching" style="display: none">
+        <table id="tblProgress" border="0">
+            <tr>
+                <td>Buscando...</td>
+            </tr>
+        </table>
+    </div>
+    <div id="divResults" style="display: none"></div>
+</body>
+</html>
