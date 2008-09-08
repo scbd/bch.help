@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <script type="text/javascript" src="script/webutility.js"></script>
+    <script type="text/javascript" src="script/webnav.js"></script>
+    <script type="text/javascript" src="script/webhighlight.js"></script>
+    <script type="text/javascript" src="script/webfavorites.js"></script>
+	<script type="text/javascript" src="script/langChange.js"></script>
+    <link rel="stylesheet" type="text/css" href="stylesheets/webnav.css" />
+    <script lang="javascript">var defaultTopic="BCH_Central_Portal_Online_Help.html";</script>
+    <script type="text/javascript">
+		
+        function InitializeNavigation()
+        {
+			// Code inserted by OnLine Help Team
+			langDirsString = "ar,zh,en,fr,ru,es";  
+			parseLanguages();
+			// End of code inserted by OnLine Help Team
+            LoadToolbar(documentElement("navtoolbar"), "toolbar");
+        }
+		
+
+    </script>
+    <base target="webcontent" />
+    <style type=text/css>table#toolbarcontainer {background-color: #B9D059;}</style>
+    <style type=text/css>td {color: #1F5D07;}</style>
+</head>
+
+<body onload="InitializeNavigation();">
+	<script type="text/javascript">
+		// Code inserted by OnLine Help Team
+		function doChangeLanguage(targetLang){
+			browserURL = parent.location.href;
+			contentURL = parent.frames["webcontent"].location.href;
+			newURL = changeLanguage(browserURL, contentURL, targetLang);
+			parent.location = newURL;
+		}
+		// End of code inserted by OnLine Help Team
+	</script>
+	<div style="display: none">
+		<span id="phrase_QuickSearch">بحث سريع</span>
+		<span id="phrase_AddToFavorites">اضف الى المفضلات</span>
+		<span id="phrase_HideNavigation">خبئ الابحار</span>
+		<span id="phrase_ExpandAll">وسع كل شيئ</span>
+		<span id="phrase_CollapseAll">اسقط كل شيئ</span>
+		<span id="phrase_PrintTopic">اطبع الموضوع</span>
+		<span id="phrase_ClearSearch">امحو البحث</span>
+		<span id="phrase_Back">الى الوراء</span>
+		<span id="phrase_Forward">الى الامام</span>
+		<span id="phrase_Stop">توقف</span>
+		<span id="phrase_Refresh">جدد البحث</span>
+		<span id="phrase_Home">البيت</span>
+		<span id="phrase_TableOfContents">قائمة المحتويات</span>"
+		<span id="phrase_Index">فهرس</span>
+		<span id="phrase_Search">البحث</span>
+		<span id="phrase_Glossary">مسرد المصطحات</span>
+		<span id="phrase_Favorites">المرجع</span>
+		<span id="phrase_GoTo">توجه الى</span>
+	</div>
+    <table id="toolbarcontainer">
+        <tbody>
+            <tr>
+                <td id="navbartitle" class="title" style="width: 223px;"> <img src="images/bchen.jpg"> </td>
+                <td id="navtoolbar" style="width: 100%;">
+					<div class="languageBar">
+						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[0])">عربي</a>|
+						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[1]);">中文</a>|
+						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[2]);">English</a>|
+						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[3]);">Français</a>|
+						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[4]);">Русский</a>|
+						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[5]);">Español</a>
+					</div>
+				</td>
+				<td id="navlogo" style="width: 180px;"> <img src="images/unepen.png"> <img src="images/gefen.png"> <img src="images/scbden.png"></td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+
+</html>
