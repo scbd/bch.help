@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProject ProjectType="0" Version="3.0.218" SaveDateTime="08/09/2008 08:44:58" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
+<HSProject ProjectType="0" Version="3.0.214" SaveDateTime="17/09/2008 15:13:04" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
     <SpellIgnoreAllWordList/>
     <BuildFlags>
         <BuildFlag ID="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" Name="web" HighlightColor="16753151" Selected="False"/>
-        <BuildFlag ID="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}" Name="training materials finished" HighlightColor="10616831" Selected="False"/>
+        <BuildFlag ID="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928}" Name="training materials finished" HighlightColor="10616831" Selected="True"/>
     </BuildFlags>
     <cat Name="Getting Started" Namem="19-10-2007 12:25:10" Key="C1" AutoIndex="True"/>
     <cat Name="Tutorials" Namem="19-10-2007 12:25:10" Key="C2" AutoIndex="True"/>
@@ -1756,31 +1756,31 @@ URL: <span id="urlSpan"></span></p>
 <LI><EM>You will need to uncompress the file and to&nbsp;write the ISO&nbsp;image to a CD-ROM. For instructions on how to do this, consult the manual provided with your CD-ROM writing software.</EM></LI>
 <LI><EM>ISO images are not saved to CD-ROMs in the same way as regular data files.</EM></SPAN></FONT></SPAN></LI></UL>]]></s>
     </Topic>
-    <Topic Key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}" Name="Using BCH training modules to meet stakeholder needs" Title="Using BCH training modules to meet stakeholder needs" Titlem="31-01-2008 12:43:51" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:51" ModifiedOn="19-08-2008 13:24:15" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}" Name="Using BCH training modules to meet stakeholder needs" Title="Using BCH training modules to meet stakeholder needs" Titlem="31-01-2008 12:43:51" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:51" ModifiedOn="17-09-2008 13:18:16" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 12:54:05"><![CDATA[<P>Provides guidance to instructors using the BCH Training Modules to train a variety of different stakeholders</P>
-<DIV class=Section1>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG alt="" src="images/pdf.gif" border=0>&nbsp;<A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=147&amp;username=guest&amp;password=guest" target=_blank>Guidance document</A></P>
-<P class=MsoNormal>&nbsp;</P></DIV>]]></s>
+        <s k="BodyText" m="17-09-2008 13:18:16"><![CDATA[<p><strong>Provides guidance to instructors using the BCH Training Modules to
+train a variety of different stakeholders.</strong></p>
+<p><img class="activityicon" alt="Resource" src="images/pdf.gif"> <a href=
+"http://bch.cbd.int/help/trainingmaterials/En/01) Using BCH training modules to meet stakeholder needs/GD01En.pdf"
+target="_blank">Guidance Document</a></p>]]></s>
     </Topic>
-    <Topic Key="{F20DF2B9-2309-429A-9B39-197F854B4999}" Name="Stakeholder curricula" Title="Stakeholder curricula" Titlem="31-01-2008 12:43:52" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:52" ModifiedOn="20-08-2008 10:18:15" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{F20DF2B9-2309-429A-9B39-197F854B4999}" Name="Stakeholder curricula" Title="Stakeholder curricula" Titlem="31-01-2008 12:43:52" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:52" ModifiedOn="17-09-2008 13:20:20" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 12:54:53"><![CDATA[<P>Summarizes all the available training resources and outlines model curricula for each of tha stakeholder groups.</P><TR><TD class="activity resource">
-<P class=MsoNormal><IMG src="images/pdf.gif" border=0>&nbsp;<A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=126&amp;username=guest&amp;password=guest" target=_blank>National Data Entry</A></TD></TR><TR><TD class="activity resource"></P>
-<P class=MsoNormal><IMG class=activityicon src="images/pdf.gif" border=0> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=127&amp;username=guest&amp;password=guest" target=_blank>Information Generators</A></TD></TR><TR><TD class="activity resource"></P>
-<P class=MsoNormal><IMG class=activityicon src="images/pdf.gif" border=0> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=128&amp;username=guest&amp;password=guest" target=_blank>NGOs and Civil Society</A></TD></TR><TR><TD class="activity resource"></P>
-<P class=MsoNormal><IMG class=activityicon src="images/pdf.gif" border=0> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=129&amp;username=guest&amp;password=guest" target=_blank>Industry Groups</A></TD></TR><TR><TD class="activity resource"></P>
-<P class=MsoNormal><IMG class=activityicon src="images/pdf.gif" border=0> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=130&amp;username=guest&amp;password=guest" target=_blank>Scientists, Academics, Biosafety Organizations</A></TD></TR><TR><TD class="activity resource"></P>
-<P class=MsoNormal><IMG class=activityicon src="images/pdf.gif" border=0>&nbsp;<A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=131&amp;username=guest&amp;password=guest" target=_blank>Customs and Border Control</A></TD></TR><TR><TD class="activity resource"></P>
-<P class=MsoNormal><IMG class=activityicon src="images/pdf.gif" border=0> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=132&amp;username=guest&amp;password=guest" target=_blank>Media</A></TD></TR><TR><TD class="activity resource"></P>
-<P class=MsoNormal><IMG class=activityicon src="images/pdf.gif" border=0> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=133&amp;username=guest&amp;password=guest" target=_blank>General Public</A></TD></TR></P>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:07"><![CDATA[<P><STRONG>Summarizes all the available training resources and outlines model curricula for each of the stakeholder groups.</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC01En.pdf" target=_blank>National Data Entry</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC02En.pdf" target=_blank>Information Generators</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC03En.pdf" target=_blank>Ngos and Civil Society</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC04En.pdf" target=_blank>Industry Group</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC05En.pdf" target=_blank>Scientist,Academics, Bisoafety Organizations</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC06En.pdf" target=_blank>Customs and border control</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC07En.pdf" target=_blank>Media</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/02) Stakeholder curricula/CC08En.pdf" target=_blank>General Public</A></P>]]></s>
     </Topic>
     <Topic Key="{220F4AB9-A675-4477-A9EF-F4B9384624DB}" Name="Linking_External_Websites_Policy" Title="Linking External Websites Policy" Titlem="01-02-2008 18:04:47" ContentsTitle="" ContentsTitlem="01-02-2008 19:01:05" Status="In Progress" CreatedOn="01-02-2008 18:04:47" ModifiedOn="06-06-2008 17:24:17" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{61216015-783B-4479-98BB-AFE3FACF4625}">
         <Notes/>
@@ -5200,100 +5200,40 @@ If the Notification Reference number is known, it can be entered into the
 <LI>
 <DIV class=Estilo1 align=left>If you have entered the URL in your browser directly, please check that it is correct.</DIV></LI></UL></BLOCKQUOTE></BLOCKQUOTE>]]></s>
     </Topic>
-    <Topic Key="{63C89700-5584-4D48-AED7-1FF484E37313}" Name="HERMES_BCH_Development_Tool" Title="HERMES BCH Development Tool" Titlem="20-06-2008 11:53:16" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:52:25" ModifiedOn="13-08-2008 13:12:59" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{63C89700-5584-4D48-AED7-1FF484E37313}" Name="HERMES_BCH_Development_Tool" Title="HERMES BCH Development Tool" Titlem="20-06-2008 11:53:16" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:52:25" ModifiedOn="17-09-2008 15:03:30" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 12:48:00"><![CDATA[<p>Recently, SCBD has deployed a new application, code name HERMES, that can be
-used easily by countries willing to have their own simple national application,
-but do not have the resources to, or do not want to develop their own
-systems.</p>
-<div class="summary">
-    <p>HERMES will run on SCBD servers, instantiated for each particular
-    country. At the country level, it is just needed to have available
-    computers with internet access and browsers. Customization is also
-    performed via internet.</p>
-    <p><img class="activityicon" alt="Resource" src="images/pdf.gif"> <a href=
-    "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=351&amp;username=guest&amp;password=guest"
-    target="_blank">Hermes User Guide</a></p>
-    <p><img class="activityicon" alt="Resource" src="images/pdf.gif"> <a href=
-    "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=352&amp;username=guest&amp;password=guest"
-    target="_blank">Practical Exercise Using HERMES</a></p>
-    <div class="summary">
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=432&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Modules 1 and 2</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=433&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module 3</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=434&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_4_Part 1</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=435&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_4_Part_2</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=436&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_4_Part_3</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=437&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_5_ Part 1</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=438&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_5_Part_2</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=439&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_5_Part_3</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=440&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_5_Part_4</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=441&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_5_Part_5</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=442&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_5_Part_6</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=443&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_5_Part_7</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=444&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_6_Part 1</a></p>
-        <p><img class="activityicon" alt="Resource" src=
-        "images/powerpoint.gif"> <a title="Resource" href=
-        "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=445&amp;username=guest&amp;password=guest"
-        target="_blank">Tutorial Module_6_Part_2</a></p>
-    </div>
-</div>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>Recently, SCBD has deployed a new application, code name HERMES, that can be used easily by countries willing to have their own simple national application, but do not have the resources to, or do not want to develop their own systems.</STRONG></P>
+<P><STRONG>HERMES will run on SCBD servers, instantiated for each particular country. At the country level, it is just needed to have available computers with internet access and browsers. Customization is also performed via internet.</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HM01En.pdf" target=_blank>Hermes User Guide</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HM02En.pdf" target=_blank>Practical Exercise Using HERMES</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT01En.ppt" target=_blank>Tutorial Modules 1 and 2</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT02En.ppt" target=_blank>Tutorial Module 3</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT03En.ppt" target=_blank>Tutorial Module 4 Part 1</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT04En.ppt" target=_blank>Tutorial Module 4_Part 2</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT05En.ppt" target=_blank>Tutorial Module 4_Part 3</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT06En.ppt" target=_blank>Tutorial Module 5 Part 1</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT07En.ppt" target=_blank>Tutorial Module 5 Part 2</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT08En.ppt" target=_blank>Tutorial Module 5 Part 3</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT09En.ppt" target=_blank>Tutorial Module 5 Part 4</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT10En.ppt" target=_blank>Tutorial Module 5 Part 5</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT11En.ppt" target=_blank>Tutorial Module 5 Part 6</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT12En.ppt" target=_blank>Tutorial Module 5 Part 7</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT13En.ppt" target=_blank>Tutorial Module 6 Part 1</A></P>
+<P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT14En.ppt" target=_blank>Tutorial Module 6 Part 2</A></P>]]></s>
     </Topic>
-    <Topic Key="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}" Name="AJAX_BCH_Development_Tool" Title="AJAX BCH Development Tool" Titlem="20-06-2008 11:59:05" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:58:28" ModifiedOn="14-08-2008 14:26:56" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}" Name="AJAX_BCH_Development_Tool" Title="AJAX BCH Development Tool" Titlem="20-06-2008 11:59:05" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:58:28" ModifiedOn="17-09-2008 15:04:18" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 12:58:26"><![CDATA[<P class=MsoNormal><SPAN lang=EN-CA>The BCH Ajax Plug-In is a lightweight JavaScript application based on Ajax technology that can be easily integrated to any website to allow dynamic display of information from the BCH Central Portal.</SPAN></P>
-<P class=MsoNormal></P>
-<P class=MsoNormal><SPAN lang=EN-CA>The use of the BCH Ajax Plug-In does not require any specific IT knowledge. The Plug-In works on all server platforms and does not require any software installation. All required files are located on the BCH Central Portal and maintained by the Secretariat.</SPAN></P>
-<P class=MsoNormal></P>
-<DIV><SPAN lang=EN-CA>The BCH Ajax Plug-In is a client side application. The connection to the BCH Central Portal is made directly by the client (end-user).</SPAN> </DIV>
-<DIV>
-<DIV><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=347&amp;username=guest&amp;password=guest" target=_blank>Ajax User Manual</A> </DIV>
-<DIV>
-<DIV><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=348&amp;username=guest&amp;password=guest" target=_blank>BCH Ajax PlugIn Exercise</A> </DIV></DIV></DIV>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>The BCH Ajax Plug-In is a lightweight JavaScript application based on Ajax technology that can be easily integrated to any website to allow dynamic display of information from the BCH Central Portal.</STRONG></P>
+<P><STRONG>The use of the BCH Ajax Plug-In does not require any specific IT knowledge. The Plug-In works on all server platforms and does not require any software installation. All required files are located on the BCH Central Portal and maintained by the Secretariat.</STRONG></P>
+<P><STRONG>The BCH Ajax Plug-In is a client side application. The connection to the BCH Central Portal is made directly by the client (end-user).</STRONG></P>
+<P class=MsoNormal><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/13) Ajax BCH Development tool/AX01En.pdf" target=_blank>Ajax User Manual</A></P>
+<P class=MsoNormal><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/En/13) Ajax BCH Development tool/AX02En.pdf" target=_blank>BCH Ajax PlugIn Exercise</A></P>]]></s>
     </Topic>
     <Topic Key="{81005735-ED01-441F-BAB4-BAD3EEC8FE8B}" Name="References" Title="References" Titlem="01-07-2008 12:27:16" ContentsTitle="" ContentsTitlem="01-07-2008 13:10:43" Status="In Progress" CreatedOn="01-07-2008 12:27:00" ModifiedOn="18-08-2008 10:43:11" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="False" HelpContextIDs="" Category="{47F83A99-A03C-410E-9C2D-47AE1253911D}">
         <Notes/>
@@ -5455,161 +5395,131 @@ systems.</p>
 <P><BR></P>
 <P class=MsoNormal>The content and views expressed on this website do not necessarily reflect the views or policies of the contributory organizations or the United Nations Environment Programme (UNEP) and neither do they imply any endorsement. The designations employed and the presentation of material on this website do not imply the expression of any opinion whatsoever on the part of UNEP concerning the legal status of any country, territory or city or its authorities, or concerning the delimitation of its frontiers and boundaries. Mention of a commercial company or product in this publication does not imply the endorsement of UNEP.</P>]]></s>
     </Topic>
-    <Topic Key="{33985FA1-5EE1-4618-B209-9CAB053AE672}" Name="Interactive_Modules" Title="Interactive Modules" Titlem="04-07-2008 10:20:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:19:56" ModifiedOn="14-08-2008 14:15:32" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{33985FA1-5EE1-4618-B209-9CAB053AE672}" Name="Interactive_Modules" Title="Interactive Modules" Titlem="04-07-2008 10:20:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:19:56" ModifiedOn="17-09-2008 13:23:55" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 10:33:32"><![CDATA[<P>There are two interactive training modules designed to enable users to understand the concepts introduced in Training Modules 1 and 2 in a hands-on manner. The modules are designed in Macromedia Flash. Please feel free to download and install the interactive modules.<BR></P>
-<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A href="http://moodle.unep.ch/mod/resource/view.php?id=369&amp;username=guest&amp;password=guest" target=_blank>Introduction to the Cartagena Protocol on Biosafety</A></P>
-<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A href="http://moodle.unep.ch/mod/resource/view.php?id=370&amp;username=guest&amp;password=guest" target=_blank>Introduction to the Biosafety Clearing-House</A></P>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>There are two interactive training modules designed to enable users to understand the concepts introduced in Training Modules 1 and 2 in a hands-on manner. The modules are designed in Macromedia Flash.Please feel free to download and install the interactive modules.</STRONG></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/04) Interactive Modules/IM01En.exe" target=_blank>Introduction to the Cartagena Protocol on Biosafety</A></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/04) Interactive Modules/IM02En.exe" target=_blank>Introduction to the Biosafety Clearing-House</A></P>]]></s>
     </Topic>
-    <Topic Key="{A1783282-C59F-4112-A609-A3CC8D0CF476}" Name="Case_Studies" Title="Case Studies" Titlem="04-07-2008 10:36:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:36:17" ModifiedOn="26-08-2008 11:25:42" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{A1783282-C59F-4112-A609-A3CC8D0CF476}" Name="Case_Studies" Title="Case Studies" Titlem="04-07-2008 10:36:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:36:17" ModifiedOn="17-09-2008 13:24:59" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="26-08-2008 11:22:14"><![CDATA[<P>There are several interactive case studies designed to assist users in applying the concepts covered in the various training modules.<BR></P>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=371&amp;username=guest&amp;password=guest" target=_blank>Case 1 Mexican trader exporting cotton seed</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=372&amp;username=guest&amp;password=guest" target=_blank>Case 2 Regulator researches LMO-FFPs</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=373&amp;username=guest&amp;password=guest" target=_blank>Case 3 Registering data on CP Users Management</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=374&amp;username=guest&amp;password=guest" target=_blank>Case 4 Registering data on CP contacts and CNA</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=375&amp;username=guest&amp;password=guest" target=_blank>Case 5 Registering data on CP LMOs and decisions on LMOs</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=376&amp;username=guest&amp;password=guest" target=_blank>Case 6 Registering data on CP Risk Assessment and Laws</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=377&amp;username=guest&amp;password=guest" target=_blank>Case 7 Custom officer seeks information on importing LMOs</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=378&amp;username=guest&amp;password=guest" target=_blank>Case 8 Scientist looks for info on commercially available GM cotton</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=379&amp;username=guest&amp;password=guest" target=_blank>Case 9 Scientist seeks information on importing LMOs</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=380&amp;username=guest&amp;password=guest" target=_blank>Case 10 Information CNS must provide to BCH about a decision</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=381&amp;username=guest&amp;password=guest" target=_blank>Case 11 Medical researcher seeks info on AIA</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=382&amp;username=guest&amp;password=guest" target=_blank>Case 12 Company rep seeks information on how submit record to BCH</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=383&amp;username=guest&amp;password=guest" target=_blank>Case 13 National Development Agency seeks information on supporting Capacity building programs.</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=384&amp;username=guest&amp;password=guest" target=_blank>Case 14 Person seeks information on how to submit record to BCH</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=385&amp;username=guest&amp;password=guest" target=_blank>Case 15 Person looks for info about a GM food product</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=858&amp;username=guest&amp;password=guest" target=_blank>Case 16 Organization registers a contact person</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=859&amp;username=guest&amp;password=guest" target=_blank>Case 17 Organization registers biosafety newsletter</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=860&amp;username=guest&amp;password=guest" target=_blank>Case 18 Academic institution register biosafety course and workshop</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=389&amp;username=guest&amp;password=guest" target=_blank>Case 19 Journalist researches story about possible illegal transboundary movement</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=390&amp;username=guest&amp;password=guest" target=_blank>Case 20 BCH NFP of new party</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=391&amp;username=guest&amp;password=guest" target=_blank>Case 21 Regulator in Japan imports potatoes form ROK</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=392&amp;username=guest&amp;password=guest" target=_blank>Case 22 Ghana risk assessment IR papaya</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=393&amp;username=guest&amp;password=guest" target=_blank>Case 23 NFP registers biosafety expert</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=394&amp;username=guest&amp;password=guest" target=_blank>Case 24 Inspector discovers illegal LMO</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=395&amp;username=guest&amp;password=guest" target=_blank>Case 25 NFP registers decision and RA on GM cotton</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=396&amp;username=guest&amp;password=guest" target=_blank>Case 26 NFP registers laws</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=431&amp;username=guest&amp;password=guest" target=_blank>Case 27 Central Portal Information Route</A> </DIV>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>There are several interactive case studies designed to assist users in applying the concepts covered in the various training modules.</STRONG><BR></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS01En.pdf" target=_blank>Case 1 Mexican trader exporting cotton seed</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS02En.pdf" target=_blank>Case 2 Regulator researches LMO-FFPs</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS03En.pdf" target=_blank>Case 3 Registering data on CP Users Management</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS04En.pdf" target=_blank>Case 4 Registering data on CP contacts and CNA</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS05En.pdf" target=_blank>Case 5 Registering data on CP LMOs and decisions on LMOs</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS06En.pdf" target=_blank>Case 6 Registering data on CP Risk Assessment and Laws</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS07En.pdf" target=_blank>Case 7 Custom officer seeks information on importing LMOs</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS08En.pdf" target=_blank>Case 8 Scientist looks for info on commercially available GM cotton</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS09En.pdf" target=_blank>Case 9 Scientist seeks information on importing LMOs</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS10En.pdf" target=_blank>Case 10 Information CNA must provide to BCH about a decision</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS11En.pdf" target=_blank>Case 11 Medical researcher seeks info on AIA</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS12En.pdf" target=_blank>Case 12 Company rep seeks information on how submit record to BCH</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS13En.pdf" target=_blank>Case 13 National Development Agency seeks information on supporting Capacity building programs.</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS14En.pdf" target=_blank>Case 14 Person seeks information on how to submit record to BCH</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS15En.pdf" target=_blank>Case 15 Person looks for info about a GM food product</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS16En.pdf" target=_blank>Case 16 Organization registers a contact person</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS17En.pdf" target=_blank>Case 17 Organization registers biosafety newsletter</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS18En.pdf" target=_blank>Case 18 Academic institution register biosafety course and workshop</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS19En.pdf" target=_blank>Case 19 Journalist researches story about possible illegal transboundary movement</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS20En.pdf" target=_blank>Case 20 Country has just become a Party to the Cartagena Protocol</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS21En.pdf" target=_blank>Case 21 Regulator in Japan imports potatoes from ROK</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS22En.pdf" target=_blank>Case 22 Ghana risk assessment IR papaya</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS23En.pdf" target=_blank>Case 23 NFP registers biosafety expert</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS24En.pdf" target=_blank>Case 24 Inspector discovers illegal LMO</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS25En.pdf" target=_blank>Case 25 NFP registers decision and RA on GM cotton</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS26En.pdf" target=_blank>Case 26 NFP registers laws</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS27En.pdf" target=_blank>Case 27 Central Portal Information Route</A></P>]]></s>
     </Topic>
-    <Topic Key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}" Name="Ready_Reference_Guide" Title="Ready Reference Guide" Titlem="04-07-2008 11:03:18" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:02:59" ModifiedOn="26-08-2008 11:28:09" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}" Name="Ready_Reference_Guide" Title="Ready Reference Guide" Titlem="04-07-2008 11:03:18" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:02:59" ModifiedOn="17-09-2008 13:25:43" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 14:55:58"><![CDATA[<P>There are several reference handouts available that provide quick overviews of frequently used parts of the BCH and may be used as desk references after training is complete<BR><BR><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=397&amp;username=guest&amp;password=guest" target=_blank>BCH Quick Start</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=398&amp;username=guest&amp;password=guest" target=_blank>Acronyms</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=399&amp;username=guest&amp;password=guest" target=_blank>BCH Record Types</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=400&amp;username=guest&amp;password=guest" target=_blank>Icons</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=401&amp;username=guest&amp;password=guest" target=_blank>Short glossary</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=402&amp;username=guest&amp;password=guest" target=_blank>Management Centre</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=403&amp;username=guest&amp;password=guest" target=_blank>Decisions and Declarations</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=404&amp;username=guest&amp;password=guest" target=_blank>Introduced Traits</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=405&amp;username=guest&amp;password=guest" target=_blank>Contacts</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=406&amp;username=guest&amp;password=guest" target=_blank>Information Resources</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=407&amp;username=guest&amp;password=guest" target=_blank>Unique identification</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=408&amp;username=guest&amp;password=guest" target=_blank>Information to be posted on the BCH</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=409&amp;username=guest&amp;password=guest" target=_blank>Timeframe for Posting Information</A></P>
-<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=410&amp;username=guest&amp;password=guest" target=_blank>New Party Checklist</A></P>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:07"><![CDATA[<P><STRONG>There are several reference handouts available that provide quick overviews of frequently used parts of the BCH and may be used as desk references after training is complete.</STRONG><BR><BR><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR01En.pdf" target=_blank>BCH Quick Start</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR02En.pdf" target=_blank>Acronyms</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR03En.pdf" target=_blank>BCH Record Types</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR04En.pdf" target=_blank>Icons</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR05En.pdf" target=_blank>Short glossary</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR06En.pdf" target=_blank>Management Centre</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR07En.pdf" target=_blank>Decisions and Declarations</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR08En.pdf" target=_blank>Introduced Traits</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR09En.pdf" target=_blank>Contacts</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR10En.pdf" target=_blank>Information Resources</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR11En.pdf" target=_blank>Unique identification</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR12En.pdf" target=_blank>Information to be posted on the BCH</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR13En.pdf" target=_blank>Timeframe for Posting Information</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR14En.pdf" target=_blank>New Party Checklist</A></P>]]></s>
     </Topic>
-    <Topic Key="{CD05326A-B670-4F86-B67C-32F37CF08868}" Name="Discussion_Points_with_answer_Key" Title="Discussion Points with answer Key" Titlem="04-07-2008 11:30:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:30:26" ModifiedOn="20-08-2008 11:13:34" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{CD05326A-B670-4F86-B67C-32F37CF08868}" Name="Discussion_Points_with_answer_Key" Title="Discussion Points with answer Key" Titlem="04-07-2008 11:30:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:30:26" ModifiedOn="17-09-2008 13:26:31" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 11:39:28"><![CDATA[<div class="summary">
-    There are several cards with different scenarios for discussion that can be
-    used throughout the training along with the answer keys
-</div>
-<div class="summary">
-    <img class="activityicon" alt="Resource" src="images/pdf.gif"> <a href=
-    "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=411&amp;username=guest&amp;password=guest"
-    target="_blank">Discussion Points</a>
-</div>
-<div class="summary">
-    <img class="activityicon" alt="Resource" src="images/pdf.gif"> <a href=
-    "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=412&amp;username=guest&amp;password=guest"
-    target="_blank">Discussion_Points with Answers</a>&nbsp;
-</div>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>There are several cards with different scenarios for discussion that can be used throughout the training along with the answer keys</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/07) Discussion Points with Answer Keys/DP01En.pdf" target=_blank>Discussion Points</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/07) Discussion Points with Answer Keys/DP02En.pdf" target=_blank>Discussion Points with Answers</A></P>]]></s>
     </Topic>
-    <Topic Key="{3991F005-AEC1-4018-97B5-56480ECA3639}" Name="Quiz_Questions_with_Answer_keys" Title="Quiz Questions with Answer keys" Titlem="04-07-2008 11:37:32" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:36:28" ModifiedOn="20-08-2008 11:22:46" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{3991F005-AEC1-4018-97B5-56480ECA3639}" Name="Quiz_Questions_with_Answer_keys" Title="Quiz Questions with Answer keys" Titlem="04-07-2008 11:37:32" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:36:28" ModifiedOn="17-09-2008 13:27:08" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 11:59:40"><![CDATA[<P>There are several quiz questions available that provide quick interaction with participants and an easy way to gauge understanding of different uses of the BCH and may be used throughout the training.</P>
-<P>&nbsp;</P>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=413&amp;username=guest&amp;password=guest" target=_blank>Quick Quiz Cards</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=414&amp;username=guest&amp;password=guest" target=_blank>Quick Quiz with Answers</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=415&amp;username=guest&amp;password=guest" target=_blank>Scanvenger Hunt</A> </DIV>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:07"><![CDATA[<P><STRONG>There are several quiz questions available that provide quick interaction with participants and an easy way to gauge understanding of different uses of the BCH and may be used throughout the training.</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/08) Quiz Question with Answer Keys/QZ01En.pdf" target=_blank>Quick Quiz Cards</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/08) Quiz Question with Answer Keys/QZ02En.pdf" target=_blank>Quick Quiz with Answers</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/08) Quiz Question with Answer Keys/QZ03En.pdf" target=_blank>Scanvenger Hunt</A></P>]]></s>
     </Topic>
-    <Topic Key="{35DB51EF-64A0-460D-A525-0B8C15297301}" Name="Operational_Handbook" Title="Operational Handbook" Titlem="04-07-2008 12:01:04" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:00:52" ModifiedOn="13-08-2008 12:52:50" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{35DB51EF-64A0-460D-A525-0B8C15297301}" Name="Operational_Handbook" Title="Operational Handbook" Titlem="04-07-2008 12:01:04" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:00:52" ModifiedOn="17-09-2008 13:28:20" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 14:56:25"><![CDATA[<DIV class=summary>The Operational Handbook provides detailed information for countries about participating in the UNEP-GEF Project for “Effective Participation in the Biosafety Clearing-House (BCH). </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=416&amp;username=guest&amp;password=guest" target=_blank>Operational Handbook</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=417&amp;username=guest&amp;password=guest" target=_blank>Annex 7</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/word.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=426&amp;username=guest&amp;password=guest" target=_blank>Form 9</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/word.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=427&amp;username=guest&amp;password=guest" target=_blank>Form 10</A>&nbsp; </DIV>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>The Operational Handbook provides detailed information for countries about participating in the UNEP-GEF Project for “Effective Participation in the Biosafety Clearing-House (BCH).</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/09) Operational Handbook/OH01En.pdf" target=_blank>Operational Handbook</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/09) Operational Handbook/OH02En.pdf" target=_blank>Annex 7</A></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/09) Operational Handbook/OH11En.doc" target=_blank>Form 9</A></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/09) Operational Handbook/OH12En.doc" target=_blank>Form 10</A></P>]]></s>
     </Topic>
-    <Topic Key="{31106789-AEA0-44EC-B4B8-96BE30820603}" Name="Promotional_Materials" Title="Promotional Materials" Titlem="04-07-2008 12:34:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:34:13" ModifiedOn="13-08-2008 12:57:21" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{31106789-AEA0-44EC-B4B8-96BE30820603}" Name="Promotional_Materials" Title="Promotional Materials" Titlem="04-07-2008 12:34:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:34:13" ModifiedOn="17-09-2008 14:55:19" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 12:51:34"><![CDATA[<p>&nbsp;</p>
-<div class="summary">
-    This folder contains a one page poster and a short leaflet with basic
-    content that can be customized by the country running the stakeholder
-    courses and used as promotional materials.
-</div>
-<div class="summary">
-    <img class="activityicon" alt="Resource" src=
-    "images/word.gif"> <a href=
-    "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=428&amp;username=guest&amp;password=guest"
-    target="_blank">BCH Flyer</a><br>
-    <img class="activityicon" alt="Resource" src=
-    "images/word.gif"> <a href=
-    "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=429&amp;username=guest&amp;password=guest"
-    target="_blank">BCH Poster</a>
-</div>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:07"><![CDATA[<P><STRONG>This folder contains a one page poster and a short leaflet with basic content that can be customized by the country running the stakeholder courses and used as promotional materials.</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/10) Promotional Materials/PM01En.doc" target=_blank>BCH Flyer</A></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/10) Promotional Materials/PM02En.doc" target=_blank>BCH Poster</A></P>]]></s>
     </Topic>
-    <Topic Key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}" Name="Exercises" Title="Exercises" Titlem="04-07-2008 12:36:30" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:36:19" ModifiedOn="13-08-2008 13:04:47" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}" Name="Exercises" Title="Exercises" Titlem="04-07-2008 12:36:30" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:36:19" ModifiedOn="17-09-2008 15:00:06" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 12:50:48"><![CDATA[<p>&nbsp;Exercises for BCH Training Workshops</p>
-<div class="summary">
-    <img class="activityicon" alt="Resource" src=
-    "images/pdf.gif"> <a href=
-    "http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=430&amp;username=guest&amp;password=guest"
-    target="_blank">Exercises A - F</a>
-</div>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>Exercises for BCH Training Workshops</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/11) Exercises/AE01En.pdf" target=_blank>Exercises A - F</A></P>]]></s>
     </Topic>
-    <Topic Key="{7175BBD5-5EFE-471F-AA74-B976131B0181}" Name="Training_Modules" Title="Training Modules" Titlem="04-07-2008 13:09:01" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 13:08:54" ModifiedOn="14-08-2008 14:18:59" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{7175BBD5-5EFE-471F-AA74-B976131B0181}" Name="Training_Modules" Title="Training Modules" Titlem="04-07-2008 13:09:01" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 13:08:54" ModifiedOn="17-09-2008 13:21:44" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
         <AutoTopicLinkTopics/>
-        <s k="BodyText" m="04-07-2008 14:53:32"><![CDATA[<DIV class=summary>There are several training modules available in PDF format, which provide a range of information from introductory material to in-depth review. Most modules contain interactive exercises and detailed walk-throughs of the steps required for each activity. </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=360&amp;username=guest&amp;password=guest" target=_blank>An Introduction to CPB</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=361&amp;username=guest&amp;password=guest" target=_blank>Introduction to BCH</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=362&amp;username=guest&amp;password=guest" target=_blank>Surfing the BCH Central Portal</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=363&amp;username=guest&amp;password=guest" target=_blank>Finding Information in the BCH</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=364&amp;username=guest&amp;password=guest" target=_blank>Recommended Guidelines for Countries</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=365&amp;username=guest&amp;password=guest" target=_blank>Using the Management Center</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=366&amp;username=guest&amp;password=guest" target=_blank>Registering National Information in the BCH Central Portal</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=367&amp;username=guest&amp;password=guest" target=_blank>Sharing Biosafety Information on the BCH Central</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=368&amp;username=guest&amp;password=guest" target=_blank>Becoming a Party</A>&nbsp; </DIV>]]></s>
+        <s k="BodyText" m="17-09-2008 15:09:07"><![CDATA[<P><STRONG>There are several training modules available in PDF format, which provide a range of information from introductory material to in-depth review. Most modules contain interactive exercises and detailed walk-throughs of the steps required for each activity.</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO01En.pdf" target=_blank>An Introduction to Cartagena Protocol on Biosafety</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO02En.pdf" target=_blank>Introduction to BCH</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO03En.pdf" target=_blank>Surfing the BCH Central Portal</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO04En.pdf" target=_blank>Finding Information in the BCH</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO05En.pdf" target=_blank>Recommended Guidelines for Countries</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO06En.pdf" target=_blank>Using the Management Center</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO07En.pdf" target=_blank>Registering National Information in the BCH Central Portal</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO08En.pdf" target=_blank>Sharing Biosafety Information on the BCH Central</A></P>
+<P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/03) Training Modules/MO10En.pdf" target=_blank>Becoming a Party</A></P>]]></s>
     </Topic>
     <Topic Key="{1D2A4DF8-1401-4F1D-AF00-589CC19F49A0}" Name="Cover_Intro_Bch" Title="Cover" Titlem="01-07-2008 13:03:05" ContentsTitle="" ContentsTitlem="01-07-2008 13:10:43" Status="In Progress" CreatedOn="01-07-2008 13:03:00" ModifiedOn="18-08-2008 10:43:24" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="False" HelpContextIDs="" Category="{D6182699-C124-44D8-9248-2E04AEBD5E8E}">
         <Notes/>
@@ -7173,7 +7083,7 @@ systems.</p>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{FC97895D-DF5E-4E5A-9C1E-95EBA9EF3755}" Name="en" OutputDirectory="Build\en\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0EN.chm" UseBuildFlags="True" ProjectTitle="BCH Central Portal Online Help" ProjectTitlem="28-04-2008 10:55:20" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="23-06-2008 10:54:48" OutputTargetSCCProject="" PhraseLanguage="English">
+        <BuildProfile ID="{FC97895D-DF5E-4E5A-9C1E-95EBA9EF3755}" Name="en" OutputDirectory="Build\en\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0EN.chm" UseBuildFlags="True" ProjectTitle="BCH Central Portal Online Help" ProjectTitlem="28-04-2008 10:55:20" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="23-06-2008 10:54:48" OutputTargetSCCProject="" PhraseLanguage="English">
             <loc lcid="0"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
