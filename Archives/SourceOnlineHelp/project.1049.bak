@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="17/09/2008 15:10:03" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
+<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="18/09/2008 12:04:18" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -988,24 +988,22 @@
         <t key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}">
             <title m="19/08/2008 13:24:15">Использование учебных модулей МПБ для различных категорий заинтересованных лиц.</title>
             <s key="BodyText">
-                <data m="20/08/2008 11:22:20"><![CDATA[<P>Содержит руководство для инструкторов по использованию учебных модулей МПБ при обучении различных категорий заинтересованных лиц.</P>
-<DIV class=Section1>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG alt="" src="images/pdf.gif" border=0>&nbsp;<A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=619&amp;username=guest&amp;password=guest"' target=_blank>Руководство</A></P></DIV>]]></data>
+                <data m="18/09/2008 12:04:09"><![CDATA[<P><STRONG>Содержит руководство для инструкторов по использованию учебных модулей МПБ при обучении различных категорий заинтересованных лиц.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/01) Using BCH training modules to meet stakeholder needs/GD01Ru.pdf" target=_blank>Руководство</A></P>]]></data>
             </s>
         </t>
         <t key="{F20DF2B9-2309-429A-9B39-197F854B4999}">
             <title m="19/08/2008 13:25:03">Программы обучения</title>
             <s key="BodyText">
-                <data m="20/08/2008 11:22:47"><![CDATA[<P>Содержит перечень учебных материалов и планы типовых программ обучения для каждой группы заинтересованных лиц.</P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=620&amp;username=guest&amp;password=guest"' target=_blank>Национальные уполномоченные лица</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=621&amp;username=guest&amp;password=guest"' target=_blank>Организации, предоставляющие информацию</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=622&amp;username=guest&amp;password=guest"' target=_blank>Негосударственные организации и общественные объединения</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=623&amp;username=guest&amp;password=guest"' target=_blank>Представители сферы производства</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=624&amp;username=guest&amp;password=guest"' target=_blank>Научные, академические организации и организации по биобезопасности</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=625&amp;username=guest&amp;password=guest"' target=_blank>Представители таможенного и пограничного контроля</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=626&amp;username=guest&amp;password=guest"' target=_blank>Представители средств массовой информации</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=627&amp;username=guest&amp;password=guest"' target=_blank>Общественность</A></P>]]></data>
+                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Содержит перечень учебных материалов и планы типовых программ обучения для каждой группы заинтересованных лиц.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC01Ru.pdf" target=_blank>Национальные уполномоченные лица</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC02Ru.pdf" target=_blank>Организации, предоставляющие информацию</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC03Ru.pdf" target=_blank>Негосударственные организации и общественные объединения</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC04Ru.pdf" target=_blank>Представители сферы производства</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC05Ru.pdf" target=_blank>Научные, академические организации и организации по биобезопасности</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC06Ru.pdf" target=_blank>Представители таможенного и пограничного контроля</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC07Ru.pdf" target=_blank>Представители средств массовой информации</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/02) Stakeholder curricula/CC08Ru.pdf" target=_blank>Общественность</A></P>]]></data>
             </s>
         </t>
         <t key="{220F4AB9-A675-4477-A9EF-F4B9384624DB}">
@@ -4288,35 +4286,34 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{63C89700-5584-4D48-AED7-1FF484E37313}">
             <title m="31/07/2008 10:43:55">Приложение «Гермес» для разработки национального МПБ</title>
             <s key="BodyText">
-                <data m="31/07/2008 11:28:57"><![CDATA[<DIV class=summary>
-<P>Секретариат Конвенции о биологическом разнообразии (СКБР) разработал приложение «Гермес», которое может быть использовано странами, которые хотят иметь свои веб-сайты МПБ, но не имеют для этого достаточно ресурсов или не желают разрабатывать собственные системы.</P>
-<P>Приложение «Гермес» работает на серверах СКБР и обрабатывает данные, относящиеся к конкретной стране. Странам необходимо иметь только компьютеры с браузером и доступом в Интернет. Настройка приложения также осуществляется через Интернет.</P>
-<P>&nbsp;</P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=700&amp;username=guest&amp;password=guest"' target=_blank>Руководство пользователя приложения «Гермес»</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=701&amp;username=guest&amp;password=guest"' target=_blank>Практические упражнения по использованию приложения «Гермес»</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=702&amp;username=guest&amp;password=guest"' target=_blank>Учебные модули 1 и 2 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=703&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 3 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=704&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 4 часть 1 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=705&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 4 часть 2 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=706&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 4 часть 3 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=707&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 5 часть 1 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=708&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 5 часть 2 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=709&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 5 часть 3 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=710&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 5 часть 4 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=711&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 5 часть 5 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=712&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 5 часть 6 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=713&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 5 часть 7 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=714&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 6 часть 1 (на английском языке)</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/powerpoint.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=715&amp;username=guest&amp;password=guest"' target=_blank>Учебный модуль 6 часть 2 (на английском языке)</A></P></DIV>]]></data>
+                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Секретариат Конвенции о биологическом разнообразии (СКБР) разработал приложение «Гермес», которое может быть использовано странами, которые хотят иметь свои веб-сайты МПБ, но не имеют для этого достаточно ресурсов или не желают разрабатывать собственные системы.</STRONG></P>
+<P><STRONG>Приложение «Гермес» работает на серверах СКБР и обрабатывает данные, относящиеся к конкретной стране. Странам необходимо иметь только компьютеры с браузером и доступом в Интернет. Настройка приложения также осуществляется через Интернет.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HM01Ru.pdf" target=_blank>Руководство пользователя приложения «Гермес»</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HM02Ru.pdf" target=_blank>Практические упражнения по использованию приложения «Гермес»</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT01En.ppt" target=_blank>Учебные модули 1 и 2 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT02En.ppt" target=_blank>Учебные модули 3 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT03En.ppt" target=_blank>Учебные модули 4 часть 1 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT04En.ppt" target=_blank>Учебные модули 4 часть 2 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT05En.ppt" target=_blank>Учебные модули 4 часть 3 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT06En.ppt" target=_blank>Учебные модули 5 часть 1 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT07En.ppt" target=_blank>Учебные модули 5 часть 2 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT08En.ppt" target=_blank>Учебные модули 5 часть 3 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT09En.ppt" target=_blank>Учебные модули 5 часть 4 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT10En.ppt" target=_blank>Учебные модули 5 часть 5 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT11En.ppt" target=_blank>Учебные модули 5 часть 6 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT12En.ppt" target=_blank>Учебные модули 5 часть 7 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT13En.ppt" target=_blank>Учебные модули 6 часть 1 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/12) Hermes BCH Development tool/HT14En.ppt" target=_blank>Учебные модули 6 часть 2 (на английском языке)</A></P>]]></data>
             </s>
         </t>
         <t key="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}">
             <title m="31/07/2008 10:47:20">Программный модуль «AJAX» для разработки национального МПБ</title>
             <s key="BodyText">
-                <data m="31/07/2008 11:28:55"><![CDATA[<DIV class=summary>Программный модуль МПБ «Ajax Plug-In» – это простое JavaScript приложение, основанное на технологии Ajax, которое может быть легко интегрировано в любой веб-сайт для отображения в динамическом режиме информации Центрального портала МПБ<BR>Использование программного модуля МПБ «Ajax Plug-In» не требует специфических знаний в области информационных технологий. Он работает на любых серверных платформах и не требует установки дополнительного программного обеспечения. Все необходимые файлы находятся на Центральном портале МПБ и поддерживаются Секретариатом КБР. </DIV>
-<DIV class=summary></DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=716&amp;username=guest&amp;password=guest"' target=_blank>Руководство пользователя программного модуля Ajax Plug-In</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=717&amp;username=guest&amp;password=guest"' target=_blank>Упражнения по использованию программного модуля Ajax Plug-In</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:07"><![CDATA[<P><B>Программный модуль МПБ «Ajax Plug-In» – это простое JavaScript приложение, основанное на технологии Ajax, которое может быть легко интегрировано в любой веб-сайт для отображения в динамическом режиме информации Центрального портала МПБ.</B></P>
+<P><B>Использование программного модуля МПБ «Ajax Plug-In» не требует специфических знаний в области информационных технологий. Он работает на любых серверных платформах и не требует установки дополнительного программного обеспечения. Все необходимые файлы находятся на Центральном портале МПБ и поддерживаются Секретариатом КБР.</B></P>
+<P><B>Программный модуль МПБ «Ajax Plug-In» является «клиентским» приложением. Соединение с Центральным порталом МПБ осуществляется непосредственно клиентом (непосредственным пользователем).</B></P>
+<P class=MsoNormal><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/13) Ajax BCH Development tool/AX01Ru.pdf" target=_blank>Руководство пользователя программного модуля Ajax Plug-In.</A></P>
+<P class=MsoNormal><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Ru/13) Ajax BCH Development tool/AX02Ru.pdf" target=_blank>Упражнения по использованию программного модуля Ajax Plug-In</A></P>]]></data>
             </s>
         </t>
         <t key="{81005735-ED01-441F-BAB4-BAD3EEC8FE8B}">
@@ -4479,125 +4476,118 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{33985FA1-5EE1-4618-B209-9CAB053AE672}">
             <title m="31/07/2008 09:46:30">Интерактивные модули</title>
             <s key="BodyText">
-                <data m="31/07/2008 12:52:56"><![CDATA[<DIV class=summary>Два интерактивных модуля в качестве практического средства для помощи в понимании вопросов, рассматриваемых в учебных модулях 1 и 2. Модули разработаны в среде Macromedia Flash. Вы можете загрузить и установить эти интерактивные модули. </DIV>
-<DIV class=summary></DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/web.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=637&amp;username=guest&amp;password=guest" target=_blank ?>Введение в Картахенский протокол по биобезопасности (на английском языке)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/web.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=638&amp;username=guest&amp;password=guest" target=_blank ?>Введение в Механизм посредничества по биобезопасности (на английском языке)</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Два интерактивных модуля в качестве практического средства для помощи в понимании вопросов, рассматриваемых в учебных модулях 1 и 2. Модули разработаны в среде Macromedia Flash. Вы можете загрузить и установить эти интерактивные модули.</STRONG></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/04) Interactive Modules/IM01En.exe" target=_blank>Введение в Картахенский протокол по биобезопасности</A></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/04) Interactive Modules/IM02En.exe" target=_blank>Введение в Механизм посредничества по биобезопасности</A></P>]]></data>
             </s>
         </t>
         <t key="{A1783282-C59F-4112-A609-A3CC8D0CF476}">
             <title m="31/07/2008 10:09:36">Обучающие примеры</title>
             <s key="BodyText">
-                <data m="31/07/2008 11:28:56"><![CDATA[<P>Обучающие примеры разработаны для помощи в применении положений Протокола, рассматриваемых в учебных модулях.</P>
-<P>&nbsp;</P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=639&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 1 Мексиканский производитель экспортирует семена хлопка.</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=640&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 2 Сотрудник органа государственного управления исследует ЖИО-ПКО</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=641&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 3 Использование центрального портала МПБ для предоставления сведений. Управление пользователями</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=642&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 4 Использование центрального портала МПБ для предоставления контактных сведений и сведений о компетентных национальных органах</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=643&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 5 Использование центрального портала МПБ для предоставления сведений о ЖИО и решений в отношении ЖИО</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=644&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 6 Использование центрального портала МПБ для предоставления сведений об оценке риска и законодательстве</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=645&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 7 Сотрудник таможни ищет информацию об импортируемых ЖИО</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=646&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 8 Научный сотрудник ищет информацию о разрешенном к использованию генетически модифицированном хлопке</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=647&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 9 Научный сотрудник ищет информацию об импортируемых ЖИО</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=648&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 10 Сведения о решении в отношении ЖИО которые должен предоставить Компетентный национальный орган</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=649&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 11 Специалист в области медицины ищет информацию о Процедуре заблаговременного обоснованного согласия</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=650&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 12 Представитель компании желает узнать, как предоставлять сведения МПБ</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=651&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 13 Национальное агентство по развитию ищет информацию о программах по созданию потенциала.</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=652&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 14 Заинтересованное лицо желает узнать, как предоставлять сведения МПБ</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=653&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР15 Заинтересованное лицо ищет информацию о ГМ пищевых продуктах</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=654&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 16 Организация вводит персональную контактную информацию</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=655&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 17 Организация вводит сведения об информационном бюллетене по биобезопасности</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=656&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 18 Академический институт вводит сведения о семинаре и курсах по биобезопасности.</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=657&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 19 Журналист ищет сведения о возможном незаконном трансграничном перемещении ЖИО</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=658&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 20 Страна только что стала Стороной Картахенского протокола</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=659&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 21 Сотрудник министерства Японии получил запрос на импорт ГМ картофеля из Кореи</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=660&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 22 Оценка риска в Гане устойчивой к насекомым папайи</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=661&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 23 Национальный координационный центр вводит сведения об эксперте по биобезопасности</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=662&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 24 Инспектор обнаружил неразрешенный ЖИО</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=663&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 25 Национальный координационный центр вводит сведения об оценке риска ГМ хлопка</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=664&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 26 Национальный координационный центр вводит сведения о законодательстве</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=665&amp;username=guest&amp;password=guest"' target=_blank>ПРИМЕР 27 Информационная схема Центрального портала МПБ</A></P>]]></data>
+                <data m="18/09/2008 12:04:07"><![CDATA[<P><STRONG>Обучающие примеры разработаны для помощи в применении положений Протокола, рассматриваемых в учебных модулях.</STRONG><BR></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS01Ru.pdf" target=_blank>ПРИМЕР 1 Мексиканский производитель экспортирует семена хлопка.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS02Ru.pdf" target=_blank>ПРИМЕР 2 Сотрудник органа государственного управления исследует ЖИО-ПКО.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS03Ru.pdf" target=_blank>ПРИМЕР 3 Использование центрального портала МПБ для предоставления сведений. Управление пользователями</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS04Ru.pdf" target=_blank>ПРИМЕР 4 Использование центрального портала МПБ для предоставления контактных сведений и сведений о компетентных национальных органах</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS05Ru.pdf" target=_blank>ПРИМЕР 5 Использование центрального портала МПБ для предоставления сведений о ЖИО и решений в отношении ЖИО</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS06Ru.pdf" target=_blank>ПРИМЕР 6 Использование центрального портала МПБ для предоставления сведений об оценке риска и законодательстве</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS07Ru.pdf" target=_blank>ПРИМЕР 7 Сотрудник таможни ищет информацию об импортируемых ЖИО</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS08Ru.pdf" target=_blank>ПРИМЕР 8 Научный сотрудник ищет информацию о разрешенном к использованию генетически модифицированном хлопке</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS09Ru.pdf" target=_blank>ПРИМЕР 9 Научный сотрудник ищет информацию об импортируемых ЖИО</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS10Ru.pdf" target=_blank>ПРИМЕР 10 Сведения о решении в отношении ЖИО которые должен предоставить Компетентный национальный орган</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS11Ru.pdf" target=_blank>ПРИМЕР 11 Специалист в области медицины ищет информацию о Процедуре заблаговременного обоснованного согласия</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS12Ru.pdf" target=_blank>ПРИМЕР 12 Представитель компании желает узнать, как предоставлять сведения МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS13Ru.pdf" target=_blank>ПРИМЕР 13 Национальное агентство по развитию ищет информацию о программах по созданию потенциала.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS14Ru.pdf" target=_blank>ПРИМЕР 14 Заинтересованное лицо желает узнать, как предоставлять сведения МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS15Ru.pdf" target=_blank>ПРИМЕР 15 Заинтересованное лицо ищет информацию о ГМ пищевых продуктах</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS16Ru.pdf" target=_blank>ПРИМЕР 16 Организация вводит персональную контактную информацию</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS17Ru.pdf" target=_blank>ПРИМЕР 17 Организация вводит сведения об информационном бюллетене по биобезопасности</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS18Ru.pdf" target=_blank>ПРИМЕР 18 Академический институт вводит сведения о семинаре и курсах по биобезопасности.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS19Ru.pdf" target=_blank>ПРИМЕР 19 Журналист ищет сведения о возможном незаконном трансграничном перемещении ЖИО</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS20Ru.pdf" target=_blank>ПРИМЕР 20 Страна только что стала Стороной Картахенского протокола</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS21Ru.pdf" target=_blank>ПРИМЕР 21 Сотрудник министерства Японии получил запрос на импорт ГМ картофеля из Кореи</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS22Ru.pdf" target=_blank>ПРИМЕР 22 Оценка риска в Гане устойчивой к насекомым папайи</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS23Ru.pdf" target=_blank>ПРИМЕР 23 Национальный координационный центр вводит сведения об эксперте по биобезопасности</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS24Ru.pdf" target=_blank>ПРИМЕР 24 Инспектор обнаружил неразрешенный ЖИО</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS25Ru.pdf" target=_blank>ПРИМЕР 25 Национальный координационный центр вводит сведения об оценке риска ГМ хлопка</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS26Ru.pdf" target=_blank>ПРИМЕР 26 Национальный координационный центр вводит сведения о законодательстве</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/05) Case Studies/CS27Ru.pdf" target=_blank>ПРИМЕР 27 Информационная схема Центрального портала МПБ</A></P>]]></data>
             </s>
         </t>
         <t key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}">
             <title m="31/07/2008 10:21:50">Справочные руководства</title>
             <s key="BodyText">
-                <data m="20/08/2008 11:22:47"><![CDATA[<P>Ряд справочных материалов, содержащих краткую информацию по основным темам МПБ, которые могут быть использованы как настольные руководства по завершению обучения.</P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=666&amp;username=guest&amp;password=guest"' target=_blank>Быстрое начало работы с МПБ</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=667&amp;username=guest&amp;password=guest"' target=_blank>Сокращения</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=668&amp;username=guest&amp;password=guest"' target=_blank>Типы сведений МПБ</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=669&amp;username=guest&amp;password=guest"' target=_blank>Пиктограммы</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=670&amp;username=guest&amp;password=guest"' target=_blank>Краткий словарь</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=671&amp;username=guest&amp;password=guest"' target=_blank>Центр управления</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=672&amp;username=guest&amp;password=guest"' target=_blank>Решения и заявления</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=673&amp;username=guest&amp;password=guest"' target=_blank>Встроенные или модифицированные признаки</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=674&amp;username=guest&amp;password=guest"' target=_blank>Контактные данные</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=675&amp;username=guest&amp;password=guest"' target=_blank>Информационные ресурсы</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=676&amp;username=guest&amp;password=guest"' target=_blank>Уникальная идентификация</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=677&amp;username=guest&amp;password=guest"' target=_blank>Контрольный список сведений обязательных для предоставления МПБ</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=678&amp;username=guest&amp;password=guest"' target=_blank>Сроки предоставления сведений МПБ</A></P>
-<P><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=679&amp;username=guest&amp;password=guest"' target=_blank>Контрольный список действий при становлении Стороной Протокола</A></P>]]></data>
+                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Ряд справочных материалов, содержащих краткую информацию по основным темам МПБ, которые могут быть использованы как настольные руководства по завершению обучения.</STRONG><BR><BR><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR01Ru.pdf" target=_blank>Быстрое начало работы с МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR02Ru.pdf" target=_blank>Сокращения</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR03Ru.pdf" target=_blank>Типы сведений МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR04Ru.pdf" target=_blank>Пиктограммы</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR05Ru.pdf" target=_blank>Краткий словарь</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR06Ru.pdf" target=_blank>Центр управления</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR07Ru.pdf" target=_blank>Решения и заявления</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR08Ru.pdf" target=_blank>Встроенные или модифицированные признаки</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR09Ru.pdf" target=_blank>Контактные данные</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR10Ru.pdf" target=_blank>Информационные ресурсы</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR11Ru.pdf" target=_blank>Уникальная идентификация</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR12Ru.pdf" target=_blank>Контрольный список сведений обязательных для предоставления МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR13Ru.pdf" target=_blank>Сроки предоставления сведений МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/06) Ready Reference Guides/RR14Ru.pdf" target=_blank>Контрольный список действий при становлении Стороной Протокола</A></P>]]></data>
             </s>
         </t>
         <t key="{CD05326A-B670-4F86-B67C-32F37CF08868}">
             <title m="31/07/2008 10:24:02">Темы для обсуждения и ответы к ним</title>
             <s key="BodyText">
-                <data m="20/08/2008 11:22:46"><![CDATA[<DIV class=summary>Ряд карточек с различными темами для обсуждения во время проведения обучения и ответы к ним. </DIV>
-<DIV class=summary></DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=680&amp;username=guest&amp;password=guest"' target=_blank>Темы для обсуждения</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=681&amp;username=guest&amp;password=guest"' target=_blank>Темы для обсуждения и ответы к ним</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:07"><![CDATA[<P><STRONG>Ряд карточек с различными темами для обсуждения во время проведения обучения и ответы к ним</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/07) Discussion Points with Answer Keys/DP01Ru.pdf" target=_blank>Темы для обсуждения</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/07) Discussion Points with Answer Keys/DP02Ru.pdf" target=_blank>Темы для обсуждения и ответы к ним</A></P>]]></data>
             </s>
         </t>
         <t key="{3991F005-AEC1-4018-97B5-56480ECA3639}">
             <title m="31/07/2008 10:25:47">Вопросы для викторины и ответы к ним</title>
             <s key="BodyText">
-                <data m="20/08/2008 11:22:46"><![CDATA[<DIV class=summary>Ряд вопросов для викторины, которая может быть проведена во время обучения для обеспечения взаимодействия с участниками и оценки понимания ими различных аспектов МПБ </DIV>
-<DIV class=summary></DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=682&amp;username=guest&amp;password=guest"' target=_blank>Карточки викторины</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=683&amp;username=guest&amp;password=guest"' target=_blank>Вопросы викторины с ответами</A>&nbsp; </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=684&amp;username=guest&amp;password=guest"' target=_blank>Игра «Поиск сокровищ»</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Ряд вопросов для викторины, которая может быть проведена во время обучения для обеспечения взаимодействия с участниками и оценки понимания ими различных аспектов МПБ</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/08) Quiz Questions with Answer Keys/QZ01Ru.pdf" target=_blank>Карточки викторины</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/08) Quiz Questions with Answer Keys/QZ02Ru.pdf" target=_blank>Вопросы викторины с ответами</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/08) Quiz Questions with Answer Keys/QZ03Ru.pdf" target=_blank>Игра «Поиск сокровищ»</A></P>]]></data>
             </s>
         </t>
         <t key="{35DB51EF-64A0-460D-A525-0B8C15297301}">
             <title m="31/07/2008 10:31:29">Оперативное руководство</title>
             <s key="BodyText">
-                <data m="31/07/2008 11:28:57"><![CDATA[<DIV class=summary>Оперативное руководство предоставляет подробную информацию для стран об участии в проекте ЮНЕП-ГЭФ «Эффективное участие в Механизме посредничество по биобезопасности (МПБ)» </DIV>
-<DIV class=summary></DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=685&amp;username=guest&amp;password=guest"' target=_blank>Оперативное руководство</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=686&amp;username=guest&amp;password=guest"' target=_blank>Приложение 7</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/word.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=695&amp;username=guest&amp;password=guest"' target=_blank>Форма 9 (на английском языке)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/word.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=696&amp;username=guest&amp;password=guest"' target=_blank>Форма 10 (на английском языке)</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Оперативное руководство предоставляет подробную информацию для стран об участии в проекте ЮНЕП-ГЭФ «Эффективное участие в Механизме посредничество по биобезопасности (МПБ)»</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/09) Operational Handbook/OH01Ru.pdf" target=_blank>Оперативное руководство</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/09) Operational Handbook/OH02Ru.pdf" target=_blank>Приложение 7</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/word.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/09) Operational Handbook/OH11En.doc" target=_blank>Форма 9 (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/word.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/09) Operational Handbook/OH12En.doc" target=_blank>Форма 10 (на английском языке)</A></P>]]></data>
             </s>
         </t>
         <t key="{31106789-AEA0-44EC-B4B8-96BE30820603}">
             <title m="31/07/2008 10:38:44">Наглядные пособия</title>
             <s key="BodyText">
-                <data m="31/07/2008 11:28:58"><![CDATA[<DIV class=summary>Данный раздел содержит наглядные пособия, содержащие основные понятия о МПБ, в виде плаката и краткой брошюры, которые можно изменять в соответствии с требованиями обучения непосредственной группы обучаемых лиц конкретной страны. </DIV>
-<DIV class=summary></DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/word.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=697&amp;username=guest&amp;password=guest"' target=_blank>Брошюра по МПБ (на английском языке)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/word.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=698&amp;username=guest&amp;password=guest"' target=_blank>Плакат по МПБ (на английском языке)</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Данный раздел содержит наглядные пособия, содержащие основные понятия о МПБ, в виде плаката и краткой брошюры, которые можно изменять в соответствии с требованиями обучения непосредственной группы обучаемых лиц конкретной страны.</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/10) Promotional Materials/PM01En.doc" target=_blank>Брошюра по МПБ (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/10) Promotional Materials/PM02En.doc" target=_blank>Плакат по МПБ (на английском языке)</A></P>]]></data>
             </s>
         </t>
         <t key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}">
             <title m="31/07/2008 10:39:30">Упражнения</title>
             <s key="BodyText">
-                <data m="31/07/2008 11:28:56"><![CDATA[<DIV class=summary>Упражнения для проведения семинаров по МПБ </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A title=Ресурс href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=699&amp;username=guest&amp;password=guest"' target=_blank>Упражнения A-F</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:07"><![CDATA[<P><STRONG>Упражнения для проведения семинаров по МПБ</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/11) Exercises/AE01Ru.pdf" target=_blank>Упражнения A-F</A></P>]]></data>
             </s>
         </t>
         <t key="{7175BBD5-5EFE-471F-AA74-B976131B0181}">
             <title m="31/07/2008 09:44:23">Учебные модули</title>
             <s key="BodyText">
-                <data m="31/07/2008 11:28:58"><![CDATA[<DIV class=summary>Учебные модули в формате PDF, которые содержат различную информацию от вводных материалов до детальных обзоров<BR>Большинство модулей содержат интерактивные упражнения и детальные пошаговые руководства выполнения тех или иных действий. </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=628&amp;username=guest&amp;password=guest"' target=_blank>Введение в Картахенский протокол по биобезопасности</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=629&amp;username=guest&amp;password=guest"' target=_blank>Введение в Механизм посредничества по биобезопасности</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=630&amp;username=guest&amp;password=guest"' target=_blank>Знакомство с Центральным порталом МПБ</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=631&amp;username=guest&amp;password=guest"' target=_blank>Поиск информации на Центральном портале МПБ</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=632&amp;username=guest&amp;password=guest"' target=_blank>Рекомендации для стран(на английском языке)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=633&amp;username=guest&amp;password=guest"' target=_blank>Использование центра управления(на английском языке)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=634&amp;username=guest&amp;password=guest"' target=_blank>Предоставление национальных сведений(на английском языке)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=635&amp;username=guest&amp;password=guest"' target=_blank>Ввод информативных сведений(на английском языке)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ресурс src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=636&amp;username=guest&amp;password=guest"' target=_blank>Становление Стороной Картахенского протокола</A> </DIV>]]></data>
+                <data m="18/09/2008 12:04:09"><![CDATA[<P><STRONG>Учебные модули в формате PDF, которые содержат различную информацию от вводных материалов до детальных обзоров. Большинство модулей содержат интерактивные упражнения и детальные пошаговые руководства выполнения тех или иных действий.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO01Ru.pdf" target=_blank>Введение в Картахенский протокол по биобезопасности</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO02Ru.pdf" target=_blank>Введение в Механизм посредничества по биобезопасности</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO03Ru.pdf" target=_blank>Знакомство с Центральным порталом МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO04Ru.pdf" target=_blank>Поиск информации на Центральном портале МПБ</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO05En.pdf" target=_blank>Рекомендации для стран (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO06En.pdf" target=_blank>Использование центра управления (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO07En.pdf" target=_blank>Предоставление национальных сведений (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO08En.pdf" target=_blank>Ввод информативных сведений (на английском языке)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/03) Training Modules/MO10Ru.pdf" target=_blank>Становление Стороной Картахенского протокола</A></P>]]></data>
             </s>
         </t>
         <t key="{1D2A4DF8-1401-4F1D-AF00-589CC19F49A0}">

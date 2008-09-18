@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1036" Version="3.0.214" SaveDateTime="17/09/2008 15:12:56" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
+<HSProjectLocalization LocaleId="1036" Version="3.0.214" SaveDateTime="18/09/2008 12:08:24" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -923,23 +923,22 @@
         <t key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}">
             <title m="08/08/2008 10:18:48">Utilisation des modules de formation du CEPRB pour satisfaire les besoins des intervenants</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:49:17"><![CDATA[<DIV class=summary>
-<P>Fournit des directives aux instructeurs du CEPRB pour la formation d'une variété de différents intervenants en utilisant les modules de formation.</P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=499&amp;username=guest&amp;password=guest"' target=_blank>Guide de l'utilisation des matériaux</A></P></DIV>]]></data>
+                <data m="18/09/2008 10:47:00"><![CDATA[<P><STRONG>Fournit des directives aux instructeurs du CEPRB pour la formation d'une variété de différents intervenants en utilisant les modules de formation.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/01) Using BCH training modules to meet stakeholder needs/GD01Fr.pdf" target=_blank>Guide de l'utilisation des matériaux</A></P>]]></data>
             </s>
         </t>
         <t key="{F20DF2B9-2309-429A-9B39-197F854B4999}">
             <title m="08/08/2008 10:20:31"><![CDATA[Programmes d'études pour les différents intervenants]]></title>
             <s key="BodyText">
-                <data m="08/08/2008 10:49:17"><![CDATA[<DIV>Résume toutes les ressources de formation disponibles et décrit le programme d'études pour chaque groupe de d'intervenants. </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=500&amp;username=guest&amp;password=guest"' target=_blank>Saisie de Données Nationales</A> </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=501&amp;username=guest&amp;password=guest"' target=_blank>Générateurs d'Informations</A> </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=502&amp;username=guest&amp;password=guest"' target=_blank>ONGs &amp; Société Civile</A> </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=503&amp;username=guest&amp;password=guest"' target=_blank>Groupes Industriels</A> </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=504&amp;username=guest&amp;password=guest"' target=_blank>Scientifiques, Académiciens, Organisations de Biosécurité</A> </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=505&amp;username=guest&amp;password=guest"' target=_blank>Douanes et contrôle de frontières.</A> </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=506&amp;username=guest&amp;password=guest"' target=_blank>Media</A> </DIV>
-<DIV><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=507&amp;username=guest&amp;password=guest"' target=_blank>Public General</A> </DIV>]]></data>
+                <data m="18/09/2008 10:47:00"><![CDATA[<P><STRONG>Résume toutes les ressources de formation disponibles et décrit le programme d'études pour chaque groupe d'intervenants.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC01Fr.pdf" target=_blank>Saisie de Données Nationales</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC02Fr.pdf" target=_blank>Générateurs d'Informations</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC03Fr.pdf" target=_blank>ONGs &amp; Société Civile</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC04Fr.pdf" target=_blank>Groupes Industriels</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC05Fr.pdf" target=_blank>Scientifiques, Académiciens, Organisations de Biosécurité</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC06Fr.pdf" target=_blank>Douanes et contrôle de frontières.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC07Fr.pdf" target=_blank>Media</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/02) Stakeholder curricula/CC08Fr.pdf" target=_blank>Public General</A></P>]]></data>
             </s>
         </t>
         <t key="{220F4AB9-A675-4477-A9EF-F4B9384624DB}">
@@ -4902,35 +4901,34 @@ réglementaires.</span></p>
         <t key="{63C89700-5584-4D48-AED7-1FF484E37313}">
             <title m="24/07/2008 15:35:59">Outil de développement du CEPRB HERMES</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:51:28"><![CDATA[<DIV class=summary>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN>Récemment, le SCBD a développé une nouvelle application, nom de code HERMES, qui peut être utilisée aisément par les pays désirant avoir leur propre application nationale simple, mais qui n’ont pas de ressources pour le faire, ou ne veulent pas développer leurs systèmes propres.<BR><BR>HERMES sera exécutée sur les serveurs du SCBD, circonstanciée pour chaque pays particulier. Au niveau du pays, on a juste besoin d’avoir des ordinateurs disponibles avec accès internet et des navigateurs. La personnalisation est aussi réalisée via internet.</SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt">&nbsp;</P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=580&amp;username=guest&amp;password=guest"' target=_blank>Manuel Hermes</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=581&amp;username=guest&amp;password=guest"' target=_blank>Exercice pratique en utilisant HERMES</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=582&amp;username=guest&amp;password=guest" target=_blank ?>Tutoriel Modules 1 et 2 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=583&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 3 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=584&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 4 Partie 1 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=585&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 4 Partie 2 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=586&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 4 Partie 3 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=587&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 5 Partie 1 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=588&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 5 Partie 2 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=589&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 5 Partie 3 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=590&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 5 Partie 4 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=591&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 5 Partie 5 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=592&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 5 Partie 6 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=593&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 5 Partie 7 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=594&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 6 Partie 1 (en anglais)</A></SPAN></P>
-<P><SPAN><IMG class=activityicon alt=Ressource src="images/powerpoint.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=595&amp;username=guest&amp;password=guest"' target=_blank>Tutoriel Module 6 Partie 2 (en anglais)</A></SPAN></P></DIV>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Récemment, le SCBD a développé une nouvelle application, nom de code HERMES, qui peut être utilisée aisément par les pays désirant avoir leur propre application nationale simple, mais qui n’ont pas de ressources pour le faire, ou ne veulent pas développer leurs systèmes propres.</STRONG></P>
+<P><STRONG>HERMES sera exécutée sur les serveurs du SCBD, circonstanciée pour chaque pays particulier. Au niveau du pays, on a juste besoin d’avoir des ordinateurs disponibles avec accès internet et des navigateurs. La personnalisation est aussi réalisée via internet.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HM01Fr.pdf" target=_blank>Manuel Hermes</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HM02Fr.pdf" target=_blank>Exercice pratique en utilisant HERMES</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT01En.ppt" target=_blank>Tutoriel Modules 1 et 2 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT02En.ppt" target=_blank>Tutoriel Module 3 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT03En.ppt" target=_blank>Tutoriel Module 4 Partie 1 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT04En.ppt" target=_blank>Tutoriel Module 4 Partie 2 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT05En.ppt" target=_blank>Tutoriel Module 4 Partie 3 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT06En.ppt" target=_blank>Tutoriel Module 5 Partie 1 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT07En.ppt" target=_blank>Tutoriel Module 5 Partie 2 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT08En.ppt" target=_blank>Tutoriel Module 5 Partie 3 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT09En.ppt" target=_blank>Tutoriel Module 5 Partie 4 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT10En.ppt" target=_blank>Tutoriel Module 5 Partie 5 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT11En.ppt" target=_blank>Tutoriel Module 5 Partie 6 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT12En.ppt" target=_blank>Tutoriel Module 5 Partie 7 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT13En.ppt" target=_blank>Tutoriel Module 6 Partie 1 (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/powerpoint.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/12) Hermes BCH Development tool/HT14En.ppt" target=_blank>Tutoriel Module 6 Partie 2 (en anglais)</A></P>]]></data>
             </s>
         </t>
         <t key="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}">
             <title m="24/07/2008 15:37:04">Outil de développement du CEPRB AJAX</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:43:25"><![CDATA[<DIV>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-CA>Le branchement Ajax du CEPRB est une application JavaScript légère basée sur la technologie Ajax qui peut être aisément intégrée dans tout site web afin de permettre un affichage dynamique de l’information depuis le Portail Central du CEPRB.<BR><BR>L’utilisation du branchement Ajax du CEPRB ne demande pas de connaissances spécifiques en TIC. Le branchement marche sur toutes les plateformes de serveurs et ne demande aucune installation de logiciels. Tous les fichiers nécessaires sont situés sur le Portail Central du CEPRB et sont entretenus par le Secrétariat.<BR><BR>Le branchement Ajax du CEPRB est une application client. La connexion au Portail Central du CEPRB est faite directement par le client (utilisateur final).</SPAN></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=596&amp;username=guest&amp;password=guest"' target=_blank>Ajax Manuel</A></P>
-<P class=MsoNormal><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=597&amp;username=guest&amp;password=guest"' target=_blank>Exercice pratique sur AJAX</A></P></DIV>]]></data>
+                <data m="18/09/2008 10:46:58"><![CDATA[<P><B>Le branchement Ajax du CEPRB est une application JavaScript légère basée sur la technologie Ajax qui peut être aisément intégrée dans tout site web afin de permettre un affichage dynamique de l’information depuis le Portail Central du CEPRB.</B></P>
+<P><B>L’utilisation du branchement Ajax du CEPRB ne demande pas de connaissances spécifiques en TIC. Le branchement marche sur toutes les plateformes de serveurs et ne demande aucune installation de logiciels. Tous les fichiers nécessaires sont situés sur le Portail Central du CEPRB et sont entretenus par le Secrétariat.</B></P>
+<P><B>Le branchement Ajax du CEPRB est une application client. La connexion au Portail Central du CEPRB est faite directement par le client (utilisateur final).</B></P>
+<P class=MsoNormal><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/13) Ajax BCH Development tool/AX01Fr.pdf" target=_blank>Ajax Manuel.</A></P>
+<P class=MsoNormal><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A href="http://bch.cbd.int/help/trainingmaterials/Fr/13) Ajax BCH Development tool/AX02Fr.pdf" target=_blank>Exercice pratique sur AJAX</A></P>]]></data>
             </s>
         </t>
         <t key="{81005735-ED01-441F-BAB4-BAD3EEC8FE8B}">
@@ -5064,125 +5062,118 @@ réglementaires.</span></p>
         <t key="{33985FA1-5EE1-4618-B209-9CAB053AE672}">
             <title m="24/07/2008 14:25:51">Modules Interactifs</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:21:44"><![CDATA[<DIV class=summary>
-<DIV id=result_box dir=ltr>Il y a deux modules de formation interactifs conçus pour permettre aux utilisateurs de comprendre les concepts introduits dans les Modules de Formation 1 et 2 sous forme de participation active. Les modules sont conçus développés dans Macromedia Flash.</DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/web.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=517&amp;username=guest&amp;password=guest"' target=_blank>Introduction au Protocole de Cartagena sur la Biosécurité</A> </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/web.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=518&amp;username=guest&amp;password=guest"' target=_blank>Introduction au Centre D'Echange pour la Préventions des Risques Biotechnologiques</A> </DIV></DIV>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Il y a deux modules de formation interactifs conçus pour permettre aux utilisateurs de comprendre les concepts introduits dans les Modules de Formation 1 et 2 sous forme de participation active. Les modules sont conçus développés dans Macromedia Flash</STRONG></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/04) Interactive Modules/IM01Fr.exe" target=_blank>Introduction au Protocole de Cartagena sur la Biosécurité</A></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/04) Interactive Modules/IM02Fr.exe" target=_blank>Introduction au Centre D'Echange pour la Préventions des Risques Biotechnologiques</A></P>]]></data>
             </s>
         </t>
         <t key="{A1783282-C59F-4112-A609-A3CC8D0CF476}">
             <title m="24/07/2008 14:35:41">Etudes de Cas</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:27:48"><![CDATA[<P>Il y a plusieurs cas d’études interactifs conçus pour aider les utilisateurs à appliquer les concepts traités dans différents modules de formation.</P>
-<P><BR><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=519&amp;username=guest&amp;password=guest"' target=_blank>Cas 1 Un négociant mexicain importer des graines de coton</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=520&amp;username=guest&amp;password=guest"' target=_blank>Cas 2 Un organisme de contrôle cherche des OVM-AHA.</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=521&amp;username=guest&amp;password=guest"' target=_blank>Cas 3 Enregisterement de donées dans le PC gestion des utilisateurs</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=522&amp;username=guest&amp;password=guest"' target=_blank>Cas 4 Enregistrement de données dans le PC Les coordonnées des autorités nationales compétentes</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=523&amp;username=guest&amp;password=guest"' target=_blank>Cas 5 Enregistrement de données dans le PC Les OVM et les décisions concernant ces OVM’s</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=524&amp;username=guest&amp;password=guest"' target=_blank>Cas 6 Enregistrement de données dans le PC Gestion des risques et les lois</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A class=dimmed title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=525&amp;username=guest&amp;password=guest"' target=_blank>Cas 7 Agent douanes demande des renseignements sur l'importation d'organismes vivants modifiés</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=526&amp;username=guest&amp;password=guest"' target=_blank>Cas 8 Scientifique cherche des information sur le commerce du coton GM</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=527&amp;username=guest&amp;password=guest"' target=_blank>Cas 9 Scientifique sollicite des informations sur l'importation d'organismes vivants modifiés</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=528&amp;username=guest&amp;password=guest"' target=_blank>Cas 10 Un ANC doit fournir information au Centre d'échange sur une décision</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=529&amp;username=guest&amp;password=guest"' target=_blank>Cas 11 Médicale recherche des informations relatives à l’APCC</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=530&amp;username=guest&amp;password=guest"' target=_blank>Cas 12 Une entreprise cherche les informations sur l’exportation d'OVM</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=531&amp;username=guest&amp;password=guest"' target=_blank>Cas 13 Une Agence nationale de développement recherche des informations sur des programmes existants de renforcement des capacités.</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=532&amp;username=guest&amp;password=guest"' target=_blank>Cas 14 Un individu souhaite savoir comment il peut adresser un fichier au BCH</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=533&amp;username=guest&amp;password=guest"' target=_blank>Cas 15 Un individu recherche des informations sur un produit GM destiné à l’alimentation humaine.</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=534&amp;username=guest&amp;password=guest"' target=_blank>Cas 16 Une organisation enregistre le nom d’une personne à contacter.</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=535&amp;username=guest&amp;password=guest"' target=_blank>Cas 17 Une organisation enregistre une lettre d’information sur la biodiversité</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=536&amp;username=guest&amp;password=guest"' target=_blank>Cas 18 Une institution académique souhaite enregistrer un cours et atelier de biosécurité</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=537&amp;username=guest&amp;password=guest"' target=_blank>Cas 19 Journaliste cherche un article sur d'éventuels mouvements transfrontières illicites</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=538&amp;username=guest&amp;password=guest"' target=_blank>Cas 20 Un pays vient de devenir une Partie.</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=539&amp;username=guest&amp;password=guest" target=_blank ?>Cas 21 Un organisme de contrôle au Japon a reçu une demande d’importation de pommes de terre en provenance de République de Corée</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=540&amp;username=guest&amp;password=guest" target=_blank ?>Cas 22 Un expert souhaite trouver l’information nécessaire à l’évaluation des risques dans le cadre d’une importation de papaye résistant aux insectes</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=541&amp;username=guest&amp;password=guest" target=_blank ?>Cas 23 Correspondant enregistre un expert en biosécurité dans la Liste d'Experts en biosécurité</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=542&amp;username=guest&amp;password=guest"' target=_blank>Cas 24 Un agent d’inspection découvre une OVM non approuvée</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=543&amp;username=guest&amp;password=guest" target=_blank ?>Cas 25 ANC enregistre une évaluation des risque et une décision pour importer du coton GM</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=544&amp;username=guest&amp;password=guest" target=_blank ?>Cas 26 Correspondant National enregistre des lois sur biosécurité.</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=545&amp;username=guest&amp;password=guest"' target=_blank>Cas 27 Destination des données du Portail Central</A></P>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Il y a plusieurs cas d’études interactifs conçus pour aider les utilisateurs à appliquer les concepts traités dans différents modules de formation.</STRONG><BR></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS01Fr.pdf" target=_blank>Cas 1 Un négociant mexicain importer des graines de coton</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS02Fr.pdf" target=_blank>Cas 2 Un organisme de contrôle cherche des OVM-AHA.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS03Fr.pdf" target=_blank>Cas 3 Enregisterement de donées dans le PC gestion des utilisateurs</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS04Fr.pdf" target=_blank>Cas 4 Enregistrement de données dans le PC Les coordonnées des autorités nationales compétentes</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS05Fr.pdf" target=_blank>Cas 5 Enregistrement de données dans le PC Les OVM et les décisions concernant ces OVM’s</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS06Fr.pdf" target=_blank>Cas 6 Enregistrement de données dans le PC Gestion des risques et les lois</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS07Fr.pdf" target=_blank>Cas 7 Agent douanes demande des renseignements sur l'importation d'organismes vivants modifiés</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS08Fr.pdf" target=_blank>Cas 8 Scientifique cherche des information sur le commerce du coton GM</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS09Fr.pdf" target=_blank>Cas 9 Scientifique cherche des informations sur l'importation d'organismes vivants modifiés</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS10Fr.pdf" target=_blank>Cas 10 Un ANC doit fournir information au Centre d'échange sur une décision</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS11Fr.pdf" target=_blank>Cas 11 Médicale recherche des informations relatives à l’APCC</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS12Fr.pdf" target=_blank>Cas 12 Une entreprise cherche les informations sur l’exportation d'OVM</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS13Fr.pdf" target=_blank>Cas 13 Une Agence nationale de développement recherche des informations sur des programmes existants de renforcement des capacités.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS14Fr.pdf" target=_blank>Cas 14 Un individu souhaite savoir comment il peut adresser un fichier au BCH</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS15Fr.pdf" target=_blank>Cas 15 Un individu recherche des informations sur un produit GM destiné à l’alimentation humaine.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS16Fr.pdf" target=_blank>Cas 16 Une organisation enregistre le nom d’une personne à contacter.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS17Fr.pdf" target=_blank>Cas 17 Une organisation enregistre une lettre d’information sur la biodiversité</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS18Fr.pdf" target=_blank>Cas 18 Une institution académique souhaite enregistrer un cours et atelier de biosécurité</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS19Fr.pdf" target=_blank>Cas 19 Journaliste cherche un article sur d'éventuels mouvements transfrontières illicites</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS20Fr.pdf" target=_blank>Cas 20 Un pays vient de devenir une Partie.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS21Fr.pdf" target=_blank>Cas 21 Un organisme de contrôle au Japon a reçu une demande d’importation de pommes de terre en provenance de République de Corée</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS22Fr.pdf" target=_blank>Cas 22 Un expert souhaite trouver l’information nécessaire à l’évaluation des risques dans le cadre d’une importation de papaye résistant aux insectes</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS23Fr.pdf" target=_blank>Cas 23 Correspondant enregistre un expert en biosécurité dans la Liste d'Experts en biosécurité</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS24Fr.pdf" target=_blank>Cas 24 Un agent d’inspection découvre une OVM non approuvée</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS25Fr.pdf" target=_blank>Cas 25 ANC enregistre une évaluation des risque et une décision pour importer du coton GM</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS26Fr.pdf" target=_blank>Cas 26 Correspondant National enregistre des lois sur biosécurité.</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/05) Case Studies/CS27Fr.pdf" target=_blank>Cas 27 Destination des données du Portail Central</A></P>]]></data>
             </s>
         </t>
         <t key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}">
             <title m="24/07/2008 14:51:41">Guide de Référence</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:49:17"><![CDATA[<P><SPAN lang=ES-TRAD>Il y a plusieurs feuillets de référence disponibles qui fournissent des vues d’ensemble rapides des parties du CEPRB fréquemment utilisées et qui pourraient être utilisées comme références au bureau après la fin de la formation.</SPAN></P>
-<P>&nbsp;</P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=546&amp;username=guest&amp;password=guest"' target=_blank>Brève Initiation au CEPRB</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=547&amp;username=guest&amp;password=guest"' target=_blank>Acronymes</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=548&amp;username=guest&amp;password=guest"' target=_blank>Types de registres sur le CEPRB</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=549&amp;username=guest&amp;password=guest" target=_blank>Icônes</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=550&amp;username=guest&amp;password=guest"' target=_blank>Petit Glossaire</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=551&amp;username=guest&amp;password=guest"' target=_blank>Centre de Gestion</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=552&amp;username=guest&amp;password=guest"' target=_blank>Décisions et déclarations</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=553&amp;username=guest&amp;password=guest"' target=_blank>Caractères Introduits</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=554&amp;username=guest&amp;password=guest"' target=_blank>Contacts</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=555&amp;username=guest&amp;password=guest"' target=_blank>Ressources d’information</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=556&amp;username=guest&amp;password=guest"' target=_blank>Identification unique</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=557&amp;username=guest&amp;password=guest"' target=_blank>Information à publier sur le CEPRB</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=558&amp;username=guest&amp;password=guest"' target=_blank>Délais pour publier des informations sur le CEPBR</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=559&amp;username=guest&amp;password=guest"' target=_blank>Liste de vérification des renseignements à communiquer au CEPRB</A></P>]]></data>
+                <data m="18/09/2008 10:47:00"><![CDATA[<P><STRONG>Il y a plusieurs feuillets de référence disponibles qui fournissent des vues d’ensemble rapides des parties du CEPRB fréquemment utilisées et qui pourraient être utilisées comme références au bureau après la fin de la formation.</STRONG><BR><BR><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR01Fr.pdf" target=_blank>Brève Initiation au CEPRB</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR02Fr.pdf" target=_blank>Acronymes</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR03Fr.pdf" target=_blank>Types de registres sur le CEPRB</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR04Fr.pdf" target=_blank>Icônes</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR05Fr.pdf" target=_blank>Petit Glossaire</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR06Fr.pdf" target=_blank>Centre de Gestion</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR07Fr.pdf" target=_blank>Décisions et déclarations</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR08Fr.pdf" target=_blank>Caractères Introduits</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR09Fr.pdf" target=_blank>Contacts</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR10Fr.pdf" target=_blank>Ressources d’information</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR11Fr.pdf" target=_blank>Identification unique</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR12Fr.pdf" target=_blank>Information à publier sur le CEPRB</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR13Fr.pdf" target=_blank>Délais pour publier des informations sur le CEPBR</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/06) Ready Reference Guides/RR14Fr.pdf" target=_blank>Liste de vérification des renseignements à communiquer au CEPRB</A></P>]]></data>
             </s>
         </t>
         <t key="{CD05326A-B670-4F86-B67C-32F37CF08868}">
             <title m="24/07/2008 15:27:52">Points de discussion</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:35:36"><![CDATA[<DIV class=summary>
-<DIV dir=ltr>Il y a plusieurs cartes avec différents scénarios pour la discussion qui peuvent être utilisées tout au long de la formation avec des clés de correction. </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=560&amp;username=guest&amp;password=guest"' target=_blank>Points de discussion</A> </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=561&amp;username=guest&amp;password=guest"' target=_blank>Points de discussion avec clé de correction</A> </DIV></DIV>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Il y a plusieurs cartes avec différents scénarios pour la discussion qui peuvent être utilisées tout au long de la formation avec des clés de correction.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/07) Discussion Points with Answer Keys/DP01Fr.pdf" target=_blank>Points de discussion</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/07) Discussion Points with Answer Keys/DP02Fr.pdf" target=_blank>Points de discussion avec clé de correction</A></P>]]></data>
             </s>
         </t>
         <t key="{3991F005-AEC1-4018-97B5-56480ECA3639}">
             <title m="08/08/2008 10:35:50">Questions Tests avec Correction</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:36:00"><![CDATA[<DIV class=summary>
-<DIV dir=ltr>Il y a plusieurs questions tests disponibles qui fournissent une interaction rapide avec les participants et un moyen facile d’évaluer la compréhension des divers usages du CEPRB et pourraient être utilisées au cours de la formation.</DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=562&amp;username=guest&amp;password=guest"' target=_blank>Cartes de tests rapides</A> </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=563&amp;username=guest&amp;password=guest"' target=_blank>Cartes de tests rapides avec clé de correction</A> </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=564&amp;username=guest&amp;password=guest"' target=_blank>Chasse au trésor</A> </DIV></DIV>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Il y a plusieurs questions tests disponibles qui fournissent une interaction rapide avec les participants et un moyen facile d’évaluer la compréhension des divers usages du CEPRB et pourraient être utilisées au cours de la formation.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/08) Quiz Questions with Answer Keys/QZ01Fr.pdf" target=_blank>Cartes de tests rapides</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/08) Quiz Questions with Answer Keys/QZ02Fr.pdf" target=_blank>Cartes de tests rapides avec clé de correction</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/08) Quiz Questions with Answer Keys/QZ03Fr.pdf" target=_blank>Chasse au trésor</A></P>]]></data>
             </s>
         </t>
         <t key="{35DB51EF-64A0-460D-A525-0B8C15297301}">
             <title m="24/07/2008 15:31:10"><![CDATA[Manuel D'Opérations]]></title>
             <s key="BodyText">
-                <data m="08/08/2008 10:36:30"><![CDATA[<DIV class=summary>
-<DIV id=result_box dir=ltr>Le Manuel D’opérations fournit des informations détaillées pour les pays concernant la participation au Projet PNUE-FEM pour une "Participation effective au Centre d’Echanges pour la prévention des risques biotechnologiques"</DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=565&amp;username=guest&amp;password=guest"' target=_blank>Manuel D'opérations</A> </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=566&amp;username=guest&amp;password=guest"' target=_blank>Annexe 7</A> </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/word.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=575&amp;username=guest&amp;password=guest"' target=_blank>Formulaire 9 (En Anglais)</A> </DIV>
-<DIV dir=ltr><IMG class=activityicon alt=Ressource src="images/word.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=576&amp;username=guest&amp;password=guest"' target=_blank>Formulaire 10 (En Anglais)</A> </DIV></DIV>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Le Manuel D’opérations fournit des informations détaillées pour les pays concernant la participation au Projet PNUE-FEM pour une "Participation effective au Centre d’Echanges pour la prévention des risques biotechnologiques"</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/09) Operational Handbook/OH01Fr.pdf" target=_blank>Manuel D’opérations</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/09) Operational Handbook/OH02Fr.pdf" target=_blank>Annexe 7</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/word.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/09) Operational Handbook/OH11En.doc" target=_blank>Formulaire 9 (en Anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/word.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/09) Operational Handbook/OH12En.doc" target=_blank>Formulaire 10 (en Anglais)</A></P>]]></data>
             </s>
         </t>
         <t key="{31106789-AEA0-44EC-B4B8-96BE30820603}">
             <title m="24/07/2008 15:34:10">Matériel Promotionnel</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:37:19"><![CDATA[<DIV class=summary>
-<P>Contient une affiche d’une page et un dépliant succinct avec le contenu de base qui peuvent être adaptés par le pays qui mène des cours pour intervenants et les utiliser comme matériel promotionnel.</P>
-<P><IMG class=activityicon alt=Ressource src="images/word.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=577&amp;username=guest&amp;password=guest" target=_blank ?>CEPRB Dépliant</A></P>
-<P><IMG class=activityicon alt=Ressource src="images/word.gif"> <A href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=578&amp;username=guest&amp;password=guest" target=_blank ?>CEPBR Affiche</A></P></DIV>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Contient une affiche d’une page et un dépliant succinct avec le contenu de base qui peuvent être adaptés par le pays qui mène des cours pour intervenants et les utiliser comme matériel promotionnel.</STRONG></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/10) Promotional Materials/PM01Fr.doc" target=_blank>CEPRB Dépliant</A></P>
+<P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/10) Promotional Materials/PM02Fr.doc" target=_blank>CEPRB Affiche</A></P>]]></data>
             </s>
         </t>
         <t key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}">
             <title m="24/07/2008 15:34:53">Exercises</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:37:27"><![CDATA[<DIV class=summary>Exercices pour l'atelier de formation du CEPRB </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=579&amp;username=guest&amp;password=guest"' target=_blank>Exercices A-F</A> </DIV>]]></data>
+                <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Exercices pour l'atelier de formation du CEPRB</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/11) Exercises/AE01Fr.pdf" target=_blank>Exercices A - F</A></P>]]></data>
             </s>
         </t>
         <t key="{7175BBD5-5EFE-471F-AA74-B976131B0181}">
             <title m="24/07/2008 14:09:03">Modules de Formation</title>
             <s key="BodyText">
-                <data m="08/08/2008 10:17:07"><![CDATA[<DIV class=summary>Il y a plusieurs modules de formation disponibles en format PDF, qui fournissent un éventail d’informations depuis le matériel introductif jusqu’à la revue approfondie. La plupart des modules comprennent des exercices interactifs et des explications détaillées des étapes nécessaires à chaque activité.<BR></DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=508&amp;username=guest&amp;password=guest"' target=_blank>Initiation au Protocole de Cartagena sur la Biosécurité</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=889&amp;username=guest&amp;password=guest"' target=_blank>Initiation au Centre d’Echange pour la Prévention des Risques Biotechnologiques</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=890&amp;username=guest&amp;password=guest"' target=_blank>Surfer sur le Portail Central du CEPRB</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=891&amp;username=guest&amp;password=guest"' target=_blank>Trouver l’information depuis le Portail Central du CEPRB</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=512&amp;username=guest&amp;password=guest" target=_blank ?>Lignes directrices recommandées pour les pays (en anglais)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=513&amp;username=guest&amp;password=guest" target=_blank ?>Utilisation du Centre de Gestion (en anglais)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=514&amp;username=guest&amp;password=guest" target=_blank ?>Enregistrement d’Informations Nationales (en anglais)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href="http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=893&amp;username=guest&amp;password=guest" target=_blank ?>Echange d’Informations sur la Biosécurité (en anglais)</A> </DIV>
-<DIV class=summary><IMG class=activityicon alt=Ressource src="images/pdf.gif"> <A title=Ressource href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=892&amp;username=guest&amp;password=guest"' target=_blank>Obligations d’échange d’informations lorsque l’on devient Partie au Protocole</A> </DIV>]]></data>
+                <data m="18/09/2008 10:47:00"><![CDATA[<P><STRONG>Il y a plusieurs modules de formation disponibles en format PDF, qui fournissent un éventail d’informations depuis le matériel introductif jusqu’à la revue approfondie. La plupart des modules comprennent des exercices interactifs et des explications détaillées des étapes nécessaires à chaque activité.</STRONG></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO01Fr.pdf" target=_blank>Initiation au Protocole de Cartagena sur la Biosécurité</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO02Fr.pdf" target=_blank>Initiation au Centre d’Echange pour la Prévention des Risques Biotechnologiques</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO03Fr.pdf" target=_blank>Surfer sur le Portail Central du CEPRB</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO04Fr.pdf" target=_blank>Trouver l’information depuis le Portail Central du CEPRB</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO05En.pdf" target=_blank>Lignes directrices recommandées pour les pays (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO06En.pdf" target=_blank>Utilisation du Centre de Gestion (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO07En.pdf" target=_blank>Enregistrement d’Informations Nationales (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO08En.pdf" target=_blank>Echange d’Informations sur la Biosécurité (en anglais)</A></P>
+<P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/03) Training Modules/MO10Fr.pdf" target=_blank>Obligations d’échange d’informations lorsque l’on devient Partie au Protocole</A></P>]]></data>
             </s>
         </t>
         <t key="{1D2A4DF8-1401-4F1D-AF00-589CC19F49A0}">

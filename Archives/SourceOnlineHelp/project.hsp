@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProject ProjectType="0" Version="3.0.214" SaveDateTime="17/09/2008 15:13:04" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
+<HSProject ProjectType="0" Version="3.0.214" SaveDateTime="18/09/2008 12:08:33" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
     <SpellIgnoreAllWordList/>
     <BuildFlags>
         <BuildFlag ID="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" Name="web" HighlightColor="16753151" Selected="False"/>
@@ -1756,7 +1756,7 @@ URL: <span id="urlSpan"></span></p>
 <LI><EM>You will need to uncompress the file and to&nbsp;write the ISO&nbsp;image to a CD-ROM. For instructions on how to do this, consult the manual provided with your CD-ROM writing software.</EM></LI>
 <LI><EM>ISO images are not saved to CD-ROMs in the same way as regular data files.</EM></SPAN></FONT></SPAN></LI></UL>]]></s>
     </Topic>
-    <Topic Key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}" Name="Using BCH training modules to meet stakeholder needs" Title="Using BCH training modules to meet stakeholder needs" Titlem="31-01-2008 12:43:51" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:51" ModifiedOn="17-09-2008 13:18:16" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}" Name="Using BCH training modules to meet stakeholder needs" Title="Using BCH training modules to meet stakeholder needs" Titlem="31-01-2008 12:43:51" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:51" ModifiedOn="18-09-2008 11:48:36" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -1767,7 +1767,7 @@ train a variety of different stakeholders.</strong></p>
 "http://bch.cbd.int/help/trainingmaterials/En/01) Using BCH training modules to meet stakeholder needs/GD01En.pdf"
 target="_blank">Guidance Document</a></p>]]></s>
     </Topic>
-    <Topic Key="{F20DF2B9-2309-429A-9B39-197F854B4999}" Name="Stakeholder curricula" Title="Stakeholder curricula" Titlem="31-01-2008 12:43:52" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:52" ModifiedOn="17-09-2008 13:20:20" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{F20DF2B9-2309-429A-9B39-197F854B4999}" Name="Stakeholder curricula" Title="Stakeholder curricula" Titlem="31-01-2008 12:43:52" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:48" Status="Complete" CreatedOn="31-01-2008 12:43:52" ModifiedOn="18-09-2008 11:49:36" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5200,7 +5200,7 @@ If the Notification Reference number is known, it can be entered into the
 <LI>
 <DIV class=Estilo1 align=left>If you have entered the URL in your browser directly, please check that it is correct.</DIV></LI></UL></BLOCKQUOTE></BLOCKQUOTE>]]></s>
     </Topic>
-    <Topic Key="{63C89700-5584-4D48-AED7-1FF484E37313}" Name="HERMES_BCH_Development_Tool" Title="HERMES BCH Development Tool" Titlem="20-06-2008 11:53:16" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:52:25" ModifiedOn="17-09-2008 15:03:30" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{63C89700-5584-4D48-AED7-1FF484E37313}" Name="HERMES_BCH_Development_Tool" Title="HERMES BCH Development Tool" Titlem="20-06-2008 11:53:16" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:52:25" ModifiedOn="18-09-2008 12:01:24" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5224,7 +5224,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT13En.ppt" target=_blank>Tutorial Module 6 Part 1</A></P>
 <P><IMG class=activityicon alt=Resource src="images/powerpoint.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/12) Hermes BCH Development tool/HT14En.ppt" target=_blank>Tutorial Module 6 Part 2</A></P>]]></s>
     </Topic>
-    <Topic Key="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}" Name="AJAX_BCH_Development_Tool" Title="AJAX BCH Development Tool" Titlem="20-06-2008 11:59:05" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:58:28" ModifiedOn="17-09-2008 15:04:18" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}" Name="AJAX_BCH_Development_Tool" Title="AJAX BCH Development Tool" Titlem="20-06-2008 11:59:05" ContentsTitle="" ContentsTitlem="24-06-2008 12:02:47" Status="Complete" CreatedOn="20-06-2008 11:58:28" ModifiedOn="18-09-2008 12:02:23" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5395,7 +5395,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><BR></P>
 <P class=MsoNormal>The content and views expressed on this website do not necessarily reflect the views or policies of the contributory organizations or the United Nations Environment Programme (UNEP) and neither do they imply any endorsement. The designations employed and the presentation of material on this website do not imply the expression of any opinion whatsoever on the part of UNEP concerning the legal status of any country, territory or city or its authorities, or concerning the delimitation of its frontiers and boundaries. Mention of a commercial company or product in this publication does not imply the endorsement of UNEP.</P>]]></s>
     </Topic>
-    <Topic Key="{33985FA1-5EE1-4618-B209-9CAB053AE672}" Name="Interactive_Modules" Title="Interactive Modules" Titlem="04-07-2008 10:20:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:19:56" ModifiedOn="17-09-2008 13:23:55" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{33985FA1-5EE1-4618-B209-9CAB053AE672}" Name="Interactive_Modules" Title="Interactive Modules" Titlem="04-07-2008 10:20:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:19:56" ModifiedOn="18-09-2008 11:50:44" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5404,7 +5404,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/04) Interactive Modules/IM01En.exe" target=_blank>Introduction to the Cartagena Protocol on Biosafety</A></P>
 <P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/04) Interactive Modules/IM02En.exe" target=_blank>Introduction to the Biosafety Clearing-House</A></P>]]></s>
     </Topic>
-    <Topic Key="{A1783282-C59F-4112-A609-A3CC8D0CF476}" Name="Case_Studies" Title="Case Studies" Titlem="04-07-2008 10:36:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:36:17" ModifiedOn="17-09-2008 13:24:59" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{A1783282-C59F-4112-A609-A3CC8D0CF476}" Name="Case_Studies" Title="Case Studies" Titlem="04-07-2008 10:36:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 10:36:17" ModifiedOn="18-09-2008 11:51:29" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5438,7 +5438,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS26En.pdf" target=_blank>Case 26 NFP registers laws</A></P>
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/05) Case Studies/CS27En.pdf" target=_blank>Case 27 Central Portal Information Route</A></P>]]></s>
     </Topic>
-    <Topic Key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}" Name="Ready_Reference_Guide" Title="Ready Reference Guide" Titlem="04-07-2008 11:03:18" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:02:59" ModifiedOn="17-09-2008 13:25:43" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}" Name="Ready_Reference_Guide" Title="Ready Reference Guide" Titlem="04-07-2008 11:03:18" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:02:59" ModifiedOn="18-09-2008 11:56:26" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5458,7 +5458,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR13En.pdf" target=_blank>Timeframe for Posting Information</A></P>
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/06) Ready Reference Guides/RR14En.pdf" target=_blank>New Party Checklist</A></P>]]></s>
     </Topic>
-    <Topic Key="{CD05326A-B670-4F86-B67C-32F37CF08868}" Name="Discussion_Points_with_answer_Key" Title="Discussion Points with answer Key" Titlem="04-07-2008 11:30:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:30:26" ModifiedOn="17-09-2008 13:26:31" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{CD05326A-B670-4F86-B67C-32F37CF08868}" Name="Discussion_Points_with_answer_Key" Title="Discussion Points with answer Key" Titlem="04-07-2008 11:30:29" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:30:26" ModifiedOn="18-09-2008 11:57:46" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5467,7 +5467,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/07) Discussion Points with Answer Keys/DP01En.pdf" target=_blank>Discussion Points</A></P>
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/07) Discussion Points with Answer Keys/DP02En.pdf" target=_blank>Discussion Points with Answers</A></P>]]></s>
     </Topic>
-    <Topic Key="{3991F005-AEC1-4018-97B5-56480ECA3639}" Name="Quiz_Questions_with_Answer_keys" Title="Quiz Questions with Answer keys" Titlem="04-07-2008 11:37:32" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:36:28" ModifiedOn="17-09-2008 13:27:08" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{3991F005-AEC1-4018-97B5-56480ECA3639}" Name="Quiz_Questions_with_Answer_keys" Title="Quiz Questions with Answer keys" Titlem="04-07-2008 11:37:32" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 11:36:28" ModifiedOn="18-09-2008 11:58:31" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5477,7 +5477,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/08) Quiz Question with Answer Keys/QZ02En.pdf" target=_blank>Quick Quiz with Answers</A></P>
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/08) Quiz Question with Answer Keys/QZ03En.pdf" target=_blank>Scanvenger Hunt</A></P>]]></s>
     </Topic>
-    <Topic Key="{35DB51EF-64A0-460D-A525-0B8C15297301}" Name="Operational_Handbook" Title="Operational Handbook" Titlem="04-07-2008 12:01:04" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:00:52" ModifiedOn="17-09-2008 13:28:20" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{35DB51EF-64A0-460D-A525-0B8C15297301}" Name="Operational_Handbook" Title="Operational Handbook" Titlem="04-07-2008 12:01:04" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:00:52" ModifiedOn="18-09-2008 11:59:07" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5488,7 +5488,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG class=activityicon alt=Resource src="images/word.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/09) Operational Handbook/OH11En.doc" target=_blank>Form 9</A></P>
 <P><IMG class=activityicon alt=Resource src="images/word.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/09) Operational Handbook/OH12En.doc" target=_blank>Form 10</A></P>]]></s>
     </Topic>
-    <Topic Key="{31106789-AEA0-44EC-B4B8-96BE30820603}" Name="Promotional_Materials" Title="Promotional Materials" Titlem="04-07-2008 12:34:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:34:13" ModifiedOn="17-09-2008 14:55:19" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{31106789-AEA0-44EC-B4B8-96BE30820603}" Name="Promotional_Materials" Title="Promotional Materials" Titlem="04-07-2008 12:34:16" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:34:13" ModifiedOn="18-09-2008 12:00:00" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5497,7 +5497,7 @@ If the Notification Reference number is known, it can be entered into the
 <P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/10) Promotional Materials/PM01En.doc" target=_blank>BCH Flyer</A></P>
 <P><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;<A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/10) Promotional Materials/PM02En.doc" target=_blank>BCH Poster</A></P>]]></s>
     </Topic>
-    <Topic Key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}" Name="Exercises" Title="Exercises" Titlem="04-07-2008 12:36:30" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:36:19" ModifiedOn="17-09-2008 15:00:06" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}" Name="Exercises" Title="Exercises" Titlem="04-07-2008 12:36:30" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 12:36:19" ModifiedOn="18-09-2008 12:00:49" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -5505,7 +5505,7 @@ If the Notification Reference number is known, it can be entered into the
         <s k="BodyText" m="17-09-2008 15:09:06"><![CDATA[<P><STRONG>Exercises for BCH Training Workshops</STRONG></P>
 <P><IMG class=activityicon alt=Resource src="images/pdf.gif"> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/En/11) Exercises/AE01En.pdf" target=_blank>Exercises A - F</A></P>]]></s>
     </Topic>
-    <Topic Key="{7175BBD5-5EFE-471F-AA74-B976131B0181}" Name="Training_Modules" Title="Training Modules" Titlem="04-07-2008 13:09:01" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 13:08:54" ModifiedOn="17-09-2008 13:21:44" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{7175BBD5-5EFE-471F-AA74-B976131B0181}" Name="Training_Modules" Title="Training Modules" Titlem="04-07-2008 13:09:01" ContentsTitle="" ContentsTitlem="04-07-2008 14:51:42" Status="Complete" CreatedOn="04-07-2008 13:08:54" ModifiedOn="18-09-2008 11:50:05" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>
@@ -7068,12 +7068,12 @@ If the Notification Reference number is known, it can be entered into the
         <Task Key="{88EF0084-B3B3-4A0E-9A9F-05BFF3F6117E}" Priority="2" Title="" AssignedTo="" TopicID="" Status="Not Started" CreatedOn="20-05-2008 12:43:05" CreatedBy="Import" ModifiedOn="20-05-2008 12:43:05" ModifiedBy="Usuario1"><![CDATA[The import detected 1 broken images. It is recommended that you run the 'Project Verify Links...' command before attempting to build your project.]]></Task>
     </Tasks>
     <BuildProfiles>
-        <BuildProfile ID="{D64C1FEB-3288-43F0-A04A-56FAC382DF3C}" Name="fr" OutputDirectory="Buildfr\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0fr.chm" UseBuildFlags="True" ProjectTitle="Aide en ligne du CEPRB" ProjectTitlem="29-05-2008 14:09:16" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:41:43" OutputTargetSCCProject="" PhraseLanguage="French">
+        <BuildProfile ID="{D64C1FEB-3288-43F0-A04A-56FAC382DF3C}" Name="fr" OutputDirectory="Build\fr\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0fr.chm" UseBuildFlags="True" ProjectTitle="Aide en ligne du CEPRB" ProjectTitlem="29-05-2008 14:09:16" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:41:43" OutputTargetSCCProject="" PhraseLanguage="French">
             <loc lcid="1036"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{EA6C7FFD-DF2A-47B8-A8E5-90EE7E13933D}" Name="sp" OutputDirectory="Build\sp\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0sp.chm" UseBuildFlags="True" ProjectTitle="Ayuda en linea del CIISB" ProjectTitlem="29-05-2008 14:10:48" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:43:18" OutputTargetSCCProject="" PhraseLanguage="Spanish">
+        <BuildProfile ID="{EA6C7FFD-DF2A-47B8-A8E5-90EE7E13933D}" Name="sp" OutputDirectory="Build\sp\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\1.2.0sp.chm" UseBuildFlags="True" ProjectTitle="Ayuda en linea del CIISB" ProjectTitlem="29-05-2008 14:10:48" CommunityProjectKey="" CommunityProjectKeym="25-04-2008 13:59:54" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="07-03-2008 10:43:18" OutputTargetSCCProject="" PhraseLanguage="Spanish">
             <loc lcid="3082"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
@@ -7083,12 +7083,12 @@ If the Notification Reference number is known, it can be entered into the
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{FC97895D-DF5E-4E5A-9C1E-95EBA9EF3755}" Name="en" OutputDirectory="Build\en\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0EN.chm" UseBuildFlags="True" ProjectTitle="BCH Central Portal Online Help" ProjectTitlem="28-04-2008 10:55:20" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="23-06-2008 10:54:48" OutputTargetSCCProject="" PhraseLanguage="English">
+        <BuildProfile ID="{FC97895D-DF5E-4E5A-9C1E-95EBA9EF3755}" Name="en" OutputDirectory="Build\en\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.0.0EN.chm" UseBuildFlags="True" ProjectTitle="BCH Central Portal Online Help" ProjectTitlem="28-04-2008 10:55:20" CommunityProjectKey="" CommunityProjectKeym="29-04-2008 10:34:30" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="23-06-2008 10:54:48" OutputTargetSCCProject="" PhraseLanguage="English">
             <loc lcid="0"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
         </BuildProfile>
-        <BuildProfile ID="{3013E9E3-FAD6-4A73-8442-36C2E871EBB2}" Name="ru" OutputDirectory="Build\Ru\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.3.0Ru.chm" UseBuildFlags="True" ProjectTitle="" ProjectTitlem="06-06-2008 13:29:40" CommunityProjectKey="" CommunityProjectKeym="06-06-2008 13:29:40" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="False" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="False" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="05-06-2008 16:22:17" OutputTargetSCCProject="" PhraseLanguage="Russian">
+        <BuildProfile ID="{3013E9E3-FAD6-4A73-8442-36C2E871EBB2}" Name="ru" OutputDirectory="Build\Ru\" CompileHelpFile="False" HTMLHelpVersion="1" H2Namespace="" H2FileID="" H2PlugIn="" HelpFileName="Build\2.3.0Ru.chm" UseBuildFlags="True" ProjectTitle="" ProjectTitlem="06-06-2008 13:29:40" CommunityProjectKey="" CommunityProjectKeym="06-06-2008 13:29:40" RemoveOutputFiles="False" BuildFlags="{96E71ACF-4673-49A8-ABB9-B1A5A09D8928},{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" IncludeInBuild="True" DefaultTopicID="" LocaleID="0" BuildAllLocales="False" OnlyIncludeCompletedTopics="True" TidyHTMLOnOutput="False" TidyRemoveBlankLines="True" TidyXHTML="False" TidyHTMLWrapLength="180" OutputFileExtension=".html" HTMLHelpMergeFiles="" IncludeTextPopup="False" FeedbackEnabled="False" FeedbackScrap="" FeedbackURL="" GenerateBreadcrumbs="True" IsNewEnabled="False" IsNewUseCustomProperty="False" IsNewCustomPropertyName="" IsNewDate="05-06-2008 16:22:17" OutputTargetSCCProject="" PhraseLanguage="Russian">
             <loc lcid="1049"/>
             <WidgetTypes/>
             <CommunityExtensions Enabled="false" ServerType="0" URL="" HostingId="" UseLocalProxyURL="false" LocalProxyURL=""/>
