@@ -83,7 +83,7 @@
 .nav2 ul li a:hover ul li a {white-space:normal; display:block; w\idth:10.0em; height:1px; line-height:1.3em; padding:4px 16px 4px 16px; border-left:solid 1px rgb(175,175,175); border-bottom: solid 1px rgb(175,175,175); background-color:rgb(237,237,237); font-weight:normal; color:rgb(50,50,50);} /*Color subcells normal mode*/
 .nav2 ul li a:hover ul li a:hover {background-color:rgb(210,210,210); text-decoration:none;} /*Color subcells hovering mode*/
 
-.header-breadcrumbs ul {float:right; width:560px; list-style:none; padding:0 15 0 0px; font-family:verdana,arial,sans-serif;}
+.header-breadcrumbs ul {float:right; width:560px; list-style:none; padding:0 15px 0 0px; font-family:verdana,arial,sans-serif;}
 .header-breadcrumbs ul li {display:inline; padding:0 0 0 10px; background:transparent url(../img/bg_bullet_arrow.gif) no-repeat 0 50%; font-weight:bold; color:rgb(125,125,125); font-size:100%;}
 .header-breadcrumbs ul a {color:rgb(70,122,167); text-decoration:none;}
 .header-breadcrumbs ul a:hover {color:rgb(42,90,138); text-decoration:underline;}
