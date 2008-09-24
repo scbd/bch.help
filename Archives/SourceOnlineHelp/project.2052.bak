@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="2052" Version="3.0.214" SaveDateTime="18/09/2008 12:04:20" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Simplified chinese">
+<HSProjectLocalization LocaleId="2052" Version="3.0.214" SaveDateTime="24/09/2008 13:32:26" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Simplified chinese">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -9485,27 +9485,24 @@ size="3">&nbsp;</font></span></p>
     <buildprofiles>
         <BuildProfile id="{90095B30-3CF1-408B-88EB-B9773E53CBCF}">
             <projecttitle m="28/04/2008 10:09:05">生物安全信息交换所中央门户网站在线帮助</projecttitle>
+            <templateproperty name="BCHLogoPath">
+                <pv m="24/09/2008 13:11:07"><![CDATA[<img src="images/bchen.jpg">]]></pv>
+            </templateproperty>
+            <templateproperty name="CopyrightNotice">
+                <pv m="24/09/2008 13:11:07"><![CDATA[<P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>复制</b></span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        只要注明出处，本文内容可以全部或部分并以任何形式复制用于教育或非营利目的，无需得到版权持有者的特别许可。若在本文内容基础上制作任何出版物，环境署希望能收到一份副本。未经环境署事先书面许可，本文内容不得用于再销售或任何其他商业目的。不允许将本网址上涉及专利产品的信息用于宣传或广告。</span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>免责声明</b></span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        本网址上的内容和表达的观点不一定反映供稿机构或联合国环境署（环境署）的观点或政策，也不意味着任何认可。本网址上所用的指示和材料展示完全不代表环境署对任何国家、地区或城市及其当局的法律地位、或有关其边境和边界划分的任何意见表述。内容中提及一个商业公司或产品不意味着环境署认可该公司或产品。</span></FONT></p>]]></pv>
+            </templateproperty>
+            <templateproperty name="GEFLogoPath">
+                <pv m="24/09/2008 13:30:58"><![CDATA[<img src="images/gefen.png">]]></pv>
+            </templateproperty>
+            <templateproperty name="NonScrollingPageFooter">
+                <pv m="24/09/2008 13:11:08">版权 2008 环境署-全球环境基金</pv>
+            </templateproperty>
+            <templateproperty name="SCBDLogoPath">
+                <pv m="24/09/2008 13:11:08"><![CDATA[<img src="images/scbden.png">]]></pv>
+            </templateproperty>
+            <templateproperty name="UNEPLogoPath">
+                <pv m="24/09/2008 13:11:08"><![CDATA[<img src="images/unepen.png">]]></pv>
+            </templateproperty>
         </BuildProfile>
     </buildprofiles>
-    <tpv name="CopyrightNotice">
-        <pv m="28/04/2008 10:28:40"><![CDATA[<P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>复制</b></span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        只要注明出处，本文内容可以全部或部分并以任何形式复制用于教育或非营利目的，无需得到版权持有者的特别许可。若在本文内容基础上制作任何出版物，环境署希望能收到一份副本。未经环境署事先书面许可，本文内容不得用于再销售或任何其他商业目的。不允许将本网址上涉及专利产品的信息用于宣传或广告。</span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>免责声明</b></span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        本网址上的内容和表达的观点不一定反映供稿机构或联合国环境署（环境署）的观点或政策，也不意味着任何认可。本网址上所用的指示和材料展示完全不代表环境署对任何国家、地区或城市及其当局的法律地位、或有关其边境和边界划分的任何意见表述。内容中提及一个商业公司或产品不意味着环境署认可该公司或产品。</span></FONT></p>]]></pv>
-    </tpv>
-    <tpv name="NonScrollingPageFooter">
-        <pv m="28/04/2008 10:24:22">版权 2008 环境署-全球环境基金</pv>
-    </tpv>
-    <tpv name="GEFLogoPath">
-        <pv m="30/04/2008 14:10:13"><![CDATA[<img src="images/gefen.png">]]></pv>
-    </tpv>
-    <tpv name="SCBDLogoPath">
-        <pv m="30/04/2008 14:10:26"><![CDATA[<img src="images/scbden.png">]]></pv>
-    </tpv>
-    <tpv name="UNEPLogoPath">
-        <pv m="30/04/2008 14:10:48"><![CDATA[<img src="images/unepen.png">]]></pv>
-    </tpv>
-    <tpv name="BCHLogoPath">
-        <pv m="02/05/2008 10:12:05"><![CDATA[<img src="images/bchen.jpg">]]></pv>
-    </tpv>
-    <tpv name="LanguageDirectories">
-        <pv m="09/05/2008 19:38:38">ar,zh,en,fr,ru,es</pv>
-    </tpv>
 </HSProjectLocalization>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="3073" Version="3.0.214" SaveDateTime="18/09/2008 12:08:30" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="English">
+<HSProjectLocalization LocaleId="3073" Version="3.0.214" SaveDateTime="24/09/2008 13:35:34" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="English">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -6241,5 +6241,35 @@ style=
             <creator m="14/08/2008 11:40:19">برنامج الامم المتحدة للبيئة-مرفق البيئة العالمي</creator>
         </manifest>
     </manifests>
-    <buildprofiles/>
+    <buildprofiles>
+        <BuildProfile id="{90095B30-3CF1-408B-88EB-B9773E53CBCF}">
+            <templateproperty name="LanguageDirectories">
+                <pv m="24/09/2008 13:11:08">ar,zh,en,fr,ru,es</pv>
+            </templateproperty>
+        </BuildProfile>
+        <BuildProfile id="{8008588E-FF6E-4E63-8753-0228C1FE06DF}">
+            <projecttitle m="24/09/2008 13:27:36">معاونة مباشرة باستخدام الانترنيت على موقع  البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية</projecttitle>
+            <templateproperty name="BCHLogoPath">
+                <pv m="24/09/2008 13:27:37"><![CDATA[<img src="images/bchen.jpg">]]></pv>
+            </templateproperty>
+            <templateproperty name="CopyrightNotice">
+                <pv m="24/09/2008 13:27:37"><![CDATA[<p class="MsoNormal" dir="rtl" style="margin: 0cm 0cm 0pt; direction: rtl; unicode-bidi: embed; text-align: justify;">&nbsp;</p><p class="MsoNormal" dir="rtl" style="margin: 0cm 0cm 0pt; direction: rtl; unicode-bidi: embed; text-align: justify;"><b><span style="" lang="AR-SA"><font size="3"><font face="Arial">نسخة منقولة</font></font></span></b></p><p class="MsoNormal" dir="rtl" style="margin: 0cm 0cm 0pt; direction: rtl; unicode-bidi: embed; text-align: justify;"><span style="" lang="AR-SA"><font face="Arial" size="3">&nbsp;</font></span></p><p class="MsoNormal" dir="rtl" style="margin: 0cm 0cm 0pt; direction: rtl; unicode-bidi: embed; text-align: justify;"><font size="3"><font face="Arial"><span style="" lang="AR-SA">يمكن نقل محتويات هذه المنشورة كاملة او جزئيااو<span style="">&nbsp;</span> تحت اي شكل بهدف تعليمي او لايبغي الربح من دون اي اذن من مالك حقوق الطبع، على شرط ذكر المصدر. يقدر برنامجالامم المتحدة للبيئة الحصول على نسخة من اي منشورة تستعمل هذه المنشورةكمصدر.<span style="">&nbsp;</span> لا يسمح استعمال هذهالمنشورة للبيع او لاي هدف تجاري مهما كان من دون اذن خطي من برنامج الامم المتحدةللبيئة. لا يسمح استعمال المعلومات من الموقع الاكتروني بما يختص المنتوجاتالامتلاكية للاعلان او للدعاية.</span></font></font></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span style="" lang="ES"><font face="Arial" size="3">&nbsp;</font></span><span style="" lang="ES"><font face="Arial" size="3">&nbsp;</font></span></p><p class="MsoBodyText" style="margin: 0cm 0cm 0pt;"><span style="" lang="ES"><font face="Arial" size="3">&nbsp;</font></span></p><p class="MsoNormal" dir="rtl" style="margin: 0cm 0cm 0pt; direction: rtl; unicode-bidi: embed; text-align: justify;"><font size="3"><font face="Arial"><b><span style="" lang="AR-SA">تنازل</span></b> </font></font></p><p class="MsoNormal" style="margin: 0cm 0cm 0pt;"><span dir="rtl" style="" lang="AR-SA"><font face="Arial" size="3">&nbsp;</font></span></p><p class="MsoNormal" dir="rtl" style="margin: 0cm 0cm 0pt; direction: rtl; unicode-bidi: embed; text-align: justify;"><font size="3"><font face="Arial"><span style="" lang="AR-SA">إنّ المحتويات والنظريات الواردة على الموقعالالكتروني لا يعكس بالضرورة نظريات او سياسات المنظمات المشاركة أو برنامج الاممالمتحدة للبيئة ولا<span style="">&nbsp;</span> يعني مصادقتها.التحديدات المستعملة وتقديم المعلومات على الموقع الاكتروني لا يعبر عن أي رأيمهما كان، من جهة برنامج الامم المتحدة للبيئة، بما يختص الوضع القانوني للبلدان،اقليم أو مدينة او سلطاتها، او ما يختص ترسيم الحدود. ذكر شركة تجارية او منتوج فيهذه المنشورة لا يعني مصادقة برنامج الامم المتحدةللبيئة.</span></font></font></p> <p></p>]]></pv>
+            </templateproperty>
+            <templateproperty name="GEFLogoPath">
+                <pv m="24/09/2008 13:35:06"><![CDATA[<img src="images/gefen.png">]]></pv>
+            </templateproperty>
+            <templateproperty name="LanguageDirectories">
+                <pv m="24/09/2008 13:27:37">ar,zh,en,fr,ru,es</pv>
+            </templateproperty>
+            <templateproperty name="NonScrollingPageFooter">
+                <pv m="24/09/2008 13:27:37">حق الطبع 2008 برنامج الامم المتحدة للبيئة-مرفق البيئة العالمي</pv>
+            </templateproperty>
+            <templateproperty name="TopicXMLIsland">
+                <pv m="24/09/2008 13:27:38"><![CDATA[<img src="images/scbden.png">]]></pv>
+            </templateproperty>
+            <templateproperty name="UNEPLogoPath">
+                <pv m="24/09/2008 13:27:38"><![CDATA[<img src="images/scbden.png">]]></pv>
+            </templateproperty>
+        </BuildProfile>
+    </buildprofiles>
 </HSProjectLocalization>
