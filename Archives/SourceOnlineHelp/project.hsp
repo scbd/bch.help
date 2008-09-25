@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProject ProjectType="0" Version="3.0.214" SaveDateTime="18/09/2008 12:08:33" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
+<HSProject ProjectType="0" Version="3.0.214" SaveDateTime="25/09/2008 12:56:16" DXPFileName="" TemplateName="HelpStudio 2005 Style" SpellLastCheckDateTime="0:00:00" Title="BCH_HelpSystem" Titlem="19-02-2008 15:11:11" HelpContextIDHeaderFile="" OutputDirectory="Build\" AutoGenerateIndexEntries="True" AutoGenerateCategoryIndex="False" BuildDXProject="False" DefaultTopic="" Lite="False" DefaultStyleSheet="stylesheets\customstyles.css" DefaultImageFolder="images\" ProjectID="{00ABCEF8-1C6B-41A4-BE17-9B79F0676785}">
     <SpellIgnoreAllWordList/>
     <BuildFlags>
         <BuildFlag ID="{69BCB8DA-5A8F-480F-9AEC-D4AC9C7F8294}" Name="web" HighlightColor="16753151" Selected="False"/>
@@ -1744,7 +1744,7 @@ URL: <span id="urlSpan"></span></p>
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal>&nbsp;</P></DIV>]]></s>
     </Topic>
-    <Topic Key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}" Name="Training_Materials" Title="Training Materials" Titlem="11-02-2008 09:20:10" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:44" Status="Complete" CreatedOn="31-01-2008 12:42:28" ModifiedOn="29-08-2008 10:06:05" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
+    <Topic Key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}" Name="Training_Materials" Title="Training Materials" Titlem="11-02-2008 09:20:10" ContentsTitle="" ContentsTitlem="01-02-2008 09:52:44" Status="Complete" CreatedOn="31-01-2008 12:42:28" ModifiedOn="25-09-2008 12:55:45" LayoutName="" AllStyleSheets="True" AllScripts="True" AutoGenerateIndexEntry="True" IncludeInHelpFile="True" HelpContextIDs="" Category="{5AB4444D-E633-438D-B98F-2E0871350E7A}">
         <Notes/>
         <h2/>
         <AutoTopicLinkCategories/>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="3073" Version="3.0.214" SaveDateTime="24/09/2008 14:26:31" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Arabic">
+<HSProjectLocalization LocaleId="3073" Version="3.0.214" SaveDateTime="25/09/2008 12:56:13" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Arabic">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -944,17 +944,11 @@
         <t key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}">
             <title m="11/06/2008 13:23:02">مواد التدريب</title>
             <s key="BodyText">
-                <data m="29/08/2008 10:06:05"><![CDATA[<p dir="rtl"><font size="3">تتركب الوحدات النموذجية للتدريب حول غرفة تبادل
-معلومات السلامة الإحيائية من مجموعة متماسكة من أقسام تدريبية. هذه الأقسام لها
-محتوى ذاتي، يعني ذلك أنه بالإمكان وضع مكونات مختلفة بعضها مع بعض في صيغ مختلفة
-تناسب الجماهير المستهدفة.</font></p>
-<p dir="rtl"><font size="3">انقر هنا لإنزال صورة قرص الذاكرة المدمج CD-ROM مع
-عدة التدريب حول غرفة تبادل معلومات السلامة الإحيائية</font></p>
-<p dir="rtl"><font size="3">ملاحظة:</font></p>
-<p dir="rtl"><font size="3">يجب فتح الملف ثم نسخ الصورة ISO على قرص ذاكرة مدمج
-CD-ROM . للتعليمات حول كيف تفعل ذلك انظر الدليل الموفر مع برنامج كتابة قرص
-الذاكرة المدمج CD ROM .</font></p>
-<p dir="rtl"><font size="3">ن الصور ISO لا تحفظ على أقراص الذاكرة المدمجة CD-ROM  بنفس الطريقة التي تحفظ بها ملفات البيانات العادية</font></p>]]></data>
+                <data m="25/09/2008 12:55:44"><![CDATA[<P dir=rtl><FONT size=3>تتركب الوحدات النموذجية للتدريب حول غرفة تبادل معلومات السلامة الإحيائية من مجموعة متماسكة من أقسام تدريبية. هذه الأقسام لها محتوى ذاتي، يعني ذلك أنه بالإمكان وضع مكونات مختلفة بعضها مع بعض في صيغ مختلفة تناسب الجماهير المستهدفة.</FONT></P>
+<P dir=rtl><FONT size=3><A href="http://bch.cbd.int/help/topics/ar.zip">انقر هنا لإنزال صورة قرص الذاكرة المدمج CD-ROM مع عدة التدريب حول غرفة تبادل معلومات السلامة الإحيائية</A></FONT></P>
+<P dir=rtl><FONT size=3>ملاحظة:</FONT></P>
+<P dir=rtl><FONT size=3>يجب فتح الملف ثم نسخ الصورة ISO على قرص ذاكرة مدمج CD-ROM . للتعليمات حول كيف تفعل ذلك انظر الدليل الموفر مع برنامج كتابة قرص الذاكرة المدمج CD ROM .</FONT></P>
+<P dir=rtl><FONT size=3>ن الصور ISO لا تحفظ على أقراص الذاكرة المدمجة CD-ROM بنفس الطريقة التي تحفظ بها ملفات البيانات العادية</FONT></P>]]></data>
             </s>
         </t>
         <t key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}">
