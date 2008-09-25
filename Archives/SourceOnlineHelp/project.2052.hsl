@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<<<<<<< .mine
+<HSProjectLocalization LocaleId="2052" Version="3.0.214" SaveDateTime="25/09/2008 10:31:16" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Simplified chinese">
+=======
 <HSProjectLocalization LocaleId="2052" Version="3.0.214" SaveDateTime="24/09/2008 13:35:32" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Simplified chinese">
+>>>>>>> .r1781
     <notes/>
     <projecttitle/>
     <topiccategories/>
