@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<<<<<<< .mine
-<HSProjectLocalization LocaleId="3082" Version="3.0.214" SaveDateTime="25/09/2008 10:31:21" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Spanish">
-=======
-<HSProjectLocalization LocaleId="3082" Version="3.0.214" SaveDateTime="24/09/2008 13:35:36" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Spanish">
->>>>>>> .r1781
+<HSProjectLocalization LocaleId="3082" Version="3.0.214" SaveDateTime="18/09/2008 12:08:32" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Spanish">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -6399,27 +6395,42 @@ Identificación exclusiva de OVM]</span></b></p>
     <buildprofiles>
         <BuildProfile id="{EA6C7FFD-DF2A-47B8-A8E5-90EE7E13933D}">
             <projecttitle m="30/05/2008 10:44:53">Ayuda en línea del CIISB</projecttitle>
-            <templateproperty name="BCHLogoPath">
-                <pv m="24/09/2008 13:07:15"><![CDATA[<img src="images/bchen.jpg">]]></pv>
-            </templateproperty>
-            <templateproperty name="CopyrightNotice">
-                <pv m="24/09/2008 13:07:16"><![CDATA[<p class="MsoNormal"><b>Reproducción</b></p> <br><p class="MsoNormal">El contenido de esta publicación puede ser reproducido total o parcialmente y en cualquier forma para propósitos educacionales o sin ánimo de lucro sin permiso especial del propietario de los derechos de autor, siempre y cuando la fuente sea proporcionada. El PNUMA agradecería recibir una copia de cualquier publicación que utilice esta publicación como fuente. Esta publicación no puede ser usada en absoluto para venta o cualquier otro propósito comercial, sin permiso previo y por escrito del PNUMA. El uso de la información de éste sito concerniente a confidencialidad de productos para publicidad o propaganda no es permitido.</p> <br><br><p class="MsoNormal"><b>Descargo de Responsabilidades</b></p> <br><p class="MsoNormal">El contenido y puntos de vista expresados en éste sitio web no necesariamente reflejan los puntos de vista y políticas de las organizaciones que contribuyen con el Programa de Naciones Unidas para el Medio Ambiente (PNUMA) y tampoco implica consentimiento alguno. Las designaciones empleadas y la presentación del material en este sitio web no implica en absoluto expresión alguna por parte del PNUMA concerniente a la situación legal de ningún país, territorio o cuidad o sus autoridades, o concerniente a la delimitación de sus fronteras y límites. La mención de una compañía comercial o producto en esta publicación no implica respaldo del PNUMA.</p>]]></pv>
-            </templateproperty>
-            <templateproperty name="GEFLogoPath">
-                <pv m="24/09/2008 13:30:42"><![CDATA[<img src="images/gefen.png">]]></pv>
-            </templateproperty>
-            <templateproperty name="LanguageDirectories">
-                <pv m="24/09/2008 13:07:16">ar,zh,en,fr,ru,es</pv>
-            </templateproperty>
-            <templateproperty name="NonScrollingPageFooter">
-                <pv m="24/09/2008 13:07:16"><![CDATA[<b>Derechos de autor PNUMA-FMAM, 2008</b>]]></pv>
-            </templateproperty>
-            <templateproperty name="SCBDLogoPath">
-                <pv m="24/09/2008 13:07:16"><![CDATA[<img src="images/scbden.png">]]></pv>
-            </templateproperty>
-            <templateproperty name="UNEPLogoPath">
-                <pv m="24/09/2008 13:07:16"><![CDATA[<img src="images/unepen.png">]]></pv>
-            </templateproperty>
         </BuildProfile>
     </buildprofiles>
+    <tpv name="CopyrightNotice">
+        <pv m="29/05/2008 13:27:35"><![CDATA[<p class="MsoNormal"><b>Reproducción</b></p> <br><p class="MsoNormal">El contenido de esta publicación puede ser reproducido total o parcialmente y en cualquier forma para propósitos educacionales o sin ánimo de lucro sin permiso especial del propietario de los derechos de autor, siempre y cuando la fuente sea proporcionada. El PNUMA agradecería recibir una copia de cualquier publicación que utilice esta publicación como fuente. Esta publicación no puede ser usada en absoluto para venta o cualquier otro propósito comercial, sin permiso previo y por escrito del PNUMA. El uso de la información de éste sito concerniente a confidencialidad de productos para publicidad o propaganda no es permitido.</p> <br><br><p class="MsoNormal"><b>Descargo de Responsabilidades</b></p> <br><p class="MsoNormal">El contenido y puntos de vista expresados en éste sitio web no necesariamente reflejan los puntos de vista y políticas de las organizaciones que contribuyen con el Programa de Naciones Unidas para el Medio Ambiente (PNUMA) y tampoco implica consentimiento alguno. Las designaciones empleadas y la presentación del material en este sitio web no implica en absoluto expresión alguna por parte del PNUMA concerniente a la situación legal de ningún país, territorio o cuidad o sus autoridades, o concerniente a la delimitación de sus fronteras y límites. La mención de una compañía comercial o producto en esta publicación no implica respaldo del PNUMA.</p>]]></pv>
+    </tpv>
+    <tpv name="FavoritesCaption">
+        <pv m="12/03/2008 14:34:00">Favoritos</pv>
+    </tpv>
+    <tpv name="GlossaryTitle">
+        <pv m="12/03/2008 14:33:53">Glosario</pv>
+    </tpv>
+    <tpv name="SearchCaption">
+        <pv m="12/03/2008 14:34:05">Buscar</pv>
+    </tpv>
+    <tpv name="SeeAlsoText">
+        <pv m="12/03/2008 14:34:11">Ver También</pv>
+    </tpv>
+    <tpv name="TableOfContentsCaption">
+        <pv m="12/03/2008 14:39:32">Tabla de Contenidos</pv>
+    </tpv>
+    <tpv name="NonScrollingPageFooter">
+        <pv m="29/05/2008 13:28:24"><![CDATA[<b>Derechos de autor PNUMA-FMAM, 2008</b>]]></pv>
+    </tpv>
+    <tpv name="GEFLogoPath">
+        <pv m="29/05/2008 13:29:28"><![CDATA[<img src="images/gefen.png">]]></pv>
+    </tpv>
+    <tpv name="SCBDLogoPath">
+        <pv m="29/05/2008 13:29:05"><![CDATA[<img src="images/scbden.png">]]></pv>
+    </tpv>
+    <tpv name="UNEPLogoPath">
+        <pv m="29/05/2008 13:29:16"><![CDATA[<img src="images/unepen.png">]]></pv>
+    </tpv>
+    <tpv name="BCHLogoPath">
+        <pv m="29/05/2008 13:29:57"><![CDATA[<img src="images/bchen.jpg">]]></pv>
+    </tpv>
+    <tpv name="LanguageDirectories">
+        <pv m="09/05/2008 20:30:41">ar,zh,en,fr,ru,es</pv>
+    </tpv>
 </HSProjectLocalization>

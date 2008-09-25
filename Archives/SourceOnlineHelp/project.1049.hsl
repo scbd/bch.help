@@ -1,9 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<<<<<<< .mine
-<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="25/09/2008 10:31:13" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
-=======
-<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="24/09/2008 13:35:29" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
->>>>>>> .r1781
+<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="18/09/2008 12:08:26" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -5262,27 +5258,27 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
     <buildprofiles>
         <BuildProfile id="{3013E9E3-FAD6-4A73-8442-36C2E871EBB2}">
             <projecttitle m="12/06/2008 17:07:56">Оперативная помощь Механизма посредничества по биобезопасности</projecttitle>
-            <templateproperty name="BCHLogoPath">
-                <pv m="24/09/2008 12:59:57"><![CDATA[<img src="images/bchen.jpg">]]></pv>
-            </templateproperty>
-            <templateproperty name="CopyrightNotice">
-                <pv m="24/09/2008 13:15:11"><![CDATA[<p class="MsoNormal"><span lang="RU"><b>Воспроизведение</b></span></p> <br><br><p class="MsoNormal"><span lang="RU">Содержание настоящей публикации можетвоспроизводиться полностью или по частям, в любой форме в образовательных целяхи без извлечения прибыли, без специального разрешения владельца авторских правпри условии сообщения источника. ЮНЕП выражает признательность запредоставление копии любой публикации, которая использует настоящее издание вкачестве источника. Данное издание не подлежит перепродаже или, какому бы нибыло использованию в иных целях без предварительного разрешения ЮНЕП вписьменной форме. Использование информации с данного вебсайта в целяхпатентования продукции для публикации или рекламы запрещено.</span></p> <br><br><p class="MsoNormal"><span lang="RU"><b>Отказ отответственности</b></span></p> <br><br><p class="MsoNormal"><span lang="RU">Содержание и</span><span style="" lang="RU">взгляды, выраженные наданном вебсайте, не обязательно отражают мнение или политику поддерживающихорганизаций или Программы ООН по окружающей среде (ЮНЕП), и не подразумеваюткакого-либо одобрения. Используемые обозначения и презентация материала наданном вебсайте не подразумевают выражение какого-либо мнения со стороны ЮНЕП вотношении юридического статуса какой-либо страны, территории или города, илисоответствующих властей, или в отношении определения ее границ и пограничныхтерриторий. Упоминание коммерческих компаний или продукции в данной публикациине подразумевает одобрение со стороны ЮНЕП.</span></p>]]></pv>
-            </templateproperty>
-            <templateproperty name="GEFLogoPath">
-                <pv m="24/09/2008 13:30:12"><![CDATA[<img src="images/gefen.png">]]></pv>
-            </templateproperty>
-            <templateproperty name="LanguageDirectories">
-                <pv m="24/09/2008 13:02:34">ar,zh,en,fr,ru,es</pv>
-            </templateproperty>
-            <templateproperty name="NonScrollingPageFooter">
-                <pv m="24/09/2008 13:02:34"><![CDATA[<b>© ЮНЭП-ГЭФ, 2008<b>]]></pv>
-            </templateproperty>
-            <templateproperty name="SCBDLogoPath">
-                <pv m="24/09/2008 13:02:34"><![CDATA[<img src="images/scbden.png">]]></pv>
-            </templateproperty>
-            <templateproperty name="UNEPLogoPath">
-                <pv m="24/09/2008 13:02:34"><![CDATA[<img src="images/unepen.png">]]></pv>
-            </templateproperty>
         </BuildProfile>
     </buildprofiles>
+    <tpv name="CopyrightNotice">
+        <pv m="04/06/2008 11:27:20"><![CDATA[<p class="MsoNormal"><span lang="RU"><b>Воспроизведение</b></span></p> <br><br><p class="MsoNormal"><span lang="RU">Содержание настоящей публикации можетвоспроизводиться полностью или по частям, в любой форме в образовательных целяхи без извлечения прибыли, без специального разрешения владельца авторских правпри условии сообщения источника. ЮНЕП выражает признательность запредоставление копии любой публикации, которая использует настоящее издание вкачестве источника. Данное издание не подлежит перепродаже или, какому бы нибыло использованию в иных целях без предварительного разрешения ЮНЕП вписьменной форме. Использование информации с данного вебсайта в целяхпатентования продукции для публикации или рекламы запрещено.</span></p> <br><br><p class="MsoNormal"><span lang="RU"><b>Отказ отответственности</b></span></p> <br><br><p class="MsoNormal"><span lang="RU">Содержание и</span><span style="" lang="RU">взгляды, выраженные наданном вебсайте, не обязательно отражают мнение или политику поддерживающихорганизаций или Программы ООН по окружающей среде (ЮНЕП), и не подразумеваюткакого-либо одобрения. Используемые обозначения и презентация материала наданном вебсайте не подразумевают выражение какого-либо мнения со стороны ЮНЕП вотношении юридического статуса какой-либо страны, территории или города, илисоответствующих властей, или в отношении определения ее границ и пограничныхтерриторий. Упоминание коммерческих компаний или продукции в данной публикациине подразумевает одобрение со стороны ЮНЕП.</span></p>]]></pv>
+    </tpv>
+    <tpv name="NonScrollingPageFooter">
+        <pv m="04/06/2008 11:27:42"><![CDATA[<b>© ЮНЭП-ГЭФ, 2008<b>]]></pv>
+    </tpv>
+    <tpv name="GEFLogoPath">
+        <pv m="04/06/2008 11:27:57"><![CDATA[<img src="images/gefen.png">]]></pv>
+    </tpv>
+    <tpv name="SCBDLogoPath">
+        <pv m="04/06/2008 11:27:47"><![CDATA[<img src="images/scbden.png">]]></pv>
+    </tpv>
+    <tpv name="UNEPLogoPath">
+        <pv m="04/06/2008 11:28:15"><![CDATA[<img src="images/unepen.png">]]></pv>
+    </tpv>
+    <tpv name="BCHLogoPath">
+        <pv m="04/06/2008 11:28:05"><![CDATA[<img src="images/bchen.jpg">]]></pv>
+    </tpv>
+    <tpv name="LanguageDirectories">
+        <pv m="04/06/2008 11:27:53">ar,zh,en,fr,ru,es</pv>
+    </tpv>
 </HSProjectLocalization>
