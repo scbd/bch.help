@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="3073" Version="3.0.214" SaveDateTime="18/09/2008 12:04:23" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="English">
+<HSProjectLocalization LocaleId="3073" Version="3.0.214" SaveDateTime="24/09/2008 14:23:04" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="English">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -960,47 +960,24 @@ CD-ROM . للتعليمات حول كيف تفعل ذلك انظر الدليل 
         <t key="{7CAA17D5-E7D4-4978-9E71-A8042366D7B6}">
             <title m="13/08/2008 11:10:55">استعمال  برامج التمرين حول غرفة تبادل المعلومات لسد احتياجات الفرقاء المعنيين</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl style="align: 'right'"><FONT size=3>يؤمن الارشادات للمدربين الذين يستعملون الوحدات النموذجية التدريبية لتدريب مختلف الفرقاء</FONT></P>
-<P dir=rtl style="align: 'right'">&nbsp;</P>
-<P dir=rtl style="align: 'right'"><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=739&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>الوثيقة الارشادي</FONT></A></P>]]></data>
+                <data m="24/09/2008 14:04:12"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>يؤمن الارشادات للمدربين الذين يستعملون الوحدات النموذجية التدريبية لتدريب مختلف الفرقاء</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"> </FONT><A href="http://bch.cbd.int/help/trainingmaterials/Ar/01) Using BCH training modules to meet stakeholder needs/GD01Ar.pdf" target=_blank><FONT size=3>الوثيقة الارشادي</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{F20DF2B9-2309-429A-9B39-197F854B4999}">
             <title m="13/08/2008 11:17:51">المناهج لمختلف الفرقاء</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>لخص موارد التمرين وفهرس عن شكل البرامج التعليمية لكل مجموعة من الفرقاء المعنيين.</FONT></P>
-<P dir=rtl>&nbsp;</P>
-<P dir=rtl>&nbsp;<IMG class=activityicon alt=مورد src="images/pdf.gif"> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=740&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>ادخال المعلومات الوطنية</FONT></A></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=741&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>مولدات المعلومات</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=742&amp;username=guest&amp;password=guest"' target=_blank>الجمعيات الغير حكومية والمجتمع الاهلي</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=743&amp;username=guest&amp;password=guest"' target=_blank>مجموعة الصناعة</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=744&amp;username=guest&amp;password=guest"' target=_blank>العلماء ،الاكادميين، الجمعيات العاملة في مجال السلامة الاحيائية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=745&amp;username=guest&amp;password=guest"' target=_blank>الجمارك ومراقبي الحدود</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=746&amp;username=guest&amp;password=guest"' target=_blank>الاعلام</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=747&amp;username=guest&amp;password=guest"' target=_blank>الجمهور العام</A></FONT></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:53"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>لخص موارد التمرين وفهرس عن شكل البرامج التعليمية لكل مجموعة من الفرقاء المعنيين</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC01Ar.pdf" target=_blank><FONT size=3>ادخال المعلومات الوطنية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC02Ar.pdf" target=_blank><FONT size=3>مولدات المعلومات</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC03Ar.pdf" target=_blank><FONT size=3>الجمعيات الغير حكومية والمجتمع الاهلي</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC04Ar.pdf" target=_blank><FONT size=3>مجموعة الصناعة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC05Ar.pdf" target=_blank><FONT size=3>العلماء ،الاكادميين، الجمعيات العاملة في مجال السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC06Ar.pdf" target=_blank><FONT size=3>الجمارك ومراقبي الحدود</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC07Ar.pdf" target=_blank><FONT size=3>الاعلام</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/02) Stakeholder curricula/CC08Ar.pdf" target=_blank><FONT size=3>الجمهور العام</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{220F4AB9-A675-4477-A9EF-F4B9384624DB}">
@@ -4802,90 +4779,36 @@ align="center">&nbsp;</p>]]></data>
         <t key="{63C89700-5584-4D48-AED7-1FF484E37313}">
             <title m="13/08/2008 13:12:59">آدات تطوير غرفة تبادل معلومات السلامة الاحيائية وفقا لهرمس</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>طورت مؤخرا الامانة العامة لاتفاقية التنوع البيولوجي تطبيق جديد، يدعى هرمس، الذي من الممكن استعماله بطريق سهلة من قبل البلدان التي تريد ان يكو لديها تطبيقها الوطني السهل والتي ليس لديها الموارد لل، او لا تريد تطوير نظامها الحاص.</FONT></P>
-<P dir=rtl><FONT size=3>يعمل الهرمس من خلال موقع الامانة العامة لاتفاقية التنوع البيولوجي، المخصص فورا لبلد معين. على صعيد البلد، يجب ان يتوفر حاسوب مع امكانية اللتصال بالانترنيت.</FONT></P>
-<P dir=rtl>&nbsp;</P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource">
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=820&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>دليل المستخدم لهرمس</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=821&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>تمارين تطبيقية من خلال استعمال هرمس</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=822&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدات التعليم النموذجية 1 و 2 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=823&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 3 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=824&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 4 القسم 1 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=825&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 4 القسم 2 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=826&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 4 القسم 3 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=827&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 1 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=828&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 2 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=829&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 3 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=830&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 4 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=831&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 5 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=832&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 6 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=833&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 7 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=834&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 6 القسم 1 (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/powerpoint.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=835&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وحدة التعليم النموذجية 6 القسم 2 (بالانجليزية)</FONT></A></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:52"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>طورت مؤخرا الامانة العامة لاتفاقية التنوع البيولوجي تطبيق جديد، يدعى هرمس، الذي من الممكن استعماله بطريق سهلة من قبل البلدان التي تريد ان يكو لديها تطبيقها الوطني السهل والتي ليس لديها الموارد لل، او لا تريد تطوير نظامها الحاص.</FONT></STRONG></P>
+<P><STRONG><FONT size=3>يعمل الهرمس من خلال موقع الامانة العامة لاتفاقية التنوع البيولوجي، المخصص فورا لبلد معين. على صعيد البلد، يجب ان يتوفر حاسوب مع امكانية اللتصال بالانترنيت.</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HM01Ar.pdf" target=_blank><FONT size=3>دليل المستخدم لهرمس</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HM02Ar.pdf" target=_blank><FONT size=3>تمارين تطبيقية من خلال استعمال هرمس</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT01En.ppt" target=_blank><FONT size=3>وحدات التعليم النموذجية 1 و 2 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT02En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 3 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT03En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 4 القسم 1 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT04En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 4 القسم 2 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT05En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 4 القسم 3 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT06En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 1 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT07En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 2 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT08En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 3 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT09En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 4 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT10En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 5 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT11En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 6 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT12En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 5 القسم 7 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT13En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 6 القسم 1 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/powerpoint.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/12) Hermes BCH Development tool/HT14En.ppt" target=_blank><FONT size=3>وحدة التعليم النموذجية 6 القسم 2 (بالانجليزية)</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{3ADE29F4-8A1F-4D9C-8549-DB1E9B435FDC}">
             <title m="14/08/2008 14:26:31">آدات تطوير غرفة تبادل معلومات السلامة الاحيائية وفقا لاجاكس</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:31"><![CDATA[<P dir=rtl><FONT size=3>ان غرفة تبادل معلومات السلامة الاحيائية المنشاة وفقا لاجاكس بلاغ-اين هي تطبيق خفيف الوزن للجافا سكريبت المرتكزة على تكنولوجية الاجاكس التي يمكن ادراجها في اي موقع الكتروني للسماح لابراز ديناميكي للمعومات من البوابة المركزية للغرفة.&nbsp;</FONT></P>
-<P dir=rtl><FONT size=3>لا يتطلب استعمال غرفة تبادل معلومات السلامة الاحيائية وفقا لاجاكس بلاغ-اين معرفة معينة بالتكنولوجيا المعلوماتية. نظام البلاغ اين يعمل على كل المنبر الالكترونية ولا يتطلب تركيب اي برنامج الكتروني. كل الملفات المطلوبة موجودة على البوابة المركزية لغرفة تبادل معلومات السلامة الاحيائية التي يتم صيانتها من قبل الامانة العامة لاتفاقية التنوع البيولوجي.</FONT></P>
-<P dir=rtl><FONT size=3>ان غرفة تبادل معلومات السلامة الاحيائية المنشاة وفقا لاجاكس بلاغ-اين هي تطبيق من جهة الزبون. الاتصال بالبوابة المركزية للغرفة يتم مباشرة من قبل الزبزن (المستخدم النهائي).</FONT></P>
-<P dir=rtl></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource"><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=836&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>دليل المستخدم للاجاكس</FONT></A></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=837&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>تمارين للاجاكس-بلاغ اين</FONT></A></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:52"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>ان غرفة تبادل معلومات السلامة الاحيائية المنشاة وفقا لاجاكس بلاغ-اين هي تطبيق خفيف الوزن للجافا سكريبت المرتكزة على تكنولوجية الاجاكس التي يمكن ادراجها في اي موقع الكتروني للسماح لابراز ديناميكي للمعومات من البوابة المركزية للغرفة.</FONT></STRONG></P>
+<P><STRONG><FONT size=3>لا يتطلب استعمال غرفة تبادل معلومات السلامة الاحيائية وفقا لاجاكس بلاغ-اين معرفة معينة بالتكنولوجيا المعلوماتية. نظام البلاغ اين يعمل على كل المنبر الالكترونية ولا يتطلب تركيب اي برنامج الكتروني. كل الملفات المطلوبة موجودة على البوابة المركزية لغرفة تبادل معلومات السلامة الاحيائية التي يتم صيانتها من قبل الامانة العامة لاتفاقية التنوع البيولوجي.</FONT></STRONG></P>
+<P><STRONG><FONT size=3>ان غرفة تبادل معلومات السلامة الاحيائية المنشاة وفقا لاجاكس بلاغ-اين هي تطبيق من جهة الزبون. الاتصال بالبوابة المركزية للغرفة يتم مباشرة من قبل الزبزن (المستخدم النهائي).</FONT></STRONG></P>
+<P class=MsoNormal><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/13) Ajax BCH Development tool/AX01Ar.pdf" target=_blank><FONT size=3>دليل المستخدم للاجاكس</FONT></A></P>
+<P class=MsoNormal><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A href="http://bch.cbd.int/help/trainingmaterials/Ar/13) Ajax BCH Development tool/AX02Ar.pdf" target=_blank><FONT size=3>تمارين للاجاكس-بلاغ اين</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{81005735-ED01-441F-BAB4-BAD3EEC8FE8B}">
@@ -5462,259 +5385,127 @@ align="center">&nbsp;</p>]]></data>
         <t key="{33985FA1-5EE1-4618-B209-9CAB053AE672}">
             <title m="13/08/2008 11:41:24">وحدات التدريب النموذجية المتفاعلة</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>صممت وحداتان للتدريب النموذجي المتفاعلة للسماح للمستخدم لفهم الافكار المدرجة في وحدات التدريب النموذجية 1 و 2. عن طريق التطبيقات اليدوية. وصممت الوحدات من خلال "ماكروميديا فلاش". يمكن انزال وتركيز الوحدات التدريبية المتفاعلة.</FONT></P>
-<P dir=rtl>&nbsp;</P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/web.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=757&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>مقدمة حول بروتوكول قرطاجنة للسلامة الاحيائية (بالانجليزية)</FONT></A></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/web.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=758&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>مقدمة حول غرفة تبادل معلومات السلامة الاحيائية (بالانجليزية)</FONT></A></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:52"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>صممت وحداتان للتدريب النموذجي المتفاعلة للسماح للمستخدم لفهم الافكار المدرجة في وحدات التدريب النموذجية 1 و 2 عن طريق التطبيقات اليدوية. وصممت الوحدات من خلال "ماكروميديا فلاش". يمكن انزال وتركيز الوحدات التدريبية المتفاعلة</FONT></STRONG></P>
+<P><FONT size=3><IMG alt="" src="images/web.gif" border=0>&nbsp;</FONT><A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/04) Interactive Modules/IM01En.exe" target=_blank><FONT size=3>مقدمة حول بروتوكول قرطاجنة للسلامة الاحيائية (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG alt="" src="images/web.gif" border=0>&nbsp;</FONT><A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/04) Interactive Modules/IM02En.exe" target=_blank><FONT size=3>مقدمة حول غرفة تبادل معلومات السلامة الاحيائية (بالانجليزية)</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{A1783282-C59F-4112-A609-A3CC8D0CF476}">
             <title m="13/08/2008 12:23:42">دراسة حالات</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:31"><![CDATA[<P dir=rtl><FONT size=3>هناك العديد من دراسات للحالات لمساعدة المستخدمين في تطبيق المفاهيم المقدمة في مختلف الوحدات النموذجية للتدريبدريب.</FONT></P>
-<P dir=rtl>&nbsp;</P>
-<P dir=rtl></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource"><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=759&amp;username=guest&amp;password=guest"' target=_blank>حالة 1 : تاجر مكسيكي يصدر بذور القطن</A></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=760&amp;username=guest&amp;password=guest"' target=_blank>حالة 2: مشرع يبحث عن الكائنات المعدلة جينيا التي ستخدم كأعلاف او للتجهيز</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=761&amp;username=guest&amp;password=guest"' target=_blank>حالة 3: تسجيل المعلومات حول بروتوكول قرطاجنة المستخدمين الاداريين</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=762&amp;username=guest&amp;password=guest"' target=_blank>حالة 4: تسجيل المعلومات حول بروتوكول قرطاجنة نقاط الاتصال والسلطات المختصة</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=763&amp;username=guest&amp;password=guest"' target=_blank>حالة 5: تسجيل المعلومات حول بروتوكول قرطاجنة الكائنات المعدلة جينيا والقرارات حول الكائنات المعدلة جينيا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=764&amp;username=guest&amp;password=guest"' target=_blank>حالة 6: تسجيل المعلومات حول بروتوكول قرطاجنة تقييم المخاطر والقوانين</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=765&amp;username=guest&amp;password=guest"' target=_blank>حالة 7: موظف الجمارك يبحث عن معلومات حول استيراد الكائنات المعدلة جينيا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=766&amp;username=guest&amp;password=guest"' target=_blank>حالة 8: علماء يبحثون عن معلومات حول القطن المعدل جينيا المتوفر تجاريا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=767&amp;username=guest&amp;password=guest"' target=_blank>حالة 9: علماء يبحثون عن معلومات حول استيراد الكائنات المعدلة جينيا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=768&amp;username=guest&amp;password=guest"' target=_blank>حالة 10: المعلوماتحول قرار معين التي يجب على السلطة الوطنية المختصة ان تقدمها لغرفة تبادل معلومات السلامة الاحيائية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=769&amp;username=guest&amp;password=guest"' target=_blank>حالة 11: باحث في مجال الطب يبحث عن معلومات حول الاشعار المسبق عن علم</A></FONT></P>
-<P dir=rtl></P></TD></TR>
-<TR>
-<TD class="activity resource"><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=770&amp;username=guest&amp;password=guest"' target=_blank>حالة 12: ممثل شركة يبحث عن معلومات عن كيفية تقديم سجلات لغرفة تبادل معلومات السلامة الاحيائية</A></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=771&amp;username=guest&amp;password=guest"' target=_blank>حالة 13: وكالة وطنية للتنمية تبحث عن معلومات لدعم برامج بناء القدرات</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=772&amp;username=guest&amp;password=guest"' target=_blank>حالة 14: شخص يبحث عن معلومات عن كيفية تقديم سجلات لغرفة تبادل معلومات السلامة الاحيائية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=773&amp;username=guest&amp;password=guest"' target=_blank>حالة 15: شخص يبحث عن معلومات حول أغذية معدلة جينيا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=774&amp;username=guest&amp;password=guest"' target=_blank>حالة 16: جمعية تسجل نقطة اتصال</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=775&amp;username=guest&amp;password=guest"' target=_blank>حالة 17: جمعية تسجل نشرة اخبارية حول السلامة الاحيائية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=776&amp;username=guest&amp;password=guest"' target=_blank>حالة 18: مؤسسة اكاديمية تسجل دورة دراسية وورشة عمل</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=777&amp;username=guest&amp;password=guest"' target=_blank>حالة 19: صحفي يبحث عن قصة حول امكانية نقل عبر الحدود غير شرعي</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A class=dimmed title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=778&amp;username=guest&amp;password=guest"' target=_blank>حالة 20: نقطة اتصال وطنية لغرفة تبادل لبلد اصبح طرفا مؤخرا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=780&amp;username=guest&amp;password=guest"' target=_blank>حالة 22: تقييم المخاطر للبابايا في غانا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=782&amp;username=guest&amp;password=guest"' target=_blank>حالة 24: مفتش يكتشف كائنات معدلة جينيا غير شرعية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=783&amp;username=guest&amp;password=guest"' target=_blank>حالة 25: نقطة اتصال وطنية تسجل قرار وتقييم مخاطر للقطن المعدل جينيا</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=784&amp;username=guest&amp;password=guest"' target=_blank>حالة 26: نقطة اتصال وطنية تسجل القوانين</A></FONT></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:52"><![CDATA[<DIV dir=rtl>
+<P><FONT size=3><STRONG>هناك العديد من دراسات للحالات لمساعدة المستخدمين في تطبيق المفاهيم المقدمة في مختلف الوحدات النموذجية للتدريب</STRONG><BR></FONT></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS01Ar.pdf" target=_blank><FONT size=3>حالة 1: تاجر مكسيكي يصدر بذور القطن</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS02Ar.pdf" target=_blank><FONT size=3>حالة 2: مشرع يبحث عن الكائنات المعدلة جينيا التي ستخدم كأعلاف او للتجهيز</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS03Ar.pdf" target=_blank><FONT size=3>حالة 3: تسجيل المعلومات حول بروتوكول قرطاجنة المستخدمين الاداريين</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS04Ar.pdf" target=_blank><FONT size=3>حالة 4: تسجيل المعلومات حول بروتوكول قرطاجنة نقاط الاتصال والسلطات المختصة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS05Ar.pdf" target=_blank><FONT size=3>حالة 5: تسجيل المعلومات حول بروتوكول قرطاجنة الكائنات المعدلة جينيا والقرارات حول الكائنات المعدلة جينيا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS06Ar.pdf" target=_blank><FONT size=3>حالة 6: تسجيل المعلومات حول بروتوكول قرطاجنة تقييم المخاطر والقوانين</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS07Ar.pdf" target=_blank><FONT size=3>حالة 7: موظف الجمارك يبحث عن معلومات حول استيراد الكائنات المعدلة جينيا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS08Ar.pdf" target=_blank><FONT size=3>حالة 8: علماء يبحثون عن معلومات حول القطن المعدل جينيا المتوفر تجاريا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS09Ar.pdf" target=_blank><FONT size=3>حالة 9: علماء يبحثون عن معلومات حول استيراد الكائنات المعدلة جينيا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS10Ar.pdf" target=_blank><FONT size=3>حالة 10: المعلوماتحول قرار معين التي يجب على السلطة الوطنية المختصة ان تقدمها لغرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS11Ar.pdf" target=_blank><FONT size=3>حالة 11: باحث في مجال الطب يبحث عن معلومات حول الاشعار المسبق عن علم</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS12Ar.pdf" target=_blank><FONT size=3>حالة 12: ممثل شركة يبحث عن معلومات عن كيفية تقديم سجلات لغرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS13Ar.pdf" target=_blank><FONT size=3>حالة 13: وكالة وطنية للتنمية تبحث عن معلومات لدعم برامج بناء القدرات</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS14Ar.pdf" target=_blank><FONT size=3>حالة 14: شخص يبحث عن معلومات عن كيفية تقديم سجلات لغرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS15Ar.pdf" target=_blank><FONT size=3>حالة 15: شخص يبحث عن معلومات حول أغذية معدلة جينيا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS16Ar.pdf" target=_blank><FONT size=3>حالة 16: جمعية تسجل نقطة اتصال</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS17Ar.pdf" target=_blank><FONT size=3>حالة 17: جمعية تسجل نشرة اخبارية حول السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS18Ar.pdf" target=_blank><FONT size=3>حالة 18: مؤسسة اكاديمية تسجل دورة دراسية وورشة عمل</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS19Ar.pdf" target=_blank><FONT size=3>حالة 19: صحفي يبحث عن قصة حول امكانية نقل عبر الحدود غير شرعي</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS20Ar.pdf" target=_blank><FONT size=3>حالة 20: نقطة اتصال وطنية لغرفة تبادل لبلد اصبح طرفا مؤخرا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS21Ar.pdf" target=_blank><FONT size=3>حالة 21: مشرع في اليابان يستورد البطاطا من الجمهورية الكورية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS22Ar.pdf" target=_blank><FONT size=3>حالة 22: تقييم المخاطر للبابايا في غانا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS23Ar.pdf" target=_blank><FONT size=3>حالة 23: نقطة اتصال وطنية تسجل خبير في مجال السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS24Ar.pdf" target=_blank><FONT size=3>حالة 24: مفتش يكتشف كائنات معدلة جينيا غير شرعية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS25Ar.pdf" target=_blank><FONT size=3>حالة 25: نقطة اتصال وطنية تسجل قرار وتقييم مخاطر للقطن المعدل جينيا</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS26Ar.pdf" target=_blank><FONT size=3>حالة 26: نقطة اتصال وطنية تسجل القوانين</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/05) Case Studies/CS27Ar.pdf" target=_blank><FONT size=3>حالة 27: طريق معلومات البوابة المركزية</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{A4CBCABB-6347-44AE-801B-A0AA48F0B000}">
             <title m="13/08/2008 12:39:37">دليل جاهز للمراجع</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>هنالك العديد من بيانات للمراجع متوفر والتي تؤمن لمحات سريعة عن الاجزاء الاكثر استعمالا للغرفة.</FONT></P>
-<P dir=rtl><FONT size=3>والتي يمكن استعمالها كمراجع مكتبية بعد اكمال ورش العمل التدريبية.</FONT></P>
-<P dir=rtl>&nbsp;</P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource">
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=786&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>بدء سريع لغرفة تبادل معلومات السلامة الاحيائية</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=787&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>مصطلحات</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=788&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>انوع سجلات غرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=792&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>القرارات والتشريعات</FONT></A></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=794&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>عناوين الاتصال</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=795&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>وثائق موارد المعلومات</FONT></A></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=797&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>المعلومات التي يجب نشرها على الغرفة</FONT></A></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=799&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>لائحة الاطراف الجدد</FONT></A></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:53"><![CDATA[<DIV dir=rtl>
+<P><FONT size=3><STRONG>هنالك العديد من بيانات للمراجع متوفر والتي تؤمن لمحات سريعة عن الاجزاء الاكثر استعمالا للغرف والتي يمكن استعمالها كمراجع مكتبية بعد اكمال ورش العمل التدريبية</STRONG><BR><BR><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR01Ar.pdf" target=_blank><FONT size=3>بدء سريع لغرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR02Ar.pdf" target=_blank><FONT size=3>مصطلحات</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR03Ar.pdf" target=_blank><FONT size=3>انوع سجلات غرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR04Ar.pdf" target=_blank><FONT size=3>ايكونة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR05Ar.pdf" target=_blank><FONT size=3>معجم مفردات قصير</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR06Ar.pdf" target=_blank><FONT size=3>المركز الاداري</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR07Ar.pdf" target=_blank><FONT size=3>القرارات والتشريعات</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR08Ar.pdf" target=_blank><FONT size=3>السمة المدخلة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR09Ar.pdf" target=_blank><FONT size=3>عناوين الاتصال</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR10Ar.pdf" target=_blank><FONT size=3>وثائق موارد المعلومات</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR11Ar.pdf" target=_blank><FONT size=3>المعرف الفريد</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR12Ar.pdf" target=_blank><FONT size=3>المعلومات التي يجب نشرها على الغرفة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR13Ar.pdf" target=_blank><FONT size=3>المهلة لنشر المعلومات</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/06) Ready Reference Guides/RR14Ar.pdf" target=_blank><FONT size=3>لائحة الاطراف الجدد</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{CD05326A-B670-4F86-B67C-32F37CF08868}">
             <title m="13/08/2008 12:42:21">نقاط المناقشات مع مفاتيح الاجوبة</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:31"><![CDATA[<P dir=rtl><FONT size=3>هنالك العديد من الاوراق التي تحتوي سيناريوهات مختلفة للنقاش والتي يمكن استعمالها خلال ورش العمل التدريبية مع مفاتيح الاجوبة.</FONT></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=800&amp;username=guest&amp;password=guest"' target=_blank>نقاط للمناقشة</A></FONT></P>]]></data>
+                <data m="24/09/2008 14:20:52"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>هنالك العديد من الاوراق التي تحتوي سيناريوهات مختلفة للنقاش والتي يمكن استعمالها خلال ورش العمل التدريبية مع مفاتيح الاجوبة</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/07) Discussion Points with Answer Keys/DP01Ar.pdf" target=_blank><FONT size=3>نقاط للمناقشة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/07) Discussion Points with Answer Keys/DP02Ar.pdf" target=_blank><FONT size=3>وثيقة نقاط للمناقشة مع الاجوبة</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{3991F005-AEC1-4018-97B5-56480ECA3639}">
             <title m="13/08/2008 12:49:24">مسابقة من اسئلة مع مفاتيح الاجوبة</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>هنالك العديد من الاسئلة التي تؤمن التفاعل السريع بين المشتركين و الطريقة السهلة لتقييم الفهم للاستعمالات المختلفة للغرفة ويمكن استعمالهم خلال ورش العمل التدريبية.</FONT></P>
-<P dir=rtl></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource"><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=802&amp;username=guest&amp;password=guest"' target=_blank>اوراق مسابقات سريعة</A></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=803&amp;username=guest&amp;password=guest"' target=_blank>وثيقة الاجوبة للمسابقات السريعة</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=804&amp;username=guest&amp;password=guest"' target=_blank>صيد الخنفساء</A></FONT></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:53"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>هنالك العديد من الاسئلة التي تؤمن التفاعل السريع بين المشتركين و الطريقة السهلة لتقييم الفهم للاستعمالات المختلفة للغرفة ويمكن استعمالهم خلال ورش العمل التدريبية</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/08) Quiz Question with Answer Keys/QZ01Ar.pdf" target=_blank><FONT size=3>اوراق مسابقات سريعة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/08) Quiz Question with Answer Keys/QZ02Ar.pdf" target=_blank><FONT size=3>وثيقة الاجوبة للمسابقات السريعة</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/08) Quiz Question with Answer Keys/QZ03Ar.pdf" target=_blank><FONT size=3>صيد الخنفساء</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{35DB51EF-64A0-460D-A525-0B8C15297301}">
             <title m="13/08/2008 12:52:50">دليل تطبيقي</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>الدليل التطبيقي يوفر معلومات تفصيلية للبلدان عن كيفية المشاركة بمشروع برنامج الامم المتحدة للبيئة-مرفق البيءة العالمي حول المشاركة الفعالة في غرفة تبادل معلومات السلامة الاحيائية.</FONT></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource">
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=805&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>دليل تطبيقي (بالانجليزية)</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=806&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>ملحق 7</FONT></A></P>
-<P dir=rtl></P></TD></TR>
-<TR>
-<TD class="activity resource"><FONT size=3><IMG class=activityicon alt=مورد src="images/word.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=815&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>شكل 9 (بالانجليزية)</FONT></A></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/word.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=816&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>شكل 10 (بالانجليزية)</FONT></A></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:53"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>الدليل التطبيقي يوفر معلومات تفصيلية للبلدان عن كيفية المشاركة بمشروع برنامج الامم المتحدة للبيئة-مرفق البيءة العالمي حول المشاركة الفعالة في غرفة تبادل معلومات السلامة الاحيائية</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/09) Operational Handbook/OH01En.pdf" target=_blank><FONT size=3>دليل تطبيقي (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/09) Operational Handbook/OH02Ar.pdf" target=_blank><FONT size=3>ملحق 7</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/word.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/09) Operational Handbook/OH11En.doc" target=_blank><FONT size=3>شكل 9 (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/word.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/09) Operational Handbook/OH12En.doc" target=_blank><FONT size=3>شكل 10 (بالانجليزية)</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{31106789-AEA0-44EC-B4B8-96BE30820603}">
             <title m="13/08/2008 12:57:21">المواد الترويجية</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>يحتوي هذا الملف على ملصق من صفحة واحدة ومنشور قصير مع المحتويات الاساسية التي يمكن للبلدان استعمالها في الحصص الدراسية للفرقاء المعنيين وكمواد للترويج.</FONT></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource">
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/word.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=817&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>منشور حول غرفة تبادل معلومات اسلامة الاحيائية</FONT></A></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/word.gif"></FONT> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=818&amp;username=guest&amp;password=guest"' target=_blank><FONT size=3>ملصق غرفة تبادل السلامة الاحيائية</FONT></A></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:53"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>يحتوي هذا الملف على ملصق من صفحة واحدة ومنشور قصير مع المحتويات الاساسية التي يمكن للبلدان استعمالها في الحصص الدراسية للفرقاء المعنيين وكمواد للترويج</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;</FONT><A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/10) Promotional Materials/PM01Ar.doc" target=_blank><FONT size=3>منشور حول غرفة تبادل معلومات اسلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/word.gif">&nbsp;</FONT><A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/10) Promotional Materials/PM02Ar.doc" target=_blank><FONT size=3>ملصق غرفة تبادل السلامة الاحيائية</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}">
             <title m="13/08/2008 13:03:39">التمارين</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:31"><![CDATA[<P dir=rtl><FONT size=3>تمارين لورش العمل التدريبية حول غرفة تبادل معلومات السلامة الاحيائية.</FONT></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=819&amp;username=guest&amp;password=guest"' target=_blank>تمارين أ-و</A></FONT></P>]]></data>
+                <data m="24/09/2008 14:20:52"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>تمارين لورش العمل التدريبية حول غرفة تبادل معلومات السلامة الاحيائية</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/11) Exercises/AE01Ar.pdf" target=_blank><FONT size=3>تمارين أ-و</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{7175BBD5-5EFE-471F-AA74-B976131B0181}">
             <title m="13/08/2008 11:34:55">الوحدات النموذجية للتدريب</title>
             <s key="BodyText">
-                <data m="14/08/2008 14:28:32"><![CDATA[<P dir=rtl><FONT size=3>هنالك العديد من الوحدات التدريبية النموذجية المتفرة بالبدف، التي تؤمن نسب من المعلومات من المقدمات العامة الى معلومات دقيقة. معظم الوحدات التدريبات النموذجية تضم تمارين تفاعلية والخطوات المطلوبة لتطبيق كل نشاط.</FONT></P>
-<P dir=rtl></P>
-<TABLE>
-<TBODY>
-<TR>
-<TD class="activity resource"><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=748&amp;username=guest&amp;password=guest"' target=_blank>مقدمة حول بروتوكول قرطاجنة للسلامة الاحيائية</A></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=749&amp;username=guest&amp;password=guest"' target=_blank>مقدمة حول غرفة تبادل معلومات السلامة الاحيائية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=750&amp;username=guest&amp;password=guest"' target=_blank>الابحار في البوابة المركزية لغرفة تبادل معلومات السلامة الاحيائية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=751&amp;username=guest&amp;password=guest"' target=_blank>ايجاد المعلومات في غرفة تبادل معلومات السلامة الاحيائية</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=752&amp;username=guest&amp;password=guest"' target=_blank>الارشادات الموصى بها للبلدان (بالانجليزية)</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=753&amp;username=guest&amp;password=guest"' target=_blank>استعمال المركز الاداري (بالانجليزية)</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=754&amp;username=guest&amp;password=guest"' target=_blank>تسجيل المعلومات الوطنية (بالانجليزية)</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A title=مورد href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=755&amp;username=guest&amp;password=guest"' target=_blank>تسجيل تقاسم المعلومات (بالانجليزية)</A></FONT></P></TD></TR>
-<TR>
-<TD class="activity resource">
-<P></P>
-<P dir=rtl><FONT size=3><IMG class=activityicon alt=مورد src="images/pdf.gif"> <A href='http://moodle.unep.ch/mod/resource/view.php?inpopup=true&amp;id=756&amp;username=guest&amp;password=guest"' target=_blank>كيفية الغدو كطرف للبروتوكول</A></FONT></P></TD></TR></TBODY></TABLE>]]></data>
+                <data m="24/09/2008 14:20:53"><![CDATA[<DIV dir=rtl>
+<P><STRONG><FONT size=3>هنالك العديد من الوحدات التدريبية النموذجية المتفرة بالبدف، التي تؤمن نسب من المعلومات من المقدمات العامة الى معلومات دقيقة معظم الوحدات التدريبات النموذجية تضم تمارين تفاعلية والخطوات المطلوبة لتطبيق كل نشاط</FONT></STRONG></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO01Ar.pdf" target=_blank><FONT size=3>مقدمة حول بروتوكول قرطاجنة للسلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO02Ar.pdf" target=_blank><FONT size=3>مقدمة حول غرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO03Ar.pdf" target=_blank><FONT size=3>الابحار في البوابة المركزية لغرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO04Ar.pdf" target=_blank><FONT size=3>ايجاد المعلومات في غرفة تبادل معلومات السلامة الاحيائية</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO05En.pdf" target=_blank><FONT size=3>الارشادات الموصى بها للبلدان (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO06En.pdf" target=_blank><FONT size=3>استعمال المركز الاداري (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO07En.pdf" target=_blank><FONT size=3>تسجيل المعلومات الوطنية (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO08En.pdf" target=_blank><FONT size=3>تسجيل تقاسم المعلومات (بالانجليزية)</FONT></A></P>
+<P><FONT size=3><IMG class=activityicon alt=Resource src="images/pdf.gif"></FONT> <A title=Resource href="http://bch.cbd.int/help/trainingmaterials/Ar/03) Training Modules/MO10Ar.pdf" target=_blank><FONT size=3>كيفية الغدو كطرف للبروتوكول</FONT></A></P></DIV>]]></data>
             </s>
         </t>
         <t key="{1D2A4DF8-1401-4F1D-AF00-589CC19F49A0}">
@@ -6241,5 +6032,9 @@ style=
             <creator m="14/08/2008 11:40:19">برنامج الامم المتحدة للبيئة-مرفق البيئة العالمي</creator>
         </manifest>
     </manifests>
-    <buildprofiles/>
+    <buildprofiles>
+        <BuildProfile id="{8008588E-FF6E-4E63-8753-0228C1FE06DF}">
+            <projecttitle m="24/09/2008 13:27:36">معاونة مباشرة باستخدام الانترنيت على موقع  البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية</projecttitle>
+        </BuildProfile>
+    </buildprofiles>
 </HSProjectLocalization>
