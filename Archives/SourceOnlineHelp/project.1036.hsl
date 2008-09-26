@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1036" Version="3.0.214" SaveDateTime="25/09/2008 12:56:05" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
+<HSProjectLocalization LocaleId="1036" Version="3.0.214" SaveDateTime="26/09/2008 17:24:21" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -912,8 +912,8 @@
         <t key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}">
             <title m="29/05/2008 13:24:25">Matériaux de Formation</title>
             <s key="BodyText">
-                <data m="08/08/2008 11:58:54"><![CDATA[<P>Les modules&nbsp;du CEPRB&nbsp;comprennent un ensemble cohérent de sous-unités de formation. Les sous-unités de formation sont auto-suffisants, ce qui signifie que les différents composants peuvent se réunir dans des différents formats adaptés à des publics différents.</P>
-<P>Cliquez <A href="http://www.unep.ch/biosafety/BCH/BCHHelpSystem/CD%20ISOs%20Training%20Materials/fr.zip" target=_blank>ici</A> pour télécharger&nbsp;l'image de&nbsp;CD-ROM avec&nbsp;le kit de formation du CEPRB.</P>
+                <data m="26/09/2008 16:12:16"><![CDATA[<P>Les modules&nbsp;du CEPRB&nbsp;comprennent un ensemble cohérent de sous-unités de formation. Les sous-unités de formation sont auto-suffisants, ce qui signifie que les différents composants peuvent se réunir dans des différents formats adaptés à des publics différents.</P>
+<P>Cliquez <A href="http://bch.cbd.int/help/topics/fr.zip" target=_blank>ici</A> pour télécharger&nbsp;l'image de&nbsp;CD-ROM avec&nbsp;le kit de formation du CEPRB.</P>
 <P><STRONG>Note:</STRONG></P>
 <UL>
 <LI><EM>Vous aurez besoin de décompresser le fichier et d'écrire l'image ISO sur un CD-ROM. Pour obtenir des instructions sur la façon de le faire, consultez le manuel fourni avec le logiciel d'écriture de&nbsp;votre lecteur de CD-ROM. </EM></LI>
@@ -5155,7 +5155,7 @@ réglementaires.</span></p>
             </s>
         </t>
         <t key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}">
-            <title m="24/07/2008 15:34:53">Exercises</title>
+            <title m="26/09/2008 17:24:10">Exercices</title>
             <s key="BodyText">
                 <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Exercices pour l'atelier de formation du CEPRB</STRONG></P>
 <P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/11) Exercises/AE01Fr.pdf" target=_blank>Exercices A - F</A></P>]]></data>

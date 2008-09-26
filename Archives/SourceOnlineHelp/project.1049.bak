@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="18/09/2008 12:08:26" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
+<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="26/09/2008 16:34:41" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -975,9 +975,9 @@
         <t key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}">
             <title m="12/06/2008 17:06:01">Обучающие материалы</title>
             <s key="BodyText">
-                <data m="19/08/2008 13:22:17"><![CDATA[<P>Модули МПБ включают в себя ряд целостных обучающих единиц. Обучающие единицы сами по себе являются автономными, т.е. различные компоненты могут быть объединены в различных форматах, пригодных для различных целевых аудиторий.</P>
+                <data m="26/09/2008 16:13:16"><![CDATA[<P>Модули МПБ включают в себя ряд целостных обучающих единиц. Обучающие единицы сами по себе являются автономными, т.е. различные компоненты могут быть объединены в различных форматах, пригодных для различных целевых аудиторий.</P>
 <P>&nbsp;</P>
-<P><SPAN style="COLOR: windowtext"><A href="http://www.unep.ch/biosafety/BCH/BCHHelpSystem/CD%20ISOs%20Training%20Materials/ru.zip" target=_blank>Нажмите здесь для загрузки образа компакт-диска, содержащего учебный пакет МПБ.</A></SPAN></P>
+<P><SPAN style="COLOR: windowtext"><A href="http://bch.cbd.int/help/topics/ru.zip" target=_blank>Нажмите здесь для загрузки образа компакт-диска, содержащего учебный пакет МПБ.</A></SPAN></P>
 <P><SPAN style="COLOR: windowtext"></SPAN>&nbsp;</P>
 <P><SPAN style="COLOR: windowtext"><STRONG>Примечание:</STRONG></SPAN></P>
 <UL>

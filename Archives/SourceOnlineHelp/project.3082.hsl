@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="3082" Version="3.0.214" SaveDateTime="25/09/2008 12:56:15" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Spanish">
+<HSProjectLocalization LocaleId="3082" Version="3.0.214" SaveDateTime="26/09/2008 17:24:31" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Spanish">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -1108,8 +1108,8 @@ border="0"></p>
         <t key="{26EEE1CC-DB9C-4271-8352-6C5766646C7D}">
             <title m="29/05/2008 13:23:37">Materiales de Entrenamiento</title>
             <s key="BodyText">
-                <data m="08/08/2008 11:57:11"><![CDATA[<P>Los modulos del CIISB comprenden un conjunto cohesivo de&nbsp;sub-unidades de entrenamiento.&nbsp;Las sub-unidades de entrenamiento son auto-contenidas, lo que&nbsp;significa que diferentes componentes pueden juntarse en varios formatos adecuados para diferentes&nbsp;audiencias.&nbsp;</P>
-<P>Haga clic <A href="http://www.unep.ch/biosafety/BCH/BCHHelpSystem/CD%20ISOs%20Training%20Materials/es.zip" target=_blank>aquí</A> para descargar la imagen de CD-ROM con el kit de entrenamiento del CIISB.<BR><BR><STRONG>Nota:</STRONG> </P>
+                <data m="26/09/2008 16:13:42"><![CDATA[<P>Los modulos del CIISB comprenden un conjunto cohesivo de&nbsp;sub-unidades de entrenamiento.&nbsp;Las sub-unidades de entrenamiento son auto-contenidas, lo que&nbsp;significa que diferentes componentes pueden juntarse en varios formatos adecuados para diferentes&nbsp;audiencias.&nbsp;</P>
+<P>Haga clic <A href="http://bch.cbd.int/help/topics/es.zip" target=_blank>aquí</A> para descargar la imagen de CD-ROM con el kit de entrenamiento del CIISB.<BR><BR><STRONG>Nota:</STRONG> </P>
 <UL>
 <LI><EM>Necesitará descomprimir el archivo y quemar la imagen ISO en un CD-ROM. Para obtener las instrucciones sobre como realizar esto consulte el manual provisto con el software de escritura de CD de&nbsp;su lectora de CD-ROM.</EM></LI>
 <LI><EM>Las imagenes ISO no se graban sobre los CD-ROM de la misma forma que los archivos de datos comunes.</EM></LI></UL>]]></data>
