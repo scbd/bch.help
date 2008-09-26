@@ -1,0 +1,42 @@
+﻿<Properties>    
+    <tpv name="CopyrightNotice">
+        <pv m="29/05/2008 13:27:58"><![CDATA[<p class="MsoNormal"><b>Reproduction</b></p><br>
+<p class="MsoNormal">Le contenu de cette publication peut être reproduit en tout ou partie et sous quelque forme que ce soit, à but éducatif ou non lucratif, sans besoin d’un permis spécial du détenteur du droit d’auteur, à condition que la source soit citée. Le PNUE serait reconnaissant de recevoir une copie de toute publication utilisant cette publication comme source. Cette publication ne pourra pas être revendue ou utilisée pour quelque autre but commercial que ce soit sans une autorisation préalable par écrit du PNUE. L’utilisation d’information de ce site web concernant des produits de marque déposée pour la propagande ou la publicité est interdite.</p><br>
+<br>
+<p class="MsoNormal"><b>Avis de non-responsabilité</b></p><br>
+<p class="MsoNormal">Le contenu et les opinions exprimés sur ce site web ne reflètent pas nécessairement les opinions ou les politiques des organisations contributoires ou du Programme des Nations Unies pour l’Environnement (PNUE), et ils n’impliquent pas non plus aucune approbation. Les désignations employées et la présentation du matériel sur ce site web n’impliquent pas l’expression de quelque opinion que ce soit de la part du PNUE concernant le statut légal d’un pays, d’un territoire ou d’une ville ou ses autorités, ou concernant la délimitation de ses frontières et ses limites. La mention d’une compagnie ou d'un produit commercial dans cette publication n'implique pas l’appui du PNUE.</p>]]></pv>
+    </tpv>
+    <tpv name="FavoritesCaption">
+        <pv m="12/03/2008 14:16:40">Favoris</pv>
+    </tpv>
+    <tpv name="GlossaryTitle">
+        <pv m="12/03/2008 14:16:47">Glossaire</pv>
+    </tpv>
+    <tpv name="SearchCaption">
+        <pv m="12/03/2008 14:16:53">Rechercher</pv>
+    </tpv>
+    <tpv name="SeeAlsoText">
+        <pv m="12/03/2008 14:17:00">Voir Aussi</pv>
+    </tpv>
+    <tpv name="TableOfContentsCaption">
+        <pv m="12/03/2008 14:17:13">Tableau des Contenus</pv>
+    </tpv>
+    <tpv name="NonScrollingPageFooter">
+        <pv m="29/05/2008 13:28:44"><![CDATA[<b>Droits d'auter PNUE-FEM, 2008</b>]]></pv>
+    </tpv>
+    <tpv name="GEFLogoPath">
+        <pv m="29/05/2008 13:29:32"><![CDATA[<img src="images/gefen.png">]]></pv>
+    </tpv>
+    <tpv name="SCBDLogoPath">
+        <pv m="29/05/2008 13:29:08"><![CDATA[<img src="images/scbden.png">]]></pv>
+    </tpv>
+    <tpv name="UNEPLogoPath">
+        <pv m="29/05/2008 13:29:19"><![CDATA[<img src="images/unepen.png">]]></pv>
+    </tpv>
+    <tpv name="BCHLogoPath">
+        <pv m="29/05/2008 13:30:00"><![CDATA[<img src="images/bchen.jpg">]]></pv>
+    </tpv>
+    <tpv name="LanguageDirectories">
+        <pv m="09/05/2008 20:30:45">ar,zh,en,fr,ru,es</pv>
+    </tpv>
+</Properties>
