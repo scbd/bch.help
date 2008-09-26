@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\HelpStudioAddin\HelpStudioAddin\bin\Debug\HelpStudioAddin.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\HelpStudioAddin\HelpStudioAddin\bin\Debug\HelpStudioAddin.pdb
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\HelpStudioAddin\HelpStudioAddin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\HelpStudioAddin\HelpStudioAddin\obj\Debug\HelpStudioAddin.exe
+C:\Users\Martin\Documents\Visual Studio 2008\Projects\HelpStudioAddin\HelpStudioAddin\obj\Debug\HelpStudioAddin.pdb
