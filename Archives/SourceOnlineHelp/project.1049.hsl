@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="26/09/2008 17:24:23" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
+<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="29/09/2008 14:16:27" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -4476,9 +4476,9 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{33985FA1-5EE1-4618-B209-9CAB053AE672}">
             <title m="31/07/2008 09:46:30">Интерактивные модули</title>
             <s key="BodyText">
-                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Два интерактивных модуля в качестве практического средства для помощи в понимании вопросов, рассматриваемых в учебных модулях 1 и 2. Модули разработаны в среде Macromedia Flash. Вы можете загрузить и установить эти интерактивные модули.</STRONG></P>
-<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/04) Interactive Modules/IM01En.exe" target=_blank>Введение в Картахенский протокол по биобезопасности</A></P>
-<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/04) Interactive Modules/IM02En.exe" target=_blank>Введение в Механизм посредничества по биобезопасности</A></P>]]></data>
+                <data m="29/09/2008 14:16:19"><![CDATA[<P><STRONG>Два интерактивных модуля в качестве практического средства для помощи в понимании вопросов, рассматриваемых в учебных модулях 1 и 2. Модули разработаны в среде Macromedia Flash. Вы можете загрузить и установить эти интерактивные модули.</STRONG></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A href="http://bch.cbd.int/help/trainingmaterials/Ru/04)%20Interactive%20Modules/IM01En.exe" target=_blank>Введение в Картахенский протокол по биобезопасности (на английском языке)</A></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A href="http://bch.cbd.int/help/trainingmaterials/Ru/04)%20Interactive%20Modules/IM02En.exe" target=_blank>Введение в Механизм посредничества по биобезопасности (на английском языке)</A></P>]]></data>
             </s>
         </t>
         <t key="{A1783282-C59F-4112-A609-A3CC8D0CF476}">

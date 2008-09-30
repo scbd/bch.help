@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1036" Version="3.0.214" SaveDateTime="26/09/2008 16:34:39" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
+<HSProjectLocalization LocaleId="1036" Version="3.0.214" SaveDateTime="26/09/2008 17:24:21" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -5155,7 +5155,7 @@ réglementaires.</span></p>
             </s>
         </t>
         <t key="{ED962433-8820-40A3-A69F-BC9930DD9CF5}">
-            <title m="24/07/2008 15:34:53">Exercises</title>
+            <title m="26/09/2008 17:24:10">Exercices</title>
             <s key="BodyText">
                 <data m="18/09/2008 10:46:59"><![CDATA[<P><STRONG>Exercices pour l'atelier de formation du CEPRB</STRONG></P>
 <P><IMG class=activityicon alt=Recurso src="images/pdf.gif"> <A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Fr/11) Exercises/AE01Fr.pdf" target=_blank>Exercices A - F</A></P>]]></data>
