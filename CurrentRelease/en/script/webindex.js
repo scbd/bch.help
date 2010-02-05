@@ -69,7 +69,7 @@ function resizeContainerNow()
 {
     try
     {
-        document.getElementById("indexbody").style.height = (getClientSize().height-20) + "px";
+        document.getElementById("indexbody").style.height = (getClientSize().height-40) + "px";
         document.getElementById("indexbody").style.width = (getClientSize().width) + "px";
     }
     catch(e)
