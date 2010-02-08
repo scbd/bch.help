@@ -51,20 +51,23 @@
     <div id="divSearch">
         <table border="0" id="tblSearch">
             <tr>
-                <td>Buscar:<br>
-                <form style="padding: 0; margin: 0" onsubmit="btnSearch_onclick(); return false;"><input id="txtSearch" type="text" name="txtSearch" value="">&nbsp;<input id="btnSearch" type="button" value="Buscar" name="btnSearch"
+                <td>Look for:<br>
+                <form style="padding: 0; margin: 0" onsubmit="btnSearch_onclick(); return false;"><input id="txtSearch" type="text" name="txtSearch" value="">&nbsp;<input id="btnSearch" type="button" value="Search" name="btnSearch"
                        language="javascript" onclick="return btnSearch_onclick();"></form></td>
             </tr>
 
             <tr>
-                <td>(Las palabras pueden combinarse usando OR y AND)</td>
+                <td>(Words can be combined using OR and AND)</td>
+            </tr>
+            <tr>
+                <td style="margin-left: 0px; padding-left: 0px"><input id="chkHighlightInResults" type="checkbox" checked="true" style="margin-left: -2px;" />Highlight search terms</td>
             </tr>
         </table>
     </div><br>
     <div id="divSearching" style="display: none">
         <table id="tblProgress" border="0">
             <tr>
-                <td>Buscando...</td>
+                <td>Searching...</td>
             </tr>
         </table>
     </div>

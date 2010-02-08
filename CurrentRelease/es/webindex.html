@@ -30,15 +30,15 @@
             margin: 0;
             padding: 0;
             position: absolute;
-            top: 20px;
+            top: 40px;
             left: 0;
             overflow: auto;
         }
         input
         {
-            font-size: 10px;
+            font-size: 12px;
             position: absolute;
-            top: 0px;
+            top: 10px;
             left: 0px;
             border: solid 1px #bbbbbb;
             margin: 0px 0px 0px 0px;
@@ -51,39 +51,40 @@
     </script>
     <script src="script/webutility.js" language="javascript" type="text/javascript">
     </script>
+	
+	<script>
+		// Code inserted by Online Help Team
+		function inputFocus(){
+			input = document.getElementById('txtSearch');	
+			caption = "Búsqueda en el Índice"
+			if (input.value == caption){
+						input.value = '';
+						input.style.fontStyle = '';
+						input.style.color = '#000000'; //black
+			}
+		}
+		
+		function inputBlur(){
+			input = document.getElementById('txtSearch');	
+			caption = "Búsqueda en el Índice"
+			if (input.value == ''){
+						input.style.fontStyle = 'italic';
+						input.style.color = '#FF0000'; //red
+						input.value = caption;						
+			}
+		}
+		// End of code inserted by Online Help Team
+	</script>
+	
 </head>
-<body onload="indexLoad();">
+<body onload="inputBlur();indexLoad();">
 <div id="indexcontainer">
-    <input id="txtSearch" type="text" name="txtSearch" onkeyup="findIndexEntry(event);">
+    <input id="txtSearch" type="text" name="txtSearch" onkeyup="findIndexEntry(event);"
+		onfocus="inputFocus();"
+		onblur="inputBlur()">
     <div id="indexbody"">
-    <a target="webcontent" href="_index_entry_not_found.html"></a><br />
-<a target="webcontent" href="Training modules.html"></a><br />
-<a target="webcontent" href="Interactive Modules.html"></a><br />
-<a target="webcontent" href="Case studies.html"></a><br />
-<a target="webcontent" href="Ready Reference Guides.html"></a><br />
-<a target="webcontent" href="Discussion Points with Answer Keys.html"></a><br />
-<a target="webcontent" href="Quiz Questions with Answer Keys.html"></a><br />
-<a target="webcontent" href="Operational Handbook.html"></a><br />
-<a target="webcontent" href="Promotional Materials.html"></a><br />
-<a target="webcontent" href="PowerPoint_Presentations.html"></a><br />
-<a target="webcontent" href="Additional_Resources.html"></a><br />
-<a target="webcontent" href="Prefix (2).html"></a><br />
-<a target="webcontent" href="Introduction to the module.html"></a><br />
-<a target="webcontent" href="Introduction to training.html"></a><br />
-<a target="webcontent" href="Using BCH training modules to meet stakeholder needs.html"></a><br />
-<a target="webcontent" href="Stakeholder curricula.html"></a><br />
-<a target="webcontent" href="Available resources.html"></a><br />
-<a target="webcontent" href="Guide to workshop planning and delivery.html"></a><br />
-<a target="webcontent" href="Introduction_to_the_module_Surfing.html"></a><br />
-<a target="webcontent" href="Users_Guide_to_the_BCH_Central_Portal.html"></a><br />
-<a target="webcontent" href="Other_Information_Available_on_the_BCH.html"></a><br />
-<a target="webcontent" href="Introduction.html"></a><br />
-<a target="webcontent" href="Course_Outline.html"></a><br />
-<a target="webcontent" href="Methodology_Assessment_Evaluation.html"></a><br />
-<a target="webcontent" href="Documents.html"></a><br />
-<a target="webcontent" href="How_a_Party_benefit_from_the_BCH.html"> ¿Cómo pueden beneficiarse las Partes con el CIISB?</a><br />
+    <a target="webcontent" href="How_a_Party_benefit_from_the_BCH.html"> ¿Cómo pueden beneficiarse las Partes con el CIISB?</a><br />
 <a target="webcontent" href="What_is_the_Cartagena_Protocol_on_Biosafety.html"> ¿Qué es el Protocolo de Cartagena sobre Seguridad de la Biotecnología?</a><br />
-<a target="webcontent" href="Who_can_access_the_BCH.html"> ¿Quiénes tienen acceso al CIISB?</a><br />
 <a target="webcontent" href="How_does_the_BCH_work.html">¿Cómo funciona el CIISB?</a><br />
 <a target="webcontent" href="How_does_the_Cartagena_Protocol_work.html">¿Cómo funciona el Protocolo de Cartagena?</a><br />
 <a target="webcontent" href="What are the institutional arrangements established by the Proto.html">¿Qué arreglos institucionales establece el Protocolo?</a><br />
@@ -97,11 +98,14 @@
 <a target="webcontent" href="Who_can_register_information_on_the_BCH2.html">¿Quiénes pueden registrar  información en el CIISB?</a><br />
 <a target="webcontent" href="Acceptance and Approval.html">Aceptación y aprobación</a><br />
 <a target="webcontent" href="Highlights2.html">Acontecimientos destacados</a><br />
+<a target="webcontent" href="Administration.html">Administración (solo Puntos Focales Nacionales - CIISB)</a><br />
+<a target="webcontent" href="National Node Administration.html">Administración de Nodos Nacionales</a><br />
 <a target="webcontent" href="Downloadable_files.html">Archivos para Descarga</a><br />
 <a target="webcontent" href="National_institutional_arrangements3.html">Arreglos institucionales nacionales</a><br />
 <a target="webcontent" href="Active clearance for publishing information (-validation-).html">Autorizar activamente la publicación de información (“validación”)</a><br />
 <a target="webcontent" href="Help.html">Ayuda</a><br />
 <a target="webcontent" href="BCH_Central_Portal_Online_Help.html">Ayuda en línea del Portal del CIISB</a><br />
+<a target="webcontent" href="Help_on_Help.html">Ayuda sobre la ayuda</a><br />
 <a target="webcontent" href="Scientific_Bibliographic_Database.html">Base de Datos de Bibliografía Científica</a><br />
 <a target="webcontent" href="Benefits_of_becoming_a_Party_to_the_Protocol.html">Beneficios de ser Parte en el Protocolo</a><br />
 <a target="webcontent" href="Finding_Information_.html">Búsqueda de Información</a><br />
@@ -109,8 +113,14 @@
 <a target="webcontent" href="Finding_information_from_the_BCH_Central_Portal.html">Búsqueda de información en el Portal Central del CIISB</a><br />
 <a target="webcontent" href="Registry_searches.html">Búsqueda de Registros</a><br />
 <a target="webcontent" href="Search_using_Record_ID.html">Búsqueda del Registro usando el ID</a><br />
+<a target="webcontent" href="Mailbox.html">Buzón</a><br />
+<a target="webcontent" href="Password change.html">Cambio de contraseña</a><br />
 <a target="webcontent" href="BCH-IAC.html">CAO-CIISB</a><br />
+<a target="webcontent" href="Categories of documents national and reference records.html">Categorías de documentos: nacionales y de referencia</a><br />
 <a target="webcontent" href="Birc.html">Centro de Recursos de Información en Bioseguridad (CRIB)</a><br />
+<a target="webcontent" href="Sign out.html">Cerrar sesión</a><br />
+<a target="webcontent" href="Completing_offline_Common_Formats.html">Cómo completar los Formatos Comunes fuera de línea</a><br />
+<a target="webcontent" href="Using the online registration forms.html">Cómo usar los formularios de registro en línea</a><br />
 <a target="webcontent" href="On_line_confences.html">Conferencias en Línea</a><br />
 <a target="webcontent" href="National_Contacts_.html">Contactos Nacionales</a><br />
 <a target="webcontent" href="National_Contacts2.html">Contactos Nacionales</a><br />
@@ -118,6 +128,8 @@
 <a target="webcontent" href="Becoming_a_Party.html">Convertirse en Parte</a><br />
 <a target="webcontent" href="Capacity-Building.html">Creación de Capacidad</a><br />
 <a target="webcontent" href="Building and maintaining capacity to use the BCH.html">Creación y mantenimiento de capacidad para usar el CIISB</a><br />
+<a target="webcontent" href="Personal Account.html">Cuenta Personal</a><br />
+<a target="webcontent" href="Stakeholder curricula.html">Currículas para diferentes beneficiarios</a><br />
 <a target="webcontent" href="COP-MOP_Decisions.html">Decisiones de la CP-RP</a><br />
 <a target="webcontent" href="Country_Decisions_and_other_Communication.html">Decisiones de País y otras Comunicaciones</a><br />
 <a target="webcontent" href="Decisions_on_the_BCH.html">Decisiones sobre el CIISB</a><br />
@@ -125,24 +137,37 @@
 <a target="webcontent" href="Disclaimer3.html">Declinación  de Responsabilidad</a><br />
 <a target="webcontent" href="Designation_of_Competent_National_Authorities.html">Designación de Autoridades Nacionales Competentes</a><br />
 <a target="webcontent" href="Designation of National Focal Points.html">Designación de Centros Focales Nacionales</a><br />
+<a target="webcontent" href="Edit_a_draft_record.html">Editar un registro borrador</a><br />
+<a target="webcontent" href="Edit_a_published_record.html">Editar un registro publicado</a><br />
+<a target="webcontent" href="Exercises.html">Ejercicios</a><br />
 <a target="webcontent" href="The_Management_Center.html">El Centro de Gestión</a><br />
+<a target="webcontent" href="The BCH Management Centre.html">El Centro de Gestión del CIISB</a><br />
 <a target="webcontent" href="The_Biosafety_Clearing_House.html">El Centro de Intercambio de Información sobre Seguridad de la Biotecnología</a><br />
 <a target="webcontent" href="The_Biosafety_Clearing_House2.html">El Centro de Intercambio de Información sobre Seguridad de la Biotecnología – Definición y contexto</a><br />
 <a target="webcontent" href="The_BCH.html">El CIISB</a><br />
 <a target="webcontent" href="The_BCH_.html">El CIISB </a><br />
+<a target="webcontent" href="The_Sign_in_mechanism.html">El mecanismo de &quot;Iniciar Sesión&quot;</a><br />
 <a target="webcontent" href="The_Protocol.html">El Protocolo</a><br />
+<a target="webcontent" href="The_Sign_up_for_a_BCH_account_links.html">El vínculo &quot;Registrarse para solicitar una cuenta&quot;</a><br />
+<a target="webcontent" href="Choosing_a_password.html">Elegir una contraseña</a><br />
 <a target="webcontent" href="Liaison with the Secretariat regarding the BCH.html">Enlace con la Secretaría en lo que respecta al CIISB</a><br />
 <a target="webcontent" href="On Entry Into Force of the Protocol.html">Entrada en vigor del Protocolo</a><br />
+<a target="webcontent" href="Case_Studies.html">Estudio de casos</a><br />
 <a target="webcontent" href="Assessing capacity needs.html">Evaluación de las necesidades de capacidad</a><br />
 <a target="webcontent" href="Risk_Assessment.html">Evaluación del riesgo</a><br />
 <a target="webcontent" href="Exporting_results_to_XML.html">Exportación de Resultados a XML</a><br />
 <a target="webcontent" href="Facilitating a network of partners.html">Facilitar una red de socios</a><br />
 <a target="webcontent" href="Sorting_results.html">Filtro de Resultados</a><br />
 <a target="webcontent" href="Common_formats.html">Formatos Comunes</a><br />
+<a target="webcontent" href="Common_Format.html">Formatos Comunes</a><br />
+<a target="webcontent" href="Offline_Common_Formats.html">Formatos Comunes fuera de línea</a><br />
 <a target="webcontent" href="Role of the BCH Focal Points.html">Función de los centros focales del CIISB</a><br />
 <a target="webcontent" href="Function of the BCH focal Points.html">Función de los centros focales del CIISB</a><br />
 <a target="webcontent" href="Glossary2.html">Glosario</a><br />
+<a target="webcontent" href="Ready_Reference_Guide.html">Guía de Referencia Rápida</a><br />
 <a target="webcontent" href="Guide_to_the_BCH.html">Guía para el CIISB</a><br />
+<a target="webcontent" href="AJAX_BCH_Development_Tool.html">Herramienta de Desarrollo del CIISB AJAX</a><br />
+<a target="webcontent" href="HERMES_BCH_Development_Tool.html">Herramienta de Desarrollo del CIISB HERMES</a><br />
 <a target="webcontent" href="Support_Tools.html">Herramientas de apoyo 1, 2 y 3</a><br />
 <a target="webcontent" href="Identification_of_a_contact_point.html">Identificación de un punto de contacto para casos de movimientos transfronterizos involuntarios y medidas de emergencia</a><br />
 <a target="webcontent" href="Development_of_the_BCH.html">Implementación del CIISB</a><br />
@@ -155,21 +180,26 @@
 <a target="webcontent" href="Information-sharing under Article 20.html">Intercambio de información conforme al Artículo 20</a><br />
 <a target="webcontent" href="Information-sharing for non-Parties.html">Intercambio de información en el caso de los Estados que no son Partes</a><br />
 <a target="webcontent" href="An_Introduction_to_the_Biosafety_Clearing_House.html">Introducción al Centro de Intercambio de Información sobre Seguridad de la Biotecnología</a><br />
-<a target="webcontent" href="Introduction_to_the_Module_Protocol.html">Introducción al módulo</a><br />
-<a target="webcontent" href="Introduction_to_the_Module_BCH.html">Introducción al módulo</a><br />
-<a target="webcontent" href="Introduction_to_the_Module_Becoming_a_Party.html">Introducción al módulo</a><br />
 <a target="webcontent" href="The_Cartagena_Protocol_on_Biosafety.html">Introducción al Protocolo de Cartagena sobre Seguridad de la Biotecnología</a><br />
 <a target="webcontent" href="The_Navigation_Bar.html">La Barra de Navegación</a><br />
+<a target="webcontent" href="The_Sign_in_to_the_Biosafety_ClearingHouse_page.html">La página de inicio de sesión en el CIISB</a><br />
+<a target="webcontent" href="The Management Centre main page.html">La página principal del Centro de Gestión</a><br />
 <a target="webcontent" href="Laws_and_Regulations2.html">Leyes y reglamentaciones</a><br />
 <a target="webcontent" href="Laws_and_Regulations.html">Leyes y Regulaciones</a><br />
 <a target="webcontent" href="Mailing_List.html">Lista de Correos Electrónicos</a><br />
 <a target="webcontent" href="Roster_of_Experts.html">Lista de Expertos</a><br />
 <a target="webcontent" href="Country_Profiles.html">Los “Perfiles de Países”</a><br />
 <a target="webcontent" href="Managing_Search_Results.html">Manejo de Resultados de Búsqueda</a><br />
+<a target="webcontent" href="Operational_Handbook.html">Manual Operacional</a><br />
 <a target="webcontent" href="Site_Map.html">Mapa del Sitio</a><br />
 <a target="webcontent" href="Training_Materials.html">Materiales de Entrenamiento</a><br />
+<a target="webcontent" href="Promotional_Materials.html">Materiales Promocionales</a><br />
+<a target="webcontent" href="Managing your Personal Profile.html">Mi perfil</a><br />
+<a target="webcontent" href="My Subscriptions.html">Mis suscripciones</a><br />
 <a target="webcontent" href="Modalities_of_operation.html">Modalidades de funcionamiento del CIISB.</a><br />
 <a target="webcontent" href="Training_Modules2.html">Módulos de Entrenamiento</a><br />
+<a target="webcontent" href="Training_Modules.html">Módulos de Entrenamiento</a><br />
+<a target="webcontent" href="Interactive_Modules.html">Módulos interactivos</a><br />
 <a target="webcontent" href="Transboundary movements of LMOs between Parties and non-Parties .html">Movimientos transfronterizos de OVM entre Partes y Estados que no son Partes (Artículo 24)</a><br />
 <a target="webcontent" href="Unintentional_transboundary_movements_of_LMOs.html">Movimientos transfronterizos no intencionales de OVM</a><br />
 <a target="webcontent" href="Surfing_the_BCH_Central_Portal.html">Navegación en el Portal Central del CIISB</a><br />
@@ -179,6 +209,7 @@
 <a target="webcontent" href="Notifications2.html">Notificaciones</a><br />
 <a target="webcontent" href="Obligations on becoming a Party to the Protocol.html">Obligaciones al convertirse en Parte en el Protocolo</a><br />
 <a target="webcontent" href="Information-sharing_Obligations_On_Becoming_a_Party_to_the_Protocol.html">Obligaciones de intercambio de información al convertirse en Parte en el Protocolo</a><br />
+<a target="webcontent" href="The_Forgot_your_password_link.html">Olvido de la Contraseña</a><br />
 <a target="webcontent" href="Organizations.html">Organizaciones</a><br />
 <a target="webcontent" href="Administrative_body_of_the_Cartagena_Protocol2.html">Órgano administrativo del Protocolo de Cartagena</a><br />
 <a target="webcontent" href="Governing_body_of_the_Cartagena_Protocol2.html">Órgano rector del Protocolo de Cartagena</a><br />
@@ -193,6 +224,7 @@
 <a target="webcontent" href="Linking_External_Websites_Policy.html">Política de Enlaces a sitios web Externos</a><br />
 <a target="webcontent" href="Privacy_Policy.html">Política de Privacidad</a><br />
 <a target="webcontent" href="Policies.html">Políticas </a><br />
+<a target="webcontent" href="Quiz_Questions_with_Answer_keys.html">Preguntas de revisión con clave de respuesta</a><br />
 <a target="webcontent" href="FAQ.html">Preguntas Frecuentes</a><br />
 <a target="webcontent" href="Preparing_for_meetings_of_the_COP-MOP.html">Preparación para las reuniones de la CP-RP</a><br />
 <a target="webcontent" href="Reporting.html">Presentación de Informes</a><br />
@@ -200,28 +232,37 @@
 <a target="webcontent" href="Multi-year_Program_of_Work.html">Programa de Trabajo Plurianual</a><br />
 <a target="webcontent" href="Promoting_public_awareness_and_participation.html">Promoción de la concienciación y participación públicas (Artículo 23)</a><br />
 <a target="webcontent" href="Protecting commercial information (Article 21).html">Protección de la información comercial (Artículo 21)</a><br />
+<a target="webcontent" href="Discussion_Points_with_answer_Key.html">Puntos de discusión con clave de respuesta</a><br />
 <a target="webcontent" href="Ratification and Accession.html">Ratificación y adhesión</a><br />
 <a target="webcontent" href="Resources.html">Recursos </a><br />
 <a target="webcontent" href="Registering_Information.html">Registrar Información</a><br />
+<a target="webcontent" href="Register a new record.html">Registrar nueva información</a><br />
 <a target="webcontent" href="Gene_Registry.html">Registro de Genes</a><br />
 <a target="webcontent" href="Unique_Identification_Registry.html">Registro de Identificadores Únicos</a><br />
+<a target="webcontent" href="Registering_Information_in_the_BCH_Central_Portal.html">Registro de información en el Portal Central del CIISB</a><br />
+<a target="webcontent" href="Registering_Information2.html">Registro de información en el Portal Central del CIISB</a><br />
 <a target="webcontent" href="Parent_or__Donor_Organism_Registry.html">Registro de Organismos Parentales o Donantes</a><br />
 <a target="webcontent" href="LMOs_Genes_and_Organisms_Registries.html">Registros de OVM, Genes y Organismos</a><br />
+<a target="webcontent" href="Reproduction_Disclaimers.html">Reproducción y Descargo de Responsabilidades</a><br />
 <a target="webcontent" href="Language_requirements_of_the_BCH.html">Requisitos de idioma del CIISB</a><br />
 <a target="webcontent" href="Handling_packaging_and_identification_requirements_for_LMOs.html">Requisitos de manipulación, envasado e identificación de OVM [1]</a><br />
 <a target="webcontent" href="Responsibilities of information partners.html">Responsabilidades de los socios de información</a><br />
 <a target="webcontent" href="Meetings_and_Documents2.html">Reuniones y Documentos</a><br />
 <a target="webcontent" href="Meetings_and_Documents.html">Reuniones y Documentos</a><br />
+<a target="webcontent" href="Reviewing and saving a record.html">Revisar y guardar un registro</a><br />
 <a target="webcontent" href="Becoming_a_Party_to_the_Protocol.html">Ser Parte en el Protocolo</a><br />
 <a target="webcontent" href="Interoperatibility_Services.html">Servicios de Interoperatividad</a><br />
+<a target="webcontent" href="Training Site.html">Sitio de entrenamiento</a><br />
 <a target="webcontent" href="Training_Site_of_the_BCH.html">Sitio de Entrenamiento del CIISB</a><br />
 <a target="webcontent" href="Solutions_for_National_Participation.html">Soluciones para la Participación Nacional (Hermes y el Plug-in Ajax al CIISB)</a><br />
 <a target="webcontent" href="Succession.html">Sucesión</a><br />
 <a target="webcontent" href="Thesaurus.html">Tesauro</a><br />
 <a target="webcontent" href="Text_of_the_Protocol.html">Texto del Protocolo</a><br />
-<a target="webcontent" href="TopicNotFound.html">Tópico no encontrado</a><br />
 <a target="webcontent" href="Latest_Additions.html">Últimas adiciones</a><br />
 <a target="webcontent" href="Latest_additions2.html">Últimas Novedades</a><br />
+<a target="webcontent" href="National Authorized Users.html">Usuarios Nacionales Autorizados</a><br />
+<a target="webcontent" href="Using BCH training modules to meet stakeholder needs.html">Utilización de los módulos de entrenamiento del CIISB para resolver las necesidades de los beneficiarios</a><br />
+<a target="webcontent" href="Validate_pending_records.html">Validar registros pendientes</a><br />
 
     </div>
 </div>

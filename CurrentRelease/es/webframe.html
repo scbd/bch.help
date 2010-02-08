@@ -52,9 +52,9 @@
 					exists = true;	// If there is a Javascript error with the FileExists function, then just ignore the file existence check
 				}
 				if (exists)
-					window.frames['webcontent'].location = getDefaultTopic();
+					window.frames['webcontent'].location.replace(getDefaultTopic());
 				else
-					window.frames['webcontent'].location = "TopicNotFound.html";
+					window.frames['webcontent'].location.replace("TopicNotFound.html");
 				defaultContentPageSet = true;
 			}
 		}
