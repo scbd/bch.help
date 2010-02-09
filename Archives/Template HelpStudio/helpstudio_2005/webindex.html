@@ -31,15 +31,15 @@
             margin: 0;
             padding: 0;
             position: absolute;
-            top: 20px;
+            top: 40px;
             left: 0;
             overflow: auto;
         }
         input
         {
-            font-size: 10px;
+            font-size: 12px;
             position: absolute;
-            top: 0px;
+            top: 10px;
             left: 0px;
             border: solid 1px #bbbbbb;
             margin: 0px 0px 0px 0px;
@@ -52,10 +52,37 @@
     </script>
     <script src="script/webutility.js" language="javascript" type="text/javascript">
     </script>
+	
+	<script>
+		// Code inserted by Online Help Team
+		function inputFocus(){
+			input = document.getElementById('txtSearch');	
+			caption = <!--DXMETADATA start type="Variable" name="IndexSearchText" format="%%variable%%" --> <!--DXMETADATA end -->
+			if (input.value == caption){
+						input.value = '';
+						input.style.fontStyle = '';
+						input.style.color = '#000000'; //black
+			}
+		}
+		
+		function inputBlur(){
+			input = document.getElementById('txtSearch');	
+			caption = <!--DXMETADATA start type="Variable" name="IndexSearchText" format="%%variable%%" --> <!--DXMETADATA end -->
+			if (input.value == ''){
+						input.style.fontStyle = 'italic';
+						input.style.color = '#FF0000'; //red
+						input.value = caption;						
+			}
+		}
+		// End of code inserted by Online Help Team
+	</script>
+	
 </head>
-<body onload="indexLoad();">
+<body onload="inputBlur();indexLoad();">
 <div id="indexcontainer">
-    <input id="txtSearch" type="text" name="txtSearch" onkeyup="findIndexEntry(event);">
+    <input id="txtSearch" type="text" name="txtSearch" onkeyup="findIndexEntry(event);"
+		onfocus="inputFocus();"
+		onblur="inputBlur()">
     <div id="indexbody"">
     <!--DXMETADATA start type="IndexContent" Scrap="_INDEXCONTENT_ENTRY_WEB_BODY"-->Index Entries<!--DXMETADATA end-->
     </div>

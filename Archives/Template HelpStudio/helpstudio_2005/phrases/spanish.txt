@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<PhraseTable Version="6.0">
+<PhraseTable Version="4.1">
     <Phrase Name="CLICK TO ENLARGE">Haga clic aquí para Enlarge</Phrase>
     <Phrase Name="CLICK TO SHRINK">Haga clic aquí para reducir</Phrase>
     <Phrase Name="COMMUNITY_ADDCOMMENT">Añadir un nuevo Comentario Comunitario</Phrase>
@@ -20,7 +20,7 @@
     <Phrase Name="GLOSSARY">Glosario</Phrase>
     <Phrase Name="GOTO">Ir A:</Phrase>
     <Phrase Name="Hide All">Contraer Todo</Phrase>
-    <Phrase Name="INDEX">Indice</Phrase>
+    <Phrase Name="INDEX">Índice</Phrase>
     <Phrase Name="SEARCH">Búsqueda</Phrase>
     <Phrase Name="SEEALSO">Vea también</Phrase>
     <Phrase Name="Show All">Expandir Todo</Phrase>
@@ -34,7 +34,7 @@
     <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">Ocultar navegación</Phrase>
     <Phrase Name="WEBTOOLBAR_HOME">Inicio</Phrase>
     <Phrase Name="WEBTOOLBAR_PRINTTOPIC">Imprimir Tema</Phrase>
-    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Búsqueda Rápida</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Búsqueda Rápida en el tópico actual</Phrase>
     <Phrase Name="WEBTOOLBAR_REFRESH">Actualizar</Phrase>
     <Phrase Name="WEBTOOLBAR_STOP">Parar</Phrase>
 </PhraseTable>

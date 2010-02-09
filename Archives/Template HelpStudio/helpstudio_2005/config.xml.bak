@@ -35,8 +35,8 @@
     <PageLayout FileName="webblank.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
     <PageLayout FileName="webfavorites.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
     <PageLayout FileName="webtoolbar.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
-    <PageLayout FileName="blank.gif" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
-    <PageLayout FileName="iepngfix.htc" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="For Include.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="langChange.js" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
     <VariableDef Name="CopyrightNotice" Type="0" Caption="Copyright Notice" Description="Text to display at the footer of each generated page" Defaultvalue=""/>
     <VariableDef Name="NonScrollingPageFooter" Type="0" Caption="Page Footer (non scrolling)" Description="Content to display in a non scrolling footer region at the base of the page. The non scrolling functionality is only supported in compiled help files or Internet Explorer." Defaultvalue="&amp;copy;%%year%%. All Rights Reserved."/>
     <VariableDef Name="FeedbackLink" Type="0" Caption="Feedback Link" Description="HTML to display a feedback link at the top right of each generated page." Defaultvalue="&lt;a href=&quot;mailto:support@company.com?subject=Documentation Feedback: %%FileName%%&quot;&gt;Send comments&lt;/a&gt; on this topic."/>
@@ -54,8 +54,10 @@
     <VariableDef Name="UNEPLogoPath" Type="1" Caption="UNEP Logo Path" Description="" Defaultvalue="&lt;img src=&quot;images/unepen.png&quot;&gt;"/>
     <VariableDef Name="SCBDLogoPath" Type="1" Caption="SCBD Logo Path" Description="" Defaultvalue="&lt;img src=&quot;images/scbden.png&quot;&gt;"/>
     <VariableDef Name="GEFLogoPath" Type="1" Caption="GEF Logo Path" Description="" Defaultvalue="&lt;img src=&quot;images/gefen.png&quot;&gt;"/>
-    <VariableDef Name="BCHLogoPath" Type="1" Caption="BCH Logo Path" Description="" Defaultvalue="&lt;img src=&quot;images/bchen.jpg&quot;&gt;"/>
-    <VariableDef Name="LanguageDirectories" Type="0" Caption="Language Directories" Description="Language Directories" Defaultvalue="r,zh,en,fr,ru,es"/>
+    <VariableDef Name="BCHLogoPath" Type="1" Caption="BCH Logo Path" Description="" Defaultvalue="images/bchen.jpg"/>
+    <VariableDef Name="LanguageDirectories" Type="0" Caption="Language Directories" Description="Language Directories" Defaultvalue="ar,zh,en,fr,ru,es"/>
+    <VariableDef Name="DownloadModuleLink" Type="1" Caption="Download Module Link" Description="Link to download the corresponding module to the current topic" Defaultvalue="&lt;b&gt;&lt;a href=%%ModuleReference%%&gt;Download the &quot;%%DownloadLink%%&quot; complete manual&lt;/a&gt;&lt;/b&gt;"/>
+    <VariableDef Name="HelpOnHelpLink" Type="0" Caption="HelpOnHelpLink" Description="HelpOnHelpLink" Defaultvalue=""/>
     <TOCDefinition Name="Standard" Description="Standard Table of Contents layout">
         <NodeDef Key="N10866" DependantCount="0" DependantOnnamespace="" DependantOnnamespace_Filter="" DependantStillProcessChildren="False" FileNameTemplate="" LinkToPage="True" MarkAsNew="False" NodeCaptionTemplate="%%ItemTitle%%" NodeIconIndex="1" NodeType="1" PageLayout="" PageTypeNamespace="dx.HelpStudio3:Topic" PageTypeNamespaceFilter="" ParentKey="" UseCustomIcon="False" IsDefaultTopic="False" PlugInName="" PlugInData=""/>
     </TOCDefinition>

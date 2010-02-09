@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<PhraseTable Version="6.0">
+<PhraseTable Version="4.1">
     <Phrase Name="CLICK TO ENLARGE">Click to Enlarge</Phrase>
     <Phrase Name="CLICK TO SHRINK">Click to Shrink</Phrase>
     <Phrase Name="COMMUNITY_ADDCOMMENT">Add a new Community Comment</Phrase>
@@ -34,7 +34,7 @@
     <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">Hide Navigation</Phrase>
     <Phrase Name="WEBTOOLBAR_HOME">Home</Phrase>
     <Phrase Name="WEBTOOLBAR_PRINTTOPIC">Print Topic</Phrase>
-    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Quick Search</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Quick Search in current topic</Phrase>
     <Phrase Name="WEBTOOLBAR_REFRESH">Refresh</Phrase>
     <Phrase Name="WEBTOOLBAR_STOP">Stop</Phrase>
 </PhraseTable>
