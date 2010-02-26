@@ -1,0 +1,223 @@
+body
+{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    background: #ffffff; 
+    color: #000000;
+    font-family: Trebuchet MS;
+    font-size: 10pt;
+    width: 100%;
+}
+p
+    {
+    margin: .5em 0em .5em 0em;
+    }
+p.tocentry
+    {
+    font-size: 120%;
+    }
+blockquote
+    {
+    margin-top: 0em;
+    margin-bottom: 0em;
+    margin-left: 2em;   
+    }
+dl
+    {
+    margin-top: 0em; 
+    padding-left: 1px; /* Prevents italic-letter descenders from being cut off */
+    }
+dd
+    {
+    margin-bottom: 0em;  
+    margin-left: 1.5em; 
+    }
+dt
+    {
+    margin-top: .5em; 
+    }
+ol, ul
+    {
+    margin: .5em 0em 1em 2em;
+    }
+li
+    {
+    margin-bottom: .5em;
+    }
+ul p, ol p, dl p
+    {
+    margin-left: 0em;
+    }
+blockquote.dxOverload
+    {
+    margin: .5em 1.5em .5em 1.5em;
+    }
+h1, h2, h3, h4
+    {
+    margin-bottom: .4em;
+    margin-top: 16px;
+    font-weight: bold;
+    }
+table.titletable td
+    {
+    font-size: 16pt;
+    font-family: Trebuchet MS;
+    }
+table.titletable
+{
+    margin-bottom: 16px;
+}
+h1
+    {
+    font-size: 16pt;
+    }
+h2
+    {
+    font-size: 110%;
+    }
+h3
+    {
+    font-size: 105%;
+    }
+h4
+    {
+    font-size: 100%;
+    }
+A:link
+{
+    COLOR : #0000FF
+}
+A:active
+{
+    COLOR : #000080
+}
+A:visited
+{
+    COLOR : #800080
+}
+A:hover
+{
+    COLOR : #FF0000
+}
+PRE.example
+{
+    FONT-FAMILY: Courier New;
+    FONT-SIZE: 100%;
+    COLOR: #000060;
+    margin-top: 0px;
+}
+PRE.code
+{
+    FONT-FAMILY: Courier New;
+    FONT-SIZE: 100%;
+    margin-top: 0px;
+}
+CODE, p.example, p.sourcecode, table.sourcecode, tr.sourcecode, td.sourcecode
+{
+    FONT-FAMILY: Courier New;
+    FONT-SIZE: 100%;
+}
+table.indentedtable
+    {
+    position: relative;
+    left: 15px;
+    border-width: 1;
+    border-style: solid;
+    bordercolorlight: #999999;
+    bordercolordark: #999999;
+    border-collapse: collapse;
+    }   
+table
+    {
+    background-color: #ffffff; 
+    border-collapse: collapse;
+    font-size: 100%;
+    width: auto;
+    }
+table th, table td
+    { 
+
+    }
+table.th
+    { 
+    background: #cccccc; 
+    vertical-align: bottom;
+    }
+table.td
+    {
+    background: #ffffff;
+    }
+table.tableofcontents
+{
+    width: 100%;
+}
+table.tableofcontents td, table.tableofcontents th
+    {
+    font-size: 120%;    
+    }
+code {
+    font-family: Courier New;
+    font-size: 9pt;
+    color: #000060;
+}
+code.VB
+{
+    color: #000000;
+}
+.keyword {
+    color: Navy;
+}
+
+.comment {
+    color: Green;
+}
+
+.string {
+    color: Gray;
+}   
+
+/* To supress on-line only content from appearing */
+.hs-onlineonly
+{
+    display: none;
+}
+table.titletable
+{
+    margin-right: 5px;
+}
+hr.titlerule
+{
+    margin-top: -8px;
+    border: none;
+    height: 1;
+}
+div.rule 
+{
+    width: 100%; 
+    height: 1;
+    border: none;
+    background-image:url('../images/1pixel.gif');
+    background-repeat:repeat-x;
+}
+.syntaxtable
+{
+    width: 100%;
+}
+.syntaxtable th, .syntaxtable td
+{
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.syntaxtable th
+{
+    text-align: left;
+}
+.syntaxtable td
+{
+    background: #f0f0f0;
+    font-family: consolas, courier new;
+}
+.TitleTable TD
+{
+    vertical-align: top;
+}

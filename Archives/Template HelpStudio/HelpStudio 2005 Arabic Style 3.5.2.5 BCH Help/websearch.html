@@ -1,0 +1,85 @@
+<html>
+<head>
+    <!--DXMETADATA start type="MetaCharset" -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--DXMETADATA end-->
+    <style type="text/css">
+        blockquote {
+            margin-top:     0px;
+            margin-bottom:  0px;
+            margin-left:    16px;
+        }
+        body, td {
+            margin:         0;
+            font-family:    Verdana, Arial, Helvetica, sans-serif;
+            font-size:      70%
+        }
+        .searchtitle {
+            font-size:      10pt;
+            font-weight:    bold;
+            margin-top:     0px;
+            margin-bottom:  5px;
+        }
+        .searchresults
+        {
+            margin-top:     0px;
+        }
+        .searchresults td
+        {
+            padding:        2 0 2 0;
+        }
+        .searchresults td.innerrow
+        {
+            border-top:     1px dotted darkgrey;
+        }
+        .searchresults a
+        {
+            text-decoration: none;
+        }
+    </style>
+    <script src="ftsindex.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="script/fts.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="script/webhighlight.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <script src="script/webutility.js" language="javascript" type="text/javascript" charset="utf-8">
+    </script>
+    <base target="webcontent">
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
+</head>
+
+<body style="margin-top:5;margin-left:5" topmargin="5" leftmargin="5">
+    <div id="divSearch">
+        <table border="0" id="tblSearch">
+            <tr>
+                <td>
+                    <!--DXMETADATA start type="Variable" name="LookForText" format="%%variable%%" --><!--DXMETADATA end --><br>
+
+                    <form style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px" onsubmit=
+						"btnSearch_onclick(); return false;">
+						<input id="txtSearch" name="txtSearch">&nbsp;<input language="javascript" id="btnSearch" contenteditable="false" style=
+                            "COLOR: highlight; BACKGROUND-COLOR: inactivecaptiontext" onclick="return btnSearch_onclick();" type="button" value=<!--DXMETADATA start type="Variable" name="SearchButton" format="%%variable%%" --><!--DXMETADATA end --> name=
+                            "btnSearch">
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td><!--DXMETADATA start type="Variable" name="WordsCombination" format="%%variable%%" --><!--DXMETADATA end --></td>
+			</tr>
+			<tr>
+				<td style="PADDING-LEFT: 0px; MARGIN-LEFT: 0px"><input id="chkHighlightInResults" style="MARGIN-LEFT: -2px" type="checkbox" checked> 
+                    <!--DXMETADATA start type="Variable" name="HighlightSearchTerms" format="%%variable%%" --><!--DXMETADATA end -->
+				</td>
+            </tr>
+        </table>
+    </div><br>
+    <div id="divSearching" style="display: none">
+        <table id="tblProgress" border="0">
+            <tr>
+				<td><!--DXMETADATA start type="Variable" name="Searching" format="%%variable%%" --><!--DXMETADATA end --></td>
+            </tr>
+        </table>
+    </div>
+    <div id="divResults" style="display: none"></div>
+</body>
+</html>

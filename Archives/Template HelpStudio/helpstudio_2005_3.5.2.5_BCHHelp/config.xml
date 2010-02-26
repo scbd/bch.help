@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Template RootFolder="" Name="HelpStudio 2005 Style 3.5.2.5 BCH Help" Description="On-line help template based on the 2005 style, with community features." ObjFillColor="16777215" ObjTextColor="1" ObjBorderColor="0" ColFillColor="12632256" ColTextColor="16777215" ColBordercolor="0" BorderWidth="0" UseDropShadow="False" CenterCaptions="False" DiagramBold="True" UseDiagramShapes="False" Supports="PxRC" Version="6.0" Languages="" Features="" DefTOCVBProject="Standard" DefTOCVBProjectGroup="Standard" DefTOCMixture="Standard" DefTOCComponent="Standard" DefTOCComponentGroup="Standard" TemplateCategory="Application Help" StyleSheet="stylesheets\helpstudio.css" SortOrdinal="" SupportedItemTypes="binary,source">
+    <PageLayout FileName="standard.html" TitleTemplate="" Namespace="dx.HelpStudio3:Topic" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="with language filter.html" TitleTemplate="" Namespace="dx.HelpStudio3:Topic" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="no headers.html" TitleTemplate="" Namespace="dx.HelpStudio3:Topic" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="no headers and no footer.html" TitleTemplate="" Namespace="dx.HelpStudio3:Topic" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="glossary.html" TitleTemplate="glossary.html" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="for include.html" TitleTemplate="" Namespace="dx.HelpStudio3:Topic" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template.hhc" TitleTemplate="%%HelpCompilerProjectFileName%%.hhc" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template.hhk" TitleTemplate="%%HelpCompilerProjectFileName%%.hhk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template.hhp" TitleTemplate="%%HelpCompilerProjectFileName%%.hhp" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Template.HxC" TitleTemplate="%%HelpCompilerProjectFileName%%.HxC" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Template.HxF" TitleTemplate="%%HelpCompilerProjectFileName%%.HxF" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template.hxk" TitleTemplate="%%HelpCompilerProjectFileName%%.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template_F.hxk" TitleTemplate="%%HelpCompilerProjectFileName%%_F.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template_N.hxk" TitleTemplate="%%HelpCompilerProjectFileName%%_N.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template_D.hxk" TitleTemplate="%%HelpCompilerProjectFileName%%_D.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template_A.hxk" TitleTemplate="%%HelpCompilerProjectFileName%%_A.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="template.hxt" TitleTemplate="%%HelpCompilerProjectFileName%%.hxt" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="COL_Template.HxC" TitleTemplate="COL_%%HelpCompilerProjectFileName%%.HxC" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="COL_Template_K.hxk" TitleTemplate="COL_%%HelpCompilerProjectFileName%%_K.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="COL_Template_F.hxk" TitleTemplate="COL_%%HelpCompilerProjectFileName%%_F.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="COL_Template_N.hxk" TitleTemplate="COL_%%HelpCompilerProjectFileName%%_N.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="COL_Template_D.hxk" TitleTemplate="COL_%%HelpCompilerProjectFileName%%_D.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="COL_Template_A.hxk" TitleTemplate="COL_%%HelpCompilerProjectFileName%%_A.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="COL_Template.hxt" TitleTemplate="COL_%%HelpCompilerProjectFileName%%.hxt" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="webframe.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="webindex.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="webnav.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="webtoc.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="websearch.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="RegisterHelp2.bat" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="UnRegisterHelp2.bat" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="navbar.xml" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="toolbar.xml" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="webblank.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="webfavorites.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="webtoolbar.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="ic_community.aspx" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="ic_community.aspx.vb" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of config.xml" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of For Include.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of Glossary.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of ic_community.aspx" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of ic_community.aspx.vb" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of langChange.js" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of navbar.xml" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of No Headers and No Footer.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of No Headers.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of RegisterHelp2.bat" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of Sample.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of standard.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of template.hhc" TitleTemplate="%%projectgroupname%%.hhc" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of template.hhk" TitleTemplate="%%projectgroupname%%.hhk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of template.hhp" TitleTemplate="%%projectgroupname%%.hhp" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of Template.HxC" TitleTemplate="%%projectgroupname%%.HxC" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of Template.HxF" TitleTemplate="%%projectgroupname%%.HxF" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of template.hxk" TitleTemplate="%%projectgroupname%%.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of template.hxt" TitleTemplate="%%projectgroupname%%.hxt" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of Template_A.hxk" TitleTemplate="%%projectgroupname%%.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of Template_D.hxk" TitleTemplate="%%projectgroupname%%.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of Template_F.hxk" TitleTemplate="%%projectgroupname%%.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of template_N.hxk" TitleTemplate="%%projectgroupname%%.hxk" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of toolbar.xml" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of UnRegisterHelp2.bat" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of webblank.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of webfavorites.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of webframe.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <PageLayout FileName="Copy of webindex.html" TitleTemplate="" Namespace="" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter="" Caption=""/>
+    <VariableDef Name="CopyrightNotice" Type="0" Caption="Copyright Notice" Description="Text to display at the footer of each generated page" Defaultvalue=""/>
+    <VariableDef Name="NonScrollingPageFooter" Type="0" Caption="Page Footer (non scrolling)" Description="Content to display in a non scrolling footer region at the base of the page. The non scrolling functionality is only supported in compiled help files or Internet Explorer." Defaultvalue="&amp;copy;%%year%%. All Rights Reserved."/>
+    <VariableDef Name="FeedbackLink" Type="0" Caption="Feedback Link" Description="HTML to display a feedback link at the top right of each generated page." Defaultvalue="&lt;a href=&quot;mailto:support@company.com?subject=Documentation Feedback: %%FileName%%&quot;&gt;Send comments&lt;/a&gt; on this topic."/>
+    <VariableDef Name="BannerColor" Type="4" Caption="Banner Background Color" Description="HTML Background color to use for the banner at the top of Topic (e.g. #d0d0d0 or GoldenRod)" Defaultvalue=""/>
+    <VariableDef Name="BannerTextColor" Type="4" Caption="Banner Text Color" Description="HTML color to use for the text in the banner at the top of Topic (e.g. #ffffff or White)" Defaultvalue=""/>
+    <VariableDef Name="BrowserHelpBackgroundColor" Type="4" Caption="Browser Help Background Color" Description="HTML Background color to use for the toolbar and navigation bar in browser help output" Defaultvalue="#426bad"/>
+    <VariableDef Name="BrowserHelpHighlightColor" Type="4" Caption="Browser Help Highlight Color" Description="HTML Background color to use for the highlighted navigation bar item in browser help output" Defaultvalue="#6d86c7"/>
+    <VariableDef Name="BrowserHelpForeColor" Type="4" Caption="Browser Help Fore Color" Description="HTML Background color to use for the text in the toolbar and navigation bar in browser help output" Defaultvalue="#ffffff"/>
+    <VariableDef Name="TopicXMLIsland" Type="1" Caption="Topic XML Island" Description="Microsoft Help 2.x XML Island (defining attributes for help filtering and F1 Context purposes)" Defaultvalue="&lt;xml&gt;
+        &lt;MSHelp:RLTitle Title=&quot;%%ItemTitleNoQuotes%%&quot;/&gt;
+        &lt;MSHelp:Attr Name=&quot;DocSet&quot; Value=&quot;%%HHNamespace%%&quot;/&gt;
+        &lt;MSHelp:Attr Name=&quot;TopicType&quot; Value=&quot;kbRef&quot;/&gt;
+    &lt;/xml&gt; "/>
+    <VariableDef Name="Help2FileVersion" Type="0" Caption="File Version (Help 2.x only)" Description="Version to include in the compiled Help 2.x file. Should be of the format x.x.x.x" Defaultvalue=""/>
+    <VariableDef Name="UNEPLogoPath" Type="1" Caption="UNEP Logo Path" Description="" Defaultvalue="&lt;img src=&quot;images/unepen.png&quot;&gt;"/>
+    <VariableDef Name="SCBDLogoPath" Type="1" Caption="SCBD Logo Path" Description="" Defaultvalue="&lt;img src=&quot;images/scbden.png&quot;&gt;"/>
+    <VariableDef Name="GEFLogoPath" Type="1" Caption="GEF Logo Path" Description="" Defaultvalue="&lt;img src=&quot;images/gefen.png&quot;&gt;"/>
+    <VariableDef Name="BCHLogoPath" Type="1" Caption="BCH Logo Path" Description="" Defaultvalue="&lt;img style=&quot;BORDER: none; CURSOR: pointer&quot; onclick=&quot;javascript:goToBch();&quot; src=&quot;images/bchen.jpg&quot;/&gt;"/>
+    <VariableDef Name="LanguageDirectories" Type="0" Caption="Language Directories" Description="Language Directories" Defaultvalue="ar,zh,en,fr,ru,es"/>
+    <VariableDef Name="DownloadModuleLink" Type="1" Caption="Download Module Link" Description="Link to download the corresponding module to the current topic" Defaultvalue="&lt;b&gt;&lt;a href=%%ModuleReference%%&gt;Download the &quot;%%DownloadLink%%&quot; complete manual&lt;/a&gt;&lt;/b&gt;"/>
+    <VariableDef Name="HelpOnHelpLink" Type="0" Caption="HelpOnHelpLink" Description="HelpOnHelpLink" Defaultvalue=""/>
+    <VariableDef Name="LookForText" Type="0" Caption="Look for text" Description="Look for text in search area" Defaultvalue="Look for:"/>
+    <VariableDef Name="SearchButton" Type="0" Caption="Caption of search button" Description="Caption of search button" Defaultvalue="Search"/>
+    <VariableDef Name="WordsCombination" Type="0" Caption="Words Combination" Description="Text of words combination in search area" Defaultvalue="(Words can be combined using OR and AND)"/>
+    <VariableDef Name="HighlightSearchTerms" Type="0" Caption="Highlight Search Terms " Description="Hichlight search terms text in search area" Defaultvalue="Highlight search terms"/>
+    <VariableDef Name="Searching" Type="0" Caption="Searching" Description="Searching text in search area" Defaultvalue="Searching..."/>
+    <VariableDef Name="IndexSearchText" Type="0" Caption="Index Search Text" Description="Index Search Text" Defaultvalue="Index search text"/>
+    <TOCDefinition Name="Standard" Description="Standard Table of Contents layout">
+        <NodeDef Key="N10866" DependantCount="0" DependantOnnamespace="" DependantOnnamespace_Filter="" DependantStillProcessChildren="False" FileNameTemplate="" LinkToPage="True" MarkAsNew="False" NodeCaptionTemplate="%%ItemTitle%%" NodeIconIndex="1" NodeType="1" PageLayout="" PageTypeNamespace="dx.HelpStudio3:Topic" PageTypeNamespaceFilter="" ParentKey="" UseCustomIcon="False" IsDefaultTopic="False" PlugInName="" PlugInData=""/>
+    </TOCDefinition>
+    <NamespaceDef Name="dx.HelpStudio3"/>
+    <EnabledDXDocTypeDefs>
+        <DXDocTypeDef>dx.HelpStudio3</DXDocTypeDef>
+    </EnabledDXDocTypeDefs>
+</Template>

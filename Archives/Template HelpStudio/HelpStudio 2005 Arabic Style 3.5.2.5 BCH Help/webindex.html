@@ -1,0 +1,90 @@
+﻿<html>
+<head>
+    <!--DXMETADATA start type="MetaCharset" -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--DXMETADATA end-->
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
+    <style type="text/css">
+        blockquote {
+                margin-top: 0px;
+                margin-bottom: 0px;
+                margin-left: 16px;
+        }
+        body {
+                margin:         0;
+                padding:        0;
+                font-family:    Verdana, Arial, Helvetica, sans-serif;
+                font-size:      70%;
+                width:          100%;
+                height:         100%;
+        }
+        div#indexcontainer
+        {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        div#indexbody
+        {
+            border: none;
+            margin: 0;
+            padding: 0;
+            position: absolute;
+            top: 40px;
+            left: 0;
+            overflow: auto;
+        }
+        input
+        {
+            font-size: 12px;
+            position: absolute;
+            top: 10px;
+            left: 0px;
+            border: solid 1px #bbbbbb;
+            margin: 0px 0px 0px 0px;
+            padding: 1px;
+            height: 20px;
+            width: 100%;
+        }
+    </style>
+    <script src="script/webindex.js" language="javascript" type="text/javascript">
+    </script>
+    <script src="script/webutility.js" language="javascript" type="text/javascript">
+    </script>
+	<script>
+		// Code inserted by Online Help Team
+		function inputFocus(){
+			input = document.getElementById('txtSearch');	
+			caption = <!--DXMETADATA start type="Variable" name="IndexSearchText" format="%%variable%%" --> <!--DXMETADATA end -->
+			if (input.value == caption){
+						input.value = '';
+						input.style.fontStyle = '';
+						input.style.color = '#000000'; //black
+			}
+		}
+		
+		function inputBlur(){
+			input = document.getElementById('txtSearch');	
+			caption = <!--DXMETADATA start type="Variable" name="IndexSearchText" format="%%variable%%" --> <!--DXMETADATA end -->
+			if (input.value == ''){
+						input.style.fontStyle = 'italic';
+						input.style.color = '#FF0000'; //red
+						input.value = caption;						
+			}
+		}
+		// End of code inserted by Online Help Team
+	</script>
+	
+</head>
+<body onload="inputBlur();indexLoad();">
+<div id="indexcontainer">
+    <input id="txtSearch" type="text" name="txtSearch" onkeyup="findIndexEntry(event);"
+		onfocus="inputFocus();"
+		onblur="inputBlur()">
+    <div id="indexbody"">
+    <!--DXMETADATA start type="IndexContent" Scrap="_INDEXCONTENT_ENTRY_WEB_BODY"-->Index Entries<!--DXMETADATA end-->
+    </div>
+</div>
+</body>
+</html>

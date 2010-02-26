@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhraseTable Version="6.0">
+    <Phrase Name="CLICK TO ENLARGE">拡大するためにかちりと鳴らしなさい</Phrase>
+    <Phrase Name="CLICK TO SHRINK">縮まるかちりと言う音</Phrase>
+    <Phrase Name="COMMUNITY_ADDCOMMENT">新しいコミュニティーコメントを加え</Phrase>
+    <Phrase Name="COMMUNITY_ADDNOTE">新しい個人的注意を加え</Phrase>
+    <Phrase Name="COMMUNITY_CONFIRMDELETE">あなたはこの項目を削除しますか?戻すことはできない.</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_ALL">コミュニティーの特徴:すべて</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NONE">コミュニティーの特徴:なし</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NOTES">コミュニティーの特徴:個人的注意</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_PUBLIC">コミュニティーの特徴:公衆コミュニティー内容</Phrase>
+    <Phrase Name="COMMUNITY_LOADING">(loading)</Phrase>
+    <Phrase Name="COMMUNITY_NOCOMMENTS">(どんなコミュニティーコメントも定義されてない)</Phrase>
+    <Phrase Name="COMMUNITY_NONOTES">(どんな注意も定義されてない)</Phrase>
+    <Phrase Name="COMMUNITY_SHOWNOTES">個人的注意を示し</Phrase>
+    <Phrase Name="COMMUNITY_SHOWPUBLIC">公衆コミュニティー内容を示し</Phrase>
+    <Phrase Name="COMMUNITY_SIGNINTOVIEW"><![CDATA[(あなたの注意を見るために<a alt='コミュニティーサインイン' href='#' onclick='ic_communitySignIn()'>サインイン</a>ください)]]></Phrase>
+    <Phrase Name="Copy Code">コードのコピー</Phrase>
+    <Phrase Name="FAVORITES">お気に入り</Phrase>
+    <Phrase Name="GLOSSARY">用語集</Phrase>
+    <Phrase Name="GOTO">ページに飛ぶ:</Phrase>
+    <Phrase Name="Hide All">すべて折りたたむ</Phrase>
+    <Phrase Name="INDEX">索引</Phrase>
+    <Phrase Name="SEARCH">検索</Phrase>
+    <Phrase Name="SEEALSO">また見る</Phrase>
+    <Phrase Name="Show All">全て展開</Phrase>
+    <Phrase Name="TABLEOFCONTENTS">目次</Phrase>
+    <Phrase Name="WEBTOOLBAR_ADDTOFAVORITES">お気に入りに加え</Phrase>
+    <Phrase Name="WEBTOOLBAR_BACK">戻る</Phrase>
+    <Phrase Name="WEBTOOLBAR_CLEARSEARCH">検索をクリア</Phrase>
+    <Phrase Name="WEBTOOLBAR_COLLAPSEALL">全て閉じる</Phrase>
+    <Phrase Name="WEBTOOLBAR_EXPANDALL">全て開く</Phrase>
+    <Phrase Name="WEBTOOLBAR_FORWARD">進む</Phrase>
+    <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">ナビゲーションを隠し</Phrase>
+    <Phrase Name="WEBTOOLBAR_HOME">ホーム</Phrase>
+    <Phrase Name="WEBTOOLBAR_PRINTTOPIC">話題を印刷</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">迅速な検索</Phrase>
+    <Phrase Name="WEBTOOLBAR_REFRESH">最新の情報に更新</Phrase>
+    <Phrase Name="WEBTOOLBAR_STOP">中止</Phrase>
+</PhraseTable>

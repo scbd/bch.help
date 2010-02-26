@@ -1,0 +1,389 @@
+﻿<HTML XMLNS:IE>
+<HEAD>
+<!--DXMETADATA start type="MetaCharset" --><META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=UTF-8"><!--DXMETADATA end-->
+<?IMPORT NAMESPACE="IE" IMPLEMENTATION="#default">
+<STYLE TYPE="text/css">
+.lorstyle
+{
+    background:white;
+}
+.pagestyle
+{
+    background:white;
+    border: none;
+}
+
+.headerstyle
+{
+    position:absolute;
+    width: 100%;
+    margin: 0;
+    padding-top: 40px;
+    padding-bottom: 16px;
+}
+
+.footerstyle
+{
+    position:absolute;
+    width: 100%;
+    height: 50px;
+    margin: 0;
+    padding-bottom: 70px;
+}
+
+.marginblockleftstyle
+{
+    height: 30px;
+}
+
+.marginblockrightstyle
+{
+    height: 30px;
+}
+
+</STYLE>
+<SCRIPT LANGUAGE="JScript">
+
+var iNextPageToCreate = 1;
+var oPageStyleClass;
+var oLorStyleClass;
+var oHeaderStyleClass;
+var oFooterStyleClass;
+var fPrintStarted = false;
+var innovasys_odd_header = null;
+var innovasys_even_header = null;
+var innovasys_odd_footer = null;
+var innovasys_even_footer = null;
+var innovasys_start_headers_footers_on_page = 1;
+var innovasys_page_number_offset = 0;
+
+// Returns the object corresponding to a named style rule
+function FindStyleRule(styleName)
+{
+    for (i = 0; i < document.styleSheets.length; i++)
+    {
+        for (j = 0; j < document.styleSheets(i).rules.length; j++)
+        {
+            if (document.styleSheets(i).rules(j).selectorText == styleName)
+                return document.styleSheets(i).rules(j);
+        }
+    }
+}
+
+function Init()
+{
+	var doc = dialogArguments.__IE_BrowseDocument;
+
+	if (doc.getElementById("innovasys_odd_header") != null)
+		innovasys_odd_header = doc.getElementById("innovasys_odd_header").innerHTML;
+
+	if (doc.getElementById("innovasys_even_header") != null)
+		innovasys_even_header = doc.getElementById("innovasys_even_header").innerHTML;
+
+	if (doc.getElementById("innovasys_odd_footer") != null)
+		innovasys_odd_footer = doc.getElementById("innovasys_odd_footer").innerHTML;
+
+	if (doc.getElementById("innovasys_even_footer") != null)
+		innovasys_even_footer = doc.getElementById("innovasys_even_footer").innerHTML;
+
+	innovasys_start_headers_footers_on_page = GetValueFromContentDocument("innovasys_start_headers_footers_on_page", 1);
+	innovasys_page_number_offset = GetValueFromContentDocument("innovasys_page_number_offset", 0);
+
+    oPageStyleClass = FindStyleRule(".pagestyle");
+    oLorStyleClass = FindStyleRule(".lorstyle");
+    oHeaderStyleClass = FindStyleRule(".headerstyle");
+    oFooterStyleClass = FindStyleRule(".footerstyle");
+
+    oPageStyleClass.style.width = <%PAGEWIDTH%>/100 + "in";
+    oPageStyleClass.style.height = <%PAGEHEIGHT%>/100 + "in";
+    oLorStyleClass.style.marginTop = (<%MARGINTOP%>/100) + "in";
+    oLorStyleClass.style.marginLeft = (<%MARGINLEFT%>/100) + "in";
+    oLorStyleClass.style.width = (<%PAGEWIDTH%> - (<%MARGINLEFT%> + <%MARGINRIGHT%>))/100 + "in";
+    oLorStyleClass.style.height = (<%PAGEHEIGHT%> - (<%MARGINTOP%> + <%MARGINBOTTOM%>))/100 + "in";
+
+    oHeaderStyleClass.style.left = 0
+    oHeaderStyleClass.style.top = <%UNPRINTABLETOP%>/100 + "in";
+    oHeaderStyleClass.style.width = "100%"
+
+    oFooterStyleClass.style.left = 0
+    oFooterStyleClass.style.top = (<%PAGEHEIGHT%>-<%UNPRINTABLEBOTTOM%>)/100 + "in";
+    oFooterStyleClass.style.width = "100%"
+    oFooterStyleClass.style.paddingLeft = <%MARGINLEFT%>/100 + "in";
+    oFooterStyleClass.style.paddingRight = <%MARGINRIGHT%>/100 + "in";
+
+    oMarginBlockLeftStyleClass = FindStyleRule(".marginblockleftstyle");
+    oMarginBlockRightStyleClass = FindStyleRule(".marginblockrightstyle");
+
+    oMarginBlockLeftStyleClass.style.width = <%MARGINLEFT%>/100 + "in";
+    oMarginBlockRightStyleClass.style.width = <%MARGINRIGHT%>/100 + "in";
+
+    AddFirstPage();
+}
+
+function CheckPrint()
+{
+    // skip if already called for this session
+    if (fPrintStarted == false)
+    {
+        fPrintStarted = true;
+
+        switch (dialogArguments.__IE_PrintType)
+        {
+            case "Prompt":
+                if (printer.showPrintDialog())
+                    PrintPrep();
+                break;
+
+            case "NoPrompt":
+                PrintPrep();
+                break;
+
+            case "Preview":
+            default:
+                break;
+        }
+    }
+}
+
+function AddFirstPage()
+{
+    newHTML  = "<IE:DEVICERECT ID='page1' MEDIA='print' CLASS='pagestyle'>";
+    newHTML += "<IE:LAYOUTRECT ID='layoutrect1' CONTENTSRC='document' ONLAYOUTCOMPLETE='OnRectComplete()' NEXTRECT='layoutrect2' CLASS='lorstyle'/>";
+    newHTML += "</IE:DEVICERECT>";
+
+    pagecontainer.insertAdjacentHTML("afterBegin", newHTML);
+
+    headfoot.textHead = printer.header;
+    headfoot.textFoot = printer.footer;
+    headfoot.url = dialogArguments.__IE_BrowseDocument.URL;
+    headfoot.title = dialogArguments.__IE_BrowseDocument.title;
+    headfoot.page = 1;
+    AddHeaderAndFooterToPage(1);
+
+    iNextPageToCreate = 2;
+}
+
+function OnRectComplete()
+{
+    if (event.contentOverflow == true)
+        AddNewPage();
+    else
+    {
+        headfoot.pageTotal = document.all.tags("DEVICERECT").length;
+
+        for (i = 1; i <= headfoot.pageTotal; i++)
+            AddPageTotalToPages(i);
+
+        setTimeout("CheckPrint();", 500);
+    }
+}
+
+function AddNewPage()
+{
+    document.all("layoutrect" + (iNextPageToCreate - 1)).onlayoutcomplete = null;
+    headfoot.page = iNextPageToCreate;
+
+    newHTML  = "<IE:DEVICERECT ID='page" + iNextPageToCreate +  "' MEDIA='print' CLASS='pagestyle'>";
+    newHTML += "<IE:LAYOUTRECT ID='layoutrect" + iNextPageToCreate + "' ONLAYOUTCOMPLETE='OnRectComplete()' NEXTRECT='layoutrect" + (iNextPageToCreate + 1) + "'  CLASS='lorstyle'/>";
+    newHTML += "</IE:DEVICERECT>";
+
+    pagecontainer.insertAdjacentHTML("beforeEnd", newHTML);
+    AddHeaderAndFooterToPage(iNextPageToCreate);
+    iNextPageToCreate++;
+}
+
+function ReplaceParameters(html)
+{
+    var PageNumberOffset;
+
+    PageNumberOffset = innovasys_page_number_offset;
+    if (headfoot.page+PageNumberOffset > 0)
+    {
+        html = html.replace("~~PAGE~~", headfoot.page+PageNumberOffset);
+        html = html.replace("~~PAGETOTAL~~", "<SPAN class=hfPageTotal></SPAN>");
+    }
+    else
+    {
+        html = html.replace("~~PAGE~~", "");
+        html = html.replace("~~PAGETOTAL~~", "");
+    }
+    return html;
+}
+
+function GetValueFromContentDocument(ValueName,DefaultValue)
+{
+    var Value;
+    if (dialogArguments.__IE_BrowseDocument.getElementById(ValueName) != null)
+    {
+        Value = parseInt(dialogArguments.__IE_BrowseDocument.getElementById(ValueName).innerText);
+        if (isNaN(Value))
+        {
+            Value = DefaultValue;
+        }
+        return Value;
+    }
+    else
+    {
+        return DefaultValue;
+    }
+}
+
+function AddHeaderAndFooterToPage(pageNum)
+{
+    // Look for odd pages
+    if (pageNum % 2 > 0)
+    {
+        if (innovasys_odd_header != null)
+        {
+            newHeader = "<DIV CLASS='headerstyle'>" + ReplaceParameters(innovasys_odd_header) + "</DIV>";
+        }
+        else
+        {
+            if (innovasys_even_header != null)
+            {
+                newHeader = "<DIV CLASS='headerstyle'>" + ReplaceParameters(innovasys_even_header) + "</DIV>";
+            }
+            else
+            {
+                newHeader = "<DIV CLASS='headerstyle'><%HEADER%></DIV>";
+            }
+        }
+        if (innovasys_odd_footer != null)
+        {
+            newFooter = "<DIV CLASS='footerstyle'>" + ReplaceParameters(innovasys_odd_footer) + "</DIV>";
+        }
+        else
+        {
+            if (innovasys_even_footer != null)
+            {
+                newFooter = "<DIV CLASS='footerstyle'>" + ReplaceParameters(innovasys_even_footer) + "</DIV>";
+            }
+            else
+            {
+                newFooter = "<DIV CLASS='footerstyle'><%FOOTER%></DIV>";
+            }
+        }
+    }
+    else
+    {
+        if (innovasys_even_header != null)
+        {
+            newHeader = "<DIV CLASS='headerstyle'>" + ReplaceParameters(innovasys_even_header) + "</DIV>";
+        }
+        else
+        {
+            newHeader = "<DIV CLASS='headerstyle'><%HEADER%></DIV>";
+        }
+        if (innovasys_even_footer != null)
+        {
+            newFooter = "<DIV CLASS='footerstyle'>" + ReplaceParameters(innovasys_even_footer) + "</DIV>";
+        }
+        else
+        {
+            newFooter = "<DIV CLASS='footerstyle'><%FOOTER%></DIV>";
+        }
+    }
+
+    if (innovasys_start_headers_footers_on_page <= pageNum)
+    {
+        document.all("page" + pageNum).insertAdjacentHTML("afterBegin", newHeader);
+        document.all("page" + pageNum).insertAdjacentHTML("beforeEnd", newFooter);
+    }
+}
+
+function AddPageTotalToPages()
+{
+    var oSpanCollection = document.all.tags("span");
+    var i = 0;
+    if (oSpanCollection.length > 0)
+    {
+        for(i=0;i<oSpanCollection.length;i++)
+        {
+            if(oSpanCollection[i].className == "hfPageTotal")
+            {
+                oSpanCollection[i].innerText = headfoot.pageTotal;
+            }
+        }
+    }
+}
+
+function PrintPrep()
+{
+    if (layoutrect1.contentDocument.readyState == "complete")
+    {
+        PrintNow();
+    }
+    else
+    {
+        layoutrect1.contentDocument.onreadystatechange = PrintWhenContentDocComplete;
+    }
+}
+
+function PrintWhenContentDocComplete()
+{
+    if (layoutrect1.contentDocument.readyState == "complete")
+    {
+        layoutrect1.contentDocument.onreadystatechange = null;
+        PrintNow();
+    }
+}
+
+function PrintNow()
+{
+    var startPage;
+    var endPage;
+    var oDeviceRectCollection = document.all.tags("DEVICERECT");
+
+    if (dialogArguments.__IE_PrintType == "NoPrompt" || printer.selectedPages == false)
+    {
+        startPage = 1;
+        endPage = oDeviceRectCollection.length;
+    }
+    else
+    {
+        startPage = printer.pageFrom;
+        endPage = printer.pageTo;
+        if (startPage > endPage)
+        {
+            alert("Error: Start page greater than end page");
+            return;
+        }
+        if (startPage > oDeviceRectCollection.length)
+        {
+            alert("Error: Start page greater than number of pages in print job.");
+            return;
+        }
+        if (endPage > oDeviceRectCollection.length)
+        {
+            alert("Warning: End page greater than number of pages in print job. Continuing Print Job.");
+            endPage = oDeviceRectCollection.length;
+        }
+    }
+	printer.ensurePrintDialogDefaults();
+
+    printer.startDoc(<%PRINTJOBNAME%>);
+
+        for (i = startPage - 1; i < endPage; i++)
+    {
+        printer.printPage(oDeviceRectCollection[i]);
+    }
+
+    printer.stopDoc();
+
+}
+
+</SCRIPT>
+
+</head>
+
+<BODY ONLOAD="Init()">
+
+<IE:TEMPLATEPRINTER ID="printer"/>
+<IE:HEADERFOOTER ID="headfoot"/>
+
+<DIV ID="pagecontainer">
+<!-- Dynamically created pages go here. -->
+</DIV>
+
+</BODY>
+</HTML>

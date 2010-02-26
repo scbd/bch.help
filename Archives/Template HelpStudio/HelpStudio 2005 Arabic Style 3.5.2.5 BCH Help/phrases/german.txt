@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhraseTable Version="6.0">
+    <Phrase Name="CLICK TO ENLARGE">Klicken Sie, um zu vergrößern</Phrase>
+    <Phrase Name="CLICK TO SHRINK">Klicken zum Schrumpfen</Phrase>
+    <Phrase Name="COMMUNITY_ADDCOMMENT">Hinzufugen eine Neue Gemeinschaft Kommentar</Phrase>
+    <Phrase Name="COMMUNITY_ADDNOTE">Hinzufugen eine Neue Private Aufzeichnung</Phrase>
+    <Phrase Name="COMMUNITY_CONFIRMDELETE">Sind Sie sicher dass Sie dieses Item wollen entfernen ? Diese Aktion kann nicht ruckgangig gemacht werden.</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_ALL">Gemeinschaft Merkmal: Alle</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NONE">Gemeinschaft Merkmal: Keine</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NOTES">Gemeinschaft Merkmal: Private Aufzeichnungen</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_PUBLIC">Gemeinschaft Merkmal: Offentliche Gemeinschaft Inhalt</Phrase>
+    <Phrase Name="COMMUNITY_LOADING">(loading)</Phrase>
+    <Phrase Name="COMMUNITY_NOCOMMENTS">(keine Gemeinschaft Kommentar definiert)</Phrase>
+    <Phrase Name="COMMUNITY_NONOTES">(keine Aufzeichnungen definiert)</Phrase>
+    <Phrase Name="COMMUNITY_SHOWNOTES">Zeige Private Aufzeichnungen</Phrase>
+    <Phrase Name="COMMUNITY_SHOWPUBLIC">Zeige offentliche Gemeinschaft Inhalt</Phrase>
+    <Phrase Name="COMMUNITY_SIGNINTOVIEW"><![CDATA[(<a alt='Gemeinschaft Einloggen' href='#' onclick='ic_communitySignIn()'>Einloggen</a> um ihre Aufzeichnungen besichtigen)]]></Phrase>
+    <Phrase Name="Copy Code">Kopiere Code</Phrase>
+    <Phrase Name="FAVORITES">Favoriten</Phrase>
+    <Phrase Name="GLOSSARY">Uebersicht</Phrase>
+    <Phrase Name="GOTO">Gehe Nach:</Phrase>
+    <Phrase Name="Hide All">Alles ausklappen</Phrase>
+    <Phrase Name="INDEX">Index</Phrase>
+    <Phrase Name="SEARCH">Suchen</Phrase>
+    <Phrase Name="SEEALSO">Sehe Auch</Phrase>
+    <Phrase Name="Show All">Alles zusammenklappen</Phrase>
+    <Phrase Name="TABLEOFCONTENTS">Inhaltsangabe</Phrase>
+    <Phrase Name="WEBTOOLBAR_ADDTOFAVORITES">Hinzufugen zum Favoriten</Phrase>
+    <Phrase Name="WEBTOOLBAR_BACK">Zuruck</Phrase>
+    <Phrase Name="WEBTOOLBAR_CLEARSEARCH">Suche aufraumen</Phrase>
+    <Phrase Name="WEBTOOLBAR_COLLAPSEALL">Alle einfugen</Phrase>
+    <Phrase Name="WEBTOOLBAR_EXPANDALL">Alle erweitern</Phrase>
+    <Phrase Name="WEBTOOLBAR_FORWARD">Weitergeben</Phrase>
+    <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">Navigieren verstecken</Phrase>
+    <Phrase Name="WEBTOOLBAR_HOME">Home</Phrase>
+    <Phrase Name="WEBTOOLBAR_PRINTTOPIC">Ausdrucken Thema</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Snelles Suchen</Phrase>
+    <Phrase Name="WEBTOOLBAR_REFRESH">Erneurn</Phrase>
+    <Phrase Name="WEBTOOLBAR_STOP">Stop</Phrase>
+</PhraseTable>

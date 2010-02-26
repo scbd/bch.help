@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PhraseTable Version="6.0">
+    <Phrase Name="CLICK TO ENLARGE">Haga clic aquí para Enlarge</Phrase>
+    <Phrase Name="CLICK TO SHRINK">Haga clic aquí para reducir</Phrase>
+    <Phrase Name="COMMUNITY_ADDCOMMENT">Añadir un nuevo Comentario Comunitario</Phrase>
+    <Phrase Name="COMMUNITY_ADDNOTE">Añadir una nueva Anotación Privada</Phrase>
+    <Phrase Name="COMMUNITY_CONFIRMDELETE">¿Esta seguro que desea borrarlo? Una vez borrado no se podrá recuperar.</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_ALL">Características de la Comunidad: Todas</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NONE">Características de la Comunidad: Ninguna</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_NOTES">Características de la Comunidad: Anotaciones Privadas</Phrase>
+    <Phrase Name="COMMUNITY_FEATURES_PUBLIC">Características de la Comunidad: Contenido Publico Comunitario</Phrase>
+    <Phrase Name="COMMUNITY_LOADING">(cargando)</Phrase>
+    <Phrase Name="COMMUNITY_NOCOMMENTS">(no hay comentarios comunitarios definidos)</Phrase>
+    <Phrase Name="COMMUNITY_NONOTES">(no hay anotaciones definidas)</Phrase>
+    <Phrase Name="COMMUNITY_SHOWNOTES">Mostrar Anotaciones Privadas</Phrase>
+    <Phrase Name="COMMUNITY_SHOWPUBLIC">Mostrar Contenido Público Comunitario</Phrase>
+    <Phrase Name="COMMUNITY_SIGNINTOVIEW"><![CDATA[(<a alt='Ingreso a la Comunidad' href='#' onclick='ic_communitySignIn()'>Identifiquese</a> para visualizar sus anotaciones)]]></Phrase>
+    <Phrase Name="Copy Code">Copiar Código</Phrase>
+    <Phrase Name="FAVORITES">Favoritos</Phrase>
+    <Phrase Name="GLOSSARY">Glosario</Phrase>
+    <Phrase Name="GOTO">Ir A:</Phrase>
+    <Phrase Name="Hide All">Contraer Todo</Phrase>
+    <Phrase Name="INDEX">Índice</Phrase>
+    <Phrase Name="SEARCH">Búsqueda</Phrase>
+    <Phrase Name="SEEALSO">Vea también</Phrase>
+    <Phrase Name="Show All">Expandir Todo</Phrase>
+    <Phrase Name="TABLEOFCONTENTS">Tabla de Contenidos</Phrase>
+    <Phrase Name="WEBTOOLBAR_ADDTOFAVORITES">Añadir a Favoritos</Phrase>
+    <Phrase Name="WEBTOOLBAR_BACK">Volver</Phrase>
+    <Phrase Name="WEBTOOLBAR_CLEARSEARCH">Limpiar Búsqueda</Phrase>
+    <Phrase Name="WEBTOOLBAR_COLLAPSEALL">Contraer Todo</Phrase>
+    <Phrase Name="WEBTOOLBAR_EXPANDALL">Expandir Todo</Phrase>
+    <Phrase Name="WEBTOOLBAR_FORWARD">Siguiente</Phrase>
+    <Phrase Name="WEBTOOLBAR_HIDENAVIGATION">Ocultar navegación</Phrase>
+    <Phrase Name="WEBTOOLBAR_HOME">Inicio</Phrase>
+    <Phrase Name="WEBTOOLBAR_PRINTTOPIC">Imprimir Tema</Phrase>
+    <Phrase Name="WEBTOOLBAR_QUICKSEARCH">Búsqueda Rápida en el tópico actual</Phrase>
+    <Phrase Name="WEBTOOLBAR_REFRESH">Actualizar</Phrase>
+    <Phrase Name="WEBTOOLBAR_STOP">Parar</Phrase>
+</PhraseTable>

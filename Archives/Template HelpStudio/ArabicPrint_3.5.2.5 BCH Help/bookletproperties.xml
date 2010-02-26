@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<BookletProperties TemplateName="" PageBreaks="0" UnPrintableLeft="0" UnPrintableRight="0" UnPrintableTop="0" UnPrintableBottom="0.5" MarginLeft="0.75" MarginRight="0.75" MarginTop="0.9" MarginBottom="1" PaperSize="9" OutputFileName="" CoverpageTopicID="" EntryNumbering="2" GenerateTOC="True" GenerateIndex="True" Title="">
+    <HeaderHTML m="04-10-2006 14:25:32"><![CDATA[<div class="marginblockleftstyle" style="background-color: #000080; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 18pt;">%%BookletTitle%%</div>]]></HeaderHTML>
+    <OddHeaderHTML m="04-10-2006 14:25:32"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #000080; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 18pt; margin-right: 6px;">%%BookletTitle%%</div>]]></OddHeaderHTML>
+    <FooterHTML m="04-10-2006 16:24:48"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">%%BookletTitle%%</div>]]></FooterHTML>
+</BookletProperties>
+

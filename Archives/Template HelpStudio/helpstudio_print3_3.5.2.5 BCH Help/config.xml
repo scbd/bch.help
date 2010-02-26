@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PageTemplate RootFolder="" Name="Clean sans-serif 3.5.2.5 BCH Help" Description="This template uses Trebuchet MS (a sans-serif font) for all headings and content. This template includes a navy colored block to identify the header area." ObjFillColor="16777215" ObjTextColor="0" ObjBorderColor="0" ColFillColor="12632256" ColTextColor="16777215" ColBordercolor="0" BorderWidth="0" UseDropShadow="False" CenterCaptions="False" DiagramBold="True" UseDiagramShapes="False" Supports="Ppx" Version="4.0" Languages="" DefTOCVBProject="Standard" DefTOCVBProjectGroup="Standard" DefTOCMixture="Standard" DefTOCComponent="Standard" DefTOCComponentGroup="Standard" NoStandardSupport="True" TemplateCategory="Application Help" StyleSheet="stylesheets\designtime.css">
+    <PageLayout Name="" FileName="topic.html" PageType="0" TitleTemplate="" Namespace="None" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter=""/>
+    <PageLayout Name="" FileName="manifest.html" PageType="0" TitleTemplate="" Namespace="dx.HelpStudio3:Manifest" DependantCount="-1" DependantOnnamespace="" DependantOnnamespace_Filter=""/>
+    <VariableDef Name="TableOfContentsCaption" Type="1" Caption="Table of Contents Caption" Description="The text to use for the Table of Contents title" Defaultvalue="Table of Contents"/>    
+    <VariableDef Name="IndexCaption" Type="1" Caption="Index Caption" Description="The text to use for the Index title" Defaultvalue="Index"/>    
+    <TOCDefinition Name="Standard" Description="Standard Table of Contents layout">
+        <NodeDef Key="N10866" DependantCount="0" DependantOn="0" DependantOnnamespace="" DependantOnnamespace_Filter="" DependantStillProcessChildren="False" FileNameTemplate="" LinkToPage="True" MarkAsNew="False" NodeCaptionTemplate="%%ItemTitle%%" NodeIconIndex="1" NodeType="1" PageLayout="" PageTypeNamespace="DX.HelpStudio3:Topic" PageTypeNamespaceFilter="" ParentKey="" UseCustomIcon="False" IsDefaultTopic="False" PlugInName="" PlugInData=""/>
+    </TOCDefinition>
+    <NamespaceDef Name="dx.HelpStudio3"/>
+    <EnabledPlugins>
+        <Plugin>dx.HelpStudio3</Plugin>
+    </EnabledPlugins>
+</PageTemplate>
