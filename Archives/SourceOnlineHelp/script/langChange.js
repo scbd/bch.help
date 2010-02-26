@@ -35,22 +35,6 @@ function parseLanguages(){
 	}
 }
 
-function getCurrentLanguage(currentURL){
-	// Returns null if cannot determine current language or language string otherwise.
-	if (!languagesParsed) 
-		parseLanguages();	
-	curLang = null;
-	currentLanguagePos = -1;
-	for (i=0; i<langDirs.length; i++){
-		if (currentURL.lastIndexOf("/" + langDirs[i] + "/") > currentLanguagePos){
-			currentLanguagePos = currentURL.lastIndexOf("/" + langDirs[i] + "/");
-			curLang = langDirs[i];
-		}
-	}
-
-	return curLang;
-}
-
 
 
 /*
@@ -88,12 +72,20 @@ function getCurrentLanguage(currentURL){
 function changeLanguage(currentURL, currentTopic, newLang){
 
 	// Step one: find out current language
-	currentLanguage = getCurrentLanguage(currentURL);
+	if (!languagesParsed) 
+		parseLanguages();
 	
-		
+	currentLanguage = "";
+	currentLanguagePos = -1;
+	for (i=0; i<langDirs.length; i++){
+		if (currentURL.lastIndexOf("/" + langDirs[i] + "/") > currentLanguagePos){
+			currentLanguagePos = currentURL.lastIndexOf("/" + langDirs[i] + "/");
+			currentLanguage = langDirs[i];
+		}
+	}
+	
 	// Now, currentLanguagePos has the position of the language that fits most at the right in the URL and currentLanguage has the directory of that language
-	//if (currentLanguagePos == -1){
-	if (currentLanguage == null){
+	if (currentLanguagePos == -1){
 		// No language dir matched in the URL, there is no known current language, abort! (do not change anything)
 		return currentURL;
 	}
