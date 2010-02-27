@@ -32,9 +32,9 @@
                         input = document.getElementById('txtQuickSearch');      
                         input.style.width = '200px';
                         input.style.fontStyle = 'italic';
-                        input.value = "Búsqueda Rápida en el tópico actual";
+                        input.value = "Búsqueda Rápida en la pantalla actual";
                         input.onfocus = function() {
-                                if (input.value == "Búsqueda Rápida en el tópico actual"){
+                                if (input.value == "Búsqueda Rápida en la pantalla actual"){
                                         input.value = '';
                                         input.style.fontStyle = '';
                                 }
@@ -42,7 +42,7 @@
                         input.onblur = function() {
                                 if (input.value == ''){
                                         input.style.fontStyle = 'italic';
-                                        input.value = "Búsqueda Rápida en el tópico actual";
+                                        input.value = "Búsqueda Rápida en la pantalla actual";
                                 }
                         };
 
@@ -65,19 +65,19 @@
                 }
                 
                 function goToBch(){                     
-                                        var currentLanguage = getCurrentLanguage(parent.location.href);
-                                        if (currentLanguage != null){
-                                                parent.location = 'http://bch.cbd.int/?lang=' + currentLanguage;
-                                        }else{
-                                                parent.location = 'http://bch.cbd.int';
-                                        }
-                                }
+                        var currentLanguage = getCurrentLanguage(parent.location.href);
+                    if (currentLanguage != null){
+                        parent.location = 'http://bch.cbd.int/?lang=' + currentLanguage;
+                    }else{
+                        parent.location = 'http://bch.cbd.int';
+                    }
+                }                
                 
                 // End of code inserted by OnLine Help Team
     </script>
 
     <div style="DISPLAY: none">
-        <span id="phrase_QuickSearch">Búsqueda Rápida en el tópico actual</span> <span id=
+        <span id="phrase_QuickSearch">Búsqueda Rápida en la pantalla actual</span> <span id=
         "phrase_AddToFavorites">Añadir a Favoritos</span> <span id=
         "phrase_HideNavigation">Ocultar navegación</span> <span id=
         "phrase_ExpandAll">Expandir Todo</span> <span id="phrase_CollapseAll">
@@ -118,7 +118,7 @@
                     <div>
                         <a href="Help_on_Help.html" target="webcontent"><img style=
                         "BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none" src=
-                        "images/HelpOnHelp_icon.png"><br>
+                        "images/HelpOnHelp_icon.png" align="middle"><br>
                         Cómo usar esta ayuda</a>
                     </div>
                 </td>

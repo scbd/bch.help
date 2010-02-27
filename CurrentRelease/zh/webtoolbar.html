@@ -38,6 +38,14 @@
 			newURL = changeLanguage(browserURL, contentURL, targetLang);
 			parent.location = newURL;
 		}
+		
+		function goToEnglishHelpOnHelp(targetLang){
+			browserURL = parent.location.href;
+			contentURL = "Help_on_Help.html";
+			newURL = changeLanguage(browserURL, contentURL, targetLang);
+			parent.location = newURL;
+		}
+		
 		// End of code inserted by OnLine Help Team
 	</script>
 		
@@ -65,7 +73,7 @@
         <tbody>
             <tr>
                 <td id="navbartitle" class="title" style="width: 223px;"> <img src="images/bchen.jpg"> </td>
-                <td id="navtoolbar" style="width: 100%;">
+                <td id="navtoolbar">
 					<div class="languageBar">
 						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[0])">عربي</a>|
 						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[1]);">中文</a>|
@@ -75,6 +83,19 @@
 						<a href="about:blank" onclick="javascript:doChangeLanguage(langDirs[5]);">Español</a>
 					</div>
 				</td>
+				
+				<td style="WIDTH: 15px"></td>
+
+                <td id="helponhelp" align="middle">
+                    <div>
+                        <a onclick="javascript:goToEnglishHelpOnHelp(langDirs[2]);" href="about:blank"><img style=
+                        "BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none" src=
+                        "images/HelpOnHelp_icon.png"><br>
+                        How to Use this Help</a>
+                    </div>
+
+                </td>
+				
 				<td id="navlogo" style="width: 180px;"> <img src="images/unepen.png"> <img src="images/gefen.png"> <img src="images/scbden.png"></td>
             </tr>
         </tbody>

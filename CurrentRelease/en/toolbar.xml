@@ -12,4 +12,14 @@
     <toolbarcommand type="forward" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
     <toolbarcommand type="refresh" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
     <toolbarcommand type="home" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
+	
+	<!-- NOT CURRENTLY USED IN HELP SYSTEM: 
+	<toolbarcommand type="sep" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
+    <toolbarcommand type="label" label="$$GoTo" page="" tooltip="" image="" hotimage="" selectedimage=""/>
+    <toolbarcommand type="gotoc" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
+    <toolbarcommand type="goindex" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
+    <toolbarcommand type="gosearch" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
+    <toolbarcommand type="gofavorites" label="" page="" tooltip="" image="" hotimage="" selectedimage=""/>
+	-->
+
 </toolbarcommands>

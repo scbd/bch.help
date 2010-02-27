@@ -254,7 +254,8 @@ function ResizeContentElements()
         for (var i = 0; i < navButtonNames.length; i++)
         {
                 var content = document.getElementById("cntNav" + navButtonNames[i]);
-                content.style.height = location + "px";
+                if (location > 0)
+					content.style.height = location + "px";
         }
 }
 
@@ -524,6 +525,10 @@ function LoadToolbar(parent, base)
     tbody.appendChild(tr);
     table.appendChild(tbody);
     parent.appendChild(table);
+	
+    // This step is necessary to prevent a security warning in IE
+    //  when the pages are obtained through SSL
+    tableSRC = table.outerHTML;       
 
     var framespage = frameContainer();
     framespage.toolbarloaded = true;

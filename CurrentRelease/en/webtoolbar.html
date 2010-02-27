@@ -32,9 +32,9 @@
                         input = document.getElementById('txtQuickSearch');      
                         input.style.width = '200px';
                         input.style.fontStyle = 'italic';
-                        input.value = "Quick Search in current topic";
+                        input.value = "Quick Search in current screen";
                         input.onfocus = function() {
-                                if (input.value == "Quick Search in current topic"){
+                                if (input.value == "Quick Search in current screen"){
                                         input.value = '';
                                         input.style.fontStyle = '';
                                 }
@@ -42,7 +42,7 @@
                         input.onblur = function() {
                                 if (input.value == ''){
                                         input.style.fontStyle = 'italic';
-                                        input.value = "Quick Search in current topic";
+                                        input.value = "Quick Search in current screen";
                                 }
                         };
 
@@ -65,19 +65,19 @@
                 }
                 
                 function goToBch(){                     
-                                        var currentLanguage = getCurrentLanguage(parent.location.href);
-                                        if (currentLanguage != null){
-                                                parent.location = 'http://bch.cbd.int/?lang=' + currentLanguage;
-                                        }else{
-                                                parent.location = 'http://bch.cbd.int';
-                                        }
-                                }
+                        var currentLanguage = getCurrentLanguage(parent.location.href);
+                    if (currentLanguage != null){
+                        parent.location = 'http://bch.cbd.int/?lang=' + currentLanguage;
+                    }else{
+                        parent.location = 'http://bch.cbd.int';
+                    }
+                }                
                 
                 // End of code inserted by OnLine Help Team
     </script>
 
     <div style="DISPLAY: none">
-        <span id="phrase_QuickSearch">Quick Search in current topic</span> <span id=
+        <span id="phrase_QuickSearch">Quick Search in current screen</span> <span id=
         "phrase_AddToFavorites">Add to Favorites</span> <span id=
         "phrase_HideNavigation">Hide Navigation</span> <span id=
         "phrase_ExpandAll">Expand All</span> <span id="phrase_CollapseAll">
@@ -100,7 +100,7 @@
     <table id="toolbarcontainer">
         <tbody>
             <tr>
-                <td class="title" id="navbartitle" style="WIDTH: 223px"><img style="BORDER: none; CURSOR: pointer"                 onclick="javascript:goToBch();" src="images/bchen.jpg" title="Go Back to the BCH"/></td>
+                <td class="title" id="navbartitle" style="WIDTH: 223px"><img style="BORDER: none; CURSOR: pointer"                 onclick="javascript:goToBch();" src="images/bchen.jpg" title="Go to the BCH"/></td>
 
                 <td id="navtoolbar">
                     <div class="languageBar">
@@ -118,8 +118,8 @@
                     <div>
                         <a href="Help_on_Help.html" target="webcontent"><img style=
                         "BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none" src=
-                        "images/HelpOnHelp_icon.png"><br>
-                        How to use this Help</a>
+                        "images/HelpOnHelp_icon.png" align="middle"><br>
+                        How to Use this Help</a>
                     </div>
                 </td>
 

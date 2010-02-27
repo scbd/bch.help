@@ -2,26 +2,81 @@
 <head>
     <META name="GENERATOR" content="Innovasys HelpStudio (www.innovasys.com)">
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<script type="text/javascript" src="script/TOCHighlight.js"></script>
     <BASE TARGET="webcontent">
+	<script src="script/webutility.js" type="text/javascript"></script>
     <script lang="javascript">
     <!--
 	
-	// Code inserted by OnLineHelp Team
-	var tocHighlightColor = "#B9D059";
-	var lastClickedLink = null;
-	function nodeClick(e){
-		if (window.event){
-			e = window.event;
-        }	
-		if (e){
-			lastClickedLink = this;	
+	    var supressNavigate;
+
+	/* Called by content pages. Highlight the matching TOC node */
+	function pageLoaded(url)
+	{
+		var liElements = document.getElementsByTagName("li");
+
+		for (var x=0;x<liElements.length;x++)
+		{
+			var href = liElements[x].childNodes[0].href;
+			if (href === url)
+			{
+				// Need to ensure any parent books are expanded
+				expandParents(liElements[x]);
+				if (!InView(liElements[x]))
+				    ScrollIntoView(liElements[x],false,20);
+				highlightNode(liElements[x]);
+				break;
+			}
 		}
+    }
+
+	/* Ensure that all parent nodes are expanded */
+	function expandParents(e)
+	{
+		var parent = e.parentNode;
+		if (!parent)
+			return;
+		else
+		    {
+			    expandParents(parent);
+			    if (parent.tagName === "LI")
+			    {
+				    if (parent.className === "tbc")
+	    {
+				        supressNavigate = true;
+				        parent.childNodes[0].onclick();
+				        supressNavigate = false;
+				    }
+			    }
+	    }
 	}
-	// End of code inserted by OnLineHelp Team
-	
-    function documentElement(id){
-        return document.getElementById(id);
+
+    /* Applies highlighting to an LI element */
+	function highlightNode(e){
+
+        if (!e || e.tagName != "LI")
+		e = sourceElement(e);
+
+		var liElements = document.getElementsByTagName("li");
+		var currentLI = findParentTagByName(e,"LI");
+
+		for (var x=0;x<liElements.length;x++)
+		{
+			var li = liElements[x];
+			var SPANs = li.getElementsByTagName("SPAN");
+			var SPAN = SPANs[0];
+
+	        if (currentLI === li)
+	        {
+	            if (SPAN.className != "highlightednodetext")
+	            {
+		            SPAN.className = "highlightednodetext";
+		        }
+	        }
+	        else if (SPAN.className != "")
+	        {
+		        SPAN.className = "nodetext";
+	        }
+		}
     }
 
     // Initiailizes the document by processing the top level UL tag
@@ -93,14 +148,18 @@
         var LI;
         var A;
 
-        if (window.event)
+        if ((e) && e.tagName == "A")
         {
-	    e = window.event;
+            A = e;
+            LI = A.parentNode;
         }
-
-        A = this;
-        LI = this.parentNode;
-
+		else
+        {
+			if (window.event)
+				e = window.event;
+			A = this;
+			LI = this.parentNode;
+		}
         if (LI.className == 'tbo')
         {
             if (LI.getAttribute("icon") <= 0)
@@ -144,16 +203,14 @@
         }
 
         if (e)
-	{
+		{
             cancelEvent(e);
-            if (A.href.substring(A.href.length-1,A.href.length) != "#")
+            if (A.href.substring(A.href.length-1,A.href.length) != "#" && !supressNavigate)
             {
-				// Code inserted by OnLineHelp Team
-				lastClickedLink = A;
-				// End of code inserted by OnLineHelp Team
                 parent.parent.frames["webcontent"].location.href = A.href;
             }
         }
+        highlightNode(LI);
 
     }
 
@@ -184,7 +241,7 @@
                     break;
             }
         }
-
+        highlightNode(LI);
     }
 
     // Configure a page with the appropriate icon and class name
@@ -192,9 +249,6 @@
         // Set the className to tp so that the plus / minus symbols aren't rendered
         a.parentNode.className = "tp";
         a.className = "tp";
-		// Code inserted by OnLineHelp Team
-		a.onclick = nodeClick;
-		// End of code inserted by OnLineHelp Team		
         if (a.parentNode.getAttribute("icon") <= 0)
         {
         	if (a.parentNode.getAttribute("isnew") == "True")
@@ -204,6 +258,7 @@
 		}
         else
             a.childNodes[0].src = "webimages/" + a.parentNode.getAttribute("icon") + ".gif";
+        a.parentNode.onclick = highlightNode;
     }
 
     // Configure a book node with an appropriate icon and class name
@@ -319,9 +374,15 @@
     }
 
     /* Spacing between the node icon and text */
-    span.nodetext {
+    span.nodetext,span.highlightednodetext {
         margin-left: 3px;
+        padding: 2px;
+	 }
+
+    span.highlightednodetext {
+    	background-color: #b9d059;
     }
+	
     -->
     </style>
 
@@ -368,7 +429,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Highlights2.html"><img class="icon"/><span class="nodetext">Highlights</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="BCH_News.html"><img class="icon"/><span class="nodetext">BCH News</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Latest_additions2.html"><img class="icon"/><span class="nodetext">Latest Additions</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Latest_additions2.html"><img class="icon"/><span class="nodetext">BCH Latest Additions</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Notifications2.html"><img class="icon"/><span class="nodetext">Notifications</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents.html"><img class="icon"/><span class="nodetext">Meetings and Documents</span></a>
 </ul>
@@ -388,15 +449,15 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Reporting.html"><img class="icon"/><span class="nodetext">Reporting</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="National_Reports.html"><img class="icon"/><span class="nodetext">National Reports</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="BCH_Annual_Reports.html"><img class="icon"/><span class="nodetext">BCH Annual Reports</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Reports_on_Activities_of_the_Secretariat.html"><img class="icon"/><span class="nodetext">Reports on Activities of the Secretariat</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Roster_of_Experts_Annual_Reports.html"><img class="icon"/><span class="nodetext">Roster of Experts Annual Reports</span></a>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents2.html"><img class="icon"/><span class="nodetext">Meetings and Documents</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Notificacions.html"><img class="icon"/><span class="nodetext">Notifications</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents2.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Meetings and Documents</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Cartagena_Protocol_Notificacions.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Notifications</span></a>
 </ul>
 <li class="tbc" icon="-1"><a href="#" target="lbottom"><img class="icon"/><span class="nodetext">Finding Information</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Finding_Information_.html"><img class="icon"/><span class="nodetext">Finding Information </span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Finding_Information_.html"><img class="icon"/><span class="nodetext">Finding Information</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="National_Contacts_.html"><img class="icon"/><span class="nodetext">National Contacts </span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Laws_and_Regulations.html"><img class="icon"/><span class="nodetext">Laws and Regulations</span></a>
@@ -416,7 +477,7 @@
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Compiled_Information.html"><img class="icon"/><span class="nodetext">Compiled Information</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts2.html"><img class="icon"/><span class="nodetext">National Contacts</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts2.html"><img class="icon"/><span class="nodetext">National Contacts and Competent Authorities</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="LMOs_Genes_and_Organisms_Registries.html"><img class="icon"/><span class="nodetext">LMOs, Genes and Organisms Registries</span></a>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Search_using_Record_ID.html"><img class="icon"/><span class="nodetext">Search using Record ID</span></a>
@@ -426,7 +487,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Exporting_results_to_XML.html"><img class="icon"/><span class="nodetext">Exporting results to XML</span></a>
 </ul>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Registering_Information2.html"><img class="icon"/><span class="nodetext">Registering Information in the BCH Central Portal</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Registering_Information2.html"><img class="icon"/><span class="nodetext">Registering Information</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="The BCH Management Centre.html"><img class="icon"/><span class="nodetext">The BCH Management Centre</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="The_Sign_in_to_the_Biosafety_ClearingHouse_page.html"><img class="icon"/><span class="nodetext">The “Sign in to the Biosafety Clearing-House” page</span></a>
@@ -443,7 +504,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Register a new record.html"><img class="icon"/><span class="nodetext">Register a new record</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="Categories of documents national and reference records.html"><img class="icon"/><span class="nodetext">Categories of documents: national and reference records</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Common_Format.html"><img class="icon"/><span class="nodetext">Common Formats</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Common_Format.html"><img class="icon"/><span class="nodetext">What are Common Formats?</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Offline_Common_Formats.html"><img class="icon"/><span class="nodetext">Offline Common Formats</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Using the online registration forms.html"><img class="icon"/><span class="nodetext">Using the online registration forms</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Reviewing and saving a record.html"><img class="icon"/><span class="nodetext">Reviewing and saving a record</span></a>
@@ -482,7 +543,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Help.html"><img class="icon"/><span class="nodetext">Help</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="FAQ.html"><img class="icon"/><span class="nodetext">FAQ</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Training_Modules2.html"><img class="icon"/><span class="nodetext">Training Modules</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Training_Modules_Link.html"><img class="icon"/><span class="nodetext">Training Modules Link</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Guide_to_the_BCH.html"><img class="icon"/><span class="nodetext">Guide to the BCH</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Training_Site_of_the_BCH.html"><img class="icon"/><span class="nodetext">Training Site of the BCH</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Interoperatibility_Services.html"><img class="icon"/><span class="nodetext">Interoperability Services</span></a>
@@ -491,7 +552,7 @@
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="BCH_Help_Complete_Manuals.html"><img class="icon"/><span class="nodetext">BCH Help Complete Manuals</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="The_Cartagena_Protocol_on_Biosafety.html"><img class="icon"/><span class="nodetext">The Cartagena Protocol on Biosafety</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="An_Introduction_to_the_Cartagena_Protocol_on_Biosafety.html"><img class="icon"/><span class="nodetext">An Introduction to the Cartagena Protocol on Biosafety</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="What_is_the_Cartagena_Protocol_on_Biosafety.html"><img class="icon"/><span class="nodetext">What is the Cartagena Protocol on Biosafety?</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="What_is_the_purpose_of_the_Cartagena_Protocol_on_Biosafety.html"><img class="icon"/><span class="nodetext">What is the purpose of the Cartagena Protocol on Biosafety?</span></a>
@@ -526,8 +587,8 @@
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="What_information_can_be_found_in_the_BCH.html"><img class="icon"/><span class="nodetext">What information can be found in the BCH?</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Laws_and_Regulations2.html"><img class="icon"/><span class="nodetext">Laws and Regulations</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts.html"><img class="icon"/><span class="nodetext">National Contacts</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Laws_and_Regulations2.html"><img class="icon"/><span class="nodetext">Relevant Laws and Regulations</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts_Data.html"><img class="icon"/><span class="nodetext">National Contacts Data</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Decisions_and_Declarations_on_LMOs.html"><img class="icon"/><span class="nodetext">Decisions and Declarations on LMOs</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Risk_Assessment.html"><img class="icon"/><span class="nodetext">Risk Assessment</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Other_Information_Available_on_the_BCH.html"><img class="icon"/><span class="nodetext">Other Information Available on the BCH</span></a>
@@ -560,7 +621,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Highlights2.html"><img class="icon"/><span class="nodetext">Highlights</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="BCH_News.html"><img class="icon"/><span class="nodetext">BCH News</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Latest_additions2.html"><img class="icon"/><span class="nodetext">Latest Additions</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Latest_additions2.html"><img class="icon"/><span class="nodetext">BCH Latest Additions</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Notifications2.html"><img class="icon"/><span class="nodetext">Notifications</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents.html"><img class="icon"/><span class="nodetext">Meetings and Documents</span></a>
 </ul>
@@ -580,14 +641,14 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Reporting.html"><img class="icon"/><span class="nodetext">Reporting</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="National_Reports.html"><img class="icon"/><span class="nodetext">National Reports</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="BCH_Annual_Reports.html"><img class="icon"/><span class="nodetext">BCH Annual Reports</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Reports_on_Activities_of_the_Secretariat.html"><img class="icon"/><span class="nodetext">Reports on Activities of the Secretariat</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Roster_of_Experts_Annual_Reports.html"><img class="icon"/><span class="nodetext">Roster of Experts Annual Reports</span></a>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents2.html"><img class="icon"/><span class="nodetext">Meetings and Documents</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Notificacions.html"><img class="icon"/><span class="nodetext">Notifications</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents2.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Meetings and Documents</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Cartagena_Protocol_Notificacions.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Notifications</span></a>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Finding_Information.html"><img class="icon"/><span class="nodetext">Finding Information</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Registering_Information.html"><img class="icon"/><span class="nodetext">Registering Information</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Finding_Information.html"><img class="icon"/><span class="nodetext">How to Find Information</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Registering_Information.html"><img class="icon"/><span class="nodetext">How to Register Information</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Resources.html"><img class="icon"/><span class="nodetext">Resources</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="Common_formats.html"><img class="icon"/><span class="nodetext">Common Formats</span></a>
@@ -602,7 +663,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Help.html"><img class="icon"/><span class="nodetext">Help</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="FAQ.html"><img class="icon"/><span class="nodetext">FAQ</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Training_Modules2.html"><img class="icon"/><span class="nodetext">Training Modules</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Training_Modules_Link.html"><img class="icon"/><span class="nodetext">Training Modules Link</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Guide_to_the_BCH.html"><img class="icon"/><span class="nodetext">Guide to the BCH</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Training_Site_of_the_BCH.html"><img class="icon"/><span class="nodetext">Training Site of the BCH</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Interoperatibility_Services.html"><img class="icon"/><span class="nodetext">Interoperability Services</span></a>
@@ -614,9 +675,9 @@
 </ul>
 </ul>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Finding_information_from_the_BCH_Central_Portal.html"><img class="icon"/><span class="nodetext">Finding information from the BCH Central Portal</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Finding_information_in_the_BCH_Central_Portal.html"><img class="icon"/><span class="nodetext">Finding information in the BCH Central Portal</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Finding_Information_.html"><img class="icon"/><span class="nodetext">Finding Information </span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Finding_Information_.html"><img class="icon"/><span class="nodetext">Finding Information</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="National_Contacts_.html"><img class="icon"/><span class="nodetext">National Contacts </span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Laws_and_Regulations.html"><img class="icon"/><span class="nodetext">Laws and Regulations</span></a>
@@ -636,7 +697,7 @@
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Compiled_Information.html"><img class="icon"/><span class="nodetext">Compiled Information</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts2.html"><img class="icon"/><span class="nodetext">National Contacts</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts2.html"><img class="icon"/><span class="nodetext">National Contacts and Competent Authorities</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="LMOs_Genes_and_Organisms_Registries.html"><img class="icon"/><span class="nodetext">LMOs, Genes and Organisms Registries</span></a>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Search_using_Record_ID.html"><img class="icon"/><span class="nodetext">Search using Record ID</span></a>
@@ -663,7 +724,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Register a new record.html"><img class="icon"/><span class="nodetext">Register a new record</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="Categories of documents national and reference records.html"><img class="icon"/><span class="nodetext">Categories of documents: national and reference records</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Common_Format.html"><img class="icon"/><span class="nodetext">Common Formats</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Common_Format.html"><img class="icon"/><span class="nodetext">What are Common Formats?</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Offline_Common_Formats.html"><img class="icon"/><span class="nodetext">Offline Common Formats</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Using the online registration forms.html"><img class="icon"/><span class="nodetext">Using the online registration forms</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Reviewing and saving a record.html"><img class="icon"/><span class="nodetext">Reviewing and saving a record</span></a>
@@ -703,7 +764,7 @@
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Role of the BCH Focal Points.html"><img class="icon"/><span class="nodetext">Role of the BCH Focal Points</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Function of the BCH focal Points.html"><img class="icon"/><span class="nodetext">Function of the BCH focal Points</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="BCH_focal_Points.html"><img class="icon"/><span class="nodetext">BCH focal Points</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="Active clearance for publishing information (-validation-).html"><img class="icon"/><span class="nodetext">Active clearance for publishing information (‘validation’)</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Liaison with the Secretariat regarding the BCH.html"><img class="icon"/><span class="nodetext">Liaison with the Secretariat regarding the BCH</span></a>

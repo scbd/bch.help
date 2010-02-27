@@ -2,7 +2,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <style type="text/css">
-        blockquote {
+blockquote {
             margin-top:     0px;
             margin-bottom:  0px;
             margin-left:    16px;
@@ -35,14 +35,14 @@
             text-decoration: none;
         }
     </style>
-    <script src="ftsindex.js" language="javascript" type="text/javascript">
-    </script>
-    <script src="script/fts.js" language="javascript" type="text/javascript">
-    </script>
-    <script src="script/webhighlight.js" language="javascript" type="text/javascript">
-    </script>
-    <script src="script/webutility.js" language="javascript" type="text/javascript">
-    </script>
+    <script src="ftsindex.js" language="javascript" type="text/javascript" charset="utf-8">
+</script>
+    <script src="script/fts.js" language="javascript" type="text/javascript" charset="utf-8">
+</script>
+    <script src="script/webhighlight.js" language="javascript" type="text/javascript" charset="utf-8">
+</script>
+    <script src="script/webutility.js" language="javascript" type="text/javascript" charset="utf-8">
+</script>
     <base target="webcontent">
     <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
 </head>
@@ -50,27 +50,38 @@
 <body style="margin-top:5;margin-left:5" topmargin="5" leftmargin="5">
     <div id="divSearch">
         <table border="0" id="tblSearch">
-            <tr>
-                <td>Look for:<br>
-                <form style="padding: 0; margin: 0" onsubmit="btnSearch_onclick(); return false;"><input id="txtSearch" type="text" name="txtSearch" value="">&nbsp;<input id="btnSearch" type="button" value="Search" name="btnSearch"
-                       language="javascript" onclick="return btnSearch_onclick();"></form></td>
-            </tr>
+                <tr>
+                    <td>
+                        Look for:<br>
 
-            <tr>
-                <td>(Words can be combined using OR and AND)</td>
-            </tr>
-            <tr>
-                <td style="margin-left: 0px; padding-left: 0px"><input id="chkHighlightInResults" type="checkbox" checked="true" style="margin-left: -2px;" />Highlight search terms</td>
-            </tr>
+                        <form style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px" onsubmit=
+                        "btnSearch_onclick(); return false;">
+                            <input id="txtSearch" name="txtSearch">&nbsp;<input language="javascript" id="btnSearch" contenteditable="false" style=
+                            "COLOR: highlight; BACKGROUND-COLOR: inactivecaptiontext" onclick="return btnSearch_onclick();" type="button" value=Search name=
+                            "btnSearch">
+                        </form>
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>(Words can be combined using OR and AND)</td>
+                </tr>
+
+                <tr>
+                    <td style="PADDING-LEFT: 0px; MARGIN-LEFT: 0px"><input id="chkHighlightInResults" style="MARGIN-LEFT: -2px" type="checkbox" checked> 
+                    Highlight search terms</td>
+                </tr>
         </table>
     </div><br>
+
     <div id="divSearching" style="display: none">
         <table id="tblProgress" border="0">
-            <tr>
-                <td>Searching...</td>
-            </tr>
+			<tr>
+				<td>Searching...</td>
+			</tr>
         </table>
     </div>
+
     <div id="divResults" style="display: none"></div>
 </body>
 </html>

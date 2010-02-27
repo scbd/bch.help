@@ -1,7 +1,6 @@
 ﻿<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
     <style type="text/css">
 blockquote {
             margin-top:     0px;
@@ -36,21 +35,21 @@ blockquote {
             text-decoration: none;
         }
     </style>
-    <script language="javascript" src="ftsindex.js" type="text/javascript">
+    <script src="ftsindex.js" language="javascript" type="text/javascript" charset="utf-8">
 </script>
-    <script language="javascript" src="script/fts.js" type="text/javascript">
+    <script src="script/fts.js" language="javascript" type="text/javascript" charset="utf-8">
 </script>
-    <script language="javascript" src="script/webhighlight.js" type="text/javascript">
+    <script src="script/webhighlight.js" language="javascript" type="text/javascript" charset="utf-8">
 </script>
-    <script language="javascript" src="script/webutility.js" type="text/javascript">
+    <script src="script/webutility.js" language="javascript" type="text/javascript" charset="utf-8">
 </script>
-    <meta content="Innovasys Document! X (http://www.innovasys.com)" name="GENERATOR">
+    <base target="webcontent">
+    <meta content="Innovasys HelpStudio (www.innovasys.com)" name="GENERATOR">
 </head>
 
-<body style="MARGIN-TOP: 5px; MARGIN-LEFT: 5px" leftmargin="5" topmargin="5">
+<body style="margin-top:5;margin-left:5" topmargin="5" leftmargin="5">
     <div id="divSearch">
-        <table id="tblSearch" border="0">
-            <tbody>
+        <table border="0" id="tblSearch">
                 <tr>
                     <td>
                         Búsqueda:<br>
@@ -72,20 +71,17 @@ blockquote {
                     <td style="PADDING-LEFT: 0px; MARGIN-LEFT: 0px"><input id="chkHighlightInResults" style="MARGIN-LEFT: -2px" type="checkbox" checked> 
                     Resaltar los términos de búsqueda</td>
                 </tr>
-            </tbody>
         </table>
     </div><br>
 
-    <div id="divSearching" style="DISPLAY: none">
+    <div id="divSearching" style="display: none">
         <table id="tblProgress" border="0">
-            <tbody>
-                <tr>
-                    <td>Buscando...</td>
-                </tr>
-            </tbody>
+			<tr>
+				<td>Buscando...</td>
+			</tr>
         </table>
     </div>
 
-    <div id="divResults" style="DISPLAY: none"></div>
+    <div id="divResults" style="display: none"></div>
 </body>
 </html>
