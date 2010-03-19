@@ -79,6 +79,7 @@ BCH_Central_Portal.html
 BCH_Central_Portal_Online_Help.html
 BCH_focal_Points.html
 BCH_Help_Complete_Manuals.html
+BCH_Latest_additions.html
 BCH_News.html
 Becoming_a_Party.html
 Becoming_a_Party_to_the_Protocol.html
@@ -86,6 +87,7 @@ Benefits_of_becoming_a_Party_to_the_Protocol.html
 Birc.html
 Building and maintaining capacity to use the BCH.html
 Capacity-Building.html
+Cartagena_Protocol_Meetings_and_Documents.html
 Cartagena_Protocol_Notificacions.html
 Case_Studies.html
 Categories of documents national and reference records.html
@@ -108,14 +110,14 @@ Discussion_Points_with_answer_Key.html
 Downloadable_files.html
 Edit_a_draft_record.html
 Edit_a_published_record.html
+Example_on_searching_the_registries.html
 Exercises.html
-Exporting_results_to_XML.html
 Facilitating a network of partners.html
 FAQ.html
-Finding_Information.html
 Finding_Information_.html
 Finding_information_in_the_BCH_Central_Portal.html
 Gene_Registry.html
+Gene_Registry_Compiled_List.html
 Glossary2.html
 Governing_body_of_the_Cartagena_Protocol2.html
 Guide_to_the_BCH.html
@@ -128,6 +130,8 @@ Home.html
 How_does_a_Party_benefit_from_the_BCH.html
 How_does_the_BCH_work.html
 How_does_the_Cartagena_Protocol_work.html
+How_to_Find_Information.html
+How_to_Register_Information.html
 IAC_Forum_Participants.html
 IAC_Mandate__Meetings.html
 Identification_of_a_contact_point.html
@@ -140,30 +144,29 @@ Interactive_Modules.html
 Interoperatibility_Services.html
 Language_requirements_of_the_BCH.html
 Latest_Additions.html
-Latest_additions2.html
 Latest_News.html
 Laws_and_Regulations.html
 Laws_and_Regulations2.html
 Liaison with the Secretariat regarding the BCH.html
 Linking_External_Websites_Policy.html
+LMO_Registry_Compiled_List.html
+LMO_Unique_Identifiers_Registry.html
 LMOs intended for direct use as food or feed, or for processing .html
 LMOs_for_direct_use_as_food_or_feed_or_for_processing.html
-LMOs_Genes_and_Organisms_Registries.html
 LMOs_Genes_Organisms.html
 Mailbox.html
 Mailing_List.html
 Managing your Personal Profile.html
 Managing_Search_Results.html
 Meetings_and_Documents.html
-Meetings_and_Documents2.html
 Modalities_of_operation.html
 Multi-year_Program_of_Work.html
 My Subscriptions.html
 National Authorized Users.html
 National Node Administration.html
 National_Contacts_.html
+National_Contacts_Compiled_List.html
 National_Contacts_Data.html
-National_Contacts2.html
 National_institutional_arrangements3.html
 National_Reports.html
 Notifications2.html
@@ -172,6 +175,7 @@ Offline_Common_Formats.html
 On Entry Into Force of the Protocol.html
 On_line_confences.html
 Operational_Handbook.html
+Organism_Registry_Compiled_List.html
 Organizations.html
 Other requirements.html
 Other_Information_Available_on_the_BCH.html
@@ -189,10 +193,8 @@ Quiz_Questions_with_Answer_keys.html
 Ratification and Accession.html
 Ready_Reference_Guide.html
 Register a new record.html
-Registering_Information.html
 Registering_Information_in_the_BCH_Central_Portal.html
 Registering_Information2.html
-Registry_searches.html
 Reporting.html
 Reports_and_reviews.html
 Reports_on_Activities_of_the_Secretariat.html
@@ -209,7 +211,6 @@ Search_using_Record_ID.html
 Sign out.html
 Site_Map.html
 Solutions_for_National_Participation.html
-Sorting_results.html
 Stakeholder curricula.html
 Succession.html
 Support_Tools.html
@@ -237,10 +238,11 @@ Training_Modules_Link.html
 Training_Site_of_the_BCH.html
 Transboundary movements of LMOs between Parties and non-Parties .html
 Unintentional_transboundary_movements_of_LMOs.html
-Unique_Identification_Registry.html
 Users_Guide_to_the_BCH_Central_Portal.html
 Using BCH training modules to meet stakeholder needs.html
 Using the online registration forms.html
+Using_multiple_selection.html
+Using_the_search_pages.html
 Validate_pending_records.html
 What are the institutional arrangements established by the Proto.html
 What_are_the_obligations_of_a_Party.html
@@ -992,6 +994,93 @@ images\MO03_0003.jpg
 images\MO03_0009.jpg
 images\MO03_0010.jpg
 images\MO03_0011.jpg
+images\module10.jpg
+images\module6.jpg
+images\module2.jpg
+images\MO01_front.jpg
+images\MO02_front.jpg
+images\MO03_front.jpg
+images\MO04_front.jpg
+images\MO06_front.jpg
+images\MO10_front.jpg
+images\MO04_icon_0001.jpg
+images\MO04_icon_0002.jpg
+images\MO04_icon_0003.jpg
+images\MO04_icon_0004.jpg
+images\MO04_icon_0005.jpg
+images\MO04_icon_0006.jpg
+images\MO04_icon_0007.jpg
+images\MO04_icon_0007.PNG
+images\MO04_icon_0005.PNG
+images\MO04_icon_0006.PNG
+images\MO04_0060_en_es.jpg
+images\MO04_0001_en_es.jpg
+images\MO04_0002_en_es.jpg
+images\MO04_0003_en_es.jpg
+images\MO04_0004_en_es.jpg
+images\MO04_0005_en_es.jpg
+images\MO04_0006_en_es.jpg
+images\MO04_0007_en_es.jpg
+images\MO04_0008_en_es.jpg
+images\MO04_0009_en_es.jpg
+images\MO04_0010_en_es.jpg
+images\MO04_0011_en_es.jpg
+images\MO04_0012_en_es.jpg
+images\MO04_0013_en_es.jpg
+images\MO04_0014_en_es.jpg
+images\MO04_0015_en_es.jpg
+images\MO04_0016_en_es.jpg
+images\MO04_0017_en_es.jpg
+images\MO04_0018_en_es.jpg
+images\MO04_0019_en_es.jpg
+images\MO04_0020_en_es.jpg
+images\MO04_0021_en_es.jpg
+images\MO04_0022_en_es.jpg
+images\MO04_0023_en_es.jpg
+images\MO04_0024_en_es.jpg
+images\MO04_0025_en_es.jpg
+images\MO04_0026_en_es.jpg
+images\MO04_0027_en_es.jpg
+images\MO04_0029_en_es.jpg
+images\MO04_0030_en_es.jpg
+images\MO04_0031_en_es.jpg
+images\MO04_0032_en_es.jpg
+images\MO04_0033_en_es.jpg
+images\MO04_0034_en_es.jpg
+images\MO04_0035_en_es.jpg
+images\MO04_0036_en_es.jpg
+images\MO04_0037_en_es.jpg
+images\MO04_0038_en_es.jpg
+images\MO04_0039_en_es.jpg
+images\MO04_0040_en_es.jpg
+images\MO04_0041_en_es.jpg
+images\MO04_0042_en_es.jpg
+images\MO04_0044_en_es.jpg
+images\MO04_0045_en_es.jpg
+images\MO04_0046_en_es.jpg
+images\MO04_0048_en_es.jpg
+images\MO04_0049_en_es.jpg
+images\MO04_0050_en_es.jpg
+images\MO04_0051_en_es.jpg
+images\MO04_0052_en_es.jpg
+images\MO04_0053_en_es.jpg
+images\MO04_0054_en_es.jpg
+images\MO04_0056_en_es.jpg
+images\MO04_0057_en_es.jpg
+images\MO04_0058_en_es.jpg
+images\MO04_0059_en_es.jpg
+images\MO04_0067_en_es.jpg
+images\MO04_0061_en_es.jpg
+images\MO04_0062_en_es.jpg
+images\MO04_0063_en_es.jpg
+images\MO04_0064_en_es.jpg
+images\MO04_0065_en_es.jpg
+images\MO04_0066_en_es.jpg
+images\MO04_0055_en_es.jpg
+images\MO04_0028_en_es.jpg
+images\MO04_0043_en_es.jpg
+images\MO04_0047_en_es.jpg
+images\MO03_0054_en_es.jpg
 images\MO03_0001_en_es.jpg
 images\MO03_0002_en_es.jpg
 images\MO03_0003_en_es.jpg
@@ -1006,18 +1095,15 @@ images\MO03_0011_en_es.jpg
 images\MO03_0012_en_es.jpg
 images\MO03_0013_en_es.jpg
 images\MO03_0014_en_es.jpg
-images\MO03_0017_en_es.jpg
 images\MO03_0015_en_es.jpg
 images\MO03_0016_en_es.jpg
+images\MO03_0017_en_es.jpg
 images\MO03_0018_en_es.jpg
 images\MO03_0019_en_es.jpg
 images\MO03_0020_en_es.jpg
 images\MO03_0021_en_es.jpg
 images\MO03_0022_en_es.jpg
 images\MO03_0023_en_es.jpg
-images\module10.jpg
-images\module6.jpg
-images\module2.jpg
 images\MO03_0024_en_es.jpg
 images\MO03_0025_en_es.jpg
 images\MO03_0026_en_es.jpg
@@ -1030,15 +1116,24 @@ images\MO03_0032_en_es.jpg
 images\MO03_0033_en_es.jpg
 images\MO03_0034_en_es.jpg
 images\MO03_0035_en_es.jpg
+images\MO03_0036_en_es.jpg
 images\MO03_0037_en_es.jpg
 images\MO03_0038_en_es.jpg
-images\MO03_0036_en_es.jpg
-images\MO01_front.jpg
-images\MO02_front.jpg
-images\MO03_front.jpg
-images\MO04_front.jpg
-images\MO06_front.jpg
-images\MO10_front.jpg
+images\MO03_0039_en_es.jpg
+images\MO03_0040_en_es.jpg
+images\MO03_0041_en_es.jpg
+images\MO03_0042_en_es.jpg
+images\MO03_0043_en_es.jpg
+images\MO03_0044_en_es.jpg
+images\MO03_0045_en_es.jpg
+images\MO03_0046_en_es.jpg
+images\MO03_0047_en_es.jpg
+images\MO03_0048_en_es.jpg
+images\MO03_0049_en_es.jpg
+images\MO03_0050_en_es.jpg
+images\MO03_0051_en_es.jpg
+images\MO03_0052_en_es.jpg
+images\MO03_0053_en_es.jpg
 
 
 

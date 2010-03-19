@@ -9,9 +9,21 @@
 	
 	    var supressNavigate;
 
+		// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+		var bypassTocSync = false;
+		// End of code inserted by QUALISYS DEVELOMPENT TEAM
+		
 	/* Called by content pages. Highlight the matching TOC node */
 	function pageLoaded(url)
 	{
+	
+		// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+		if (bypassTocSync){
+			bypassTocSync = false;
+			return;
+		}	
+		// End of code inserted by QUALISYS DEVELOMPENT TEAM
+		
 		var liElements = document.getElementsByTagName("li");
 
 		for (var x=0;x<liElements.length;x++)
@@ -207,12 +219,44 @@
             cancelEvent(e);
             if (A.href.substring(A.href.length-1,A.href.length) != "#" && !supressNavigate)
             {
+				// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+				// We don't want the URL change to cause a potentially wrong TOC sync because we will call the correct sync in the next line.
+				bypassTocSync = true;
+				// End of code inserted by QUALISYS DEVELOMPENT TEAM
                 parent.parent.frames["webcontent"].location.href = A.href;
             }
         }
         highlightNode(LI);
 
     }
+	
+	// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highligh
+	function nodeClickHandler(e){
+		var LI;
+        var A;
+
+        if ((e) && e.tagName == "A")
+        {
+            A = e;
+            LI = A.parentNode;
+        }
+		else
+        {
+			if (window.event)
+				e = window.event;
+			A = this;
+			LI = this.parentNode;
+		}
+		cancelEvent(e);
+        if (A.href.substring(A.href.length-1,A.href.length) != "#" && !supressNavigate)
+		{
+			// We don't want the URL change to cause a potentially wrong TOC sync because we will call the correct sync in the next line.
+			bypassTocSync = true;
+			parent.parent.frames["webcontent"].location.href = A.href;
+		}
+        highlightNode(LI);
+	}
+	// End of code inserted by QUALISYS DEVELOMPENT TEAM
 
     // Event handler for the first click on a book node
     // Sets up all the child items, adds the standard click handler
@@ -258,7 +302,9 @@
 		}
         else
             a.childNodes[0].src = "webimages/" + a.parentNode.getAttribute("icon") + ".gif";
-        a.parentNode.onclick = highlightNode;
+        // Code modified by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+        a.onclick = nodeClickHandler;
+		// End of code modified by QUALISYS DEVELOMPENT TEAM
     }
 
     // Configure a book node with an appropriate icon and class name
@@ -429,7 +475,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Highlights2.html"><img class="icon"/><span class="nodetext">Highlights</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="BCH_News.html"><img class="icon"/><span class="nodetext">BCH News</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Latest_additions2.html"><img class="icon"/><span class="nodetext">BCH Latest Additions</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="BCH_Latest_additions.html"><img class="icon"/><span class="nodetext">BCH Latest Additions</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Notifications2.html"><img class="icon"/><span class="nodetext">Notifications</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents.html"><img class="icon"/><span class="nodetext">Meetings and Documents</span></a>
 </ul>
@@ -452,40 +498,39 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Reports_on_Activities_of_the_Secretariat.html"><img class="icon"/><span class="nodetext">Reports on Activities of the Secretariat</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Roster_of_Experts_Annual_Reports.html"><img class="icon"/><span class="nodetext">Roster of Experts Annual Reports</span></a>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents2.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Meetings and Documents</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Cartagena_Protocol_Meetings_and_Documents.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Meetings and Documents</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Cartagena_Protocol_Notificacions.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Notifications</span></a>
 </ul>
-<li class="tbc" icon="-1"><a href="#" target="lbottom"><img class="icon"/><span class="nodetext">Finding Information</span></a>
-<ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="Finding_Information_.html"><img class="icon"/><span class="nodetext">Finding Information</span></a>
 <ul class='tbc'>
+<li class="tbc" icon="-1" isnew="False"><a href="Using_the_search_pages.html"><img class="icon"/><span class="nodetext">Using the search pages</span></a>
+<ul class='tbc'>
+<li class="tbc" icon="-1" isnew="False"><a href="Using_multiple_selection.html"><img class="icon"/><span class="nodetext">Using multiple selection</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Managing_Search_Results.html"><img class="icon"/><span class="nodetext">Managing Search Results</span></a>
+</ul>
 <li class="tbc" icon="-1" isnew="False"><a href="National_Contacts_.html"><img class="icon"/><span class="nodetext">National Contacts </span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Laws_and_Regulations.html"><img class="icon"/><span class="nodetext">Laws and Regulations</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Country_Decisions_and_other_Communication.html"><img class="icon"/><span class="nodetext">Country’s Decisions and other Communication</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="LMOs_Genes_Organisms.html"><img class="icon"/><span class="nodetext">LMOs, Genes and Organisms</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Unique_Identification_Registry.html"><img class="icon"/><span class="nodetext">Unique Identification Registry</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="LMO_Unique_Identifiers_Registry.html"><img class="icon"/><span class="nodetext">LMO - Unique Identifiers Registry</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Gene_Registry.html"><img class="icon"/><span class="nodetext">Gene Registry</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Parent_or_Donor_Organism_Registry.html"><img class="icon"/><span class="nodetext">Parent or Donor Organism Registry</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Registry_searches.html"><img class="icon"/><span class="nodetext">Registry searches</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Example_on_searching_the_registries.html"><img class="icon"/><span class="nodetext">Example on searching the registries</span></a>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Roster_of_Experts.html"><img class="icon"/><span class="nodetext">Roster of Experts</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Capacity-Building.html"><img class="icon"/><span class="nodetext">Capacity-Building</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Birc.html"><img class="icon"/><span class="nodetext">Biosafety Information Resource Centre (BIRC)</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Scientific_Bibliographic_Database.html"><img class="icon"/><span class="nodetext">Scientific Bibliographic Database</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Organizations.html"><img class="icon"/><span class="nodetext">Organizations</span></a>
-</ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Compiled_Information.html"><img class="icon"/><span class="nodetext">Compiled Information</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts2.html"><img class="icon"/><span class="nodetext">National Contacts and Competent Authorities</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="LMOs_Genes_and_Organisms_Registries.html"><img class="icon"/><span class="nodetext">LMOs, Genes and Organisms Registries</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts_Compiled_List.html"><img class="icon"/><span class="nodetext">National Contacts Compiled List</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="LMO_Registry_Compiled_List.html"><img class="icon"/><span class="nodetext">LMO Registry Compiled List</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Organism_Registry_Compiled_List.html"><img class="icon"/><span class="nodetext">Organism Registry Compiled List</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Gene_Registry_Compiled_List.html"><img class="icon"/><span class="nodetext">Gene Registry Compiled List</span></a>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Search_using_Record_ID.html"><img class="icon"/><span class="nodetext">Search using Record ID</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Managing_Search_Results.html"><img class="icon"/><span class="nodetext">Managing Search Results</span></a>
-<ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Sorting_results.html"><img class="icon"/><span class="nodetext">Sorting Results</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Exporting_results_to_XML.html"><img class="icon"/><span class="nodetext">Exporting results to XML</span></a>
-</ul>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Registering_Information2.html"><img class="icon"/><span class="nodetext">Registering Information</span></a>
 <ul class='tbc'>
@@ -621,7 +666,7 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Highlights2.html"><img class="icon"/><span class="nodetext">Highlights</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="BCH_News.html"><img class="icon"/><span class="nodetext">BCH News</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Latest_additions2.html"><img class="icon"/><span class="nodetext">BCH Latest Additions</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="BCH_Latest_additions.html"><img class="icon"/><span class="nodetext">BCH Latest Additions</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Notifications2.html"><img class="icon"/><span class="nodetext">Notifications</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents.html"><img class="icon"/><span class="nodetext">Meetings and Documents</span></a>
 </ul>
@@ -644,11 +689,11 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Reports_on_Activities_of_the_Secretariat.html"><img class="icon"/><span class="nodetext">Reports on Activities of the Secretariat</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Roster_of_Experts_Annual_Reports.html"><img class="icon"/><span class="nodetext">Roster of Experts Annual Reports</span></a>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Meetings_and_Documents2.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Meetings and Documents</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Cartagena_Protocol_Meetings_and_Documents.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Meetings and Documents</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Cartagena_Protocol_Notificacions.html"><img class="icon"/><span class="nodetext">Cartagena Protocol Notifications</span></a>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Finding_Information.html"><img class="icon"/><span class="nodetext">How to Find Information</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Registering_Information.html"><img class="icon"/><span class="nodetext">How to Register Information</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="How_to_Find_Information.html"><img class="icon"/><span class="nodetext">How to Find Information</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="How_to_Register_Information.html"><img class="icon"/><span class="nodetext">How to Register Information</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Resources.html"><img class="icon"/><span class="nodetext">Resources</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="Common_formats.html"><img class="icon"/><span class="nodetext">Common Formats</span></a>
@@ -668,26 +713,26 @@
 <li class="tbc" icon="-1" isnew="False"><a href="Training_Site_of_the_BCH.html"><img class="icon"/><span class="nodetext">Training Site of the BCH</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Interoperatibility_Services.html"><img class="icon"/><span class="nodetext">Interoperability Services</span></a>
 </ul>
-<li class="tbc" icon="-1" isnew="False"><a href="Managing_Search_Results.html"><img class="icon"/><span class="nodetext">Managing Search Results</span></a>
-<ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Sorting_results.html"><img class="icon"/><span class="nodetext">Sorting Results</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Exporting_results_to_XML.html"><img class="icon"/><span class="nodetext">Exporting results to XML</span></a>
-</ul>
 </ul>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Finding_information_in_the_BCH_Central_Portal.html"><img class="icon"/><span class="nodetext">Finding information in the BCH Central Portal</span></a>
 <ul class='tbc'>
 <li class="tbc" icon="-1" isnew="False"><a href="Finding_Information_.html"><img class="icon"/><span class="nodetext">Finding Information</span></a>
 <ul class='tbc'>
+<li class="tbc" icon="-1" isnew="False"><a href="Using_the_search_pages.html"><img class="icon"/><span class="nodetext">Using the search pages</span></a>
+<ul class='tbc'>
+<li class="tbc" icon="-1" isnew="False"><a href="Using_multiple_selection.html"><img class="icon"/><span class="nodetext">Using multiple selection</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Managing_Search_Results.html"><img class="icon"/><span class="nodetext">Managing Search Results</span></a>
+</ul>
 <li class="tbc" icon="-1" isnew="False"><a href="National_Contacts_.html"><img class="icon"/><span class="nodetext">National Contacts </span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Laws_and_Regulations.html"><img class="icon"/><span class="nodetext">Laws and Regulations</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Country_Decisions_and_other_Communication.html"><img class="icon"/><span class="nodetext">Country’s Decisions and other Communication</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="LMOs_Genes_Organisms.html"><img class="icon"/><span class="nodetext">LMOs, Genes and Organisms</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Unique_Identification_Registry.html"><img class="icon"/><span class="nodetext">Unique Identification Registry</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="LMO_Unique_Identifiers_Registry.html"><img class="icon"/><span class="nodetext">LMO - Unique Identifiers Registry</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Gene_Registry.html"><img class="icon"/><span class="nodetext">Gene Registry</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Parent_or_Donor_Organism_Registry.html"><img class="icon"/><span class="nodetext">Parent or Donor Organism Registry</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Registry_searches.html"><img class="icon"/><span class="nodetext">Registry searches</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Example_on_searching_the_registries.html"><img class="icon"/><span class="nodetext">Example on searching the registries</span></a>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Roster_of_Experts.html"><img class="icon"/><span class="nodetext">Roster of Experts</span></a>
 <li class="tbc" icon="-1" isnew="False"><a href="Capacity-Building.html"><img class="icon"/><span class="nodetext">Capacity-Building</span></a>
@@ -697,15 +742,12 @@
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Compiled_Information.html"><img class="icon"/><span class="nodetext">Compiled Information</span></a>
 <ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts2.html"><img class="icon"/><span class="nodetext">National Contacts and Competent Authorities</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="LMOs_Genes_and_Organisms_Registries.html"><img class="icon"/><span class="nodetext">LMOs, Genes and Organisms Registries</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="National_Contacts_Compiled_List.html"><img class="icon"/><span class="nodetext">National Contacts Compiled List</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="LMO_Registry_Compiled_List.html"><img class="icon"/><span class="nodetext">LMO Registry Compiled List</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Organism_Registry_Compiled_List.html"><img class="icon"/><span class="nodetext">Organism Registry Compiled List</span></a>
+<li class="tbc" icon="-1" isnew="False"><a href="Gene_Registry_Compiled_List.html"><img class="icon"/><span class="nodetext">Gene Registry Compiled List</span></a>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Search_using_Record_ID.html"><img class="icon"/><span class="nodetext">Search using Record ID</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Managing_Search_Results.html"><img class="icon"/><span class="nodetext">Managing Search Results</span></a>
-<ul class='tbc'>
-<li class="tbc" icon="-1" isnew="False"><a href="Sorting_results.html"><img class="icon"/><span class="nodetext">Sorting Results</span></a>
-<li class="tbc" icon="-1" isnew="False"><a href="Exporting_results_to_XML.html"><img class="icon"/><span class="nodetext">Exporting results to XML</span></a>
-</ul>
 </ul>
 <li class="tbc" icon="-1" isnew="False"><a href="Registering_Information_in_the_BCH_Central_Portal.html"><img class="icon"/><span class="nodetext">Registering Information in the BCH Central Portal</span></a>
 <ul class='tbc'>
