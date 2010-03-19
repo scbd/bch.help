@@ -10,9 +10,21 @@
 	
 	    var supressNavigate;
 
+		// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+		var bypassTocSync = false;
+		// End of code inserted by QUALISYS DEVELOMPENT TEAM
+		
 	/* Called by content pages. Highlight the matching TOC node */
 	function pageLoaded(url)
 	{
+	
+		// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+		if (bypassTocSync){
+			bypassTocSync = false;
+			return;
+		}	
+		// End of code inserted by QUALISYS DEVELOMPENT TEAM
+		
 		var liElements = document.getElementsByTagName("li");
 
 		for (var x=0;x<liElements.length;x++)
@@ -208,12 +220,44 @@
             cancelEvent(e);
             if (A.href.substring(A.href.length-1,A.href.length) != "#" && !supressNavigate)
             {
+				// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+				// We don't want the URL change to cause a potentially wrong TOC sync because we will call the correct sync in the next line.
+				bypassTocSync = true;
+				// End of code inserted by QUALISYS DEVELOMPENT TEAM
                 parent.parent.frames["webcontent"].location.href = A.href;
             }
         }
         highlightNode(LI);
 
     }
+	
+	// Code inserted by QUALISYS DEVELOMPENT TEAM to solve bug with highligh
+	function nodeClickHandler(e){
+		var LI;
+        var A;
+
+        if ((e) && e.tagName == "A")
+        {
+            A = e;
+            LI = A.parentNode;
+        }
+		else
+        {
+			if (window.event)
+				e = window.event;
+			A = this;
+			LI = this.parentNode;
+		}
+		cancelEvent(e);
+        if (A.href.substring(A.href.length-1,A.href.length) != "#" && !supressNavigate)
+		{
+			// We don't want the URL change to cause a potentially wrong TOC sync because we will call the correct sync in the next line.
+			bypassTocSync = true;
+			parent.parent.frames["webcontent"].location.href = A.href;
+		}
+        highlightNode(LI);
+	}
+	// End of code inserted by QUALISYS DEVELOMPENT TEAM
 
     // Event handler for the first click on a book node
     // Sets up all the child items, adds the standard click handler
@@ -259,7 +303,9 @@
 		}
         else
             a.childNodes[0].src = "webimages/" + a.parentNode.getAttribute("icon") + ".gif";
-        a.parentNode.onclick = highlightNode;
+        // Code modified by QUALISYS DEVELOMPENT TEAM to solve bug with highlight
+        a.onclick = nodeClickHandler;
+		// End of code modified by QUALISYS DEVELOMPENT TEAM
     }
 
     // Configure a book node with an appropriate icon and class name
