@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="2052" Version="3.0.214" SaveDateTime="26/09/2008 17:24:26" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Simplified chinese">
+<HSProjectLocalization LocaleId="2052" Version="3.0.200" SaveDateTime="19/03/2010 13:23:32" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Simplified chinese">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -2764,17 +2764,6 @@ border="0"></p>
 <P class=Illustrationinstructions align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">图</SPAN> 125</P></DIV>]]></data>
             </s>
         </t>
-        <t key="{C2975CD6-0F1B-4A48-9E97-AC3AE42CA4EE}">
-            <title m="22/04/2008 13:41:42">改性活生物体、基因和生物体登记库</title>
-            <s key="BodyText">
-                <data m="22/04/2008 13:41:27"><![CDATA[<P>URL: <A href="http://bch.cbd.int/database/organisms/uniqueidentifiers/default.shtml" target=_blank>http://bch.cbd.int/database/organisms/uniqueidentifiers/default.shtml</A></P>
-<DIV class=Section1>
-<P class=MsoNormal>URL: <A href="http://bch.cbd.int/database/organisms/organismslist.shtml" target=_blank>http://bch.cbd.int/database/organisms/organismslist.shtml</A></P>
-<P class=MsoNormal>URL: <A href="http://bch.cbd.int/database/organisms/genes/default.shtml" target=_blank>http://bch.cbd.int/database/organisms/genes/default.shtml</A></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><FONT size=3>这些登记库的使用在第2.4节中已经讨论。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P></DIV>]]></data>
-            </s>
-        </t>
         <t key="{5795C58F-7223-4CE3-9C96-E8448A168036}">
             <title m="22/04/2008 13:42:56">使用纪录条ID进行搜索</title>
             <s key="BodyText">
@@ -3047,14 +3036,6 @@ border="0"></p>
 <P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-ascii-font-family: Arial; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">图</SPAN> 23</P>]]></data>
             </s>
         </t>
-        <t key="{8A66CA2D-D4B0-46F4-A10B-00C795677C16}">
-            <title m="18/04/2008 13:53:24">欢迎来到生物安全信息交换所中央门户网站</title>
-            <s key="BodyText">
-                <data m="18/04/2008 13:53:52"><![CDATA[<P class=BCHCentralPortalPageTitle><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-no-proof: yes">生物安全信息交换所</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-no-proof: yes">中央门户网站</SPAN><SPAN class=BCHCentralPortalPageTitleChar><SPAN lang=ZH-CN style="FONT-SIZE: 14pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><STRONG><FONT color=#339966>欢迎来到生物安全信息交换所中央门户网站</FONT></STRONG></SPAN></SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: Arial; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-fareast-font-family: SimSun"> </SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">页有一个欢迎区，简要介绍了</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-no-proof: yes">生物安全信息交换所</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-no-proof: yes">中央门户网站、提供与管理中心的快速链接，并提供一些重点信息，如</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-no-proof: yes">生物安全信息交换所</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-no-proof: yes">中央门户网站最新消息以及数据库中的最新添加内容。</SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG alt="Figure 2" src="images/MO03_0002.JPG" border=0></P>
-<P class=MsoNormal align=center>&nbsp;<SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">图</SPAN> 2</P>]]></data>
-            </s>
-        </t>
         <t key="{298B8DF0-0F25-4CD7-9622-AC3B43D899C7}">
             <title m="18/04/2008 14:24:23">生物安全信息交换所（BCH）</title>
             <s key="BodyText">
@@ -3165,27 +3146,6 @@ style=
 <P class=MsoNormal><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; COLOR: green; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><STRONG>多年期工作规划</STRONG></SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">页提供由缔约方大会作为议定书缔约方会议决定的每一个规划组成部分的目标和可能的活动的有关信息。</SPAN></P></DIV>]]></data>
             </s>
         </t>
-        <t key="{BADCFCF2-31C0-4F7A-864D-7581AF8603BB}">
-            <title m="18/04/2008 14:59:27">生物安全信息交换所非正式咨询委员会</title>
-            <s key="BodyText">
-                <data m="18/04/2008 14:59:15"><![CDATA[<SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><B style="mso-bidi-font-weight: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">生物安全信息交换所非正式咨询委员会</SPAN></B><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">链接将用户带入<B style="mso-bidi-font-weight: normal"><SPAN style="COLOR: green">生物安全信息交换所非正式咨询委员会</SPAN></B>。</SPAN><FONT face=Arial><B><SPAN lang=ZH-CN style="FONT-SIZE: 13pt"> </SPAN></B><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p>&nbsp;</o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">生物安全信息交换所非正式咨询委员会为执行秘书提供有关解决生物安全信息交换所持续发展的技术问题的咨询意见。生物安全信息交换所非正式咨询委员会页面提供了该委员会会议文件和每一次会议成果概要。</SPAN></SPAN></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG src="images/MO03_0015.jpg" border=0></P>
-<P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-ascii-font-family: Arial">图</SPAN> 15</P>]]></data>
-            </s>
-        </t>
-        <t key="{40C9F44E-648A-41DF-A3B8-A1FCFE60777E}">
-            <title m="18/04/2008 15:26:35">政策</title>
-            <s key="BodyText">
-                <data m="18/04/2008 15:23:21"><![CDATA[<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: -14.2pt"><FONT size=3><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">政策</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">链接提供了有关在生物安全信息交换所网址上链接外部网址的信息、生物安全信息交换所隐私政策和免责声明。<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG src="images/MO03_0021.jpg" border=0></P>
-<P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-ascii-font-family: Arial; mso-bidi-language: AR-SA">图</SPAN> 21</P>]]></data>
-            </s>
-        </t>
         <t key="{61850662-D7B4-440F-8427-C144A7B4E697}">
             <title m="18/04/2008 15:09:44">最新添加纪录</title>
             <s key="BodyText">
@@ -3198,6 +3158,15 @@ style=
 <P class=MsoNormal align=center><IMG src="images/MO03_0018.jpg" align=middle border=0>&nbsp;</P>
 <P></P>
 <P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-ascii-font-family: Arial; mso-bidi-language: AR-SA">图</SPAN> 18</P>]]></data>
+            </s>
+        </t>
+        <t key="{40C9F44E-648A-41DF-A3B8-A1FCFE60777E}">
+            <title m="18/04/2008 15:26:35">政策</title>
+            <s key="BodyText">
+                <data m="18/04/2008 15:23:21"><![CDATA[<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt; TEXT-INDENT: -14.2pt"><FONT size=3><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><SPAN style="mso-tab-count: 1">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">政策</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">链接提供了有关在生物安全信息交换所网址上链接外部网址的信息、生物安全信息交换所隐私政策和免责声明。<?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></FONT></P>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><IMG src="images/MO03_0021.jpg" border=0></P>
+<P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-ascii-font-family: Arial; mso-bidi-language: AR-SA">图</SPAN> 21</P>]]></data>
             </s>
         </t>
         <t key="{EA6CCFBC-A393-46A7-9CB9-CD35B9F4C74B}">
@@ -3379,21 +3348,6 @@ style=
 <P class=MsoNormal><IMG src="images/MO03_0037.jpg" border=0></P>
 <P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-ascii-font-family: Arial; mso-bidi-language: AR-SA">图</SPAN> 37</P>
 <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'; mso-no-proof: yes"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t202 path="m,l,21600r21600,l21600,xe" o:spt="202" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:path o:connecttype="rect" gradientshapeok="t"></v:path></v:shapetype></SPAN><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">通过使用本节中提供的下拉式菜单</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">可以选择欲查询的年份并获得该年的报告副本</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">（</SPAN><SPAN lang=ES style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">PDF</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">格式</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">。</SPAN><SPAN lang=ZH-CN><FONT face=Arial> </FONT></SPAN></FONT><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{6B1F24F4-0E11-48C5-90DB-5F107BCD43B7}">
-            <title m="18/04/2008 16:17:57">查询信息</title>
-            <s key="BodyText">
-                <data m="18/04/2008 16:17:35"><![CDATA[<P class=MsoNormal><I></I></P>
-<P class=MsoNormal>URL: <A href="http://bch.cbd.int/database/" target=_blank>http://bch.cbd.int/database/</A></P>
-<P class=MsoNormal><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">在导航工具条上的<B>查询信息</B>下拉菜单中提供了生物安全信息交换所中央门户网站数据库中各种信息类型的链接。</SPAN></P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0039.jpg" border=0></P>
-<P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-ascii-font-family: Arial">图</SPAN> 39</P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">这一页面上列出的每一种信息类型均可链接到一个搜索界面</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">，</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">界面的设计将具体信息置于便于查询的最优位置。在搜索界面页也可通过使用</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">“</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">浏览所有记录条</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">”</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">键浏览任何一种信息类型。</SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0040.jpg" border=0></P>
-<P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-ascii-font-family: Arial">图</SPAN> 40</P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">生物安全信息交换所数据库中储存的数据类型和查询信息的具体说明详见模块</SPAN><SPAN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: EN-US">MO04</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">。</SPAN></FONT><SPAN style="FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>]]></data>
             </s>
         </t>
         <t key="{90E1CD59-8C7C-4AB1-B82B-FB9088BCDC04}">
@@ -4030,63 +3984,6 @@ align="left"><span style=
 <P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA; mso-ascii-font-family: Arial">图</SPAN> 8</P>
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">国家概况包含每一个国家的下列信息和现状</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">：</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">国家名</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">；</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">签署日期</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">；</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">批准日期</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">；</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">生效日期</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">；</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">概况修订</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">；</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">概况现状和概况上次更新日期。国家概况列出了登记的文件类型</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">（</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">如国家联络点、法律、规章或准则、风险评估等</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">），</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">并有查阅这些记录的超级链接。同时还显示每一种文件类型的纪录条数量以及最后一次更新日期</SPAN></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{2A20B51B-C53D-4E49-8AD2-0118EA6A7944}">
-            <title m="18/04/2008 17:46:46">对结果进行排列</title>
-            <s key="BodyText">
-                <data m="18/04/2008 17:46:18"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">欲改变对搜索结果的排列方式</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">用户可选择位于搜索结果页面上方的下拉菜单</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">（</SPAN><B style="mso-bidi-font-weight: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">搜索结果排列方式</SPAN></B><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">中的一个选项。所列出的备选排列方式只包括与用户开展的搜索类型有关的选项。</SPAN></FONT><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG src="images/MO03_0065.jpg" border=0></P>
-<P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">图</SPAN> 65</P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">可提供给用户的排列选项包括</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ES><FONT face=Arial> </FONT></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">国家</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">显示根据国家名字母顺序排列的搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">最近一次更新日期</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据添加或更新的日期显示搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">更新日期最近的纪录条排在首位</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">姓氏</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据人名或联络点的姓氏字母顺序排列搜索结果。</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">改性活生物体特性</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据引进特征或特点的字母顺序显示搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">；</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">欲得到引进特征的全部清单</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">参见用语汇编中的</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">“</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">改性活生物体特征</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">”</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">域。</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">基因名称：</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据嵌入基因名称的字母顺序显示搜索结果。</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">（</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">欲获得嵌入基因的完整清单和描述</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">参见基因登记库</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">生物体名称</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据亲本、受体或供体生物体名城的字母顺序显示搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">（</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">欲获得生物安全信息交换所中生物体的完整清单和描述</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">参见生物体登记库</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">机构名称</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据机构名称的字母顺序显示搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">（</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">机构可包括国家主管部门或生物安全机构</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">开始日期</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据能力建设项目或机会开始的日期显示搜索结果；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">主题</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据所涉及的专题领域</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">（</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">如改性活生物体类型、和拟议的用途</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">进行分类显示搜索结果；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">生物分类状况</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据生物体学名的字母顺序显示搜索结果；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">所用的工艺</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据引入改动所用的工艺的字母顺序显示搜索结果；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">标题</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据记录条的标题字母顺序显示搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">记录条类型</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据记录条类型的分类显示搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">；</SPAN><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><I style="mso-bidi-font-style: normal"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">独特识别码</SPAN></I><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">：</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">根据独特识别码的字母</SPAN><SPAN lang=ES style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">-</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">数字顺序显示搜索结果</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">；（</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">欲获得独特识别码的完整清单和描述</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">参见改性活生物体</SPAN><SPAN lang=ES style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">-</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">独特识别码登记库</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）；</SPAN></FONT><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><o:p></o:p></SPAN></P>
-<P class=MsoNormal align=center></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{F6287677-B9AE-44E7-B94F-1C6F44DB08A5}">
-            <title m="18/04/2008 17:47:33">将结果输出到XML</title>
-            <s key="BodyText">
-                <data m="18/04/2008 17:47:44"><![CDATA[<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">用户可使用<B>输出结果</B>功能</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">将生物安全信息交换所中央门户网站上的信息输出或下载到其他应用程序中。输出的信息以可扩展标记语言</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">（</SPAN><SPAN lang=ES style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">XML</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">）</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">格式提供</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">这是用于建立常规标记语言的通用目的技术要求。其主要目的是便于在不同系统之间共享数据</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun">，</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">特别是通过互联网连接在一起的系统。</SPAN><SPAN lang=ES><FONT face=Arial> </FONT></SPAN></FONT></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES style="FONT-FAMILY: 'Times New Roman'"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p><FONT size=3>&nbsp;</FONT></o:p></SPAN></P>
-<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">输出功能位于每一</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun"> </SPAN></FONT><SPAN class=BCHCentralPortalPageTitleChar><SPAN lang=ZH-CN style="FONT-SIZE: 14pt; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><STRONG><FONT color=#339966>搜索结果</FONT></STRONG></SPAN></SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><FONT size=3>页面和每一条记录的底部。用户可选择<B style="mso-bidi-font-weight: normal">输出结果</B>功能输出单个纪录条或数据库搜索的结果。这些结果可输入到另一个程序，如文字处理程序或数据表格中。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US"><o:p></o:p></SPAN></P>
-<P class=MsoNormal>&nbsp;</P>
-<DIV class=Section1>
-<P class=MsoNormal>&nbsp;<IMG src="images/MO03_0066.jpg" border=0></P>
-<P class=MsoNormal align=center><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; LAYOUT-GRID-MODE: line; FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ES; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">图</SPAN> 66</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{22A0193C-1F98-467A-953D-50636A530D84}">
-            <title m="18/04/2008 14:28:09">生物安全信息交换所</title>
-            <s key="BodyText">
-                <data m="18/04/2008 14:27:52"><![CDATA[<P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><FONT size=3>本部分提供有关生物安全信息交换所中央门户网站的建立和运营的信息。</FONT></SPAN><SPAN style="FONT-FAMILY: 'Times New Roman'; mso-ansi-language: EN-US"><?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /><o:p></o:p></SPAN></P>]]></data>
             </s>
         </t>
         <t key="{A9FD2304-CBFD-4A04-B93F-DB5ABE442954}">
@@ -5523,12 +5420,6 @@ style="mso-ansi-language: EN-GB; mso-fareast-language: ZH-CN">
 <LI class=MsoNormal style="MARGIN: 0cm 0cm 0pt; mso-list: l2 level1 lfo3; tab-stops: list 36.0pt"><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-fareast-language: ZH-CN; mso-ansi-language: EN-GB; mso-font-kerning: 11.0pt">必须向</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-fareast-language: ZH-CN">生物安全信息交换所提供的各种信息类型；</SPAN><SPAN lang=EN-GB style="mso-ansi-language: EN-GB; mso-font-kerning: 11.0pt"><o:p></o:p></SPAN></FONT></LI>
 <LI class=MsoNormal style="MARGIN: 0cm 0cm 0pt; mso-list: l2 level1 lfo3; tab-stops: list 36.0pt"><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-fareast-language: ZH-CN; mso-ansi-language: EN-GB; mso-font-kerning: 11.0pt">可通过</SPAN><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-fareast-language: ZH-CN">生物安全信息交换所获得的各种信息类型</SPAN><SPAN lang=EN-GB style="mso-ansi-language: EN-GB; mso-font-kerning: 11.0pt"><o:p></o:p></SPAN></FONT></LI></UL></UL></UL>
 <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=EN-GB style="mso-ansi-language: EN-GB; mso-font-kerning: 11.0pt"><o:p><FONT face=Arial size=3>&nbsp;</FONT></o:p></SPAN></P><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-fareast-language: ZH-CN; mso-bidi-font-family: Arial; mso-ansi-language: EN-US; mso-bidi-language: AR-SA; mso-bidi-font-weight: bold">本模块讲解了所涉及的决策和通报程序，描述了可在</SPAN><SPAN lang=ZH-CN style="FONT-SIZE: 12pt; FONT-FAMILY: SimSun; mso-ascii-font-family: Arial; mso-hansi-font-family: Arial; mso-fareast-language: ZH-CN; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-bidi-language: AR-SA">生物安全信息交换所查到的不同信息类型，以及在议定书下的义务和机会。本节还鼓励非缔约方向生物安全信息交换所提供信息。</SPAN>]]></data>
-            </s>
-        </t>
-        <t key="{D0B3E7F0-4ABD-4943-8DF8-0BD7B38F6897}">
-            <title m="15/04/2008 11:02:45">生物安全信息交换所 – 定义和背景</title>
-            <s key="BodyText">
-                <data m="28/04/2008 09:48:49"><![CDATA[<DIV class=Section1><SPAN lang=ZH-CN style="FONT-SIZE: 11pt; LINE-HEIGHT: 115%; FONT-FAMILY: SimSun; mso-ascii-font-family: 'Book Antiqua'; mso-hansi-font-family: 'Book Antiqua'; mso-ansi-language: EN-GB; mso-fareast-language: ZH-CN; mso-bidi-font-family: 'Times New Roman'; mso-bidi-language: AR-SA">该部分解说生物安全信息交换所及其背景。</SPAN></DIV>]]></data>
             </s>
         </t>
         <t key="{1CAAB988-36EF-48B0-9F59-A7A516534C72}">
@@ -9401,35 +9292,388 @@ size="3">&nbsp;</font></span></p>
 &nbsp;</p>]]></data>
             </s>
         </t>
+        <t key="{7D3E554B-FD96-44EB-9D4D-72287354DF2F}">
+            <title m="11/07/2008 10:04:40">Cover</title>
+            <s key="BodyText">
+                <data m="28/07/2008 14:15:48"><![CDATA[<P><SPAN lang=ES style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: ES; mso-fareast-font-family: 'Times New Roman'; mso-bidi-language: AR-SA">&nbsp;<IMG style="WIDTH: 651px; HEIGHT: 69px" height=88 alt="" src="images/covertitle.JPG" align=right border=0></SPAN></P>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-fareast-language: ZH-CN; mso-ascii-font-family: Arial"><FONT size=6>卡塔赫纳生物安全议定书简介</FONT></SPAN><SPAN lang=EN-GB style="mso-fareast-language: ZH-CN; mso-fareast-font-family: SimSun"> </SPAN></FONT></SPAN></P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB>2008年7月</SPAN></P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB>&nbsp;</SPAN></P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB>&nbsp;</SPAN></P><?xml:namespace prefix = innovasys /><innovasys:widget layout="block" type="Include Topic"><innovasys:widgetproperty layout="inline" name="Topic">Disclaimer</innovasys:widgetproperty> </innovasys:widget>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>]]></data>
+            </s>
+        </t>
+        <t key="{3D5EF118-3656-4E46-851F-744CEAB45CB1}">
+            <title m="19/02/2010 14:46:12">Help on Help</title>
+            <s key="BodyText">
+                <data m="19/02/2010 14:45:33"><![CDATA[<p><span lang="EN-GB">This Online Help System was designed to provide help on
+the usage of the BCH Central Portal. The help topics are available for reading
+online and also for download in the form of Training Modules (<a href=
+"https://bch.cbd.int/help/topics/en/webframe.html?Training_Modules.html">https://bch.cbd.int/help/topics/en/webframe.html?Training_Modules.html</a>).</span>&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">The information managed in the Online
+Help System is divided into minimum parts called help topics. This is a
+Context-Sensitive help system, which means that BCH pages are linked to help
+topics so that when the BCH user needs help on BCH pages, he or she is directed
+to a relevant help topic according to the context (web page) in which he or she
+was navigating in the BCH. To access the context-sensitive help of a web page
+click on the question mark&nbsp;<img alt="Question Icon" src=
+"images/Question_icon.bmp" border="0"></span><span lang="EN-GB">&nbsp;located
+at the top right-hand side of the screen.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">The recommended screen setting for this
+Help System is <b>1024x768 pixels or higher</b>. This Help System has been
+tested and supports internet browsers Mozilla Firefox and Internet
+Explorer.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">In the picture below it is shown the
+main page of the Online Help System.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><img alt="Figure 1" src="images/HelpOnHelp_0001_en.jpg"
+border="0"></p>
+<p class="MsoNormal"><span lang=
+"EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Figure</span> <span lang="EN-GB">1</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">The components depicted in the figure
+are as following:</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<div class="Section1">
+    <ol>
+        <li>
+            <div class="MsoNormal">
+                <b><span lang="EN-GB">BCH Logo:</span></b> <span lang=
+                "EN-GB">clicking on this logo points the browser to the BCH
+                Central Portal home page.</span>
+            </div>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b><span lang="EN-GB">Language bar</span></b><span lang=
+                "EN-GB">: this bar provides links to access the Online Help
+                System in each of the six official UN languages.</span>
+            </div>
+            <p class="MsoNormal">&nbsp;<span lang="EN-GB"><img style=
+            "MARGIN-LEFT: -25pt" alt="Figure 2" src=
+            "images/HelpOnHelp_0002_en.jpg" border="0"></span></p>
+            <p class="MsoNormal"><span lang=
+            "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Figure 2</span></p>
+        </li>
+        <li>
+            <p class="MsoNormal"><b><span lang="EN-GB">Navigation
+            bar</span></b><span lang="EN-GB">:</span></p>
+            <p class="MsoNormal">&nbsp;<img style="MARGIN-LEFT: -25pt" alt=
+            "Figure 3" src="images/HelpOnHelp_0003_en.jpg" border="0"></p>
+            <p class="MsoNormal"><span lang=
+            "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure</span>
+            3</p>
+            <p class="MsoNormal">&nbsp;</p>
+            <ol>
+                <li>
+                    <div class="MsoNormal">
+                        <b><span lang="EN-GB">Hide
+                        Navigation</span></b><span lang="EN-GB">: by clicking
+                        on this icon the user can choose the navigation area
+                        (described in point 3) to be visible or not. If it is
+                        currently visible, one click on the icon will make it
+                        disappear. Another click will make it visible
+                        again.</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b><span lang="EN-GB">Add to
+                        Favorites</span></b><span lang="EN-GB">: through this
+                        link the user can add topics to the list of favorite
+                        topics. Links to these topics will appear in the
+                        <b>Favorites</b> section of the navigation area. This
+                        feature is very useful to manage in one place those
+                        topics which the user reads most frequently, without
+                        the need to look them up in the table of contents, the
+                        index or the search section. You must take into account
+                        that, in order to remember the topics that you have
+                        selected as favo</span>rites, you must have the cookies
+                        enabled.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Print topic</b>: click on this icon to print the
+                        topic displayed in the information pane.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Quick Search</b>: to search for parts of words or
+                        whole words in the topic shown in the information pane,
+                        you may enter the text in the text area and then click
+                        on the search icon. The text you searched for will
+                        appear highlighted every time it is found in the topic
+                        title, the path and the information pane.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Clear Search</b>: by clicking on this icon you can
+                        clear the highlights placed on the text by a previous
+                        use of the Quick Search feature. Notice that the text
+                        that you entered in the text area will remain there, in
+                        case you want to redo the search.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Back/Forward</b>: while you are navigating through
+                        the topics, the Online Help System will remember the
+                        order in which you visited them and allow you to move
+                        back and forward through the pages. This way you can
+                        easily access the topics you are working with, without
+                        having to look for them again in the table of contents,
+                        the index or the search section.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Refresh</b>: by clicking on this icon the user can
+                        refresh the topic as if you entered the page for the
+                        first time. Please notice that if a search had been
+                        made, the highlighted text will be cleared.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Home</b>: this icon changes the current page to the
+                        home page, corresponding to the “BCH Central Portal
+                        Online Help” topic which is the first entry in the
+                        table of contents.
+                    </div>
+                </li>
+            </ol>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Navigation area</b>: the navigation area provides different
+                ways of accessing the topics contained in the Online Help
+                System. The way in which topics are looked for depends on the
+                selected section. The possible sections are:&nbsp;
+            </div>
+            <ol>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Table of Contents</b>: by selecting the table of
+                        contents, the help topics will be shown in the
+                        navigation area hierarchically arranged. The user can
+                        navigate through the topic hierarchy as wanted; this
+                        way the navigation turns very intuitive as the user
+                        looks into organized information. Clicking on a topic
+                        will load the topic’s content in the information pane
+                        and display its subtopics, if any, in the table of
+                        contents. The topic which content is currently
+                        displayed in the information pane appears highlighted
+                        in green in the table of contents.&nbsp;Note that some
+                        entries in the table of contents are not linked to
+                        topics, but simply intended to organize other topics in
+                        the hierarchy. Clicking those entries will display the
+                        subtopics under that entry but will not show any
+                        content in the information pane nor will it change the
+                        green highlight.&nbsp;
+                    </div>
+                    <p class="MsoNormal">&nbsp;</p>
+                    <p class="MsoNormal"><img style="MARGIN-LEFT: -50pt" alt=
+                    "Figure 4" src="images/HelpOnHelp_0004_en.jpg" border=
+                    "0"></p>
+                    <p class="MsoNormal"><span lang="EN-GB">&nbsp;
+                    Figure</span> 4</p>
+                    <p class="MsoNormal">&nbsp;</p>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Index</b>: when the index section is selected,
+                        appears a list with every topic contained in the Online
+                        Help System is displayed in the navigation area,
+                        ordered alphabetically. The user can then open the
+                        contents of a topic by clicking on the index entry that
+                        corresponds to the topic’s name. This navigation option
+                        is very useful if you are looking for a topic whose
+                        name you already know. Otherwise, it is recommended to
+                        navigate the topics through the table of contents.
+                    </div>
+                    <p class="MsoNormal">&nbsp;</p>
+                    <p class="MsoNormal"><img style="MARGIN-LEFT: -50pt" alt=
+                    "Figure 5" src="images/HelpOnHelp_0005_en.jpg" border=
+                    "0"></p>
+                    <p class="MsoNormal"><span lang="EN-GB">&nbsp;
+                    Figure</span> 5</p>
+                    <p class="MsoNormal">&nbsp;</p>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Search</b>: with this feature the user can search in
+                        the topics’ content for keywords. It is possible to use
+                        one keyword or combination of keywords linked by OR or
+                        AND connectors. Once the user has entered the keywords
+                        and clicked on the <b><span class=
+                        "Button">Search</span></b> button, a list of the topics
+                        which contain that combination of words will appear in
+                        the navigation area.&nbsp;For example, Searching for
+                        “organism OR gene” will display all topics found
+                        containing at least one of the two words, while
+                        searching for “organism AND gene” will display all
+                        topics found containing both words.
+                    </div>
+                    <p class="MsoListParagraph" style="MARGIN-LEFT: 72pt">
+                    &nbsp;</p>
+                    <p class="MsoNormal">&nbsp;<img style="MARGIN-LEFT: -50pt"
+                    alt="Figure 6" src="images/HelpOnHelp_0006_en.jpg" border=
+                    "0"></p>
+                    <p class="MsoNormal"><span lang=
+                    "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure</span> 6</p>
+                    <p class="MsoNormal">&nbsp;</p>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Favorites</b>: the Online Help System offers the
+                        user the possibility of maintaining a list of favorite
+                        topics. Direct links to those topics will be kept in
+                        the navigation area when you select the Favorites
+                        section. Please take into account that for remembering
+                        and seeing the favorite links you have selected in a
+                        previous session you need to have the cookies enabled.
+                        Moreover, next to each of the links to favorite topics
+                        you will see a red cross. By clicking on that cross you
+                        can remove the corresponding link from the list.
+                    </div>
+                </li>
+            </ol>
+            <p class="MsoListParagraphCxSpLast" style="MARGIN-LEFT: 72pt">
+            &nbsp;</p>
+            <p class="MsoNormal">&nbsp;<img style="MARGIN-LEFT: -20pt" alt=
+            "Figure 7" src="images/HelpOnHelp_0007_en.jpg" border="0"></p>
+            <p class="MsoNormal"><span lang=
+            "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Figure</span> 7</p>
+            <p class="MsoNormal">&nbsp;&nbsp;</p>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Title bar</b>: in this bar the user will see, first of all,
+                the main title of the Online Help System (<b>BCH Central Portal
+                Online Help</b>). The second line displays the name of the
+                topic currently shown in the information pane. If the topic
+                contains links to other topics in its “see also” section, a
+                third line is shown providing a link to that section of the
+                topic.
+            </div>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Path</b>: this bar shows the current position in the global
+                hierarchy of the Online Help System, composed by the path in
+                the table of contents to reach the current topic. Besides, a
+                link to each of the intermediate entries is provided.
+            </div>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Information pane</b>: in this pane it is shown the content
+                of the topic currently selected. At the bottom it may include a
+                list of see also links for further reading on related
+                topics.&nbsp;&nbsp;
+            </div>
+        </li>
+    </ol>
+</div>]]></data>
+            </s>
+        </t>
     </topics>
     <glossaryitems/>
     <nodes>
         <n key="{64325765-7609-4DE9-89A2-41E74E901DC9}">
             <ct m="28/04/2008 09:25:22">生物安全信息交换所中央门户网站</ct>
         </n>
-        <n key="{58740A2D-8730-4067-8558-B0495B109EA1}">
-            <ct m="28/04/2008 09:57:46">查询信息</ct>
-        </n>
     </nodes>
     <manifests>
         <manifest k="{D9A26255-732F-41FE-BEC6-D53AAB7CA036}">
             <title m="10/07/2008 13:49:40">卡塔赫纳生物安全议定书简介</title>
             <headerhtml m="10/07/2008 13:49:57"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="28/07/2008 14:36:18"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">联合国环境规划署-全球环境基金 生物安全信息交换所项目</div>]]></footerhtml>
+            <footerhtml m="19/02/2010 11:59:38"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="10/07/2008 13:50:06"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="10/07/2008 13:50:58">环境署-全球环境基金</creator>
         </manifest>
         <manifest k="{6A87D3C8-8BFE-4A81-926D-98A7DB5518D8}">
             <title m="10/07/2008 13:49:40">卡塔赫纳生物安全议定书简介</title>
             <headerhtml m="10/07/2008 13:49:57"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="23/07/2008 14:54:57"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">联合国环境规划署-全球环境基金 生物安全信息交换所项目</div>]]></footerhtml>
+            <footerhtml m="17/02/2010 11:27:15"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="10/07/2008 13:50:06"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="10/07/2008 13:50:58">环境署-全球环境基金</creator>
         </manifest>
         <manifest k="{69848052-7686-4BE2-BB2E-19E9059EC004}">
             <title m="15/07/2008 14:18:25">如何浏览生物安全信息交换所中央门户网站</title>
             <headerhtml m="10/07/2008 13:49:57"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="28/07/2008 14:52:21"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">联合国环境规划署-全球环境基金 生物安全信息交换所项目</div>]]></footerhtml>
+            <footerhtml m="17/02/2010 11:28:19"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="10/07/2008 13:50:06"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="10/07/2008 13:50:58">环境署-全球环境基金</creator>
             <templateproperty name="TableOfContentsCaption">
@@ -9456,7 +9700,7 @@ size="3">&nbsp;</font></span></p>
         <manifest k="{4567DB12-E3E6-426D-AC46-6A38A0790332}">
             <title m="10/07/2008 13:49:40">卡塔赫纳生物安全议定书简介</title>
             <headerhtml m="10/07/2008 13:49:57"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="28/07/2008 17:04:02"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">联合国环境规划署-全球环境基金 生物安全信息交换所项目</div>]]></footerhtml>
+            <footerhtml m="16/03/2010 12:46:06"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="10/07/2008 13:50:06"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="10/07/2008 13:50:58">环境署-全球环境基金</creator>
         </manifest>
@@ -9488,24 +9732,20 @@ size="3">&nbsp;</font></span></p>
         </BuildProfile>
     </buildprofiles>
     <tpv name="CopyrightNotice">
-        <pv m="28/04/2008 10:28:40"><![CDATA[<P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>复制</b></span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        只要注明出处，本文内容可以全部或部分并以任何形式复制用于教育或非营利目的，无需得到版权持有者的特别许可。若在本文内容基础上制作任何出版物，环境署希望能收到一份副本。未经环境署事先书面许可，本文内容不得用于再销售或任何其他商业目的。不允许将本网址上涉及专利产品的信息用于宣传或广告。</span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>免责声明</b></span></FONT></p> <br><br><P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        本网址上的内容和表达的观点不一定反映供稿机构或联合国环境署（环境署）的观点或政策，也不意味着任何认可。本网址上所用的指示和材料展示完全不代表环境署对任何国家、地区或城市及其当局的法律地位、或有关其边境和边界划分的任何意见表述。内容中提及一个商业公司或产品不意味着环境署认可该公司或产品。</span></FONT></p>]]></pv>
+        <pv m="28/04/2008 10:28:40"><![CDATA[<P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>复制</b></span></FONT></p> <br>
+<br>
+<P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        只要注明出处，本文内容可以全部或部分并以任何形式复制用于教育或非营利目的，无需得到版权持有者的特别许可。若在本文内容基础上制作任何出版物，环境署希望能收到一份副本。未经环境署事先书面许可，本文内容不得用于再销售或任何其他商业目的。不允许将本网址上涉及专利产品的信息用于宣传或广告。
+</span></FONT></p> <br>
+<br>
+<P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN"><b>免责声明</b></span></FONT></p> <br>
+<br>
+<P class=MsoNormal><FONT size=3><SPAN lang=ZH-CN style="FONT-FAMILY: SimSun; mso-hansi-font-family: Arial; mso-bidi-font-family: SimSun; mso-ansi-language: ZH-CN">        本网址上的内容和表达的观点不一定反映供稿机构或联合国环境署（环境署）的观点或政策，也不意味着任何认可。本网址上所用的指示和材料展示完全不代表环境署对任何国家、地区或城市及其当局的法律地位、或有关其边境和边界划分的任何意见表述。内容中提及一个商业公司或产品不意味着环境署认可该公司或产品。</span></FONT></p>
+]]></pv>
     </tpv>
     <tpv name="NonScrollingPageFooter">
         <pv m="28/04/2008 10:24:22">版权 2008 环境署-全球环境基金</pv>
     </tpv>
-    <tpv name="GEFLogoPath">
-        <pv m="30/04/2008 14:10:13"><![CDATA[<img src="images/gefen.png">]]></pv>
-    </tpv>
-    <tpv name="SCBDLogoPath">
-        <pv m="30/04/2008 14:10:26"><![CDATA[<img src="images/scbden.png">]]></pv>
-    </tpv>
-    <tpv name="UNEPLogoPath">
-        <pv m="30/04/2008 14:10:48"><![CDATA[<img src="images/unepen.png">]]></pv>
-    </tpv>
     <tpv name="BCHLogoPath">
         <pv m="02/05/2008 10:12:05"><![CDATA[<img src="images/bchen.jpg">]]></pv>
-    </tpv>
-    <tpv name="LanguageDirectories">
-        <pv m="09/05/2008 19:38:38">ar,zh,en,fr,ru,es</pv>
     </tpv>
 </HSProjectLocalization>

@@ -78,8 +78,79 @@ function documentElement(id)
     return document.getElementById(id);
 }
 
-/* End: General Utility Functions */
+function sourceElement(e)
+{
+    if (window.event)
+    {
+        e = window.event;
+    }
 
+    return e.srcElement? e.srcElement : e.target;
+}
+    
+/* Return Microsoft Internet Explorer (major) version number, or 0 for others. */
+function msieversion()
+{
+    var ua = window.navigator.userAgent;
+    var msie = ua.indexOf ( "MSIE " );
+
+    if ( msie > 0 ) // is Microsoft Internet Explorer; return version number
+    {
+        return parseInt ( ua.substring ( msie+5, ua.indexOf ( ".", msie ) ) );
+    }
+    else
+    {
+        return 0;    // is other browser
+    }
+}   
+
+/* Returns true if the passed element is currently in view */
+function InView(element,margin) {
+  if(!margin) margin=0;
+  var Top=GetTop(element), ScrollTop=GetScrollTop();
+  return !(Top<ScrollTop+margin||
+    Top>ScrollTop+GetWindowHeight()-element.offsetHeight-margin);
+}
+
+/* Scrolls to ensure the passed element is currently in view */
+function ScrollIntoView(element,bAlignTop,margin) {
+  if(!margin) margin=0;
+  var posY=GetTop(element);
+  if(bAlignTop) posY-=margin;
+  else posY+=element.offsetHeight+margin-GetWindowHeight();
+  window.scrollTo(0, posY);
+}
+
+function GetWindowHeight() {
+  return window.innerHeight||
+    document.documentElement&&document.documentElement.clientHeight||
+    document.body.clientHeight||0;
+}
+
+function GetScrollTop() {
+  return window.pageYOffset||
+    document.documentElement&&document.documentElement.scrollTop||
+    document.body.scrollTop||0;
+}
+
+function GetTop(element) {
+    var pos=0;
+    do pos+=element.offsetTop
+    while(element=element.offsetParent);
+    return pos;
+}
+
+function findParentTagByName(e,tagName)
+{
+    if (!e)
+        return;
+    else if (e.tagName === tagName)
+        return e;    
+    else
+        return findParentTagByName(e.parent,tagName);                      
+}
+
+/* End: General Utility Functions */
 
 /* End: Frame helpers */
 
@@ -119,7 +190,7 @@ function frameContainer()
 
 function contentDocument()
 {
-    return findFrame("webcontent");
+    return findFrame("webcontent").document;
 }
 
 /* End: Frame helpers */

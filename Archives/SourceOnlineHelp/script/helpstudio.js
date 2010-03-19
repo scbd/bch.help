@@ -279,6 +279,26 @@ function bodyLoadCommonBefore()
     window.onunload = windowUnload;
 }
 
+function findFrame(Name)
+{
+    var frameObject = parent.frames[Name];
+    if((!frameObject) && parent.parent)
+    {
+        frameObject = parent.parent.frames[Name];
+    }
+    return frameObject;
+}
+
+function tocDocument()
+{
+    try
+    {
+        return findFrame("webnavbar").document.getElementById("cntNavtoc");
+    } catch(e) {}
+}
+
+
+
 /* Called after custom body load script */
 function bodyLoadCommonAfter()
 {
@@ -287,6 +307,27 @@ function bodyLoadCommonAfter()
 
     // make body visible, now that we're ready to render
     document.body.style.visibility = "visible";
+	
+	// if this is web output, sync the TOC
+    syncToc();    
+}
+
+/* Synchronize the web Table of Contents */
+function syncToc()
+{
+    try
+    {
+        var tocDoc = tocDocument();
+    } catch(e) {}
+    
+    if (tocDoc)
+    {
+        try
+        {
+            tocDoc.contentWindow.pageLoaded(location.href);
+        } catch(e) { setTimeout('syncToc();',500); }
+    }
+
 }
 
 /* Saves the scroll position */

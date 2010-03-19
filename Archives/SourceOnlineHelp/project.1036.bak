@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1036" Version="3.0.214" SaveDateTime="26/09/2008 17:24:21" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
+<HSProjectLocalization LocaleId="1036" Version="3.0.200" SaveDateTime="19/03/2010 13:23:29" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -871,16 +871,6 @@
 <P class=Illustrationinstructions align=center>Figure 125</P></DIV>]]></data>
             </s>
         </t>
-        <t key="{C2975CD6-0F1B-4A48-9E97-AC3AE42CA4EE}">
-            <title m="27/05/2008 09:56:59">Registres des OVM, des Gènes et des Organismes</title>
-            <s key="BodyText">
-                <data m="27/05/2008 09:57:42"><![CDATA[<P class=Section><A name=_Toc196493805></A>URL:&nbsp;<A href="http://bch.cbd.int/database/organisms/uniqueidentifiers/default.shtml" target=_blank>http://bch.cbd.int/database/organisms/uniqueidentifiers/default.shtml</A></P>
-<P class=MsoNormal>URL: <A href="http://bch.cbd.int/database/organisms/organismslist.shtml" target=_blank>http://bch.cbd.int/database/organisms/organismslist.shtml</A></P>
-<P class=MsoNormal>URL: <A href="http://bch.cbd.int/database/organisms/genes/default.shtml" target=_blank>http://bch.cbd.int/database/organisms/genes/default.shtml</A></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=FR>L’utilisation de ces registres est discutée dans la section 2.4.</SPAN></P>]]></data>
-            </s>
-        </t>
         <t key="{5795C58F-7223-4CE3-9C96-E8448A168036}">
             <title m="06/03/2008 10:02:56">Recherche utilisant l’identification de l’enregistrement</title>
             <s key="BodyText">
@@ -1097,14 +1087,6 @@ l’information sur des visiteurs du Portail Central du CEPRB.</span></span></p>
 <p class="MsoNormal" align="center">Figure 23</p>]]></data>
             </s>
         </t>
-        <t key="{8A66CA2D-D4B0-46F4-A10B-00C795677C16}">
-            <title m="05/03/2008 10:19:15">Bienvenue au Portail Central du CEPRB</title>
-            <s key="BodyText">
-                <data m="23/07/2008 12:47:57"><![CDATA[<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>La page de </SPAN><SPAN class=BCHCentralPortal lang=FR>Bienvenue au Portail Central du CEPRB</SPAN><SPAN lang=FR> du Portail Central du CEPRB a une zone de bienvenue qui introduit brièvement le CEPRB, fournit un lien rapide vers le Centre de Gestion et fournit des informations sur des faits saillants tels que les dernières nouvelles sur le Portail Central du CEPRB et les additions les plus récentes aux bases de donnés.</SPAN></SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG alt="Figure 2" src="images/MO03_0002.JPG" border=0></P>
-<P class=MsoNormal align=center>&nbsp;Figure 2</P>]]></data>
-            </s>
-        </t>
         <t key="{298B8DF0-0F25-4CD7-9622-AC3B43D899C7}">
             <title m="05/03/2008 10:26:58">À propos du CEPRB</title>
             <s key="BodyText">
@@ -1207,27 +1189,6 @@ et &nbsp;les activités possibles pour chaque élément du programme tel que
 décidé par la CP-RP.</span></p>]]></data>
             </s>
         </t>
-        <t key="{BADCFCF2-31C0-4F7A-864D-7581AF8603BB}">
-            <title m="26/05/2008 11:42:26">CCI-CEPRB</title>
-            <s key="BodyText">
-                <data m="26/05/2008 11:43:10"><![CDATA[<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>Le lien du <B>CCI du CEPRB</B> conduit l’utilisateur vers le</SPAN> <SPAN class=BCHCentralPortal lang=FR>Comité Consultatif Informel du CEPRB</SPAN><SPAN lang=FR>.</SPAN></SPAN></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0015.jpg" border=0></P>
-<P class=MsoNormal align=center>&nbsp;Figure 15</P>
-<P class=MsoNormal align=left><SPAN lang=FR>Le Comité Consultatif Informel du CEPRB éclaire le Secrétaire Exécutif en ce qui concerne la résolution des questions techniques liées au développement continu du Centre d’Echanges pour la Prévention des Risques Biotechnologiques. La page du CCI-CEPRB donne les informations relatives au CCI, les documents des réunions et les résumés des résultats de chaque réunion.</SPAN></P>]]></data>
-            </s>
-        </t>
-        <t key="{40C9F44E-648A-41DF-A3B8-A1FCFE60777E}">
-            <title m="05/03/2008 12:31:10">Politiques</title>
-            <s key="BodyText">
-                <data m="26/05/2008 10:00:11"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>La section des </SPAN><SPAN class=SubjectSectionChar><SPAN lang=FR>Politiques </SPAN></SPAN><SPAN lang=FR>fournit des liens vers des informations sur la liaison de sites Web externes au CEPRB, la confidentialité du CEPRB et la limitation de responsabilité.</SPAN><BR></SPAN>&nbsp;</P></DIV>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG src="images/MO03_0021.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 21</P>]]></data>
-            </s>
-        </t>
         <t key="{61850662-D7B4-440F-8427-C144A7B4E697}">
             <title m="05/03/2008 15:00:13">Additions les plus récentes</title>
             <s key="BodyText">
@@ -1244,6 +1205,16 @@ d’identification</b> conduit l’utilisateur vers la page du registre.</span><
 <p class="MsoNormal" align="center"><img alt="" src="images/MO03_0018.jpg"
 align="middle" border="0">&nbsp;</p>
 <p class="MsoNormal" align="center">Figure 18</p>]]></data>
+            </s>
+        </t>
+        <t key="{40C9F44E-648A-41DF-A3B8-A1FCFE60777E}">
+            <title m="05/03/2008 12:31:10">Politiques</title>
+            <s key="BodyText">
+                <data m="26/05/2008 10:00:11"><![CDATA[<DIV class=Section1>
+<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>La section des </SPAN><SPAN class=SubjectSectionChar><SPAN lang=FR>Politiques </SPAN></SPAN><SPAN lang=FR>fournit des liens vers des informations sur la liaison de sites Web externes au CEPRB, la confidentialité du CEPRB et la limitation de responsabilité.</SPAN><BR></SPAN>&nbsp;</P></DIV>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><IMG src="images/MO03_0021.jpg" border=0></P>
+<P class=MsoNormal align=center>Figure 21</P>]]></data>
             </s>
         </t>
         <t key="{EA6CCFBC-A393-46A7-9CB9-CD35B9F4C74B}">
@@ -1497,21 +1468,6 @@ omissions à la connaissance du Secrétariat.&nbsp;</span>&nbsp;</span></p>
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal><IMG alt="" src="images/MO03_0037.jpg" border=0></P>
 <P class=MsoNormal align=center>Figure 37</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{6B1F24F4-0E11-48C5-90DB-5F107BCD43B7}">
-            <title m="05/03/2008 10:45:31">Trouver l’information</title>
-            <s key="BodyText">
-                <data m="26/05/2008 09:44:19"><![CDATA[<P class=MsoNormal><I></I></P>
-<P class=MsoNormal><A href="http://bch.cbd.int/database/" target=_blank>URL:http://bch.cbd.int/database/</A></P>
-<P class=MsoNormal><SPAN lang=FR>Les liens vers des catégories d’information dans les bases de données du Portail Central du CEPRB sont fournies dans le menu déroulant <B>Trouver l’information</B> sur la barre de navigation. </SPAN></P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0039.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 39</P>
-<P class=MsoNormal align=left><SPAN lang=FR>Chaque catégorie donnée dans cette page est reliée à une interface de recherche conçue pour optimiser le repérage d’information spécifique. De la page de l’interface de recherche, il est également possible de parcourir toutes les entrées à n’importe laquelle des catégories en utilisant le bouton ‘Parcourir tous les enregistrements&nbsp;».</SPAN></P><SPAN lang=FR>
-<P class=MsoNormal><SPAN lang=FR></SPAN></P>
-<P class=MsoNormal></SPAN>&nbsp;<IMG alt="" src="images/MO03_0040.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 40</P>
-<P class=MsoNormal align=left><SPAN lang=FR>Les types de données stockées dans les bases de données du CEPRB et les instructions pour trouver l'information sont détaillés au Module MO04.</SPAN></P>]]></data>
             </s>
         </t>
         <t key="{90E1CD59-8C7C-4AB1-B82B-FB9088BCDC04}">
@@ -1856,7 +1812,7 @@ omissions à la connaissance du Secrétariat.&nbsp;</span>&nbsp;</span></p>
             </s>
         </t>
         <t key="{C2D2AF3D-61C8-4BC3-9F19-E8C987703657}">
-            <title m="26/05/2008 09:18:04">Les « Profils des Pays »</title>
+            <title m="11/02/2010 10:55:41">Profils des Pays</title>
             <s key="BodyText">
                 <data m="30/05/2008 10:34:26"><![CDATA[<DIV class=Section1>
 <P class=MsoNormal style="MARGIN: 0cm 0cm 0pt"><SPAN lang=ES>URL: <A href="http://bch.cbd.int/" target=_blank>http://bch.cbd.int/</A></SPAN></P>
@@ -1868,82 +1824,6 @@ omissions à la connaissance du Secrétariat.&nbsp;</span>&nbsp;</span></p>
 <P class=MsoNormal align=center>Figure 8</P>
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>Les profils des pays contiennent les informations et le statut de chaque pays comme suit&nbsp;: le Pays, la Date de signature, la Date de ratification&nbsp;; la Date d’entrée en vigueur&nbsp;; la révision du Profil&nbsp;; l’état du profil et la dernière mise à jour du profil.&nbsp;&nbsp;Ils donnent une liste des types de documents enregistrés (par exemple&nbsp;: Correspondant National, Loi, réglementation ou directive, évaluation des risques, etc.) avec des&nbsp; liens hypertextes pour accéder à ces enregistrements. Le nombre d’enregistrements pour chaque type de document est indiqué ainsi que la date de sa dernière mise à jour.</SPAN></SPAN></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{2A20B51B-C53D-4E49-8AD2-0118EA6A7944}">
-            <title m="05/03/2008 14:40:00">Classer les résultats</title>
-            <s key="BodyText">
-                <data m="26/05/2008 11:33:42"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>Pour changer la façon dont les résultats d’une recherche sont classés, l’utilisateur peut sélectionner l’une des options du menu déroulant <B>Classer les résultat par</B> qui figurent en haut de toute page de recherche des résultats. La liste des options comprendra seulement les options pertinentes pour le type de recherche faite par l’utilisateur.</SPAN></SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0065.jpg" border=0></P>
-<P class=MsoNormal align=center>&nbsp;Figure 65</P>
-<P class=MsoNormal><BR>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=FR>Les options de classement qui peuvent être disponibles aux utilisateurs sont les suivantes&nbsp;:</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal style="MARGIN-RIGHT: -6.8pt"><SPAN class=WordSearchChar><SPAN lang=FR><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=FR>Pays</SPAN></SPAN><SPAN lang=FR>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=FR> Affiche les résultats de la recherche alphabétiquement par nom du pays ;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=FR><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=FR>Date de la dernière mise à jour</SPAN></SPAN><SPAN lang=FR>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=FR> Affiche les résultats de la recherche selon la date d’addition ou de mise à jour, mettant les registres modifiés plus récemment en premier lieu&nbsp;;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=FR><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=FR>Nom de famille</SPAN></SPAN><SPAN lang=FR>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=FR> Affiche les résultats de la recherche alphabétiquement selon le nom de famille de la personne ou point de contact ;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=FR><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=FR>Trait d’OVM</SPAN></SPAN><SPAN lang=FR>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=FR> Affiche les résultats de la recherche alphabétiquement selon le trait ou la caractéristique présentée. (Pour une liste complète des traits présentés, voir le domaine «&nbsp;traits d'OVM&nbsp;» dans le Thésaurus au CEPRB).</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=FR><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=FR>Nom du gène</SPAN></SPAN><SPAN class=CharChar1><SPAN lang=FR style="FONT-SIZE: 9pt"> </SPAN></SPAN><SPAN lang=FR>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=FR> Affiche les résultats de la recherche alphabétiquement par nom du gène inséré. (Pour une liste et une description complètes des gènes insérés, voir le Registre des Gènes) ;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=FR><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=FR>Nom de l’organisme</SPAN></SPAN><SPAN lang=FR>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=FR> Affiche les résultats de la recherche alphabétiquement par nom de l’organisme parental, récepteur ou donneur (Pour une liste et une description complètes des organismes dans le CEPRB, voir le Registre des Organismes)&nbsp;;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=FR><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=FR>Nom de l’organisation</SPAN></SPAN><SPAN lang=FR>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=FR> Affiche les résultats de la recherche alphabétiquement par nom de l’organisation (les organisations peuvent comprendre les autorités nationales compétentes ou des organisations de biosécurité) ;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=FR>Date de commencement</SPAN></SPAN><SPAN lang=FR>: Affiche les résultats de la recherche par la date à laquelle les projets ou les opportunités de création de capacité&nbsp;commenceront ;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=FR>Domaine du sujet</SPAN></SPAN><SPAN lang=FR>: Affiche les résultats de la recherche regroupés selon le domaine du sujet abordé (<I>par ex.</I> type d'OVM, ou utilisation prévue) ;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=FR>Statut taxonomique</SPAN></SPAN><SPAN lang=FR>: Affiche les résultats de la recherche alphabétiquement selon le nom scientifique de l’organisme&nbsp;;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=FR>Technique utilisée</SPAN></SPAN><SPAN lang=FR>: Affiche les résultats de la recherche alphabétiquement selon la technique utilisée pour introduire la modification&nbsp;;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=FR>Titre</SPAN></SPAN><SPAN lang=FR>: Affiche les résultats de la recherche alphabétiquement par le titre du registre ;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=FR>Type de registre</SPAN></SPAN><SPAN lang=FR>: Affiche les résultats de la recherche regroupés selon le type de registre&nbsp;;</SPAN></P>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=FR>Identification unique</SPAN></SPAN><SPAN lang=FR>: Affiche les résultats de la recherche alphanumériquement par code d’identification unique.&nbsp; (Pour une liste et une description complètes des codes d’identification unique, voir le Registre des OVM-IDU.)</SPAN></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{F6287677-B9AE-44E7-B94F-1C6F44DB08A5}">
-            <title m="07/03/2008 10:11:57">Exporter des résultats vers XML</title>
-            <s key="BodyText">
-                <data m="26/05/2008 11:34:46"><![CDATA[<p class="MsoNormal"><span lang="FR"><span lang="FR">L’utilisateur peut
-exporter ou télécharger l’information du Portail Central du CEPRB pour
-l’utiliser dans d’autres applications se servant de la fonction <b>Exporter des
-résultats</b>. L’information exportée est fournie en format eXtensible Markup
-Language (XML), &nbsp;une spécification à usage général pour&nbsp; la création
-de langages markup personnalisés. Son but principal est de faciliter l’échange
-de données à travers différents systèmes, particulièrement les systèmes
-connectés via internet.</span></span></p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal"><span lang="FR">Le moteur d’exportation se trouve au pied
-de chaque page de</span> <span class="BCHCentralPortal" lang="FR">Résultats de
-recherche</span> <span lang="FR">et de chaque registre.</span></p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal"><span lang="FR">L’utilisateur peut sélectionner la
-fonction <b>Exporter des Résultats</b> pour exporter des registres individuels
-ou les résultats d’une recherche dans une base de données. Ces résultats
-peuvent être importés dans un autre logiciel tel qu’un système de traitement de
-texte ou un tableur.</span></p>
-<p class="MsoNormal">&nbsp;</p>
-<p class="MsoNormal">&nbsp;</p>
-<div class="Section1">
-    <p class="MsoNormal">&nbsp;<img alt="" src="images/MO03_0066.jpg" border=
-    "0"></p>
-    <p class="MsoNormal" align="center">Figure 66</p>
-</div>]]></data>
-            </s>
-        </t>
-        <t key="{22A0193C-1F98-467A-953D-50636A530D84}">
-            <title m="05/03/2008 11:06:02">À propos du CEPRB</title>
-            <s key="BodyText">
-                <data m="26/05/2008 09:56:14"><![CDATA[<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>Cette section fournit des informations sur l’établissement et le fonctionnement du Portail Central du CEPRB.</SPAN></SPAN></P>]]></data>
             </s>
         </t>
         <t key="{A9FD2304-CBFD-4A04-B93F-DB5ABE442954}">
@@ -2994,12 +2874,6 @@ d’échange d’information multilatéral, centré sur le CEPRB.</span></p>
 <P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
 <P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
 <P class=MsoNormal><SPAN lang=FR>Il explique les processus de prise de décision et de communication et décrit les différents types d’information disponibles sur le CEPRB, ainsi que les obligations et opportunités prévues au titre du Protocole. Ce module cherche aussi à encourager les non-Parties à communiquer les informations au CEPRB.</SPAN></P>]]></data>
-            </s>
-        </t>
-        <t key="{D0B3E7F0-4ABD-4943-8DF8-0BD7B38F6897}">
-            <title m="21/05/2008 11:50:29">Le Centre d’Echange pour la Prévention des Risques Biotechnologiques – Définition et contexte</title>
-            <s key="BodyText">
-                <data m="21/05/2008 11:50:36"><![CDATA[<DIV class=Section1>Cette section établit la définition et&nbsp;le contexte pour le Centre d'Echange pour la Prevention des Risques Biotechnologiques.&nbsp;</DIV>]]></data>
             </s>
         </t>
         <t key="{1CAAB988-36EF-48B0-9F59-A7A516534C72}">
@@ -5762,21 +5636,172 @@ CEPRBtest</font></strong></p>
 <P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left></SPAN>&nbsp;</P>]]></data>
             </s>
         </t>
+        <t key="{7D3E554B-FD96-44EB-9D4D-72287354DF2F}">
+            <title m="11/07/2008 10:04:54">Cover</title>
+            <s key="BodyText">
+                <data m="23/07/2008 11:46:48"><![CDATA[<P><SPAN lang=ES style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">&nbsp;<IMG style="WIDTH: 620px; HEIGHT: 80px" src="images/covertitle.JPG" align=middle border=0></v:shapetype></SPAN></P>
+<P><SPAN lang=ES style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA"><v:shapetype coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"></v:shapetype></SPAN>&nbsp;</P>
+<P><SPAN lang=ES style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA"><v:shapetype coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f"></v:shapetype></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4>Initiation au Protocole de Cartagena sur la Biosécurité</FONT></SPAN></P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB>Juillet&nbsp;2008</SPAN></P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB>&nbsp;</SPAN></P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB>&nbsp;</P><?xml:namespace prefix = innovasys /><innovasys:widget layout="block" type="Include Topic"><innovasys:widgetproperty layout="inline" name="Topic">Disclaimer</innovasys:widgetproperty> </innovasys:widget>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left></SPAN>&nbsp;</P>]]></data>
+            </s>
+        </t>
+        <t key="{3D5EF118-3656-4E46-851F-744CEAB45CB1}">
+            <title m="19/02/2010 14:46:21">Help on Help</title>
+            <s key="BodyText">
+                <data m="19/02/2010 14:42:54"><![CDATA[<P><SPAN lang=EN-GB>This Online Help System was designed to provide help on the usage of the BCH Central Portal. The help topics are available for reading online and also for download in the form of Training Modules (<A href="https://bch.cbd.int/help/topics/en/webframe.html?Training_Modules.html">https://bch.cbd.int/help/topics/en/webframe.html?Training_Modules.html</A>).</SPAN>&nbsp;</P>
+<P class=MsoNormal><SPAN lang=EN-GB>The information managed in the Online Help System is divided into minimum parts called help topics. This is a Context-Sensitive help system, which means that BCH pages are linked to help topics so that when the BCH user needs help on BCH pages, he or she is directed to a relevant help topic according to the context (web page) in which he or she was navigating in the BCH. To access the context-sensitive help of a web page click on the question mark&nbsp;<IMG alt="Question Icon" src="images/Question_icon.bmp" border=0></SPAN><SPAN lang=EN-GB>&nbsp;located at the top right-hand side of the screen.</SPAN></P>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><SPAN lang=EN-GB>The recommended screen setting for this Help System is <B>1024x768 pixels or higher</B>. This Help System has been tested and supports internet browsers Mozilla Firefox and Internet Explorer.</SPAN></P>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><SPAN lang=EN-GB>In the picture below it is shown the main page of the Online Help System.</SPAN></P>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><IMG alt="Figure 1" src="images/HelpOnHelp_0001_en.jpg" border=0></P>
+<P class=MsoNormal><SPAN lang=EN-GB>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure</SPAN> <SPAN lang=EN-GB>1</SPAN></P>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><SPAN lang=EN-GB>The components depicted in the figure are as following:</SPAN></P>
+<P class=MsoNormal>&nbsp;</P>
+<DIV class=Section1>
+<OL>
+<LI>
+<DIV class=MsoNormal><B><SPAN lang=EN-GB>BCH Logo:</SPAN></B> <SPAN lang=EN-GB>clicking on this logo points the browser to the BCH Central Portal home page.</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B><SPAN lang=EN-GB>Language bar</SPAN></B><SPAN lang=EN-GB>: this bar provides links to access the Online Help System in each of the six official UN languages.</SPAN> </DIV>
+<P class=MsoNormal>&nbsp;<SPAN lang=EN-GB><IMG style="MARGIN-LEFT: -25pt" alt="Figure 2" src="images/HelpOnHelp_0002_en.jpg" border=0></SPAN></P>
+<P class=MsoNormal><SPAN lang=EN-GB>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure 2</SPAN></P></LI>
+<LI>
+<P class=MsoNormal><B><SPAN lang=EN-GB>Navigation bar</SPAN></B><SPAN lang=EN-GB>:</SPAN></P>
+<P class=MsoNormal>&nbsp;<IMG style="MARGIN-LEFT: -25pt" alt="Figure 3" src="images/HelpOnHelp_0003_en.jpg" border=0></P>
+<P class=MsoNormal><SPAN lang=EN-GB>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure</SPAN> 3</P>
+<P class=MsoNormal>&nbsp;</P>
+<OL>
+<LI>
+<DIV class=MsoNormal><B><SPAN lang=EN-GB>Hide Navigation</SPAN></B><SPAN lang=EN-GB>: by clicking on this icon the user can choose the navigation area (described in point 3) to be visible or not. If it is currently visible, one click on the icon will make it disappear. Another click will make it visible again.</SPAN> </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B><SPAN lang=EN-GB>Add to Favorites</SPAN></B><SPAN lang=EN-GB>: through this link the user can add topics to the list of favorite topics. Links to these topics will appear in the <B>Favorites</B> section of the navigation area. This feature is very useful to manage in one place those topics which the user reads most frequently, without the need to look them up in the table of contents, the index or the search section. You must take into account that, in order to remember the topics that you have selected as favo</SPAN>rites, you must have the cookies enabled. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Print topic</B>: click on this icon to print the topic displayed in the information pane. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Quick Search</B>: to search for parts of words or whole words in the topic shown in the information pane, you may enter the text in the text area and then click on the search icon. The text you searched for will appear highlighted every time it is found in the topic title, the path and the information pane. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Clear Search</B>: by clicking on this icon you can clear the highlights placed on the text by a previous use of the Quick Search feature. Notice that the text that you entered in the text area will remain there, in case you want to redo the search. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Back/Forward</B>: while you are navigating through the topics, the Online Help System will remember the order in which you visited them and allow you to move back and forward through the pages. This way you can easily access the topics you are working with, without having to look for them again in the table of contents, the index or the search section. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Refresh</B>: by clicking on this icon the user can refresh the topic as if you entered the page for the first time. Please notice that if a search had been made, the highlighted text will be cleared. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Home</B>: this icon changes the current page to the home page, corresponding to the “BCH Central Portal Online Help” topic which is the first entry in the table of contents. </DIV></LI></OL></LI>
+<LI>
+<DIV class=MsoNormal><B>Navigation area</B>: the navigation area provides different ways of accessing the topics contained in the Online Help System. The way in which topics are looked for depends on the selected section. The possible sections are:&nbsp; </DIV>
+<OL>
+<LI>
+<DIV class=MsoNormal><B>Table of Contents</B>: by selecting the table of contents, the help topics will be shown in the navigation area hierarchically arranged. The user can navigate through the topic hierarchy as wanted; this way the navigation turns very intuitive as the user looks into organized information. Clicking on a topic will load the topic’s content in the information pane and display its subtopics, if any, in the table of contents. The topic which content is currently displayed in the information pane appears highlighted in green in the table of contents.&nbsp;Note that some entries in the table of contents are not linked to topics, but simply intended to organize other topics in the hierarchy. Clicking those entries will display the subtopics under that entry but will not show any content in the information pane nor will it change the green highlight.&nbsp; </DIV>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><IMG style="MARGIN-LEFT: -50pt" alt="Figure 4" src="images/HelpOnHelp_0004_en.jpg" border=0></P>
+<P class=MsoNormal><SPAN lang=EN-GB>&nbsp; Figure</SPAN> 4</P>
+<P class=MsoNormal>&nbsp;</P></LI>
+<LI>
+<DIV class=MsoNormal><B>Index</B>: when the index section is selected, appears a list with every topic contained in the Online Help System is displayed in the navigation area, ordered alphabetically. The user can then open the contents of a topic by clicking on the index entry that corresponds to the topic’s name. This navigation option is very useful if you are looking for a topic whose name you already know. Otherwise, it is recommended to navigate the topics through the table of contents. </DIV>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><IMG style="MARGIN-LEFT: -50pt" alt="Figure 5" src="images/HelpOnHelp_0005_en.jpg" border=0></P>
+<P class=MsoNormal><SPAN lang=EN-GB>&nbsp; Figure</SPAN> 5</P>
+<P class=MsoNormal>&nbsp;</P></LI>
+<LI>
+<DIV class=MsoNormal><B>Search</B>: with this feature the user can search in the topics’ content for keywords. It is possible to use one keyword or combination of keywords linked by OR or AND connectors. Once the user has entered the keywords and clicked on the <B><SPAN class=Button>Search</SPAN></B> button, a list of the topics which contain that combination of words will appear in the navigation area.&nbsp;For example, Searching for “organism OR gene” will display all topics found containing at least one of the two words, while searching for “organism AND gene” will display all topics found containing both words. </DIV>
+<P class=MsoListParagraph style="MARGIN-LEFT: 72pt">&nbsp;</P>
+<P class=MsoNormal>&nbsp;<IMG style="MARGIN-LEFT: -50pt" alt="Figure 6" src="images/HelpOnHelp_0006_en.jpg" border=0></P>
+<P class=MsoNormal><SPAN lang=EN-GB>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure</SPAN> 6</P>
+<P class=MsoNormal>&nbsp;</P></LI>
+<LI>
+<DIV class=MsoNormal><B>Favorites</B>: the Online Help System offers the user the possibility of maintaining a list of favorite topics. Direct links to those topics will be kept in the navigation area when you select the Favorites section. Please take into account that for remembering and seeing the favorite links you have selected in a previous session you need to have the cookies enabled. Moreover, next to each of the links to favorite topics you will see a red cross. By clicking on that cross you can remove the corresponding link from the list. </DIV></LI></OL>
+<P class=MsoListParagraphCxSpLast style="MARGIN-LEFT: 72pt">&nbsp;</P>
+<P class=MsoNormal>&nbsp;<IMG style="MARGIN-LEFT: -20pt" alt="Figure 7" src="images/HelpOnHelp_0007_en.jpg" border=0></P>
+<P class=MsoNormal><SPAN lang=EN-GB>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure</SPAN> 7</P>
+<P class=MsoNormal>&nbsp;&nbsp;</P></LI>
+<LI>
+<DIV class=MsoNormal><B>Title bar</B>: in this bar the user will see, first of all, the main title of the Online Help System (<B>BCH Central Portal Online Help</B>). The second line displays the name of the topic currently shown in the information pane. If the topic contains links to other topics in its “see also” section, a third line is shown providing a link to that section of the topic. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Path</B>: this bar shows the current position in the global hierarchy of the Online Help System, composed by the path in the table of contents to reach the current topic. Besides, a link to each of the intermediate entries is provided. </DIV></LI>
+<LI>
+<DIV class=MsoNormal><B>Information pane</B>: in this pane it is shown the content of the topic currently selected. At the bottom it may include a list of see also links for further reading on related topics.&nbsp;&nbsp; </DIV></LI></OL></DIV>]]></data>
+            </s>
+        </t>
     </topics>
     <glossaryitems/>
     <nodes>
         <n key="{64325765-7609-4DE9-89A2-41E74E901DC9}">
             <ct m="30/05/2008 09:45:28">Portail Central du CEPRB</ct>
         </n>
-        <n key="{58740A2D-8730-4067-8558-B0495B109EA1}">
-            <ct m="07/03/2008 10:07:12"><![CDATA[Trouver l'information]]></ct>
-        </n>
     </nodes>
     <manifests>
         <manifest k="{D9A26255-732F-41FE-BEC6-D53AAB7CA036}">
             <title m="09/07/2008 11:17:10">Initiation au Protocole de Cartagena sur la Biosécurité</title>
             <headerhtml m="09/07/2008 11:17:30"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="09/07/2008 11:23:50"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">Projet CEPRB PNUE-FEM</div>]]></footerhtml>
+            <footerhtml m="19/02/2010 12:00:02"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="09/07/2008 11:17:38"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="09/07/2008 11:24:02">PNUE-FEM</creator>
             <templateproperty name="TableOfContentsCaption">
@@ -5796,7 +5821,7 @@ CEPRBtest</font></strong></p>
         <manifest k="{6A87D3C8-8BFE-4A81-926D-98A7DB5518D8}">
             <title m="14/07/2008 11:35:14">Initiation au Centre d’Echange pour la Prévention des Risques Biotechnologiques</title>
             <headerhtml m="09/07/2008 11:17:30"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="09/07/2008 11:23:50"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">Projet CEPRB PNUE-FEM</div>]]></footerhtml>
+            <footerhtml m="17/02/2010 11:27:31"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="09/07/2008 11:17:38"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="09/07/2008 11:24:02">PNUE-FEM</creator>
             <me key="{376C36C4-A117-44E8-8129-3D81B76525DD}">
@@ -5809,7 +5834,7 @@ CEPRBtest</font></strong></p>
         <manifest k="{69848052-7686-4BE2-BB2E-19E9059EC004}">
             <title m="15/07/2008 12:38:49">Surfer sur le Portail Central du CEPRB</title>
             <headerhtml m="09/07/2008 11:17:30"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="09/07/2008 11:23:50"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">Projet CEPRB PNUE-FEM</div>]]></footerhtml>
+            <footerhtml m="17/02/2010 11:28:33"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="09/07/2008 11:17:38"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="09/07/2008 11:24:02">PNUE-FEM</creator>
             <templateproperty name="TableOfContentsCaption">
@@ -5839,7 +5864,7 @@ CEPRBtest</font></strong></p>
         <manifest k="{4567DB12-E3E6-426D-AC46-6A38A0790332}">
             <title m="22/07/2008 09:06:03">Trouver l’information depuis le Portail Central du CEPRB</title>
             <headerhtml m="09/07/2008 11:17:30"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="09/07/2008 11:23:50"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">Projet CEPRB PNUE-FEM</div>]]></footerhtml>
+            <footerhtml m="16/03/2010 12:46:18"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="09/07/2008 11:17:38"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="09/07/2008 11:24:02">PNUE-FEM</creator>
             <templateproperty name="TableOfContentsCaption">
@@ -5886,39 +5911,16 @@ CEPRBtest</font></strong></p>
         </BuildProfile>
     </buildprofiles>
     <tpv name="CopyrightNotice">
-        <pv m="29/05/2008 13:27:58"><![CDATA[<p class="MsoNormal"><b>Reproduction</b></p><br><p class="MsoNormal">Le contenu de cette publication peut être reproduit en tout ou partie et sous quelque forme que ce soit, à but éducatif ou non lucratif, sans besoin d’un permis spécial du détenteur du droit d’auteur, à condition que la source soit citée. Le PNUE serait reconnaissant de recevoir une copie de toute publication utilisant cette publication comme source. Cette publication ne pourra pas être revendue ou utilisée pour quelque autre but commercial que ce soit sans une autorisation préalable par écrit du PNUE. L’utilisation d’information de ce site web concernant des produits de marque déposée pour la propagande ou la publicité est interdite.</p><br><br><p class="MsoNormal"><b>Avis de non-responsabilité</b></p><br><p class="MsoNormal">Le contenu et les opinions exprimés sur ce site web ne reflètent pas nécessairement les opinions ou les politiques des organisations contributoires ou du Programme des Nations Unies pour l’Environnement (PNUE), et ils n’impliquent pas non plus aucune approbation. Les désignations employées et la présentation du matériel sur ce site web n’impliquent pas l’expression de quelque opinion que ce soit de la part du PNUE concernant le statut légal d’un pays, d’un territoire ou d’une ville ou ses autorités, ou concernant la délimitation de ses frontières et ses limites. La mention d’une compagnie ou d'un produit commercial dans cette publication n'implique pas l’appui du PNUE.</p>]]></pv>
-    </tpv>
-    <tpv name="FavoritesCaption">
-        <pv m="12/03/2008 14:16:40">Favoris</pv>
-    </tpv>
-    <tpv name="GlossaryTitle">
-        <pv m="12/03/2008 14:16:47">Glossaire</pv>
-    </tpv>
-    <tpv name="SearchCaption">
-        <pv m="12/03/2008 14:16:53">Rechercher</pv>
-    </tpv>
-    <tpv name="SeeAlsoText">
-        <pv m="12/03/2008 14:17:00">Voir Aussi</pv>
-    </tpv>
-    <tpv name="TableOfContentsCaption">
-        <pv m="12/03/2008 14:17:13">Tableau des Contenus</pv>
+        <pv m="29/05/2008 13:27:58"><![CDATA[<p class="MsoNormal"><b>Reproduction</b></p><br>
+<p class="MsoNormal">Le contenu de cette publication peut être reproduit en tout ou partie et sous quelque forme que ce soit, à but éducatif ou non lucratif, sans besoin d’un permis spécial du détenteur du droit d’auteur, à condition que la source soit citée. Le PNUE serait reconnaissant de recevoir une copie de toute publication utilisant cette publication comme source. Cette publication ne pourra pas être revendue ou utilisée pour quelque autre but commercial que ce soit sans une autorisation préalable par écrit du PNUE. L’utilisation d’information de ce site web concernant des produits de marque déposée pour la propagande ou la publicité est interdite.</p><br>
+<br>
+<p class="MsoNormal"><b>Avis de non-responsabilité</b></p><br>
+<p class="MsoNormal">Le contenu et les opinions exprimés sur ce site web ne reflètent pas nécessairement les opinions ou les politiques des organisations contributoires ou du Programme des Nations Unies pour l’Environnement (PNUE), et ils n’impliquent pas non plus aucune approbation. Les désignations employées et la présentation du matériel sur ce site web n’impliquent pas l’expression de quelque opinion que ce soit de la part du PNUE concernant le statut légal d’un pays, d’un territoire ou d’une ville ou ses autorités, ou concernant la délimitation de ses frontières et ses limites. La mention d’une compagnie ou d'un produit commercial dans cette publication n'implique pas l’appui du PNUE.</p>]]></pv>
     </tpv>
     <tpv name="NonScrollingPageFooter">
-        <pv m="29/05/2008 13:28:44"><![CDATA[<b>Droits d'auter PNUE-FEM, 2008</b>]]></pv>
-    </tpv>
-    <tpv name="GEFLogoPath">
-        <pv m="29/05/2008 13:29:32"><![CDATA[<img src="images/gefen.png">]]></pv>
-    </tpv>
-    <tpv name="SCBDLogoPath">
-        <pv m="29/05/2008 13:29:08"><![CDATA[<img src="images/scbden.png">]]></pv>
-    </tpv>
-    <tpv name="UNEPLogoPath">
-        <pv m="29/05/2008 13:29:19"><![CDATA[<img src="images/unepen.png">]]></pv>
+        <pv m="29/05/2008 13:28:44"><![CDATA[<b>Droits d'auteur PNUE-FEM, 2008</b>]]></pv>
     </tpv>
     <tpv name="BCHLogoPath">
         <pv m="29/05/2008 13:30:00"><![CDATA[<img src="images/bchen.jpg">]]></pv>
-    </tpv>
-    <tpv name="LanguageDirectories">
-        <pv m="09/05/2008 20:30:45">ar,zh,en,fr,ru,es</pv>
     </tpv>
 </HSProjectLocalization>

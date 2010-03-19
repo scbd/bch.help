@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1049" Version="3.0.214" SaveDateTime="26/09/2008 17:24:23" ProjectFileName="E:\SVN local repository\Archives\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
+<HSProjectLocalization LocaleId="1049" Version="3.0.200" SaveDateTime="19/03/2010 13:23:31" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -941,17 +941,6 @@
 <P class=Illustrationinstructions align=center>Рисунок 125</P></DIV>]]></data>
             </s>
         </t>
-        <t key="{C2975CD6-0F1B-4A48-9E97-AC3AE42CA4EE}">
-            <title m="03/06/2008 13:48:21">Реестры ЖИО, организмов и генов </title>
-            <s key="BodyText">
-                <data m="03/06/2008 13:49:29"><![CDATA[<P><SPAN lang=RU>Ссылка:</SPAN> <A href="http://bch.cbd.int/database/organisms/uniqueidentifiers/default.shtml" target=_blank>http://bch.cbd.int/database/organisms/uniqueidentifiers/default.shtml</A></P>
-<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=RU>Ссылка:</SPAN>&nbsp;<A href="http://bch.cbd.int/database/organisms/organismslist.shtml" target=_blank>http://bch.cbd.int/database/organisms/organismslist.shtml</A></P>
-<P class=MsoNormal><SPAN lang=RU>Ссылка:</SPAN>&nbsp;<A href="http://bch.cbd.int/database/organisms/genes/default.shtml" target=_blank>http://bch.cbd.int/database/organisms/genes/default.shtml</A></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=RU>Получение информации из данных реестров рассматривалось в разделе 2.4.</SPAN></P></DIV>]]></data>
-            </s>
-        </t>
         <t key="{5795C58F-7223-4CE3-9C96-E8448A168036}">
             <title m="03/06/2008 10:54:27">Поиск с использованием идентификатора записи</title>
             <s key="BodyText">
@@ -1273,21 +1262,6 @@ target="_blank">https://bch.cbd.int/about/latestadditions.shtml</a> и к нем
 <P class=MsoNormal align=center><SPAN lang=RU>Рисунок</SPAN> 23</P>]]></data>
             </s>
         </t>
-        <t key="{8A66CA2D-D4B0-46F4-A10B-00C795677C16}">
-            <title m="04/06/2008 09:02:40">Начальная страница Центрального портала МПБ </title>
-            <s key="BodyText">
-                <data m="23/07/2008 15:42:46"><![CDATA[<p class="BCHCentralPortalPageTitle"><span class="BCHCentralPortal" lang=
-"RU">Начальная страница Центрального портала МПБ</span> <span lang=
-"RU">включает основную зону, которая коротко дает представление о МПБ, содержит
-быстрый переход в <b>Центр управления</b> данными и предоставляет краткую
-информацию об основных событиях, таких как текущие новости о Центральном
-портале МПБ и последние пополнения баз данных.</span></p>
-<p class="MsoNormal">&nbsp;<img alt="Figure 2" src="images/MO03_0002.JPG"
-border="0"></p>
-<p class="MsoNormal" align="center">&nbsp;Рисунок 2</p>
-<P style="PAGE-BREAK-AFTER: always">&nbsp;</P>]]></data>
-            </s>
-        </t>
         <t key="{298B8DF0-0F25-4CD7-9622-AC3B43D899C7}">
             <title m="04/06/2008 09:24:56">МПБ</title>
             <s key="BodyText">
@@ -1390,25 +1364,6 @@ border="0"></p>
 <P style="PAGE-BREAK-AFTER: always">&nbsp;</P>]]></data>
             </s>
         </t>
-        <t key="{BADCFCF2-31C0-4F7A-864D-7581AF8603BB}">
-            <title m="04/06/2008 10:51:27">Неформальный консультационный комитет МПБ</title>
-            <s key="BodyText">
-                <data m="04/06/2008 10:51:48"><![CDATA[<P class=MsoNormal><SPAN lang=RU>Ссылка <B>Неформальный консультационный комитет МПБ</B> выводит на страницу с информацией о работе </SPAN><SPAN class=BCHCentralPortal lang=RU>Неформального консультационного комитета МПБ</SPAN><SPAN lang=RU>.</SPAN></P>
-<P class=MsoNormal><SPAN lang=RU>Неформальный консультационный комитет (НКК) МПБ подготавливает Исполнительному секретарю Конвенции предложения относительно решения технических вопросов, связанных с текущей разработкой Механизма посредничества по биобезопасности</SPAN></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG src="images/MO03_0015.jpg" border=0></P>
-<P class=MsoNormal align=center>Рисунок 15</P>]]></data>
-            </s>
-        </t>
-        <t key="{40C9F44E-648A-41DF-A3B8-A1FCFE60777E}">
-            <title m="04/06/2008 09:51:58">Политика</title>
-            <s key="BodyText">
-                <data m="04/06/2008 09:52:51"><![CDATA[<P class=MsoNormal><SPAN lang=RU><SPAN lang=RU><SPAN lang=RU><SPAN lang=RU>В подразделе </SPAN><SPAN class=SubjectSectionCar><SPAN lang=RU>Политика</SPAN></SPAN><SPAN lang=RU> представлена информация об используемых Механизмом посредничества по биобезопасности правилах и принципах использования ссылок на внешние веб-сайты, принципах конфиденциальности и ответственности.</SPAN></SPAN></SPAN></SPAN></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG src="images/MO03_0021.jpg" border=0></P>
-<P class=MsoNormal align=center>Рисунок 21</P>]]></data>
-            </s>
-        </t>
         <t key="{61850662-D7B4-440F-8427-C144A7B4E697}">
             <title m="04/06/2008 10:54:17">Последние дополнения</title>
             <s key="BodyText">
@@ -1425,6 +1380,15 @@ border="0"></p>
 "middle" border="0">&nbsp;</p>
 <p class="MsoNormal" align="center">Рисунок 18</p>
 <P style="PAGE-BREAK-AFTER: always">&nbsp;</P>]]></data>
+            </s>
+        </t>
+        <t key="{40C9F44E-648A-41DF-A3B8-A1FCFE60777E}">
+            <title m="04/06/2008 09:51:58">Политика</title>
+            <s key="BodyText">
+                <data m="04/06/2008 09:52:51"><![CDATA[<P class=MsoNormal><SPAN lang=RU><SPAN lang=RU><SPAN lang=RU><SPAN lang=RU>В подразделе </SPAN><SPAN class=SubjectSectionCar><SPAN lang=RU>Политика</SPAN></SPAN><SPAN lang=RU> представлена информация об используемых Механизмом посредничества по биобезопасности правилах и принципах использования ссылок на внешние веб-сайты, принципах конфиденциальности и ответственности.</SPAN></SPAN></SPAN></SPAN></P>
+<P class=MsoNormal>&nbsp;</P>
+<P class=MsoNormal><IMG src="images/MO03_0021.jpg" border=0></P>
+<P class=MsoNormal align=center>Рисунок 21</P>]]></data>
             </s>
         </t>
         <t key="{EA6CCFBC-A393-46A7-9CB9-CD35B9F4C74B}">
@@ -1613,22 +1577,6 @@ border="0"></p>
 <P class=MsoNormal><IMG src="images/MO03_0037.jpg" border=0></P>
 <P class=MsoNormal align=center>Рисунок 37</P>
 <P class=MsoNormal><SPAN lang=RU>Используя выпадающее меню в данном разделе, необходимо выбрать интересующий год, чтобы получить доступ к необходимому годовому отчету Реестра экспертов в формате PDF.</SPAN></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{6B1F24F4-0E11-48C5-90DB-5F107BCD43B7}">
-            <title m="04/06/2008 09:30:31">Поиск информации</title>
-            <s key="BodyText">
-                <data m="04/06/2008 09:31:10"><![CDATA[<P class=MsoNormal><I></I></P>
-<P class=MsoNormal><SPAN lang=RU>Ссылка:</SPAN> <A href="http://bch.cbd.int/database/" target=_blank>http://bch.cbd.int/database/</A></P>
-<P class=MsoNormal><SPAN lang=RU>Ссылки на категории информации баз данных Центрального портала МПБ приводятся в выпадающем меню раздела <B>Finding Information</B> (<B>Поиск информации</B>) на навигационной панели. </SPAN></P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0039.jpg" border=0></P>
-<P class=MsoNormal align=center>Рисунок 39</P>
-<P class=MsoNormal align=center>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=RU>Каждая категория имеет систему поиска, которая предназначена для оптимизации нахождения необходимой информации. На странице поиска существует возможность просмотреть все записи, находящиеся в данной категории, используя кнопку <B>Browse all records</B> (<B>Показать все записи</B>).</SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0040.jpg" border=0></P>
-<P class=MsoNormal align=center>Рисунок 40</P>
-<P class=MsoNormal align=left><SPAN lang=RU>Типы данных, хранящихся в базах данных МПБ, а также инструкции по поиску информации подробно описаны в Модуле MO04.</SPAN></P>]]></data>
             </s>
         </t>
         <t key="{90E1CD59-8C7C-4AB1-B82B-FB9088BCDC04}">
@@ -1959,62 +1907,6 @@ border="0"></p>
 <P class=MsoNormal align=center>Рисунок 8</P>
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal><SPAN lang=RU>Сведения о странах содержат информацию о статусе каждой страны в отношении Катрахенского протокола, включая: название страны, дату подписания Протокола, дату его ратификации, дату вступления Протокола в силу для страны, дату внесения изменений в сведения, состояние сведений и дату их последнего обновления. Далее приводится список предоставленных страной сведений (например, Национальный координационный центр, закон, нормативный документ или руководство, оценка риска и т.д.) со ссылками на более детальную информацию. Также указывается количество записей по каждой категории сведений и дата их последнего обновления.</SPAN></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{2A20B51B-C53D-4E49-8AD2-0118EA6A7944}">
-            <title m="04/06/2008 10:39:53">Сортировка результатов</title>
-            <s key="BodyText">
-                <data m="04/06/2008 10:41:54"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=RU>Для того чтобы изменить вид представления результатов поиска, пользователь может выбрать один из вариантов сортировки в выпадающем меню <B>Sort results by </B>(<B>Сортировать по</B>), которое содержится в верхней части любой страницы результатов поиска. Перечень вариантов сортировки будет содержать лишь варианты, имеющие отношение к поиску той информации, которую осуществляет пользователь.</SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG src="images/MO03_0065.jpg" border=0></P>
-<P class=MsoNormal align=center>&nbsp;Рисунок 65</P>
-<P class=MsoNormal><SPAN lang=RU>Возможны следующие варианты сортировки результатов: </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Страна</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по названию страны; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Дата последнего обновления</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются по дате последнего добавления или обновления, недавно измененные записи отображаются первыми; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Фамилия</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по фамилии субъектов; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Признак ЖИО</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по интродуцированному признаку или свойству. (Для получения полного перечня интродуцированных признаков, см. раздел ‘Свойства ЖИО’ в Тезаурусе МПБ); </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Название гена</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по названию встроенного гена. (Для получения полного перечня и описания встроенных генов, см. Реестр генов); </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Название организма</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по названию родительского, реципиентного организма или организма-донора (для получения полного перечня и описания организмов в МПБ, см. Реестр организмов); </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearch><SPAN lang=RU>Название организации:</SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по названию организации (организации могут включать Национальные компетентные органы или организации по биобезопасности); </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Дата начала</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются по дате начала проекта или других мероприятий по созданию потенциала; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Предметная область</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> отображаются результаты поиска, сгруппированные согласно запрашиваемой предметной области (т.е., тип ЖИО, или предполагаемое использование); </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Таксономический статус</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по научному (латинскому) названию организма;</SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Использованный метод</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по методу, использованному для осуществления модификации; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Заголовок</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитном порядке по заголовку записи; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Тип записи</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> отображаются результаты поиска, сгруппированные в соответствии с типом записи; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=WordSearchChar><SPAN lang=RU><SPAN class=WordSearch><SPAN class=WordSearchChar><SPAN lang=RU>Уникальная идентификация</SPAN></SPAN><SPAN lang=RU>:</SPAN></SPAN></SPAN></SPAN><SPAN lang=RU> результаты поиска отображаются в алфавитно-нумерационном порядке по уникальному идентификационному коду. (Для получения полного перечня и описания уникальных идентификационных кодов см. Реестр УИК ЖИО)</SPAN></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{F6287677-B9AE-44E7-B94F-1C6F44DB08A5}">
-            <title m="04/06/2008 10:42:44">Экспорт результатов в XML</title>
-            <s key="BodyText">
-                <data m="04/06/2008 10:43:16"><![CDATA[<P class=MsoNormal><SPAN lang=RU>Пользователь может экспортировать или загрузить информацию с Центрального портала МПБ для использования в других приложениях посредством функции <B>Export Results </B>(<B>Экспортировать результаты</B>). Экспортируемая информация предоставляется в формате XML (Extensible Markup Language), общепринятого формата обмена информацией. Основная задача XML – упростить процесс обмена данными между разными системами, в особенности системами Интернет. </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=RU>Функция экспорта находится внизу каждой страницы </SPAN><SPAN class=BCHCentralPortal lang=RU>Результатов поиска</SPAN><SPAN lang=RU>. Пользователь может использовать данную функцию как для экспорта конкретных записей, так и в целом результата поиска в базах данных. Результаты экспорта могут быть легко импортированы в другие программы, например, тестовые редакторы или электронные таблицы.</SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<DIV class=Section1>
-<P class=MsoNormal>&nbsp;<IMG src="images/MO03_0066.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 66</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{22A0193C-1F98-467A-953D-50636A530D84}">
-            <title m="04/06/2008 09:47:46">Подраздел МПБ</title>
-            <s key="BodyText">
-                <data m="04/06/2008 09:47:50"><![CDATA[<P><SPAN lang=RU>Данный подраздел содержит информацию о создании и функционировании Центрального портала МПБ.</SPAN></P>]]></data>
             </s>
         </t>
         <t key="{A9FD2304-CBFD-4A04-B93F-DB5ABE442954}">
@@ -2507,13 +2399,6 @@ style=
 <P class=MsoBodyText style="MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt"><SPAN lang=RU style="FONT-FAMILY: Symbol">·<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>может получить при помощи МПБ;</SPAN></P>
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal>Настоящий модуль поясняет процессы принятия решений и предоставления информации, описывает различные категории информации, которые можно найти в МПБ, а также обязательства и возможности в рамках Картахенского Протокола. В его задачи также входит стимулирование Сторон, не являющихся членами Протокола, к предоставлению информации МПБ</P>]]></data>
-            </s>
-        </t>
-        <t key="{D0B3E7F0-4ABD-4943-8DF8-0BD7B38F6897}">
-            <title m="02/06/2008 11:36:47">Механизм посредничества по биобезопасности – определение и контекст</title>
-            <s key="BodyText">
-                <data m="02/06/2008 11:39:55"><![CDATA[<DIV class=Section1>
-<DIV><SPAN lang=RU>Этот раздел определяет и раскрывает структуру Механизма посредничества по биобезопасности.</SPAN></DIV></DIV>]]></data>
             </s>
         </t>
         <t key="{1CAAB988-36EF-48B0-9F59-A7A516534C72}">
@@ -4476,9 +4361,9 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <t key="{33985FA1-5EE1-4618-B209-9CAB053AE672}">
             <title m="31/07/2008 09:46:30">Интерактивные модули</title>
             <s key="BodyText">
-                <data m="18/09/2008 12:04:08"><![CDATA[<P><STRONG>Два интерактивных модуля в качестве практического средства для помощи в понимании вопросов, рассматриваемых в учебных модулях 1 и 2. Модули разработаны в среде Macromedia Flash. Вы можете загрузить и установить эти интерактивные модули.</STRONG></P>
-<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/04) Interactive Modules/IM01En.exe" target=_blank>Введение в Картахенский протокол по биобезопасности</A></P>
-<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A title=Recurso href="http://bch.cbd.int/help/trainingmaterials/Ru/04) Interactive Modules/IM02En.exe" target=_blank>Введение в Механизм посредничества по биобезопасности</A></P>]]></data>
+                <data m="29/09/2008 14:16:19"><![CDATA[<P><STRONG>Два интерактивных модуля в качестве практического средства для помощи в понимании вопросов, рассматриваемых в учебных модулях 1 и 2. Модули разработаны в среде Macromedia Flash. Вы можете загрузить и установить эти интерактивные модули.</STRONG></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A href="http://bch.cbd.int/help/trainingmaterials/Ru/04)%20Interactive%20Modules/IM01En.exe" target=_blank>Введение в Картахенский протокол по биобезопасности (на английском языке)</A></P>
+<P><IMG alt="" src="images/web.gif" border=0>&nbsp;<A href="http://bch.cbd.int/help/trainingmaterials/Ru/04)%20Interactive%20Modules/IM02En.exe" target=_blank>Введение в Механизм посредничества по биобезопасности (на английском языке)</A></P>]]></data>
             </s>
         </t>
         <t key="{A1783282-C59F-4112-A609-A3CC8D0CF476}">
@@ -5180,35 +5065,387 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
 <P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left></SPAN>&nbsp;</P>]]></data>
             </s>
         </t>
+        <t key="{7D3E554B-FD96-44EB-9D4D-72287354DF2F}">
+            <title m="11/07/2008 10:04:45">Cover</title>
+            <s key="BodyText">
+                <data m="24/07/2008 11:10:50"><![CDATA[<P><SPAN lang=ES style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA"><?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id=_x0000_t75 stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600">&nbsp;<IMG style="WIDTH: 620px; HEIGHT: 80px" src="images/covertitle.JPG" align=middle border=0></v:shapetype></SPAN></P>
+<P><SPAN lang=ES style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"></v:shapetype></SPAN>&nbsp;</P>
+<P><SPAN lang=ES style="FONT-SIZE: 12pt; FONT-FAMILY: Arial; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: ES; mso-fareast-language: ES; mso-bidi-language: AR-SA"><v:shapetype stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"></v:shapetype></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4><SPAN lang=RU style="mso-ansi-language: RU">Введение в Картахенский протокол<BR>по биобезопасности<?xml:namespace prefix = o /><o:p></o:p></SPAN></P></FONT></SPAN>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB><FONT size=4></FONT></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB>Июль 2008</SPAN><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=center><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB>&nbsp;</SPAN></P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB></SPAN>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left>&nbsp;</P>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left><SPAN lang=EN-GB>&nbsp;</P><?xml:namespace prefix = innovasys /><innovasys:widget type="Include Topic" layout="block"><innovasys:widgetproperty layout="inline" name="Topic">Disclaimer</innovasys:widgetproperty> </innovasys:widget>
+<P class=Heading style="MARGIN: 0cm 0cm 0pt" align=left></SPAN>&nbsp;</P>]]></data>
+            </s>
+        </t>
+        <t key="{3D5EF118-3656-4E46-851F-744CEAB45CB1}">
+            <title m="19/02/2010 14:46:15">Help on Help</title>
+            <s key="BodyText">
+                <data m="19/02/2010 14:45:21"><![CDATA[<p><span lang="EN-GB">This Online Help System was designed to provide help on
+the usage of the BCH Central Portal. The help topics are available for reading
+online and also for download in the form of Training Modules (<a href=
+"https://bch.cbd.int/help/topics/en/webframe.html?Training_Modules.html">https://bch.cbd.int/help/topics/en/webframe.html?Training_Modules.html</a>).</span>&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">The information managed in the Online
+Help System is divided into minimum parts called help topics. This is a
+Context-Sensitive help system, which means that BCH pages are linked to help
+topics so that when the BCH user needs help on BCH pages, he or she is directed
+to a relevant help topic according to the context (web page) in which he or she
+was navigating in the BCH. To access the context-sensitive help of a web page
+click on the question mark&nbsp;<img alt="Question Icon" src=
+"images/Question_icon.bmp" border="0"></span><span lang="EN-GB">&nbsp;located
+at the top right-hand side of the screen.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">The recommended screen setting for this
+Help System is <b>1024x768 pixels or higher</b>. This Help System has been
+tested and supports internet browsers Mozilla Firefox and Internet
+Explorer.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">In the picture below it is shown the
+main page of the Online Help System.</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><img alt="Figure 1" src="images/HelpOnHelp_0001_en.jpg"
+border="0"></p>
+<p class="MsoNormal"><span lang=
+"EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Figure</span> <span lang="EN-GB">1</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<p class="MsoNormal"><span lang="EN-GB">The components depicted in the figure
+are as following:</span></p>
+<p class="MsoNormal">&nbsp;</p>
+<div class="Section1">
+    <ol>
+        <li>
+            <div class="MsoNormal">
+                <b><span lang="EN-GB">BCH Logo:</span></b> <span lang=
+                "EN-GB">clicking on this logo points the browser to the BCH
+                Central Portal home page.</span>
+            </div>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b><span lang="EN-GB">Language bar</span></b><span lang=
+                "EN-GB">: this bar provides links to access the Online Help
+                System in each of the six official UN languages.</span>
+            </div>
+            <p class="MsoNormal">&nbsp;<span lang="EN-GB"><img style=
+            "MARGIN-LEFT: -25pt" alt="Figure 2" src=
+            "images/HelpOnHelp_0002_en.jpg" border="0"></span></p>
+            <p class="MsoNormal"><span lang=
+            "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Figure 2</span></p>
+        </li>
+        <li>
+            <p class="MsoNormal"><b><span lang="EN-GB">Navigation
+            bar</span></b><span lang="EN-GB">:</span></p>
+            <p class="MsoNormal">&nbsp;<img style="MARGIN-LEFT: -25pt" alt=
+            "Figure 3" src="images/HelpOnHelp_0003_en.jpg" border="0"></p>
+            <p class="MsoNormal"><span lang=
+            "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figure</span>
+            3</p>
+            <p class="MsoNormal">&nbsp;</p>
+            <ol>
+                <li>
+                    <div class="MsoNormal">
+                        <b><span lang="EN-GB">Hide
+                        Navigation</span></b><span lang="EN-GB">: by clicking
+                        on this icon the user can choose the navigation area
+                        (described in point 3) to be visible or not. If it is
+                        currently visible, one click on the icon will make it
+                        disappear. Another click will make it visible
+                        again.</span>
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b><span lang="EN-GB">Add to
+                        Favorites</span></b><span lang="EN-GB">: through this
+                        link the user can add topics to the list of favorite
+                        topics. Links to these topics will appear in the
+                        <b>Favorites</b> section of the navigation area. This
+                        feature is very useful to manage in one place those
+                        topics which the user reads most frequently, without
+                        the need to look them up in the table of contents, the
+                        index or the search section. You must take into account
+                        that, in order to remember the topics that you have
+                        selected as favo</span>rites, you must have the cookies
+                        enabled.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Print topic</b>: click on this icon to print the
+                        topic displayed in the information pane.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Quick Search</b>: to search for parts of words or
+                        whole words in the topic shown in the information pane,
+                        you may enter the text in the text area and then click
+                        on the search icon. The text you searched for will
+                        appear highlighted every time it is found in the topic
+                        title, the path and the information pane.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Clear Search</b>: by clicking on this icon you can
+                        clear the highlights placed on the text by a previous
+                        use of the Quick Search feature. Notice that the text
+                        that you entered in the text area will remain there, in
+                        case you want to redo the search.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Back/Forward</b>: while you are navigating through
+                        the topics, the Online Help System will remember the
+                        order in which you visited them and allow you to move
+                        back and forward through the pages. This way you can
+                        easily access the topics you are working with, without
+                        having to look for them again in the table of contents,
+                        the index or the search section.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Refresh</b>: by clicking on this icon the user can
+                        refresh the topic as if you entered the page for the
+                        first time. Please notice that if a search had been
+                        made, the highlighted text will be cleared.
+                    </div>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Home</b>: this icon changes the current page to the
+                        home page, corresponding to the “BCH Central Portal
+                        Online Help” topic which is the first entry in the
+                        table of contents.
+                    </div>
+                </li>
+            </ol>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Navigation area</b>: the navigation area provides different
+                ways of accessing the topics contained in the Online Help
+                System. The way in which topics are looked for depends on the
+                selected section. The possible sections are:&nbsp;
+            </div>
+            <ol>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Table of Contents</b>: by selecting the table of
+                        contents, the help topics will be shown in the
+                        navigation area hierarchically arranged. The user can
+                        navigate through the topic hierarchy as wanted; this
+                        way the navigation turns very intuitive as the user
+                        looks into organized information. Clicking on a topic
+                        will load the topic’s content in the information pane
+                        and display its subtopics, if any, in the table of
+                        contents. The topic which content is currently
+                        displayed in the information pane appears highlighted
+                        in green in the table of contents.&nbsp;Note that some
+                        entries in the table of contents are not linked to
+                        topics, but simply intended to organize other topics in
+                        the hierarchy. Clicking those entries will display the
+                        subtopics under that entry but will not show any
+                        content in the information pane nor will it change the
+                        green highlight.&nbsp;
+                    </div>
+                    <p class="MsoNormal">&nbsp;</p>
+                    <p class="MsoNormal"><img style="MARGIN-LEFT: -50pt" alt=
+                    "Figure 4" src="images/HelpOnHelp_0004_en.jpg" border=
+                    "0"></p>
+                    <p class="MsoNormal"><span lang="EN-GB">&nbsp;
+                    Figure</span> 4</p>
+                    <p class="MsoNormal">&nbsp;</p>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Index</b>: when the index section is selected,
+                        appears a list with every topic contained in the Online
+                        Help System is displayed in the navigation area,
+                        ordered alphabetically. The user can then open the
+                        contents of a topic by clicking on the index entry that
+                        corresponds to the topic’s name. This navigation option
+                        is very useful if you are looking for a topic whose
+                        name you already know. Otherwise, it is recommended to
+                        navigate the topics through the table of contents.
+                    </div>
+                    <p class="MsoNormal">&nbsp;</p>
+                    <p class="MsoNormal"><img style="MARGIN-LEFT: -50pt" alt=
+                    "Figure 5" src="images/HelpOnHelp_0005_en.jpg" border=
+                    "0"></p>
+                    <p class="MsoNormal"><span lang="EN-GB">&nbsp;
+                    Figure</span> 5</p>
+                    <p class="MsoNormal">&nbsp;</p>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Search</b>: with this feature the user can search in
+                        the topics’ content for keywords. It is possible to use
+                        one keyword or combination of keywords linked by OR or
+                        AND connectors. Once the user has entered the keywords
+                        and clicked on the <b><span class=
+                        "Button">Search</span></b> button, a list of the topics
+                        which contain that combination of words will appear in
+                        the navigation area.&nbsp;For example, Searching for
+                        “organism OR gene” will display all topics found
+                        containing at least one of the two words, while
+                        searching for “organism AND gene” will display all
+                        topics found containing both words.
+                    </div>
+                    <p class="MsoListParagraph" style="MARGIN-LEFT: 72pt">
+                    &nbsp;</p>
+                    <p class="MsoNormal">&nbsp;<img style="MARGIN-LEFT: -50pt"
+                    alt="Figure 6" src="images/HelpOnHelp_0006_en.jpg" border=
+                    "0"></p>
+                    <p class="MsoNormal"><span lang=
+                    "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Figure</span> 6</p>
+                    <p class="MsoNormal">&nbsp;</p>
+                </li>
+                <li>
+                    <div class="MsoNormal">
+                        <b>Favorites</b>: the Online Help System offers the
+                        user the possibility of maintaining a list of favorite
+                        topics. Direct links to those topics will be kept in
+                        the navigation area when you select the Favorites
+                        section. Please take into account that for remembering
+                        and seeing the favorite links you have selected in a
+                        previous session you need to have the cookies enabled.
+                        Moreover, next to each of the links to favorite topics
+                        you will see a red cross. By clicking on that cross you
+                        can remove the corresponding link from the list.
+                    </div>
+                </li>
+            </ol>
+            <p class="MsoListParagraphCxSpLast" style="MARGIN-LEFT: 72pt">
+            &nbsp;</p>
+            <p class="MsoNormal">&nbsp;<img style="MARGIN-LEFT: -20pt" alt=
+            "Figure 7" src="images/HelpOnHelp_0007_en.jpg" border="0"></p>
+            <p class="MsoNormal"><span lang=
+            "EN-GB">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            Figure</span> 7</p>
+            <p class="MsoNormal">&nbsp;&nbsp;</p>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Title bar</b>: in this bar the user will see, first of all,
+                the main title of the Online Help System (<b>BCH Central Portal
+                Online Help</b>). The second line displays the name of the
+                topic currently shown in the information pane. If the topic
+                contains links to other topics in its “see also” section, a
+                third line is shown providing a link to that section of the
+                topic.
+            </div>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Path</b>: this bar shows the current position in the global
+                hierarchy of the Online Help System, composed by the path in
+                the table of contents to reach the current topic. Besides, a
+                link to each of the intermediate entries is provided.
+            </div>
+        </li>
+        <li>
+            <div class="MsoNormal">
+                <b>Information pane</b>: in this pane it is shown the content
+                of the topic currently selected. At the bottom it may include a
+                list of see also links for further reading on related
+                topics.&nbsp;&nbsp;
+            </div>
+        </li>
+    </ol>
+</div>]]></data>
+            </s>
+        </t>
     </topics>
     <glossaryitems/>
     <nodes>
         <n key="{64325765-7609-4DE9-89A2-41E74E901DC9}">
             <ct m="24/07/2008 10:24:24">Центральный портал МПБ</ct>
         </n>
-        <n key="{58740A2D-8730-4067-8558-B0495B109EA1}">
-            <ct m="31/07/2008 13:00:34">Поиск информации</ct>
-        </n>
     </nodes>
     <manifests>
         <manifest k="{D9A26255-732F-41FE-BEC6-D53AAB7CA036}">
             <title m="11/07/2008 10:13:14">Введение в Картахенский протоколпо биобезопасности</title>
             <headerhtml m="11/07/2008 10:28:48"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="23/07/2008 13:30:29"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">ЮНЕП-ГЭФ проект по МПБ</div>]]></footerhtml>
+            <footerhtml m="19/02/2010 11:59:49"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="11/07/2008 10:29:10"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="11/07/2008 10:28:30">ЮНЭП-ГЭФ</creator>
         </manifest>
         <manifest k="{6A87D3C8-8BFE-4A81-926D-98A7DB5518D8}">
             <title m="11/07/2008 10:13:14">Введение в Картахенский протоколпо биобезопасности</title>
             <headerhtml m="11/07/2008 10:28:48"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="23/07/2008 14:53:24"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">ЮНЕП-ГЭФ проект по МПБ</div>]]></footerhtml>
+            <footerhtml m="17/02/2010 11:27:22"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="11/07/2008 10:29:10"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="11/07/2008 10:28:30">ЮНЭП-ГЭФ</creator>
         </manifest>
         <manifest k="{69848052-7686-4BE2-BB2E-19E9059EC004}">
             <title m="15/07/2008 13:54:21">Навигация по Центральному порталу МПБ</title>
             <headerhtml m="11/07/2008 10:28:48"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="23/07/2008 16:25:09"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">ЮНЕП-ГЭФ проект по МПБ</div>]]></footerhtml>
+            <footerhtml m="17/02/2010 11:28:26"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="11/07/2008 10:29:10"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="11/07/2008 10:28:30">ЮНЭП-ГЭФ</creator>
         </manifest>
@@ -5229,7 +5466,7 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         <manifest k="{4567DB12-E3E6-426D-AC46-6A38A0790332}">
             <title m="25/07/2008 11:29:27">Поиск информации в Центральном портале МПБ</title>
             <headerhtml m="11/07/2008 10:28:48"><![CDATA[<div class="marginblockleftstyle" style="background-color: #b9d059; height: 30px; float: left; margin-right: 3px; margin-left: -6px;"></div><div style="font-family: Trebuchet MS; font-size: 10pt;">%%BookletTitle%%</div>]]></headerhtml>
-            <footerhtml m="25/07/2008 12:19:18"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt;"">ЮНЕП-ГЭФ проект по МПБ</div>]]></footerhtml>
+            <footerhtml m="16/03/2010 12:46:12"><![CDATA[<div style="float: left; font-family: Trebuchet MS; font-size: 10pt;"><SPAN class=hfPage><%PAGE%></SPAN></div>]]></footerhtml>
             <oddheaderhtml m="11/07/2008 10:29:10"><![CDATA[<div class="marginblockrightstyle" style="float: right; background-color : #b9d059; height: 30px;"></div><div style="float: right; font-family: Trebuchet MS; font-size: 10pt; margin-right: 6px;">%%BookletTitle%%</div>]]></oddheaderhtml>
             <creator m="11/07/2008 10:28:30">ЮНЭП-ГЭФ</creator>
         </manifest>
@@ -5261,24 +5498,37 @@ name="_ftnref2"><span class="MsoFootnoteReference"><span class=
         </BuildProfile>
     </buildprofiles>
     <tpv name="CopyrightNotice">
-        <pv m="04/06/2008 11:27:20"><![CDATA[<p class="MsoNormal"><span lang="RU"><b>Воспроизведение</b></span></p> <br><br><p class="MsoNormal"><span lang="RU">Содержание настоящей публикации можетвоспроизводиться полностью или по частям, в любой форме в образовательных целяхи без извлечения прибыли, без специального разрешения владельца авторских правпри условии сообщения источника. ЮНЕП выражает признательность запредоставление копии любой публикации, которая использует настоящее издание вкачестве источника. Данное издание не подлежит перепродаже или, какому бы нибыло использованию в иных целях без предварительного разрешения ЮНЕП вписьменной форме. Использование информации с данного вебсайта в целяхпатентования продукции для публикации или рекламы запрещено.</span></p> <br><br><p class="MsoNormal"><span lang="RU"><b>Отказ отответственности</b></span></p> <br><br><p class="MsoNormal"><span lang="RU">Содержание и</span><span style="" lang="RU">взгляды, выраженные наданном вебсайте, не обязательно отражают мнение или политику поддерживающихорганизаций или Программы ООН по окружающей среде (ЮНЕП), и не подразумеваюткакого-либо одобрения. Используемые обозначения и презентация материала наданном вебсайте не подразумевают выражение какого-либо мнения со стороны ЮНЕП вотношении юридического статуса какой-либо страны, территории или города, илисоответствующих властей, или в отношении определения ее границ и пограничныхтерриторий. Упоминание коммерческих компаний или продукции в данной публикациине подразумевает одобрение со стороны ЮНЕП.</span></p>]]></pv>
+        <pv m="04/06/2008 11:27:20"><![CDATA[<p class="MsoNormal"><span lang="RU"><b>Воспроизведение</b></span></p> <br>
+<br>
+<p class="MsoNormal"><span lang="RU">Содержание настоящей публикации может
+воспроизводиться полностью или по частям, в любой форме в образовательных целях
+и без извлечения прибыли, без специального разрешения владельца авторских прав
+при условии сообщения источника. ЮНЕП выражает признательность за
+предоставление копии любой публикации, которая использует настоящее издание в
+качестве источника. Данное издание не подлежит перепродаже или, какому бы ни
+было использованию в иных целях без предварительного разрешения ЮНЕП в
+письменной форме. Использование информации с данного вебсайта в целях
+патентования продукции для публикации или рекламы запрещено.
+</span></p> <br>
+<br>
+<p class="MsoNormal"><span lang="RU"><b>Отказ от
+ответственности</b></span></p> <br>
+<br>
+<p class="MsoNormal"><span lang="RU">Содержание и
+</span><span style="" lang="RU">взгляды, выраженные на
+данном вебсайте, не обязательно отражают мнение или политику поддерживающих
+организаций или Программы ООН по окружающей среде (ЮНЕП), и не подразумевают
+какого-либо одобрения. Используемые обозначения и презентация материала на
+данном вебсайте не подразумевают выражение какого-либо мнения со стороны ЮНЕП в
+отношении юридического статуса какой-либо страны, территории или города, или
+соответствующих властей, или в отношении определения ее границ и пограничных
+территорий. Упоминание коммерческих компаний или продукции в данной публикации
+не подразумевает одобрение со стороны ЮНЕП.</span></p>]]></pv>
     </tpv>
     <tpv name="NonScrollingPageFooter">
         <pv m="04/06/2008 11:27:42"><![CDATA[<b>© ЮНЭП-ГЭФ, 2008<b>]]></pv>
     </tpv>
-    <tpv name="GEFLogoPath">
-        <pv m="04/06/2008 11:27:57"><![CDATA[<img src="images/gefen.png">]]></pv>
-    </tpv>
-    <tpv name="SCBDLogoPath">
-        <pv m="04/06/2008 11:27:47"><![CDATA[<img src="images/scbden.png">]]></pv>
-    </tpv>
-    <tpv name="UNEPLogoPath">
-        <pv m="04/06/2008 11:28:15"><![CDATA[<img src="images/unepen.png">]]></pv>
-    </tpv>
     <tpv name="BCHLogoPath">
         <pv m="04/06/2008 11:28:05"><![CDATA[<img src="images/bchen.jpg">]]></pv>
-    </tpv>
-    <tpv name="LanguageDirectories">
-        <pv m="04/06/2008 11:27:53">ar,zh,en,fr,ru,es</pv>
     </tpv>
 </HSProjectLocalization>
