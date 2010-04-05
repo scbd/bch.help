@@ -203,5 +203,5 @@ function removeAllHighlights(targetDocument)
 	// This process may have resulted in multiple contiguous text nodes
 	//  which could cause problems with subsequent search highlight operations
 	// So we join any continguous text nodes here
-	cleanUpTextNodes(document.body);
+	cleanUpTextNodes(targetDocument.body);
 }
