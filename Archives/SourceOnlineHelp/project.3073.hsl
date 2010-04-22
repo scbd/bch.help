@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="3073" Version="3.0.200" SaveDateTime="19/03/2010 13:30:02" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Arabic">
+<HSProjectLocalization LocaleId="3073" Version="3.0.200" SaveDateTime="21/04/2010 15:31:06" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Arabic">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -1666,16 +1666,6 @@ GO</span></b></font></p>
 <P></P>]]></data>
             </s>
         </t>
-        <t key="{93D36E2B-C227-454F-9899-AC6D62344277}">
-            <title m="09/06/2008 10:51:44">المؤتمرات المباشرة باستخدام الإنترنت</title>
-            <s key="BodyText">
-                <data m="10/06/2008 17:17:29"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3>تعرض صفحة</FONT></SPAN> <SPAN><STRONG><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-ansi-font-weight: normal; mso-bidi-font-weight: bold"><FONT face=Arial color=#339966>المؤتمرات المباشرة</FONT></SPAN></STRONG></SPAN> <SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3>باستخدام الإنترنت تفاصيل المؤتمرات المباشرة الحالية وتعرض سبيل نفاذ المستعمِل إلى هذه المؤتمرات. وتُنظّم هذه المؤتمرات لإتاحة منابر للمناقشة والتشاور أمام الأطراف والعناصر المؤثّرة المعنية بشأن جوانب محدَّدة في البروتوكول وتنفيذه.</FONT></SPAN></P>
-<P class=MsoNormal align=center>&nbsp;</P>
-<P class=MsoNormal align=center><IMG alt="" src="images/MO03_0053.jpg" border=0></P>
-<P class=MsoNormal align=center>صورة 53</P></DIV>]]></data>
-            </s>
-        </t>
         <t key="{66BDE9D1-98E8-4031-B869-E0902F6EB38A}">
             <title m="09/06/2008 10:52:47">خريطة الموقع</title>
             <s key="BodyText">
@@ -1719,56 +1709,6 @@ GO</span></b></font></p>
 <P></P>
 <P class=MsoNormal align=center>صورة 57</P>
 <P></P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{3718C4A4-6721-4D52-8696-2FFD6381AAF1}">
-            <title m="09/06/2008 11:04:06">الأسئلة المكرر طرحها</title>
-            <s key="BodyText">
-                <data m="10/06/2008 15:46:50"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3>تتضمَّن صفحة</FONT></SPAN> <FONT face=Arial><SPAN class=BCHCentralPortalPageTitleChar><SPAN lang=AR-SA style="FONT-SIZE: 14pt; mso-bidi-font-weight: bold"><STRONG><FONT color=#339966>الأسئلة المكرر طرحها</FONT></STRONG></SPAN></SPAN> <SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3>الإجابات على الأسئلة التي يشيع طرحها بشأن غرفة تبادل معلومات السلامة الأحيائية. وتعرض الإجابات وصلات إلى المقالات بشأن البروتوكول ولتوسيع نطاق المعلومات المتاحة بشأن البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية.</FONT></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><FONT face=Arial><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3></FONT></SPAN></FONT>&nbsp;</P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0058.jpg" border=0></P>
-<P class=MsoNormal align=center>صورة 58&nbsp;</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{4E925158-DA6A-4707-A832-6BF52A676869}">
-            <title m="09/06/2008 11:05:18">الوحدات النموذجية للتدريب</title>
-            <s key="BodyText">
-                <data m="10/06/2008 15:47:06"><![CDATA[<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3>ُعدَّت <I>الوحدات النموذجية للتدريب</I> الخاصة بغرفة تبادل معلومات السلامة الأحيائية في إطار مشروع برنامج الأمم المتحدة للبيئة ومرفق البيئة العالمي بشأن غرفة تبادل معلومات السلامة الأحيائية، بالتعاون مع معهد الأمم المتحدة للتدريب والبحث وأمانة اتفاقية التنوّع البيولوجي. وقام خبراء مشهورون عالمياً في الميدان بعرض واستعراض محتويات المشروع. </FONT></SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0059.jpg" border=0></P>
-<P class=MsoNormal align=center>صورة 59</P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3>والوحدات النموذجية للتدريب معروضة بثلاثة أشكال:</FONT></SPAN></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 136.35pt; mso-list: l0 level1 lfo2"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">1.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">الوحدات النموذجية للتدريب الخاصة بغرفة تبادل معلومات السلامة الأحيائية؛</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 136.35pt; mso-list: l0 level1 lfo2"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">2.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">الوحدات النموذجية التفاعلية للتدريب الخاصة بغرفة تبادل معلومات السلامة الأحيائية؛</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 136.35pt; mso-list: l0 level1 lfo2"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">3.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">دليل حلقة العمل التدريبية المشتركة بين برنامج الأمم المتحدة للبيئة ومرفق البيئة العالمي.</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3></FONT></SPAN>&nbsp;</P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><FONT size=3><I><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">والوحدات النموذجية للتدريب</SPAN></I> <SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">الخاصة بغرفة تبادل معلومات السلامة الأحيائية عبارة عن سلسلة من خمس وحدات نموذجية تعرض مقدمة لما يلي:</SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 108.0pt; mso-list: l1 level1 lfo1"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">1.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">بروتوكول قرطاجنة للسلامة الأحيائية؛</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 108.0pt; mso-list: l1 level1 lfo1"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">2.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">غرفة تبادل معلومات السلامة الأحيائية؛</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 108.0pt; mso-list: l1 level1 lfo1"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">3.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية؛</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 108.0pt; mso-list: l1 level1 lfo1"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">4.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">إيجاد المعلومات حول البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية؛</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 1cm 0pt 0cm; DIRECTION: rtl; TEXT-INDENT: 0cm; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm list 108.0pt; mso-list: l1 level1 lfo1"><SPAN style="FONT-SIZE: 10pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: Arial; mso-bidi-font-size: 12.0pt"><SPAN style="mso-list: Ignore">5.<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</SPAN></SPAN></SPAN> <FONT size=3><SPAN dir=rtl><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">تسجيل المعلومات حول البوابة المركزية لغرفة تبادل معلومات السلامة الأحيائية.</SPAN></SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"><FONT size=3></FONT></SPAN>&nbsp;</P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm">&nbsp;</P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm">&nbsp;</P>
-<P class=MsoNormal></P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0060.jpg" border=0></P>
-<P class=MsoNormal align=center>صورة 60</P>
-<P></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><SPAN lang=AR-EG dir=rtl style="FONT-SIZE: 13pt; FONT-FAMILY: Arial; mso-bidi-language: AR-EG; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: EN-US; mso-ansi-language: EN-US"><FONT size=3><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">وقد صُمِّمت <I>الوحدات النموذجية التفاعلية للتدريب</I> الخاصة بتبادل معلومات السلامة الأحيائية لكي تُستخدم بالاقتران مع دليل التدريب الخاص ببرنامج الأمم المتحدة للبيئة ومرفق البيئة العالمي لتدريب المشاركين أثناء انعقاد حلقة عمل.</SPAN></FONT></SPAN></P>]]></data>
-            </s>
-        </t>
-        <t key="{86C55162-4E97-4734-9968-40BF47C26EDE}">
-            <title m="09/06/2008 11:11:57">دليل إرشادي لغرفة تبادل معلومات السلامة الأحيائية</title>
-            <s key="BodyText">
-                <data m="10/06/2008 15:46:51"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><FONT size=3><I><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">الدليل الإرشادي لغرفة تبادل معلومات السلامة الأحيائية</SPAN></I> <SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG">عبارة عن كتيِّب مختصر يعرض المهام الوظيفية لغرفة التبادل هذه.</SPAN></FONT></P>
-<P class=MsoNormal dir=rtl style="TEXT-JUSTIFY: kashida; MARGIN: 0cm 0cm 0pt; DIRECTION: rtl; unicode-bidi: embed; TEXT-KASHIDA: 0%; tab-stops: 1.0cm 2.0cm"><FONT size=3><SPAN lang=AR-EG style="FONT-FAMILY: Arial; mso-ansi-font-size: 10.0pt; mso-bidi-language: AR-EG"></SPAN></FONT>&nbsp;</P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0061.jpg" border=0></P>
-<BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
-<BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
-<BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
-<P class=MsoNormal align=left>صورة 61</P></BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE></DIV>]]></data>
             </s>
         </t>
         <t key="{B0D5844C-F521-4AAC-9E7A-D6E30FE1031C}">

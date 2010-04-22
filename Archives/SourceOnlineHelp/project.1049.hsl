@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1049" Version="3.0.200" SaveDateTime="19/03/2010 13:30:00" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
+<HSProjectLocalization LocaleId="1049" Version="3.0.200" SaveDateTime="21/04/2010 15:31:04" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="Russian">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -1765,16 +1765,6 @@ target="_blank">https://bch.cbd.int/about/latestadditions.shtml</a> и к нем
 <P class=MsoNormal align=center>&nbsp;Рисунок 52</P>]]></data>
             </s>
         </t>
-        <t key="{93D36E2B-C227-454F-9899-AC6D62344277}">
-            <title m="04/06/2008 10:24:38">Интернет-конференции</title>
-            <s key="BodyText">
-                <data m="04/06/2008 10:25:05"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=RU>Страница </SPAN><SPAN class=BCHCentralPortal lang=RU>Интернет-конференции</SPAN><SPAN class=HeadingsChar><SPAN lang=RU style="FONT-SIZE: 14pt"> </SPAN></SPAN><SPAN lang=RU>информирует о текущих Интернет- конференциях, организуемых Секретариатом КБР. Эти конференции проводятся для дискуссий и консультаций Сторон и заинтересованных участников по определенным аспектам Протокола и мерах по его осуществлению. </SPAN></P>
-<P class=MsoNormal align=center>&nbsp;</P>
-<P class=MsoNormal align=center><IMG alt="" src="images/MO03_0053.jpg" border=0></P>
-<P class=MsoNormal align=center>Рисунок 53</P></DIV>]]></data>
-            </s>
-        </t>
         <t key="{66BDE9D1-98E8-4031-B869-E0902F6EB38A}">
             <title m="04/06/2008 10:26:54">Схема сайта</title>
             <s key="BodyText">
@@ -1812,59 +1802,6 @@ target="_blank">https://bch.cbd.int/about/latestadditions.shtml</a> и к нем
 <P class=MsoNormal>&nbsp;</P>
 <P class=MsoNormal><IMG alt="" src="images/MO03_0057.jpg" border=0></P>
 <P class=MsoNormal align=center>Рисунок 57</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{3718C4A4-6721-4D52-8696-2FFD6381AAF1}">
-            <title m="04/06/2008 10:28:53">Часто задаваемые вопросы</title>
-            <s key="BodyText">
-                <data m="04/06/2008 10:29:55"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=RU>Страница </SPAN><SPAN class=BCHCentralPortal lang=RU>Часто задаваемые вопросы</SPAN><SPAN lang=RU> (FAQ) содержит ответы на наиболее часто задаваемые вопросы об МПБ. Ответы включают ссылки на соответствующие статьи Протокола и другую информацию Центрального портала МПБ.</SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0058.jpg" border=0></P>
-<P class=MsoNormal align=center>Рисунок 58&nbsp;</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{4E925158-DA6A-4707-A832-6BF52A676869}">
-            <title m="04/06/2008 10:30:57">Учебные модули</title>
-            <s key="BodyText">
-                <data m="24/07/2008 11:31:10"><![CDATA[<P class=MsoNormal><SPAN class=subject_section><SPAN lang=RU>Учебные модули</SPAN></SPAN><SPAN class=SubjectSectionCar><SPAN lang=RU style="FONT-WEIGHT: normal; FONT-STYLE: normal"> </SPAN></SPAN><SPAN lang=RU>были разработаны в рамках проекта ЮНЕП-ГЭФ по МПБ, при содействии Института Организации Объединенных Наций по обучению и исследованиям (ЮНИТАР/UNITAR) и Секретариатом Конвенции о биологическом разнообразии (СКБР). Данные модули были разработаны и проверены всемирно известными экспертами в этой области.</SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0059.jpg" border=0></P>
-<P class=MsoNormal align=center><SPAN lang=RU>Рисунок 59</SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=RU>На Центральном портале представлены учебные модули трех видов:</SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>1)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>обучающие модули по МПБ;</SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>2)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>интерактивные обучающие модули по МПБ;</SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>3)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>руководство ЮНЕП-ГЭФ по обучающим семинарам </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=subject_section><SPAN lang=RU>Обучающие Модули по МПБ</SPAN></SPAN><SPAN lang=RU> – это серия из пяти модулей, которые знакомят читателя с: </SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>1)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>Картахенским протоколом по биобезопасности; </SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>2)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>Механизмом посредничества по биобезопасности; </SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>3)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>Центральным порталом МПБ; </SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>4)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>системой поиска информации на Центральном портале МПБ; и</SPAN></P>
-<P class=MsoListNumber4 style="MARGIN-LEFT: 60.45pt; TEXT-INDENT: -18pt"><SPAN lang=RU>5)<SPAN style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN></SPAN><SPAN lang=RU>системой ввода информации в Центральный портал МПБ&nbsp;&nbsp; </SPAN></P>
-<P class=MsoNormal><SPAN lang=RU></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN class=SubjectSectionCar><SPAN lang=RU><SPAN class=subject_section><SPAN class=SubjectSectionCar><SPAN lang=RU>Интерактивные обучающие моду</SPAN></SPAN><SPAN lang=RU>ли</SPAN></SPAN></SPAN></SPAN><SPAN class=SubjectSectionCar><SPAN lang=RU> по МПБ</SPAN></SPAN><SPAN class=SubjectSectionCar><SPAN lang=RU> </SPAN></SPAN><SPAN lang=RU>созданы для использования в соответствии с руководством ЮНЕП-ГЭФ при обучении участников в ходе проведения семинаров. </SPAN></P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0060.jpg" border=0></P>
-<P class=MsoNormal align=center>Рисунок 60</P>
-<P class=MsoNormal><SPAN class=SubjectSectionCar><SPAN lang=RU><SPAN class=subject_section><SPAN class=SubjectSectionCar><SPAN lang=RU>Руководство ЮНЕП-ГЭФ по обучающим семинара</SPAN></SPAN><SPAN class=SubjectSectionCar><SPAN lang=RU>м</SPAN></SPAN></SPAN></SPAN></SPAN><SPAN class=SubjectSectionCar><SPAN lang=RU> </SPAN></SPAN><SPAN lang=RU>разработано таким образом, чтобы дать представление инструкторам (лекторам) о процессе обучения в целом и помочь разобраться в существе конкретных вопросов, которые надлежит охватить в ходе проведения учебных семинаров по МПБ. Комплекс обучающих модулей по проведению семинаров является пособием для организации учебных программ по МПБ. </SPAN></P>]]></data>
-            </s>
-        </t>
-        <t key="{86C55162-4E97-4734-9968-40BF47C26EDE}">
-            <title m="04/06/2008 10:34:41">Пособие по МПБ</title>
-            <s key="BodyText">
-                <data m="23/07/2008 16:20:38"><![CDATA[<div class="Section1">
-    <p class="MsoNormal"><span class="subject_section"><span lang="RU">Пособие
-    по МПБ</span></span> <span lang="RU">представляет собой небольшую брошюру,
-    которая знакомит пользователя с основными функциями МПБ.</span></p>
-    <p class="MsoNormal"><img alt="" src="images/MO03_0061.jpg" border="0"></p>
-    <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
-        <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
-            <blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
-                <p class="MsoNormal" align="left">Рисунок 61</p>
-            </blockquote>
-        </blockquote>
-    </blockquote>
-</div>
-<P style="PAGE-BREAK-AFTER: always">&nbsp;</P>]]></data>
             </s>
         </t>
         <t key="{B0D5844C-F521-4AAC-9E7A-D6E30FE1031C}">

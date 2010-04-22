@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<HSProjectLocalization LocaleId="1036" Version="3.0.200" SaveDateTime="19/03/2010 13:23:29" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
+<HSProjectLocalization LocaleId="1036" Version="3.0.200" SaveDateTime="21/04/2010 15:27:17" ProjectFileName="D:\BCHHelpSystemUpdate_Qualisys\BCH_HelpSystemUpdate\Fuentes\SourceOnlineHelp\project.hsp" ExportDateTime="30/12/1899 00:00:00" Dictionary="" PhraseLanguage="French">
     <notes/>
     <projecttitle/>
     <topiccategories/>
@@ -1672,19 +1672,6 @@ omissions à la connaissance du Secrétariat.&nbsp;</span>&nbsp;</span></p>
 <P class=MsoNormal align=center>&nbsp;Figure 52</P>]]></data>
             </s>
         </t>
-        <t key="{93D36E2B-C227-454F-9899-AC6D62344277}">
-            <title m="05/03/2008 14:07:46">Conférences en ligne</title>
-            <s key="BodyText">
-                <data m="26/05/2008 11:21:46"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal>
-<P class=MsoNormal><SPAN lang=FR></SPAN></P>
-<P class=MsoNormal style="MARGIN-LEFT: 7.1pt; TEXT-INDENT: -7.1pt"><SPAN lang=FR></SPAN></P><SPAN lang=FR></SPAN><SPAN lang=FR>La page </SPAN><SPAN class=BCHCentralPortal lang=FR>Conférences en ligne</SPAN><SPAN lang=FR> fournit l’accès aux conférences en ligne en cours gérées par le Secrétariat. Ces conférences sont organisées pour encourager le débat et fournir des plateformes de consultation pour les Parties et pour des parties intéressées sur des aspects spécifiques du Protocole et sa mise en œuvre.&nbsp;</SPAN>&nbsp; 
-<P></P>
-<P class=MsoNormal align=center>&nbsp;</P>
-<P class=MsoNormal align=center><IMG alt="" src="images/MO03_0053.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 53</P></DIV>]]></data>
-            </s>
-        </t>
         <t key="{66BDE9D1-98E8-4031-B869-E0902F6EB38A}">
             <title m="05/03/2008 14:11:17">Carte du site</title>
             <s key="BodyText">
@@ -1719,64 +1706,6 @@ omissions à la connaissance du Secrétariat.&nbsp;</span>&nbsp;</span></p>
 <P class=MsoNormal align=center>Figure 56</P>
 <P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0057.jpg" border=0></P>
 <P class=MsoNormal align=center>Figure 57</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{3718C4A4-6721-4D52-8696-2FFD6381AAF1}">
-            <title m="05/03/2008 14:13:54">FAQ</title>
-            <s key="BodyText">
-                <data m="30/05/2008 12:46:04"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=FR>La page des </SPAN><SPAN class=BCHCentralPortal lang=FR>Questions fréquemment posées</SPAN><SPAN lang=FR> (<B>FAQ</B>) liste les réponses à des questions posées couramment sur le CEPRB. Les réponses fournissent des liens vers des articles du Protocole et vers d’autres informations disponibles sur le Portail Central du CEPRB.</SPAN></P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0058.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 58&nbsp;</P>
-<P class=MsoNormal>&nbsp;</P></DIV>]]></data>
-            </s>
-        </t>
-        <t key="{4E925158-DA6A-4707-A832-6BF52A676869}">
-            <title m="05/03/2008 14:19:49">Modules de formation</title>
-            <s key="BodyText">
-                <data m="26/05/2008 11:27:02"><![CDATA[<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>Les </SPAN><SPAN class=subject_section><SPAN lang=FR>Modules de formation</SPAN></SPAN><SPAN lang=FR> du CEPRB ont été développés selon le projet du CEPRB du PNUE-FEM, en collaboration avec l’Institut des Nations Unies pour la Formation et la Recherche (UNITAR) et le Secrétariat de la Convention sur la Diversité Biologique (SCDB). Le contenu a été fourni et analysé par des experts mondialement connus dans ce domaine. </SPAN></SPAN></P>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal>&nbsp;<IMG alt="" src="images/MO03_0059.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 59</P><SPAN lang=FR>
-<P class=MsoNormal><SPAN lang=FR>Les Modules de formation sont fournis sous trois formats&nbsp;:&nbsp; </SPAN></P>
-<OL>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Les Modules de formation du CEPRB&nbsp;;</SPAN></DIV></LI>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Les Modules de formation Interactifs du CEPRB&nbsp;;</SPAN></DIV></LI>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Le Manuel de l’Atelier de Formation du PNUE-FEM</SPAN></DIV></LI></OL>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=FR>Les </SPAN><SPAN class=subject_section><SPAN lang=FR>Modules de formation du CEPRB</SPAN></SPAN><SPAN lang=FR> consistent en cinq modules qui présentent une introduction à&nbsp;: </SPAN></P>
-<OL>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Le Protocole de Cartagena sur la Prévention des Risques Biotechnologiques&nbsp;;</SPAN></DIV></LI>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Le Centre d’échange pour la Prévention des Risques Biotechnologiques&nbsp;;</SPAN></DIV></LI>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Le Portail Central du CEPRB&nbsp;;</SPAN></DIV></LI>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Trouver l’information sur le Portail Central du CEPRB&nbsp;;</SPAN></DIV></LI>
-<LI>
-<DIV class=MsoListNumber4><SPAN lang=FR>Enregistrer des données sur le Portail Central du CEPRB</SPAN></DIV></LI></OL>
-<P class=MsoNormal><SPAN lang=FR></SPAN>&nbsp;</P>
-<P class=MsoNormal><SPAN lang=FR>Les </SPAN><SPAN class=SubjectSectionChar><SPAN lang=FR><SPAN class=subject_section><SPAN class=SubjectSectionChar><SPAN lang=FR>Modules de formation interactifs du CEPRB</SPAN></SPAN></SPAN> </SPAN></SPAN><SPAN lang=FR>ont été conçus pour être utilisés conjointement avec le manuel de formation du PNUE-FEM pour former les participants pendant les ateliers. </SPAN></P></SPAN>
-<P class=MsoNormal>&nbsp;</P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0060.jpg" border=0></P>
-<P class=MsoNormal align=center>Figure 60</P>
-<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>Le </SPAN><SPAN class=subject_section><SPAN lang=FR>Manuel de l’atelier de formation du PNUE-FEM</SPAN></SPAN><SPAN lang=FR> est conçu pour donner aux formateurs une vue d’ensemble de tout le processus de formation et pour leur offrir une aperçu de certains des domaines qui devraient être traités pendant les ateliers de formation du CEPRB. Le module complet de l’atelier de formation en ligne fournit des directives sur la gestion du programme de formation du CEPRB. </SPAN></SPAN></P>]]></data>
-            </s>
-        </t>
-        <t key="{86C55162-4E97-4734-9968-40BF47C26EDE}">
-            <title m="05/03/2008 14:20:49">Guide du CEPRB</title>
-            <s key="BodyText">
-                <data m="26/05/2008 11:28:40"><![CDATA[<DIV class=Section1>
-<P class=MsoNormal><SPAN lang=FR><SPAN lang=FR>Le </SPAN><SPAN class=subject_section><SPAN lang=FR>Guide du CEPRB</SPAN></SPAN><SPAN lang=FR> est une petite brochure en format PDF qui présente les fonctions du CEPRB. </SPAN></SPAN></P>
-<P class=MsoNormal><IMG alt="" src="images/MO03_0061.jpg" border=0></P>
-<BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
-<BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
-<BLOCKQUOTE dir=ltr style="MARGIN-RIGHT: 0px">
-<P class=MsoNormal align=left>Figure 61</P></BLOCKQUOTE></BLOCKQUOTE></BLOCKQUOTE></DIV>]]></data>
             </s>
         </t>
         <t key="{B0D5844C-F521-4AAC-9E7A-D6E30FE1031C}">
