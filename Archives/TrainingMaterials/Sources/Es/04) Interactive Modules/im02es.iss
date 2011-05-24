@@ -27,15 +27,15 @@ DefaultGroupName={#InstallRoot}\{#MyAppSinTildes}
 OutputBaseFilename=IM02Es
 Compression=lzma
 SolidCompression=true
-OutputDir=E:\IMInstaller\Compiled
+OutputDir=Compiled
 AlwaysUsePersonalGroup=true
-WizardImageFile=C:\Documents and Settings\Usuario\My Documents\My Pictures\imagencostado.bmp
-WizardSmallImageFile=C:\Documents and Settings\Usuario\My Documents\My Pictures\miniimagen.bmp
+WizardImageFile=imagencostado.bmp
+WizardSmallImageFile=miniimagen.bmp
 DisableDirPage=true
 EnableDirDoesntExistWarning=true
 DisableProgramGroupPage=true
 RestartIfNeededByRun=false
-LicenseFile=E:\IMInstaller\DisclaimerEs.rtf
+LicenseFile=DisclaimerEs.rtf
 
 [Languages]
 Name: spanish; MessagesFile: compiler:Languages\Spanish.isl
@@ -44,9 +44,9 @@ Name: spanish; MessagesFile: compiler:Languages\Spanish.isl
 Name: desktopicon; Description: {cm:CreateDesktopIcon}; GroupDescription: {cm:AdditionalIcons}; Languages: 
 
 [Files]
-Source: ..\..\Files\es\IM02Es_Introduccion_al_Centro_de_Intercambio_obre_Seguridad_en_la_Biotecnologia\*; DestDir: {app}; Flags: ignoreversion recursesubdirs createallsubdirs
+Source: Files2\*; DestDir: {app}; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
-Source: C:\Documents and Settings\Usuario\Desktop\install_flash_player_active_x.exe; DestDir: {app}
+Source: install_flash_player_active_x.exe; DestDir: {app}
 
 [Icons]
 Name: {group}\{#MyAppName}; Filename: {app}\{#MyAppExeName}
@@ -54,5 +54,5 @@ Name: {group}\{cm:UninstallProgram,{#MyAppName}}; Filename: {uninstallexe}
 Name: {commondesktop}\{#MyAppName}; Filename: {app}\{#MyAppExeName}; Tasks: desktopicon
 
 [Run]
-Filename: {app}\{#MyAppExeName}; Description: {cm:LaunchProgram,{#MyAppName}}; Flags: nowait postinstall skipifsilent
+Filename: {app}\{#MyAppExeName}; Description: {cm:LaunchProgram,{#MyAppName}}; Flags: nowait postinstall runascurrentuser skipifsilent
 Filename: {app}\install_flash_player_active_x.exe; Parameters: /s; StatusMsg: Instalando Flash Player...
