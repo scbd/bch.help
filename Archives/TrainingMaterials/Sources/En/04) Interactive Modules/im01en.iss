@@ -9,7 +9,7 @@ AppId={{E2DA5D61-FCD6-4D73-9443-3CD32C691FAC}
 AppName=Introduction to the Cartagena Protocol on Biosafety
 AppVerName=Introduction to the Cartagena Protocol on Biosafety
 AppPublisher=UNEP-GEF
-DefaultDirName={pf}\UNEP-GEF Training\Introduction to the Cartagena Protocol on Biosafety
+DefaultDirName={localappdata}\UNEP-GEF Training\Introduction to the Cartagena Protocol on Biosafety
 DefaultGroupName=UNEP-GEF Training\Introduction to the Cartagena Protocol on Biosafety
 OutputBaseFilename=IM01En
 Compression=lzma
@@ -23,23 +23,25 @@ EnableDirDoesntExistWarning=true
 DisableProgramGroupPage=true
 RestartIfNeededByRun=false
 LicenseFile=Disclaimer.rtf
+PrivilegesRequired=lowest
 
 [Languages]
 Name: english; MessagesFile: en.isl
 
 [Tasks]
-Name: desktopicon; Description: {cm:CreateDesktopIcon}; GroupDescription: {cm:AdditionalIcons}; Languages: 
+Name: desktopicon; Description: {cm:CreateDesktopIcon}; GroupDescription: {cm:AdditionalIcons};  
 
 [Files]
 Source: Files1\*; DestDir: {app}; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
-Source: install_flash_player_active_x.exe; DestDir: {app}
+;Source: install_flash_player_active_x.exe; DestDir: {app}
 
 [Icons]
-Name: {group}\Introduction to the Cartagena Protocol on Biosafety; Filename: {app}\pilot_user1_1.exe
+Name: {group}\Introduction to the Cartagena Protocol on Biosafety; Filename: {app}\flashplayer_10_sa.exe; Parameters: "pilot_user1_1.swf"; Flags: runmaximized; IconFilename: {app}\BCH_ICON.ico;
 Name: {group}\{cm:UninstallProgram,Introduction to the Cartagena Protocol on Biosafety}; Filename: {uninstallexe}
-Name: {commondesktop}\Introduction to the Cartagena Protocol on Biosafety; Filename: {app}\pilot_user1_1.exe; Tasks: desktopicon
+Name: {userdesktop}\Introduction to the Cartagena Protocol on Biosafety; Filename: {app}\flashplayer_10_sa.exe; Parameters: "pilot_user1_1.swf"; Flags: runmaximized; Tasks: desktopicon; IconFilename: {app}\BCH_ICON.ico;
 
 [Run]
-Filename: {app}\pilot_user1_1.exe; Description: {cm:LaunchProgram,Introduction to the Cartagena Protocol on Biosafety}; Flags: nowait postinstall runascurrentuser skipifsilent
-Filename: {app}\install_flash_player_active_x.exe; Parameters: /s; StatusMsg: Installing Flash Player...
+Filename: {app}\flashplayer_10_sa.exe; Parameters: "pilot_user1_1.swf"; Description: {cm:LaunchProgram,Introduction to the Cartagena Protocol on Biosafety}; Flags: runmaximized nowait postinstall runascurrentuser skipifsilent
+;Filename: {app}\pilot_user1_1.exe; Description: {cm:LaunchProgram,Introduction to the Cartagena Protocol on Biosafety}; Flags: nowait postinstall runascurrentuser skipifsilent
+;Filename: {app}\install_flash_player_active_x.exe; Parameters: /s; StatusMsg: Installing Flash Player...

@@ -9,7 +9,7 @@ AppId={{DEBEB12C-B0E6-4021-B416-F05A948A70C4}
 AppName=Introduction to the Biosafety Clearing House
 AppVerName=Introduction to the Biosafety Clearing House
 AppPublisher=UNEP-GEF
-DefaultDirName={pf}\UNEP-GEF Training\Introduction to the Biosafety Clearing House
+DefaultDirName={localappdata}\UNEP-GEF Training\Introduction to the Biosafety Clearing House
 DefaultGroupName=UNEP-GEF Training\Introduction to the Biosafety Clearing House
 OutputBaseFilename=IM02En
 Compression=lzma
@@ -23,23 +23,24 @@ EnableDirDoesntExistWarning=true
 DisableProgramGroupPage=true
 LicenseFile=Disclaimer.rtf
 RestartIfNeededByRun=false
+PrivilegesRequired=lowest
 
 [Languages]
 Name: english; MessagesFile: en.isl
 
 [Tasks]
-Name: desktopicon; Description: {cm:CreateDesktopIcon}; GroupDescription: {cm:AdditionalIcons}; Languages: 
+Name: desktopicon; Description: {cm:CreateDesktopIcon}; GroupDescription: {cm:AdditionalIcons};  
 
 [Files]
 Source: Files2\*; DestDir: {app}; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
-Source: install_flash_player_active_x.exe; DestDir: {app}
+;Source: install_flash_player_active_x.exe; DestDir: {app}
 
 [Icons]
-Name: {group}\Introduction to the Biosafety Clearing House; Filename: {app}\pilot_user1_2.exe
+Name: {group}\Introduction to the Biosafety Clearing House; Filename: {app}\flashplayer_10_sa.exe; Parameters: "pilot_user1_2.swf"; Flags: runmaximized; IconFilename: {app}\BCH_ICON.ico;
 Name: {group}\{cm:UninstallProgram,Introduction to the Biosafety Clearing House}; Filename: {uninstallexe}
-Name: {commondesktop}\Introduction to the Biosafety Clearing House; Filename: {app}\pilot_user1_2.exe; Tasks: desktopicon
+Name: {userdesktop}\Introduction to the Biosafety Clearing House; Filename: {app}\flashplayer_10_sa.exe; Parameters: "pilot_user1_2.swf"; Flags: runmaximized; Tasks: desktopicon; IconFilename: {app}\BCH_ICON.ico;
 
 [Run]
-Filename: {app}\pilot_user1_2.exe; Description: {cm:LaunchProgram,Introduction to the Biosafety Clearing House}; Flags: nowait postinstall runascurrentuser skipifsilent
-Filename: {app}\install_flash_player_active_x.exe; Parameters: /s; StatusMsg: Installing Flash Player...
+Filename: {app}\flashplayer_10_sa.exe; Parameters: "pilot_user1_2.swf"; Description: {cm:LaunchProgram,Introduction to the Biosafety Clearing House}; Flags: runmaximized nowait postinstall runascurrentuser skipifsilent
+;Filename: {app}\install_flash_player_active_x.exe; Parameters: /s; StatusMsg: Installing Flash Player...
