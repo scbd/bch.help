@@ -9,7 +9,8 @@
 #define MyAppVerName "Initiation au Protocole de Cartagena sur la Biosécurité"
 #define MyAppPublisher "PNUE-FEM"
 #define MyAppURL "moodle.unep.ch"
-#define MyAppExeName "pilot_user1_1.exe"
+#define MyAppExeName "flashplayer_10_sa.exe"
+#define MovieFile "pilot_user1_1.swf"
 
 [Setup]
 ; NOTE: The value of AppId uniquely identifies this application.
@@ -22,7 +23,7 @@ AppPublisher={#MyAppPublisher}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
-DefaultDirName={pf}\{#InstallRoot}\{#MyAppNameSinTildes}
+DefaultDirName={localappdata}\{#InstallRoot}\{#MyAppNameSinTildes}
 DefaultGroupName={#InstallRoot}\{#MyAppNameSinTildes}
 OutputBaseFilename=IM01Fr
 Compression=lzma
@@ -36,23 +37,25 @@ EnableDirDoesntExistWarning=true
 DisableProgramGroupPage=true
 RestartIfNeededByRun=false
 LicenseFile=DisclaimerFr.rtf
+PrivilegesRequired=lowest
+
 
 [Languages]
 Name: french; MessagesFile: compiler:Languages\French.isl
 
 [Tasks]
-Name: desktopicon; Description: {cm:CreateDesktopIcon}; GroupDescription: {cm:AdditionalIcons}; Languages: 
+Name: desktopicon; Description: {cm:CreateDesktopIcon}; GroupDescription: {cm:AdditionalIcons}; 
 
 [Files]
 Source: Files1\*; DestDir: {app}; Flags: ignoreversion recursesubdirs createallsubdirs
 ; NOTE: Don't use "Flags: ignoreversion" on any shared system files
-Source: install_flash_player_active_x.exe; DestDir: {app}
+;Source: install_flash_player_active_x.exe; DestDir: {app}
 
 [Icons]
-Name: {group}\{#MyAppName}; Filename: {app}\{#MyAppExeName}
+Name: {group}\{#MyAppName}; Filename: {app}\{#MyAppExeName}; Parameters: {#MovieFile}; Flags: runmaximized; IconFilename: {app}\BCH_ICON.ico;
 Name: {group}\{cm:UninstallProgram,{#MyAppName}}; Filename: {uninstallexe}
-Name: {commondesktop}\{#MyAppName}; Filename: {app}\{#MyAppExeName}; Tasks: desktopicon
+Name: {userdesktop}\{#MyAppName}; Filename: {app}\{#MyAppExeName}; Parameters: {#MovieFile}; Flags: runmaximized; Tasks: desktopicon; IconFilename: {app}\BCH_ICON.ico;
 
 [Run]
-Filename: {app}\{#MyAppExeName}; Description: {cm:LaunchProgram,{#MyAppName}}; Flags: nowait postinstall runascurrentuser skipifsilent
-Filename: {app}\install_flash_player_active_x.exe; Parameters: /s; StatusMsg: En train d'installer Flash Player...
+Filename: {app}\{#MyAppExeName}; Parameters: {#MovieFile}; Description: {cm:LaunchProgram,{#MyAppName}}; Flags: runmaximized nowait postinstall runascurrentuser skipifsilent
+;Filename: {app}\install_flash_player_active_x.exe; Parameters: /s; StatusMsg: En train d'installer Flash Player...
