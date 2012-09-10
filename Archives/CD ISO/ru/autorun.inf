@@ -1,3 +1,5 @@
-[autorun]
-OPEN=CD_Splash.exe
+[AutoRun]
+OPEN=START.exe
 icon=autorun_icon.ico
+ACTION=See BCH Materials
+LABEL=See BCH Materials
