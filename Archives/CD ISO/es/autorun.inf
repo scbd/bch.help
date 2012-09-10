@@ -1,3 +1,6 @@
-[autorun]
-OPEN=CD_Splash.exe
+
+[AutoRun]
+OPEN=EMPEZAR.exe
 icon=autorun_icon.ico
+ACTION=Ver Materiales CIISB
+LABEL=Ver Materiales CIISB
