@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en">
 <!--   @ERNESTO OCAMPO  -->
 <html>
@@ -35,7 +35,7 @@
         }
 
         function EmptyNode(node) {
-            while (node.firstChild) {
+            while (node && node.firstChild) {
                 node.removeChild(node.firstChild);
             }
         }
@@ -44,17 +44,21 @@
             // Clear previous results
             var resultContents = document.getElementById("ResultContents").getElementsByTagName("div")[0];
             EmptyNode(resultContents);
+
+            var ajaxPlaceHolder = document.getElementById("BchAjaxPluginPlaceHolder");
+            EmptyNode(ajaxPlaceHolder);
+
             
             // Get requested records
             var recType = document.getElementById("SelectRecordType").value;
             var country = document.getElementById("SelectCountry").value;
             var lang = document.getElementById("SelectLanguage").value;
-            GenerateRecords(recType, country, lang);
+            GenerateRecords(recType, country, lang, "BchAjaxPluginPlaceHolder");
 
             // Display called function:
             var noteDiv = document.getElementById("NoteFunctionCalled");
             if (noteDiv) {
-              	noteDiv.innerHTML = "&lt;script type=\"text/javascript charset=\"utf-8\" src=\"http://bch.biodiv.org/centralportal/ui/offsite/bch-offsite.js\"&gt;&lt;/script&gt;<br/>";
+              	noteDiv.innerHTML = "&lt;script type=\"text/javascript charset=\"utf-8\" src=\"https://bch.cbd.int/centralportal/ui/offsite/bch-offsite.js\"&gt;&lt;/script&gt;<br/>";
 				noteDiv.innerHTML += "&lt;script type=\"text/javascript\"&gt;<br/>";
                 noteDiv.innerHTML += "&nbsp;&nbsp;&nbsp;&nbsp;";
                 noteDiv.innerHTML += "GenerateRecords(\"" + recType + "\", \"" + country + "\", \"" + lang + "\");";
@@ -846,8 +850,10 @@
 		    <p/>
 		    
             <div id="ResultContents">
-			    <script type="text/javascript" charset="utf-8" src="http://bch.biodiv.org/centralportal/ui/offsite/bch-offsite.js"></script>
+			    <script type="text/javascript" charset="utf-8" src="https://bch.cbd.int/centralportal/ui/offsite/bch-offsite.js"></script>
 		    </div>
+
+			<div id="BchAjaxPluginPlaceHolder"></div>
 		
           </div>
 	  
